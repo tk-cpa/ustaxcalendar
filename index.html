@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>US Tax Calendar - Federal &amp; State Filing Deadlines</title>
+<meta name="description" content="Interactive calendar of US federal and state tax filing deadlines - 1040, 1120, 1065, 941, 940, 1099s, 720, 2290, 3520, FBAR, and state income tax due dates, all in one place.">
+<link rel="canonical" href="https://ustaxcalendar.com/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --coral:#F65F5A;
+    --ink:#111111;
+    --paper:#FAFAF7;
+    --line:#e7e3da;
+    --muted:#6b6558;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;background:var(--paper);color:var(--ink);font-family:'Inter',sans-serif;}
+  h1,h2,h3,.brand,.nav-item,.cell-date{font-family:'Oswald',sans-serif;}
+  a{color:inherit;}
+  .nav{position:sticky;top:0;z-index:20;background:var(--paper);border-bottom:2px solid var(--ink);display:flex;align-items:center;justify-content:space-between;padding:14px 20px;}
+  .brand{font-size:20px;font-weight:700;letter-spacing:0.5px;text-decoration:none;}
+  .brand span{color:var(--coral);}
+  .cta{background:var(--ink);color:var(--paper);padding:8px 16px;border-radius:4px;text-decoration:none;font-size:13px;font-weight:600;}
+  .hero{background:var(--ink);color:var(--paper);padding:36px 20px 28px;}
+  .hero-inner{max-width:1100px;margin:0 auto;}
+  .hero h1{font-size:clamp(28px,4vw,42px);margin:0 0 8px;}
+  .hero p{color:#cfc9bd;margin:0;font-size:15px;max-width:640px;}
+  .slogan{display:inline-block;margin-top:14px;font-family:'Courier New',monospace;font-size:13px;background:var(--coral);color:var(--ink);padding:4px 10px;border-radius:3px;font-weight:700;}
+  .wrap{max-width:1100px;margin:0 auto;padding:24px 20px 60px;}
+  .controls{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:18px;background:#fff;border:1px solid var(--line);border-radius:8px;padding:14px;}
+  .controls select, .controls input{font-family:'Inter',sans-serif;font-size:14px;padding:8px 10px;border:1px solid var(--line);border-radius:6px;background:var(--paper);}
+  .controls select{min-width:170px;}
+  .controls input[type=search]{flex:1;min-width:180px;}
+  .cal-head{display:flex;align-items:center;justify-content:space-between;margin:20px 0 10px;}
+  .cal-head button{background:var(--ink);color:var(--paper);border:none;border-radius:4px;padding:6px 12px;cursor:pointer;font-family:'Oswald',sans-serif;}
+  .cal-head h2{margin:0;font-size:22px;}
+  .grid{display:grid;grid-template-columns:repeat(7,1fr);gap:1px;background:var(--line);border:1px solid var(--line);border-radius:6px;overflow:hidden;}
+  .dow{background:var(--ink);color:var(--paper);text-align:center;padding:6px 0;font-size:11px;font-family:'Oswald',sans-serif;letter-spacing:1px;}
+  .cell{background:#fff;min-height:78px;padding:6px;font-size:12px;position:relative;}
+  .cell.empty{background:#f3f1ea;}
+  .cell-date{font-size:13px;font-weight:600;color:var(--muted);}
+  .cell.today .cell-date{color:var(--coral);}
+  .dot{display:block;margin-top:3px;background:var(--coral);color:#fff;border-radius:3px;padding:2px 4px;font-size:10.5px;line-height:1.25;cursor:pointer;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+  .dot.state{background:var(--ink);}
+  .dot:hover{opacity:0.85;}
+  .list-head{margin-top:34px;font-size:20px;}
+  table{width:100%;border-collapse:collapse;margin-top:10px;font-size:13.5px;}
+  th,td{text-align:left;padding:8px 8px;border-bottom:1px solid var(--line);vertical-align:top;}
+  th{font-family:'Oswald',sans-serif;font-size:11px;letter-spacing:0.5px;text-transform:uppercase;color:var(--muted);}
+  td.date-col{white-space:nowrap;font-weight:600;}
+  .badge{display:inline-block;font-size:10.5px;padding:2px 6px;border-radius:3px;background:#f0ede4;color:var(--ink);margin-right:4px;}
+  .badge.fed{background:var(--ink);color:#fff;}
+  .badge.open{background:#fff3cd;color:#7a5c00;}
+  .disc{max-width:1100px;margin:30px auto 10px;padding:0 20px;font-size:12px;color:var(--muted);}
+  footer{background:var(--ink);color:#cfc9bd;text-align:center;padding:22px 20px;font-size:13px;margin-top:30px;}
+  footer a{color:var(--paper);text-decoration:underline;}
+  .modal-bg{display:none;position:fixed;inset:0;background:rgba(17,17,17,0.55);z-index:50;align-items:center;justify-content:center;padding:20px;}
+  .modal{background:#fff;border-radius:10px;max-width:480px;width:100%;padding:22px;}
+  .modal h3{margin:0 0 6px;}
+  .modal .closeb{float:right;cursor:pointer;font-size:18px;background:none;border:none;}
+  .modal dl{font-size:13.5px;}
+  .modal dt{font-weight:600;margin-top:8px;color:var(--muted);font-size:11px;text-transform:uppercase;letter-spacing:0.5px;}
+  .modal dd{margin:2px 0 0;}
+  .no-results{padding:20px;text-align:center;color:var(--muted);}
+
+  .byoc{background:linear-gradient(135deg,var(--coral),#ff8f7a);border-radius:12px;padding:22px;margin:26px 0;color:#fff;}
+  .byoc h2{margin:0 0 4px;font-size:24px;}
+  .byoc p{margin:0 0 14px;font-size:14px;opacity:0.95;}
+  .byoc-grid{display:grid;grid-template-columns:1fr 1fr;gap:14px;}
+  @media (max-width:700px){.byoc-grid{grid-template-columns:1fr;}}
+  .byoc-box{background:rgba(255,255,255,0.15);border-radius:8px;padding:12px;max-height:220px;overflow-y:auto;}
+  .byoc-box label{display:block;font-size:13px;padding:3px 0;cursor:pointer;}
+  .byoc-box input{margin-right:6px;}
+  .byoc-box .grp{font-family:'Oswald',sans-serif;font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.8;margin:8px 0 2px;}
+  .byoc-actions{margin-top:16px;display:flex;flex-wrap:wrap;gap:10px;align-items:center;}
+  .byoc-btn{background:var(--ink);color:#fff;border:none;border-radius:6px;padding:12px 20px;font-family:'Oswald',sans-serif;font-size:15px;font-weight:600;cursor:pointer;letter-spacing:0.3px;}
+  .byoc-btn:hover{opacity:0.9;}
+  .byoc-count{font-size:13px;background:rgba(255,255,255,0.25);padding:6px 12px;border-radius:20px;}
+  .quick-add{display:flex;gap:8px;margin-top:10px;flex-wrap:wrap;}
+  .quick-add a{font-size:12px;background:var(--paper);border:1px solid var(--line);border-radius:5px;padding:5px 10px;text-decoration:none;color:var(--ink);}
+  .quick-add a:hover{background:var(--line);}
+</style>
+</head>
+<body>
+<nav class="nav">
+  <a class="brand" href="/">US Tax<span>Calendar</span></a>
+  <a class="cta" href="https://tk.cpa" target="_blank" rel="noopener">tk.cpa</a>
+</nav>
+
+<div class="hero">
+  <div class="hero-inner">
+    <h1>Every US tax deadline, in one calendar.</h1>
+    <p>Federal and state filing deadlines - income tax, payroll tax, excise tax, information returns, estimated payments, and international information returns - searchable and filterable by date, form, and jurisdiction.</p>
+    <span class="slogan">Building this out in public - federal core is live, all 50 states + DC individual income tax dates are live, everything else is in progress.</span>
+  </div>
+</div>
+
+<div class="wrap">
+  <div class="controls">
+    <select id="f-jurisdiction"><option value="">All jurisdictions</option></select>
+    <select id="f-category"><option value="">All categories</option></select>
+    <input type="search" id="f-search" placeholder="Search form or filer (e.g. 1099, 941, partnership)...">
+    <select id="f-year"><option value="2026">2026</option></select>
+  </div>
+
+  <div class="byoc">
+    <h2>Build your own calendar</h2>
+    <p>Check the jurisdictions and filing types that apply to you, then download them straight into Google Calendar, Outlook, or Apple Calendar - one file, every deadline that's actually yours.</p>
+    <div class="byoc-grid">
+      <div class="byoc-box" id="byoc-jur"></div>
+      <div class="byoc-box" id="byoc-cat"></div>
+    </div>
+    <div class="byoc-actions">
+      <button class="byoc-btn" id="byoc-download">Download my calendar (.ics)</button>
+      <span class="byoc-count" id="byoc-count">0 deadlines selected</span>
+    </div>
+  </div>
+
+  <div class="cal-head">
+    <button id="prev-month">&larr; Prev</button>
+    <h2 id="cal-title">Loading...</h2>
+    <button id="next-month">Next &rarr;</button>
+  </div>
+  <div class="grid" id="cal-grid"></div>
+
+  <h2 class="list-head">Matching deadlines</h2>
+  <div id="list-wrap">
+    <table>
+      <thead><tr><th>Date</th><th>Jurisdiction</th><th>Form</th><th>Filer</th></tr></thead>
+      <tbody id="list-body"></tbody>
+    </table>
+  </div>
+</div>
+
+<div class="disc">
+  <a href="/disclaimer.html">Disclaimer</a>. This is a reference tool built and maintained by <a href="https://tk.cpa" target="_blank" rel="noopener">tk.cpa</a>. Federal dates are sourced from IRS Publication 509 (2026) and current form instructions, cited per entry. State individual income tax due dates are a first-pass build sourced from a secondary aggregator and are flagged as pending independent primary-source verification against each state's own Department of Revenue - treat state dates as a starting point, not a final authority, until that verification is complete. This site is a reference tool, not tax advice; confirm any deadline against the official source cited before relying on it. An extension of time to file is not an extension of time to pay tax that is due.
+</div>
+
+<footer>
+  a tk.cpa resource - <a href="https://tk.cpa" target="_blank" rel="noopener">tk.cpa</a>
+</footer>
+
+<div class="modal-bg" id="modal-bg">
+  <div class="modal" id="modal">
+    <button class="closeb" id="modal-close">&times;</button>
+    <div id="modal-body"></div>
+  </div>
+</div>
+
+<script>
+let ALL = [];
+let viewYear = 2026, viewMonth = 3; // April (0-indexed)
+
+async function load(){
+  const [fed, states] = await Promise.all([
+    fetch('data/deadlines-federal.json').then(r=>r.json()),
+    fetch('data/deadlines-states-income-tax.json').then(r=>r.json())
+  ]);
+  ALL = [...fed, ...states.filter(s=>s.date_2026)];
+  populateFilters();
+  populateBYOC();
+  render();
+}
+
+function populateBYOC(){
+  const jurBox = document.getElementById('byoc-jur');
+  const catBox = document.getElementById('byoc-cat');
+  const jurs = [...new Set(ALL.map(d=>d.jurisdiction))].sort((a,b)=> a==='Federal'?-1 : b==='Federal'?1 : a.localeCompare(b));
+  const cats = [...new Set(ALL.map(d=>d.category))].sort();
+
+  const jGrp = document.createElement('div'); jGrp.className='grp'; jGrp.textContent='Jurisdictions'; jurBox.appendChild(jGrp);
+  jurs.forEach(j=>{
+    const lab=document.createElement('label');
+    lab.innerHTML = `<input type="checkbox" class="byoc-jur-cb" value="${j}"> ${j}`;
+    jurBox.appendChild(lab);
+  });
+
+  const cGrp = document.createElement('div'); cGrp.className='grp'; cGrp.textContent='Filing types'; catBox.appendChild(cGrp);
+  cats.forEach(c=>{
+    const lab=document.createElement('label');
+    lab.innerHTML = `<input type="checkbox" class="byoc-cat-cb" value="${c}" checked> ${c}`;
+    catBox.appendChild(lab);
+  });
+
+  document.querySelectorAll('.byoc-jur-cb, .byoc-cat-cb').forEach(cb=>{
+    cb.addEventListener('change', updateBYOCCount);
+  });
+  // default: Federal checked
+  const fed = jurBox.querySelector('input[value="Federal"]');
+  if(fed) fed.checked = true;
+  updateBYOCCount();
+
+  document.getElementById('byoc-download').addEventListener('click', downloadICS);
+}
+
+function getBYOCSelection(){
+  const jurs = [...document.querySelectorAll('.byoc-jur-cb:checked')].map(cb=>cb.value);
+  const cats = [...document.querySelectorAll('.byoc-cat-cb:checked')].map(cb=>cb.value);
+  return ALL.filter(d => d.date_2026 && jurs.includes(d.jurisdiction) && cats.includes(d.category));
+}
+
+function updateBYOCCount(){
+  const sel = getBYOCSelection();
+  document.getElementById('byoc-count').textContent = sel.length + " deadline" + (sel.length===1?'':'s') + " selected";
+}
+
+function icsEscape(s){
+  return (s||'').replace(/\\/g,'\\\\').replace(/;/g,'\\;').replace(/,/g,'\\,').replace(/\n/g,'\\n');
+}
+
+function buildICS(events){
+  const lines = ['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//ustaxcalendar.com//US Tax Calendar//EN','CALSCALE:GREGORIAN'];
+  events.forEach(d=>{
+    const dt = d.date_2026.replace(/-/g,'');
+    const next = new Date(d.date_2026+"T00:00:00"); next.setDate(next.getDate()+1);
+    const dtEnd = next.toISOString().slice(0,10).replace(/-/g,'');
+    const uid = d.id + "@ustaxcalendar.com";
+    const summary = icsEscape(d.jurisdiction + " - " + d.form);
+    const descParts = [d.form_name, d.rule ? "Rule: "+d.rule : "", d.description||"", "Authority: "+(d.authority||""), d.source_url||""].filter(Boolean);
+    const desc = icsEscape(descParts.join("\\n"));
+    lines.push('BEGIN:VEVENT');
+    lines.push('UID:'+uid);
+    lines.push('DTSTAMP:'+new Date().toISOString().replace(/[-:]/g,'').split('.')[0]+'Z');
+    lines.push('DTSTART;VALUE=DATE:'+dt);
+    lines.push('DTEND;VALUE=DATE:'+dtEnd);
+    lines.push('SUMMARY:'+summary);
+    lines.push('DESCRIPTION:'+desc);
+    lines.push('BEGIN:VALARM');
+    lines.push('ACTION:DISPLAY');
+    lines.push('DESCRIPTION:Reminder');
+    lines.push('TRIGGER:-P7D');
+    lines.push('END:VALARM');
+    lines.push('END:VEVENT');
+  });
+  lines.push('END:VCALENDAR');
+  return lines.join('\r\n');
+}
+
+function downloadICS(){
+  const sel = getBYOCSelection();
+  if(sel.length===0){ alert('Check at least one jurisdiction and filing type first.'); return; }
+  const ics = buildICS(sel);
+  const blob = new Blob([ics], {type:'text/calendar;charset=utf-8'});
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url; a.download = 'my-us-tax-calendar-2026.ics';
+  document.body.appendChild(a); a.click(); document.body.removeChild(a);
+  URL.revokeObjectURL(url);
+}
+
+function googleQuickAddUrl(d){
+  const dt = d.date_2026.replace(/-/g,'');
+  const next = new Date(d.date_2026+"T00:00:00"); next.setDate(next.getDate()+1);
+  const dtEnd = next.toISOString().slice(0,10).replace(/-/g,'');
+  const text = encodeURIComponent(d.jurisdiction + " - " + d.form);
+  const details = encodeURIComponent((d.form_name||'') + (d.description ? ("\n"+d.description) : ''));
+  return `https://calendar.google.com/calendar/render?action=TEMPLATE&text=${text}&dates=${dt}/${dtEnd}&details=${details}`;
+}
+
+function outlookQuickAddUrl(d){
+  const startdt = d.date_2026 + "T09:00:00";
+  const next = new Date(d.date_2026+"T00:00:00"); next.setDate(next.getDate()+1);
+  const enddt = next.toISOString().slice(0,10) + "T09:00:00";
+  const subject = encodeURIComponent(d.jurisdiction + " - " + d.form);
+  const body = encodeURIComponent((d.form_name||'') + (d.description ? ("\n"+d.description) : ''));
+  return `https://outlook.live.com/calendar/0/deeplink/compose?subject=${subject}&startdt=${startdt}&enddt=${enddt}&body=${body}&allday=true`;
+}
+
+function populateFilters(){
+  const jSel = document.getElementById('f-jurisdiction');
+  const cSel = document.getElementById('f-category');
+  const jurs = [...new Set(ALL.map(d=>d.jurisdiction))].sort();
+  const cats = [...new Set(ALL.map(d=>d.category))].sort();
+  jurs.forEach(j=>{
+    const o=document.createElement('option'); o.value=j; o.textContent=j; jSel.appendChild(o);
+  });
+  cats.forEach(c=>{
+    const o=document.createElement('option'); o.value=c; o.textContent=c; cSel.appendChild(o);
+  });
+  [jSel,cSel,document.getElementById('f-search'),document.getElementById('f-year')].forEach(el=>{
+    el.addEventListener('input', render);
+    el.addEventListener('change', render);
+  });
+  document.getElementById('prev-month').addEventListener('click', ()=>{
+    viewMonth--; if(viewMonth<0){viewMonth=11; viewYear--;} render();
+  });
+  document.getElementById('next-month').addEventListener('click', ()=>{
+    viewMonth++; if(viewMonth>11){viewMonth=0; viewYear++;} render();
+  });
+  document.getElementById('modal-close').addEventListener('click', ()=>{
+    document.getElementById('modal-bg').style.display='none';
+  });
+  document.getElementById('modal-bg').addEventListener('click', (e)=>{
+    if(e.target.id==='modal-bg') document.getElementById('modal-bg').style.display='none';
+  });
+}
+
+function getFiltered(){
+  const j = document.getElementById('f-jurisdiction').value;
+  const c = document.getElementById('f-category').value;
+  const q = document.getElementById('f-search').value.toLowerCase();
+  return ALL.filter(d=>{
+    if(j && d.jurisdiction!==j) return false;
+    if(c && d.category!==c) return false;
+    if(q && !(d.form||'').toLowerCase().includes(q) && !(d.filer||'').toLowerCase().includes(q) && !(d.form_name||'').toLowerCase().includes(q)) return false;
+    return true;
+  });
+}
+
+const MONTHS = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+
+function render(){
+  const filtered = getFiltered();
+  document.getElementById('cal-title').textContent = MONTHS[viewMonth] + " " + viewYear;
+
+  // build grid
+  const grid = document.getElementById('cal-grid');
+  grid.innerHTML = '';
+  ["Sun","Mon","Tue","Wed","Thu","Fri","Sat"].forEach(d=>{
+    const el=document.createElement('div'); el.className='dow'; el.textContent=d; grid.appendChild(el);
+  });
+  const first = new Date(viewYear, viewMonth, 1);
+  const startDow = first.getDay();
+  const daysInMonth = new Date(viewYear, viewMonth+1, 0).getDate();
+  const todayStr = new Date().toISOString().slice(0,10);
+
+  const byDate = {};
+  filtered.forEach(d=>{
+    if(!d.date_2026) return;
+    const dt = new Date(d.date_2026+"T00:00:00");
+    if(dt.getFullYear()===viewYear && dt.getMonth()===viewMonth){
+      byDate[d.date_2026] = byDate[d.date_2026] || [];
+      byDate[d.date_2026].push(d);
+    }
+  });
+
+  for(let i=0;i<startDow;i++){
+    const el=document.createElement('div'); el.className='cell empty'; grid.appendChild(el);
+  }
+  for(let day=1; day<=daysInMonth; day++){
+    const el=document.createElement('div'); el.className='cell';
+    const dateStr = viewYear+"-"+String(viewMonth+1).padStart(2,'0')+"-"+String(day).padStart(2,'0');
+    if(dateStr===todayStr) el.classList.add('today');
+    const dnum=document.createElement('div'); dnum.className='cell-date'; dnum.textContent=day; el.appendChild(dnum);
+    (byDate[dateStr]||[]).slice(0,3).forEach(d=>{
+      const dot=document.createElement('div');
+      dot.className='dot'+(d.jurisdiction!=='Federal'?' state':'');
+      dot.textContent=d.form;
+      dot.addEventListener('click', ()=>showModal(d));
+      el.appendChild(dot);
+    });
+    if((byDate[dateStr]||[]).length>3){
+      const more=document.createElement('div'); more.className='dot'; more.style.background='#ccc'; more.style.color='#111';
+      more.textContent='+'+((byDate[dateStr]||[]).length-3)+' more';
+      el.appendChild(more);
+    }
+    grid.appendChild(el);
+  }
+
+  // build list (sorted by date, all filtered results regardless of month)
+  const body = document.getElementById('list-body');
+  body.innerHTML='';
+  const sorted = [...filtered].filter(d=>d.date_2026).sort((a,b)=>a.date_2026.localeCompare(b.date_2026));
+  if(sorted.length===0){
+    body.innerHTML = '<tr><td colspan="4" class="no-results">No deadlines match these filters.</td></tr>';
+  }
+  sorted.forEach(d=>{
+    const tr=document.createElement('tr');
+    tr.style.cursor='pointer';
+    tr.addEventListener('click', ()=>showModal(d));
+    const dt = new Date(d.date_2026+"T00:00:00");
+    const dateDisp = dt.toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'});
+    const badgeClass = d.jurisdiction==='Federal' ? 'badge fed' : 'badge';
+    tr.innerHTML = `<td class="date-col">${dateDisp}</td><td><span class="${badgeClass}">${d.jurisdiction}</span></td><td>${d.form}</td><td>${d.filer||''}</td>`;
+    body.appendChild(tr);
+  });
+}
+
+function showModal(d){
+  const b = document.getElementById('modal-body');
+  const openFlag = d.verification_status==='secondary-source, pending primary-source pin'
+    ? '<span class="badge open">Open item - pending primary-source verification</span>' : '';
+  b.innerHTML = `
+    <h3>${d.form}</h3>
+    <div>${openFlag}</div>
+    <dl>
+      <dt>Jurisdiction</dt><dd>${d.jurisdiction}</dd>
+      <dt>Category</dt><dd>${d.category}</dd>
+      <dt>Filer</dt><dd>${d.filer||''}</dd>
+      <dt>Form name</dt><dd>${d.form_name||''}</dd>
+      <dt>Rule</dt><dd>${d.rule||''}</dd>
+      <dt>2026 date</dt><dd><strong>${d.date_2026}</strong></dd>
+      ${d.extended_date_2026 ? `<dt>Extended date (if extension filed)</dt><dd>${d.extended_date_2026}${d.extension_form ? ' via '+d.extension_form : ''}</dd>` : ''}
+      <dt>Description</dt><dd>${d.description||''}</dd>
+      <dt>Authority</dt><dd>${d.authority||''}</dd>
+      ${d.source_url ? `<dt>Source</dt><dd><a href="${d.source_url}" target="_blank" rel="noopener">${d.source_url}</a></dd>` : ''}
+    </dl>
+    <div class="quick-add">
+      <a href="${googleQuickAddUrl(d)}" target="_blank" rel="noopener">+ Add to Google Calendar</a>
+      <a href="${outlookQuickAddUrl(d)}" target="_blank" rel="noopener">+ Add to Outlook</a>
+    </div>
+  `;
+  document.getElementById('modal-bg').style.display='flex';
+}
+
+load();
+</script>
+</body>
+</html>
