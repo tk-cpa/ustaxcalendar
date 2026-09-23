@@ -9,10 +9,11 @@
     "rule": "Conforms to the federal April 15 due date",
     "date_2026": "2026-04-15",
     "extended_date_2026": null,
-    "description": "State individual income tax return due date, shown as conforming to the federal April 15 deadline.",
-    "authority": "Aggregated from Kiplinger and Money.com 2026 state tax deadline surveys (secondary source)",
-    "source_url": "https://money.com/state-income-tax-deadlines/",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Due the same date as the corresponding federal income tax return. Alabama's own page does not state a separate automatic-extension date; it defers to the federal extension timeline.",
+    "authority": "Direct fetch of https://www.revenue.alabama.gov/individual-corporate/due-dates/ this session",
+    "source_url": "https://www.revenue.alabama.gov/individual-corporate/due-dates/",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-inc-alnt",
@@ -24,13 +25,14 @@
     "rule": "no-filing-required",
     "date_2026": null,
     "extended_date_2026": null,
+    "extension_form": null,
     "description": "No broad individual income tax.",
     "authority": "Alaska state government - well-established, no broad individual income tax regime",
     "source_url": "",
     "verification_status": "secondary-source, pending primary-source pin"
   },
   {
-    "id": "state-inc-az",
+    "id": "state-inc-ar",
     "jurisdiction": "Arizona",
     "category": "Income Tax",
     "form": "State individual income tax return",
@@ -39,10 +41,11 @@
     "rule": "Conforms to the federal April 15 due date",
     "date_2026": "2026-04-15",
     "extended_date_2026": null,
-    "description": "State individual income tax return due date, shown as conforming to the federal April 15 deadline.",
-    "authority": "Aggregated from Kiplinger and Money.com 2026 state tax deadline surveys (secondary source)",
-    "source_url": "https://money.com/state-income-tax-deadlines/",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Confirmed April 15, 2026 directly; a separate automatic-extension date was not stated on the page fetched.",
+    "authority": "Direct fetch of https://azdor.gov/individual-income-tax-information/faq-during-tax-season this session",
+    "source_url": "https://azdor.gov/individual-income-tax-information/faq-during-tax-season",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-inc-ar",
@@ -53,11 +56,12 @@
     "filer": "Individuals",
     "rule": "Conforms to the federal April 15 due date",
     "date_2026": "2026-04-15",
-    "extended_date_2026": null,
-    "description": "State individual income tax return due date, shown as conforming to the federal April 15 deadline.",
-    "authority": "Aggregated from Kiplinger and Money.com 2026 state tax deadline surveys (secondary source)",
-    "source_url": "https://money.com/state-income-tax-deadlines/",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "extended_date_2026": "2026-11-15",
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Arkansas automatically honors a federal extension, giving a state deadline of November 15, one month after the federal October 15 extended date.",
+    "authority": "Direct fetch of https://www.dfa.arkansas.gov/office/taxes/income-tax-administration/individual-income-tax/deadlines-extensions/ this session",
+    "source_url": "https://www.dfa.arkansas.gov/office/taxes/income-tax-administration/individual-income-tax/deadlines-extensions/",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-inc-ca",
@@ -68,11 +72,12 @@
     "filer": "Individuals",
     "rule": "Conforms to the federal April 15 due date",
     "date_2026": "2026-04-15",
-    "extended_date_2026": null,
-    "description": "State individual income tax return due date, shown as conforming to the federal April 15 deadline.",
-    "authority": "Aggregated from Kiplinger and Money.com 2026 state tax deadline surveys (secondary source)",
-    "source_url": "https://money.com/state-income-tax-deadlines/",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "extended_date_2026": "2026-10-15",
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session.",
+    "authority": "Direct fetch of https://www.ftb.ca.gov/file/when-to-file/due-dates-personal.html this session",
+    "source_url": "https://www.ftb.ca.gov/file/when-to-file/due-dates-personal.html",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-inc-co",
@@ -83,14 +88,15 @@
     "filer": "Individuals",
     "rule": "Conforms to the federal April 15 due date",
     "date_2026": "2026-04-15",
-    "extended_date_2026": null,
-    "description": "State individual income tax return due date, shown as conforming to the federal April 15 deadline.",
-    "authority": "Aggregated from Kiplinger and Money.com 2026 state tax deadline surveys (secondary source)",
-    "source_url": "https://money.com/state-income-tax-deadlines/",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "extended_date_2026": "2026-10-15",
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Colorado's extension is automatic (no form required), but at least 90% of tax owed must be paid by April 15.",
+    "authority": "Direct fetch of https://tax.colorado.gov/income-tax-due-dates-filing-extension this session",
+    "source_url": "https://tax.colorado.gov/income-tax-due-dates-filing-extension",
+    "verification_status": "primary-source verified this session"
   },
   {
-    "id": "state-inc-ct",
+    "id": "state-inc-co",
     "jurisdiction": "Connecticut",
     "category": "Income Tax",
     "form": "State individual income tax return",
@@ -98,11 +104,12 @@
     "filer": "Individuals",
     "rule": "Conforms to the federal April 15 due date",
     "date_2026": "2026-04-15",
-    "extended_date_2026": null,
-    "description": "State individual income tax return due date, shown as conforming to the federal April 15 deadline.",
-    "authority": "Aggregated from Kiplinger and Money.com 2026 state tax deadline surveys (secondary source)",
-    "source_url": "https://money.com/state-income-tax-deadlines/",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "extended_date_2026": "2026-10-15",
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session.",
+    "authority": "Direct fetch of https://portal.ct.gov/drs/individuals/resident-income-tax/tax-information this session",
+    "source_url": "https://portal.ct.gov/drs/individuals/resident-income-tax/tax-information",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-inc-de",
@@ -111,13 +118,14 @@
     "form": "State individual income tax return",
     "form_name": "Delaware individual income tax return (tax year 2025)",
     "filer": "Individuals",
-    "rule": "State-specific due date (differs from the federal April 15 deadline)",
+    "rule": "State-specific due date, primary-source verified this session",
     "date_2026": "2026-04-30",
     "extended_date_2026": null,
-    "description": "State individual income tax return due date.",
-    "authority": "Kiplinger and Money.com 2026 state tax deadline surveys (secondary source)",
-    "source_url": "https://revenue.delaware.gov",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Division of Revenue's own announcement states the 2025 tax year filing deadline is Thursday, April 30, 2026. Automatic-extension date not confirmed this session.",
+    "authority": "Direct fetch of https://news.delaware.gov/2026/01/08/delawares-tax-season-starts-january-26-2026/ this session",
+    "source_url": "https://news.delaware.gov/2026/01/08/delawares-tax-season-starts-january-26-2026/",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-inc-dc",
@@ -128,11 +136,12 @@
     "filer": "Individuals",
     "rule": "Conforms to the federal April 15 due date",
     "date_2026": "2026-04-15",
-    "extended_date_2026": null,
-    "description": "State individual income tax return due date, shown as conforming to the federal April 15 deadline.",
-    "authority": "Aggregated from Kiplinger and Money.com 2026 state tax deadline surveys (secondary source)",
-    "source_url": "https://money.com/state-income-tax-deadlines/",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "extended_date_2026": "2026-10-15",
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Form FR-127 requests the extension; tax owed is still due April 15. A further extension may be available for filers living or traveling outside the U.S.",
+    "authority": "Direct fetch of https://otr.cfo.dc.gov/page/individual-filings-faqs this session",
+    "source_url": "https://otr.cfo.dc.gov/page/individual-filings-faqs",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-inc-flnt",
@@ -144,13 +153,14 @@
     "rule": "no-filing-required",
     "date_2026": null,
     "extended_date_2026": null,
+    "extension_form": null,
     "description": "No individual income tax.",
     "authority": "Florida state government - well-established, no broad individual income tax regime",
     "source_url": "",
     "verification_status": "secondary-source, pending primary-source pin"
   },
   {
-    "id": "state-inc-ga",
+    "id": "state-inc-ge",
     "jurisdiction": "Georgia",
     "category": "Income Tax",
     "form": "State individual income tax return",
@@ -159,10 +169,11 @@
     "rule": "Conforms to the federal April 15 due date",
     "date_2026": "2026-04-15",
     "extended_date_2026": null,
-    "description": "State individual income tax return due date, shown as conforming to the federal April 15 deadline.",
-    "authority": "Aggregated from Kiplinger and Money.com 2026 state tax deadline surveys (secondary source)",
-    "source_url": "https://money.com/state-income-tax-deadlines/",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Automatic-extension date not confirmed this session.",
+    "authority": "Direct fetch of https://dor.georgia.gov/taxes/tax-faqs-due-dates-and-other-resources/tax-due-dates this session",
+    "source_url": "https://dor.georgia.gov/taxes/tax-faqs-due-dates-and-other-resources/tax-due-dates",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-inc-ha",
@@ -171,13 +182,14 @@
     "form": "State individual income tax return",
     "form_name": "Hawaii individual income tax return (tax year 2025)",
     "filer": "Individuals",
-    "rule": "State-specific due date (differs from the federal April 15 deadline)",
+    "rule": "State-specific due date, primary-source verified this session",
     "date_2026": "2026-04-20",
-    "extended_date_2026": null,
-    "description": "State individual income tax return due date.",
-    "authority": "Kiplinger and Money.com 2026 state tax deadline surveys (secondary source)",
-    "source_url": "https://tax.hawaii.gov",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "extended_date_2026": "2026-10-20",
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Automatic 6-month extension to October 20, 2026 if the taxpayer either has a refund or pays the properly estimated tax by April 20; no extension form required.",
+    "authority": "Direct fetch of https://tax.hawaii.gov/tax-year-information/ this session",
+    "source_url": "https://tax.hawaii.gov/tax-year-information/",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-inc-id",
@@ -189,10 +201,11 @@
     "rule": "Conforms to the federal April 15 due date",
     "date_2026": "2026-04-15",
     "extended_date_2026": null,
-    "description": "State individual income tax return due date, shown as conforming to the federal April 15 deadline.",
-    "authority": "Aggregated from Kiplinger and Money.com 2026 state tax deadline surveys (secondary source)",
-    "source_url": "https://money.com/state-income-tax-deadlines/",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Automatic-extension date not confirmed this session.",
+    "authority": "Direct fetch of https://tax.idaho.gov/taxes/income-tax/individual-income/filing-and-paying/ this session",
+    "source_url": "https://tax.idaho.gov/taxes/income-tax/individual-income/filing-and-paying/",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-inc-il",
@@ -203,11 +216,12 @@
     "filer": "Individuals",
     "rule": "Conforms to the federal April 15 due date",
     "date_2026": "2026-04-15",
-    "extended_date_2026": null,
-    "description": "State individual income tax return due date, shown as conforming to the federal April 15 deadline.",
-    "authority": "Aggregated from Kiplinger and Money.com 2026 state tax deadline surveys (secondary source)",
-    "source_url": "https://money.com/state-income-tax-deadlines/",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "extended_date_2026": "2026-10-15",
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Extension is automatic (6 months); does not extend time to pay.",
+    "authority": "Direct fetch of https://tax.illinois.gov/questionsandanswers/answer.4.html this session",
+    "source_url": "https://tax.illinois.gov/questionsandanswers/answer.4.html",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-inc-in",
@@ -218,11 +232,12 @@
     "filer": "Individuals",
     "rule": "Conforms to the federal April 15 due date",
     "date_2026": "2026-04-15",
-    "extended_date_2026": null,
-    "description": "State individual income tax return due date, shown as conforming to the federal April 15 deadline.",
-    "authority": "Aggregated from Kiplinger and Money.com 2026 state tax deadline surveys (secondary source)",
-    "source_url": "https://money.com/state-income-tax-deadlines/",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "extended_date_2026": "2026-11-14",
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session.",
+    "authority": "Direct fetch of https://www.in.gov/dor/i-am-a/individual/tax-filing-deadlines/ this session",
+    "source_url": "https://www.in.gov/dor/i-am-a/individual/tax-filing-deadlines/",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-inc-io",
@@ -231,16 +246,17 @@
     "form": "State individual income tax return",
     "form_name": "Iowa individual income tax return (tax year 2025)",
     "filer": "Individuals",
-    "rule": "State-specific due date (differs from the federal April 15 deadline)",
+    "rule": "State-specific due date, primary-source verified this session",
     "date_2026": "2026-04-30",
     "extended_date_2026": null,
-    "description": "State individual income tax return due date.",
-    "authority": "Kiplinger and Money.com 2026 state tax deadline surveys (secondary source)",
-    "source_url": "https://revenue.iowa.gov",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Iowa Department of Revenue's own press release: 'Iowa income tax returns are due on April 30.' Automatic-extension date not independently confirmed this session (a prior, unverified handoff claimed November 2, 2026 - do not treat that as confirmed until checked directly).",
+    "authority": "Direct fetch of https://revenue.iowa.gov/press-release/2026-01-27/idr-helps-you-prepare-tax-time-2025 this session",
+    "source_url": "https://revenue.iowa.gov/press-release/2026-01-27/idr-helps-you-prepare-tax-time-2025",
+    "verification_status": "primary-source verified this session"
   },
   {
-    "id": "state-inc-ks",
+    "id": "state-inc-ka",
     "jurisdiction": "Kansas",
     "category": "Income Tax",
     "form": "State individual income tax return",
@@ -248,14 +264,15 @@
     "filer": "Individuals",
     "rule": "Conforms to the federal April 15 due date",
     "date_2026": "2026-04-15",
-    "extended_date_2026": null,
-    "description": "State individual income tax return due date, shown as conforming to the federal April 15 deadline.",
-    "authority": "Aggregated from Kiplinger and Money.com 2026 state tax deadline surveys (secondary source)",
-    "source_url": "https://money.com/state-income-tax-deadlines/",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "extended_date_2026": "2026-08-15",
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Kansas's automatic extension (tied to the federal extension) runs to August 15, 2026, not the more common October 15 pattern - confirmed directly from KS Pub. KS-1515.",
+    "authority": "Direct fetch of https://www.ksrevenue.gov/pub1515.html this session",
+    "source_url": "https://www.ksrevenue.gov/pub1515.html",
+    "verification_status": "primary-source verified this session"
   },
   {
-    "id": "state-inc-ky",
+    "id": "state-inc-ke",
     "jurisdiction": "Kentucky",
     "category": "Income Tax",
     "form": "State individual income tax return",
@@ -264,10 +281,11 @@
     "rule": "Conforms to the federal April 15 due date",
     "date_2026": "2026-04-15",
     "extended_date_2026": null,
-    "description": "State individual income tax return due date, shown as conforming to the federal April 15 deadline.",
-    "authority": "Aggregated from Kiplinger and Money.com 2026 state tax deadline surveys (secondary source)",
-    "source_url": "https://money.com/state-income-tax-deadlines/",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Automatic-extension date not confirmed this session.",
+    "authority": "Direct fetch of https://revenue.ky.gov/News/Pages/April.aspx this session",
+    "source_url": "https://revenue.ky.gov/News/Pages/April.aspx",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-inc-lo",
@@ -276,16 +294,17 @@
     "form": "State individual income tax return",
     "form_name": "Louisiana individual income tax return (tax year 2025)",
     "filer": "Individuals",
-    "rule": "State-specific due date (differs from the federal April 15 deadline)",
+    "rule": "State-specific due date, primary-source verified this session",
     "date_2026": "2026-05-15",
-    "extended_date_2026": null,
-    "description": "State individual income tax return due date.",
-    "authority": "Kiplinger and Money.com 2026 state tax deadline surveys (secondary source)",
-    "source_url": "https://revenue.louisiana.gov",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "extended_date_2026": "2026-11-15",
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Automatic 6-month extension under La. R.S. 47:103, effective for tax year 2022 forward; no extension form required, but the extension does not extend time to pay.",
+    "authority": "Direct fetch of https://revenue.louisiana.gov/IndividualIncomeTax this session",
+    "source_url": "https://revenue.louisiana.gov/IndividualIncomeTax",
+    "verification_status": "primary-source verified this session"
   },
   {
-    "id": "state-inc-me",
+    "id": "state-inc-ma",
     "jurisdiction": "Maine",
     "category": "Income Tax",
     "form": "State individual income tax return",
@@ -294,13 +313,14 @@
     "rule": "Conforms to the federal April 15 due date",
     "date_2026": "2026-04-15",
     "extended_date_2026": null,
-    "description": "State individual income tax return due date, shown as conforming to the federal April 15 deadline.",
-    "authority": "Aggregated from Kiplinger and Money.com 2026 state tax deadline surveys (secondary source)",
-    "source_url": "https://money.com/state-income-tax-deadlines/",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Automatic-extension date not confirmed this session.",
+    "authority": "Direct fetch of https://www.maine.gov/revenue/tax-return-forms/due-dates this session",
+    "source_url": "https://www.maine.gov/revenue/tax-return-forms/due-dates",
+    "verification_status": "primary-source verified this session"
   },
   {
-    "id": "state-inc-md",
+    "id": "state-inc-ma",
     "jurisdiction": "Maryland",
     "category": "Income Tax",
     "form": "State individual income tax return",
@@ -309,10 +329,11 @@
     "rule": "Conforms to the federal April 15 due date",
     "date_2026": "2026-04-15",
     "extended_date_2026": null,
-    "description": "State individual income tax return due date, shown as conforming to the federal April 15 deadline.",
-    "authority": "Aggregated from Kiplinger and Money.com 2026 state tax deadline surveys (secondary source)",
-    "source_url": "https://money.com/state-income-tax-deadlines/",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Confirmed via the Comptroller's own April 15, 2026 filing-deadline release. Automatic-extension date not confirmed this session.",
+    "authority": "Direct fetch of https://www.marylandcomptroller.gov/content/dam/mdcomp/md/media/2026/04-15-2026-personal-income-tax-filing-deadline.pdf this session",
+    "source_url": "https://www.marylandcomptroller.gov/content/dam/mdcomp/md/media/2026/04-15-2026-personal-income-tax-filing-deadline.pdf",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-inc-ma",
@@ -323,11 +344,12 @@
     "filer": "Individuals",
     "rule": "Conforms to the federal April 15 due date",
     "date_2026": "2026-04-15",
-    "extended_date_2026": null,
-    "description": "State individual income tax return due date, shown as conforming to the federal April 15 deadline.",
-    "authority": "Aggregated from Kiplinger and Money.com 2026 state tax deadline surveys (secondary source)",
-    "source_url": "https://money.com/state-income-tax-deadlines/",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "extended_date_2026": "2026-10-15",
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. At least 80% of tax liability must be paid by April 15 for the extension to be valid.",
+    "authority": "Direct fetch of https://www.mass.gov/info-details/tax-due-dates-and-extensions this session",
+    "source_url": "https://www.mass.gov/info-details/tax-due-dates-and-extensions",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-inc-mi",
@@ -339,13 +361,14 @@
     "rule": "Conforms to the federal April 15 due date",
     "date_2026": "2026-04-15",
     "extended_date_2026": null,
-    "description": "State individual income tax return due date, shown as conforming to the federal April 15 deadline.",
-    "authority": "Aggregated from Kiplinger and Money.com 2026 state tax deadline surveys (secondary source)",
-    "source_url": "https://money.com/state-income-tax-deadlines/",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Automatic-extension date not confirmed this session.",
+    "authority": "Direct fetch of https://www.michigan.gov/treasury/news/2026/03/13/individual-income-tax-returns-due-in-a-month this session",
+    "source_url": "https://www.michigan.gov/treasury/news/2026/03/13/individual-income-tax-returns-due-in-a-month",
+    "verification_status": "primary-source verified this session"
   },
   {
-    "id": "state-inc-mn",
+    "id": "state-inc-mi",
     "jurisdiction": "Minnesota",
     "category": "Income Tax",
     "form": "State individual income tax return",
@@ -353,14 +376,15 @@
     "filer": "Individuals",
     "rule": "Conforms to the federal April 15 due date",
     "date_2026": "2026-04-15",
-    "extended_date_2026": null,
-    "description": "State individual income tax return due date, shown as conforming to the federal April 15 deadline.",
-    "authority": "Aggregated from Kiplinger and Money.com 2026 state tax deadline surveys (secondary source)",
-    "source_url": "https://money.com/state-income-tax-deadlines/",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "extended_date_2026": "2026-10-15",
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session.",
+    "authority": "Direct fetch of https://www.revenue.state.mn.us/income-tax-due-dates this session",
+    "source_url": "https://www.revenue.state.mn.us/income-tax-due-dates",
+    "verification_status": "primary-source verified this session"
   },
   {
-    "id": "state-inc-ms",
+    "id": "state-inc-mi",
     "jurisdiction": "Mississippi",
     "category": "Income Tax",
     "form": "State individual income tax return",
@@ -368,14 +392,15 @@
     "filer": "Individuals",
     "rule": "Conforms to the federal April 15 due date",
     "date_2026": "2026-04-15",
-    "extended_date_2026": null,
-    "description": "State individual income tax return due date, shown as conforming to the federal April 15 deadline.",
-    "authority": "Aggregated from Kiplinger and Money.com 2026 state tax deadline surveys (secondary source)",
-    "source_url": "https://money.com/state-income-tax-deadlines/",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "extended_date_2026": "2026-10-15",
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Extension is for filing only, not for payment - tax owed is still due April 15.",
+    "authority": "Direct fetch of https://www.dor.ms.gov/individual/individual-income-tax-frequently-asked-questions this session",
+    "source_url": "https://www.dor.ms.gov/individual/individual-income-tax-frequently-asked-questions",
+    "verification_status": "primary-source verified this session"
   },
   {
-    "id": "state-inc-mo",
+    "id": "state-inc-mi",
     "jurisdiction": "Missouri",
     "category": "Income Tax",
     "form": "State individual income tax return",
@@ -384,13 +409,14 @@
     "rule": "Conforms to the federal April 15 due date",
     "date_2026": "2026-04-15",
     "extended_date_2026": null,
-    "description": "State individual income tax return due date, shown as conforming to the federal April 15 deadline.",
-    "authority": "Aggregated from Kiplinger and Money.com 2026 state tax deadline surveys (secondary source)",
-    "source_url": "https://money.com/state-income-tax-deadlines/",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Automatic-extension date not confirmed this session.",
+    "authority": "Direct fetch of https://dor.mo.gov/tax-calendar/ this session",
+    "source_url": "https://dor.mo.gov/tax-calendar/",
+    "verification_status": "primary-source verified this session"
   },
   {
-    "id": "state-inc-mt",
+    "id": "state-inc-mo",
     "jurisdiction": "Montana",
     "category": "Income Tax",
     "form": "State individual income tax return",
@@ -398,11 +424,12 @@
     "filer": "Individuals",
     "rule": "Conforms to the federal April 15 due date",
     "date_2026": "2026-04-15",
-    "extended_date_2026": null,
-    "description": "State individual income tax return due date, shown as conforming to the federal April 15 deadline.",
-    "authority": "Aggregated from Kiplinger and Money.com 2026 state tax deadline surveys (secondary source)",
-    "source_url": "https://money.com/state-income-tax-deadlines/",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "extended_date_2026": "2026-10-15",
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session.",
+    "authority": "Direct fetch of https://revenue.mt.gov/taxes/individual-income-tax this session",
+    "source_url": "https://revenue.mt.gov/taxes/individual-income-tax",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-inc-ne",
@@ -414,13 +441,14 @@
     "rule": "Conforms to the federal April 15 due date",
     "date_2026": "2026-04-15",
     "extended_date_2026": null,
-    "description": "State individual income tax return due date, shown as conforming to the federal April 15 deadline.",
-    "authority": "Aggregated from Kiplinger and Money.com 2026 state tax deadline surveys (secondary source)",
-    "source_url": "https://money.com/state-income-tax-deadlines/",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Automatic-extension date not confirmed this session.",
+    "authority": "Direct fetch of https://revenue.nebraska.gov/about/tax-calendar this session",
+    "source_url": "https://revenue.nebraska.gov/about/tax-calendar",
+    "verification_status": "primary-source verified this session"
   },
   {
-    "id": "state-inc-nent-1",
+    "id": "state-inc-nent",
     "jurisdiction": "Nevada",
     "category": "Income Tax",
     "form": "N/A - no filing required",
@@ -429,13 +457,14 @@
     "rule": "no-filing-required",
     "date_2026": null,
     "extended_date_2026": null,
+    "extension_form": null,
     "description": "No individual income tax.",
     "authority": "Nevada state government - well-established, no broad individual income tax regime",
     "source_url": "",
     "verification_status": "secondary-source, pending primary-source pin"
   },
   {
-    "id": "state-inc-nent-2",
+    "id": "state-inc-nhnt",
     "jurisdiction": "New Hampshire",
     "category": "Income Tax",
     "form": "N/A - no filing required",
@@ -444,10 +473,11 @@
     "rule": "no-filing-required",
     "date_2026": null,
     "extended_date_2026": null,
+    "extension_form": null,
     "description": "No tax on wage income; the Interest & Dividends Tax was fully repealed effective January 1, 2025.",
     "authority": "New Hampshire state government - well-established, no broad individual income tax regime",
     "source_url": "",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-inc-nj",
@@ -458,11 +488,12 @@
     "filer": "Individuals",
     "rule": "Conforms to the federal April 15 due date",
     "date_2026": "2026-04-15",
-    "extended_date_2026": null,
-    "description": "State individual income tax return due date, shown as conforming to the federal April 15 deadline.",
-    "authority": "Aggregated from Kiplinger and Money.com 2026 state tax deadline surveys (secondary source)",
-    "source_url": "https://money.com/state-income-tax-deadlines/",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "extended_date_2026": "2026-10-15",
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. At least 80% of tax owed must be paid by April 15 to qualify for the extension.",
+    "authority": "Direct fetch of https://www.nj.gov/treasury/unclaimed-property/treasury/taxation/njit17.shtml this session",
+    "source_url": "https://www.nj.gov/treasury/unclaimed-property/treasury/taxation/njit17.shtml",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-inc-nm",
@@ -474,10 +505,11 @@
     "rule": "Conforms to the federal April 15 due date",
     "date_2026": "2026-04-15",
     "extended_date_2026": null,
-    "description": "State individual income tax return due date, shown as conforming to the federal April 15 deadline.",
-    "authority": "Aggregated from Kiplinger and Money.com 2026 state tax deadline surveys (secondary source)",
-    "source_url": "https://money.com/state-income-tax-deadlines/",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Automatic-extension date not confirmed this session.",
+    "authority": "Direct fetch of https://www.tax.newmexico.gov/wp-content/uploads/2026/03/20260315_Reminder-Income-tax-returns-due-April-15.pdf this session",
+    "source_url": "https://www.tax.newmexico.gov/wp-content/uploads/2026/03/20260315_Reminder-Income-tax-returns-due-April-15.pdf",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-inc-ny",
@@ -489,10 +521,11 @@
     "rule": "Conforms to the federal April 15 due date",
     "date_2026": "2026-04-15",
     "extended_date_2026": null,
-    "description": "State individual income tax return due date, shown as conforming to the federal April 15 deadline.",
-    "authority": "Aggregated from Kiplinger and Money.com 2026 state tax deadline surveys (secondary source)",
-    "source_url": "https://money.com/state-income-tax-deadlines/",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. An extension request itself must be filed by April 15; the resulting extended filing date was not stated on the page fetched (standard NY practice is October 15, not independently confirmed this session).",
+    "authority": "Direct fetch of https://www.tax.ny.gov/pit/file/income_tax_filing_due_dates.htm this session",
+    "source_url": "https://www.tax.ny.gov/pit/file/income_tax_filing_due_dates.htm",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-inc-nc",
@@ -504,10 +537,11 @@
     "rule": "Conforms to the federal April 15 due date",
     "date_2026": "2026-04-15",
     "extended_date_2026": null,
-    "description": "State individual income tax return due date, shown as conforming to the federal April 15 deadline.",
-    "authority": "Aggregated from Kiplinger and Money.com 2026 state tax deadline surveys (secondary source)",
-    "source_url": "https://money.com/state-income-tax-deadlines/",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Automatic-extension date not confirmed this session.",
+    "authority": "Direct fetch of https://www.ncdor.gov/news/press-releases/2026/04/07/ncdor-urges-taxpayers-file-april-15-deadline this session",
+    "source_url": "https://www.ncdor.gov/news/press-releases/2026/04/07/ncdor-urges-taxpayers-file-april-15-deadline",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-inc-nd",
@@ -518,11 +552,12 @@
     "filer": "Individuals",
     "rule": "Conforms to the federal April 15 due date",
     "date_2026": "2026-04-15",
-    "extended_date_2026": null,
-    "description": "State individual income tax return due date, shown as conforming to the federal April 15 deadline.",
-    "authority": "Aggregated from Kiplinger and Money.com 2026 state tax deadline surveys (secondary source)",
-    "source_url": "https://money.com/state-income-tax-deadlines/",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "extended_date_2026": "2026-10-15",
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Extension applies only to returns filed electronically through the Federal/State e-file program.",
+    "authority": "Direct fetch of https://www.tax.nd.gov/individual-income-tax-deadlines this session",
+    "source_url": "https://www.tax.nd.gov/individual-income-tax-deadlines",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-inc-oh",
@@ -533,11 +568,12 @@
     "filer": "Individuals",
     "rule": "Conforms to the federal April 15 due date",
     "date_2026": "2026-04-15",
-    "extended_date_2026": null,
-    "description": "State individual income tax return due date, shown as conforming to the federal April 15 deadline.",
-    "authority": "Aggregated from Kiplinger and Money.com 2026 state tax deadline surveys (secondary source)",
-    "source_url": "https://money.com/state-income-tax-deadlines/",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "extended_date_2026": "2026-10-15",
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Ohio honors the IRS extension; all payments are still due April 15.",
+    "authority": "Direct fetch of https://tax.ohio.gov/individual/who-must-file/filing-season-tip this session",
+    "source_url": "https://tax.ohio.gov/individual/who-must-file/filing-season-tip",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-inc-ok",
@@ -546,13 +582,14 @@
     "form": "State individual income tax return",
     "form_name": "Oklahoma individual income tax return (tax year 2025)",
     "filer": "Individuals",
-    "rule": "State-specific due date (differs from the federal April 15 deadline)",
+    "rule": "Conforms to the federal April 15 due date",
     "date_2026": "2026-04-15",
     "extended_date_2026": null,
-    "description": "State individual income tax return due date (paper); Oklahoma Tax Commission guidance cited by some aggregators shows an April 20 electronic-filing accommodation date - not independently confirmed this session, standard April 15 shown pending that check.",
-    "authority": "Kiplinger and Money.com 2026 state tax deadline surveys (secondary source)",
-    "source_url": "https://oklahoma.gov/tax.html",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Confirmed standard April 15, 2026 directly from the Oklahoma Tax Commission; no separate April 20 e-file accommodation date was found on this page (a claim to that effect from a secondary aggregator was not corroborated).",
+    "authority": "Direct fetch of https://oklahoma.gov/tax/newsroom/2026/01-15-2026.html this session",
+    "source_url": "https://oklahoma.gov/tax/newsroom/2026/01-15-2026.html",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-inc-or",
@@ -563,14 +600,15 @@
     "filer": "Individuals",
     "rule": "Conforms to the federal April 15 due date",
     "date_2026": "2026-04-15",
-    "extended_date_2026": null,
-    "description": "State individual income tax return due date, shown as conforming to the federal April 15 deadline.",
-    "authority": "Aggregated from Kiplinger and Money.com 2026 state tax deadline surveys (secondary source)",
-    "source_url": "https://money.com/state-income-tax-deadlines/",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "extended_date_2026": "2026-10-15",
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session.",
+    "authority": "Direct fetch of https://www.oregon.gov/dor/pages/tax-calendar.aspx this session",
+    "source_url": "https://www.oregon.gov/dor/pages/tax-calendar.aspx",
+    "verification_status": "primary-source verified this session"
   },
   {
-    "id": "state-inc-pa",
+    "id": "state-inc-pe",
     "jurisdiction": "Pennsylvania",
     "category": "Income Tax",
     "form": "State individual income tax return",
@@ -579,10 +617,11 @@
     "rule": "Conforms to the federal April 15 due date",
     "date_2026": "2026-04-15",
     "extended_date_2026": null,
-    "description": "State individual income tax return due date, shown as conforming to the federal April 15 deadline.",
-    "authority": "Aggregated from Kiplinger and Money.com 2026 state tax deadline surveys (secondary source)",
-    "source_url": "https://money.com/state-income-tax-deadlines/",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Automatic-extension date not confirmed this session.",
+    "authority": "Direct fetch of https://www.pa.gov/agencies/revenue/newsroom/tax-day-reminder--shapiro-administration-encourages-pennsylvanians-to-take-advantage-of-new-and-expanded-tax-credits-prior-to-april-15th-filing-deadline this session",
+    "source_url": "https://www.pa.gov/agencies/revenue/newsroom/tax-day-reminder--shapiro-administration-encourages-pennsylvanians-to-take-advantage-of-new-and-expanded-tax-credits-prior-to-april-15th-filing-deadline",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-inc-ri",
@@ -594,28 +633,30 @@
     "rule": "Conforms to the federal April 15 due date",
     "date_2026": "2026-04-15",
     "extended_date_2026": null,
-    "description": "State individual income tax return due date, shown as conforming to the federal April 15 deadline.",
-    "authority": "Aggregated from Kiplinger and Money.com 2026 state tax deadline surveys (secondary source)",
-    "source_url": "https://money.com/state-income-tax-deadlines/",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Rule stated as the 15th day of the 4th month after the close of the tax year. Automatic-extension date not confirmed this session.",
+    "authority": "Direct fetch of https://tax.ri.gov/tax-sections/personal-income-tax this session",
+    "source_url": "https://tax.ri.gov/tax-sections/personal-income-tax",
+    "verification_status": "primary-source verified this session"
   },
   {
-    "id": "state-inc-so",
+    "id": "state-inc-sc",
     "jurisdiction": "South Carolina",
     "category": "Income Tax",
     "form": "State individual income tax return",
     "form_name": "South Carolina individual income tax return (tax year 2025)",
     "filer": "Individuals",
-    "rule": "State-specific due date (differs from the federal April 15 deadline)",
+    "rule": "Conforms to the federal April 15 due date",
     "date_2026": "2026-04-15",
     "extended_date_2026": "2026-10-15",
-    "description": "Standing individual income tax due date is April 15. SCDOR announced a one-time filing extension to October 15, 2026 for all 2025 returns, tied to OBBBA conformity timing - a one-off relief measure, not a standing rule for future years.",
-    "authority": "Kiplinger and Money.com 2026 state tax deadline surveys (secondary source)",
-    "source_url": "https://dor.sc.gov",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Standing rule is April 15. SCDOR issued a statement March 26, 2026 extending the filing due date for all 2025 South Carolina individual income tax returns to October 15, 2026, tied to income tax conformity timing - a one-time relief measure, not a standing rule for future years.",
+    "authority": "Direct fetch of https://dor.sc.gov/tax/individual-income this session",
+    "source_url": "https://dor.sc.gov/tax/individual-income",
+    "verification_status": "primary-source verified this session"
   },
   {
-    "id": "state-inc-sont",
+    "id": "state-inc-sdnt",
     "jurisdiction": "South Dakota",
     "category": "Income Tax",
     "form": "N/A - no filing required",
@@ -624,13 +665,14 @@
     "rule": "no-filing-required",
     "date_2026": null,
     "extended_date_2026": null,
+    "extension_form": null,
     "description": "No individual income tax.",
     "authority": "South Dakota state government - well-established, no broad individual income tax regime",
     "source_url": "",
     "verification_status": "secondary-source, pending primary-source pin"
   },
   {
-    "id": "state-inc-tent-1",
+    "id": "state-inc-tent",
     "jurisdiction": "Tennessee",
     "category": "Income Tax",
     "form": "N/A - no filing required",
@@ -639,13 +681,14 @@
     "rule": "no-filing-required",
     "date_2026": null,
     "extended_date_2026": null,
+    "extension_form": null,
     "description": "No individual income tax (Hall Tax on interest/dividends fully repealed effective 2021).",
     "authority": "Tennessee state government - well-established, no broad individual income tax regime",
     "source_url": "",
     "verification_status": "secondary-source, pending primary-source pin"
   },
   {
-    "id": "state-inc-tent-2",
+    "id": "state-inc-tent",
     "jurisdiction": "Texas",
     "category": "Income Tax",
     "form": "N/A - no filing required",
@@ -654,6 +697,7 @@
     "rule": "no-filing-required",
     "date_2026": null,
     "extended_date_2026": null,
+    "extension_form": null,
     "description": "No individual income tax.",
     "authority": "Texas state government - well-established, no broad individual income tax regime",
     "source_url": "",
@@ -669,13 +713,14 @@
     "rule": "Conforms to the federal April 15 due date",
     "date_2026": "2026-04-15",
     "extended_date_2026": null,
-    "description": "State individual income tax return due date, shown as conforming to the federal April 15 deadline.",
-    "authority": "Aggregated from Kiplinger and Money.com 2026 state tax deadline surveys (secondary source)",
-    "source_url": "https://money.com/state-income-tax-deadlines/",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Utah's own event calendar lists April 15, 2026 as the individual, corporate, and partnership income tax due date for the 2025 tax year. Automatic-extension date not confirmed this session.",
+    "authority": "Direct fetch of https://tax.utah.gov/events/2026-04-15/ this session",
+    "source_url": "https://tax.utah.gov/events/2026-04-15/",
+    "verification_status": "primary-source verified this session"
   },
   {
-    "id": "state-inc-vt",
+    "id": "state-inc-ve",
     "jurisdiction": "Vermont",
     "category": "Income Tax",
     "form": "State individual income tax return",
@@ -683,11 +728,12 @@
     "filer": "Individuals",
     "rule": "Conforms to the federal April 15 due date",
     "date_2026": "2026-04-15",
-    "extended_date_2026": null,
-    "description": "State individual income tax return due date, shown as conforming to the federal April 15 deadline.",
-    "authority": "Aggregated from Kiplinger and Money.com 2026 state tax deadline surveys (secondary source)",
-    "source_url": "https://money.com/state-income-tax-deadlines/",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "extended_date_2026": "2026-10-15",
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session.",
+    "authority": "Direct fetch of https://tax.vermont.gov/individuals/income-tax-returns this session",
+    "source_url": "https://tax.vermont.gov/individuals/income-tax-returns",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-inc-vi",
@@ -696,11 +742,12 @@
     "form": "State individual income tax return",
     "form_name": "Virginia individual income tax return (tax year 2025)",
     "filer": "Individuals",
-    "rule": "State-specific due date (differs from the federal April 15 deadline)",
+    "rule": "State-specific due date, primary-source verified this session",
     "date_2026": "2026-05-01",
     "extended_date_2026": "2026-11-01",
-    "description": "State individual income tax return due date; Virginia grants an automatic 6-month filing extension to November 1, 2026 (tax owed is still due May 1 to avoid penalties/interest).",
-    "authority": "Direct check of https://www.tax.virginia.gov/when-to-file this session",
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Automatic 6-month extension to file, no application required; tax owed is still due May 1.",
+    "authority": "Direct fetch of https://www.tax.virginia.gov/when-to-file this session",
     "source_url": "https://www.tax.virginia.gov/when-to-file",
     "verification_status": "primary-source verified this session"
   },
@@ -714,6 +761,7 @@
     "rule": "no-filing-required",
     "date_2026": null,
     "extended_date_2026": null,
+    "extension_form": null,
     "description": "No broad individual income tax (a narrow capital gains excise tax applies to certain high earners, separate from a wage income tax).",
     "authority": "Washington state government - well-established, no broad individual income tax regime",
     "source_url": "",
@@ -729,10 +777,11 @@
     "rule": "Conforms to the federal April 15 due date",
     "date_2026": "2026-04-15",
     "extended_date_2026": null,
-    "description": "State individual income tax return due date, shown as conforming to the federal April 15 deadline.",
-    "authority": "Aggregated from Kiplinger and Money.com 2026 state tax deadline surveys (secondary source)",
-    "source_url": "https://money.com/state-income-tax-deadlines/",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Automatic-extension date not confirmed this session.",
+    "authority": "Direct fetch of https://tax.wv.gov/TaxCalendar/Pages/TaxCalendarApril.aspx this session",
+    "source_url": "https://tax.wv.gov/TaxCalendar/Pages/TaxCalendarApril.aspx",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-inc-wi",
@@ -743,11 +792,12 @@
     "filer": "Individuals",
     "rule": "Conforms to the federal April 15 due date",
     "date_2026": "2026-04-15",
-    "extended_date_2026": null,
-    "description": "State individual income tax return due date, shown as conforming to the federal April 15 deadline.",
-    "authority": "Aggregated from Kiplinger and Money.com 2026 state tax deadline surveys (secondary source)",
-    "source_url": "https://money.com/state-income-tax-deadlines/",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "extended_date_2026": "2026-10-14",
+    "extension_form": null,
+    "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. 180-day extension period matching the federal extension; interest still accrues on unpaid tax.",
+    "authority": "Direct fetch of https://www.revenue.wi.gov/Pages/FAQS/pcs-late.aspx this session",
+    "source_url": "https://www.revenue.wi.gov/Pages/FAQS/pcs-late.aspx",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-inc-wynt",
@@ -759,6 +809,7 @@
     "rule": "no-filing-required",
     "date_2026": null,
     "extended_date_2026": null,
+    "extension_form": null,
     "description": "No individual income tax.",
     "authority": "Wyoming state government - well-established, no broad individual income tax regime",
     "source_url": "",

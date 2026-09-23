@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Interactive US Tax Deadline Map | US Tax Calendar</title>
+<meta name="description" content="Click any state or city pin to jump straight to its filtered deadlines in the calendar - federal, all 50 states + DC, and 8 major city/local jurisdictions.">
+<link rel="canonical" href="https://ustaxcalendar.com/map.html">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--ink:#111111;--ink-80:#343A40;--ink-60:#5E6166;--ink-40:#9BA0A6;--ink-20:#D9DBDE;--ink-10:#EDEEF0;--paper:#FAFAF7;--paper-white:#FFFFFF;--coral:#F65F5A;--coral-600:#E04A45;--coral-100:#FCE3E2;--navy:#071563;--navy-100:#E2E4F0;--gold:#E9A81C;--success:#4A7459;--font-display:'Oswald','Helvetica Neue Condensed','Arial Narrow',sans-serif;--font-sans:'Inter',-apple-system,BlinkMacSystemFont,sans-serif;--font-mono:'Cousine','SF Mono','Menlo',monospace}
+*{box-sizing:border-box;margin:0;padding:0}html{font-size:16px;scroll-behavior:smooth}
+body{font-family:var(--font-sans);background:var(--paper);color:var(--ink);-webkit-font-smoothing:antialiased;padding-bottom:60px}
+a{color:var(--coral);text-decoration:none}a:hover{text-decoration:underline}
+nav{display:flex;align-items:center;justify-content:space-between;padding:14px 28px;border-bottom:1px solid var(--ink-20);background:var(--paper-white);position:sticky;top:0;z-index:100}
+.brand{display:flex;flex-direction:column;text-decoration:none;color:var(--ink);font-family:var(--font-display);font-weight:500;font-size:17px;letter-spacing:.05em;text-transform:uppercase;line-height:1.1}
+.brand span{color:var(--coral)}
+.brand small{font-family:var(--font-sans);font-weight:400;font-size:10px;color:var(--ink-60);letter-spacing:.08em;text-transform:none;margin-top:3px}
+.cta{display:inline-block;background:var(--coral);color:#fff;padding:9px 20px;font-family:var(--font-sans);font-weight:600;font-size:13px;text-decoration:none;letter-spacing:.03em;white-space:nowrap}
+.cta:hover{opacity:.88;text-decoration:none}
+.cat-nav{background:var(--ink);border-bottom:1px solid rgba(255,255,255,.08);overflow-x:auto;-webkit-overflow-scrolling:touch}
+.cat-nav-inner{max-width:1100px;margin:0 auto;display:flex;gap:0;flex-wrap:wrap;padding:0 20px}
+.cat-nav a{display:inline-block;padding:10px 14px;font-family:var(--font-sans);font-size:11.5px;font-weight:500;color:rgba(255,255,255,.55);text-decoration:none;letter-spacing:.04em;white-space:nowrap;border-bottom:2px solid transparent}
+.cat-nav a:hover,.cat-nav a.active{color:#fff;border-bottom-color:var(--coral);text-decoration:none}
+@media(max-width:480px){nav{padding:12px 16px}.cta{padding:8px 14px;font-size:12px}.cat-nav-inner{padding:0 8px}.cat-nav a{padding:9px 10px;font-size:11px}}
+.ph{background:var(--ink);padding:36px 0 28px;border-bottom:3px solid var(--coral)}
+.phi{max-width:1100px;margin:0 auto;padding:0 20px}
+.ph h1{font-family:var(--font-display);font-weight:500;font-size:clamp(24px,4vw,38px);color:#fff;line-height:1.1;margin-bottom:10px}
+.ph .sub{font-size:13px;color:rgba(255,255,255,.6);max-width:760px;line-height:1.6}
+.ph .badges{display:flex;gap:8px;margin-top:14px;flex-wrap:wrap}
+.badge{font-family:var(--font-mono);font-size:10.5px;padding:3px 9px;background:rgba(255,255,255,.08);color:rgba(255,255,255,.7);border:1px solid rgba(255,255,255,.12)}
+.wrap{max-width:1100px;margin:0 auto;padding:20px 20px 0}
+.legend{display:flex;gap:18px;flex-wrap:wrap;align-items:center;margin-bottom:14px;font-size:12.5px;color:var(--ink-80)}
+.legend-item{display:flex;align-items:center;gap:7px}
+.legend-swatch{width:14px;height:14px;border-radius:3px;display:inline-block;border:1px solid var(--ink-20)}
+.map-wrap{position:relative;border:1px solid var(--ink-20);border-radius:8px;background:#EEF0F0;overflow:hidden}
+#us-map{display:block;width:100%;height:auto}
+.state{fill:var(--ink-10);stroke:var(--paper);stroke-width:1px;cursor:default;transition:fill .12s linear}
+.state.live{fill:var(--coral-100);stroke:var(--coral-600);cursor:pointer}
+.state.live:hover{fill:var(--coral);stroke:var(--coral-600)}
+.city-dot{fill:var(--coral);stroke:var(--ink);stroke-width:2px;cursor:pointer}
+.city-dot:hover{fill:#fff;stroke:var(--coral)}
+.map-tooltip{position:absolute;pointer-events:none;background:var(--ink);color:#fff;font-size:12.5px;font-weight:600;padding:7px 11px;border-radius:6px;transform:translate(-50%,-135%);white-space:nowrap;opacity:0;transition:opacity .08s;z-index:5;line-height:1.4}
+.map-tooltip .tt-sub{display:block;font-weight:400;font-size:11px;color:rgba(255,255,255,.65);margin-top:2px}
+.map-tooltip.show{opacity:1}
+.map-note{font-size:12px;color:var(--ink-60);margin-top:10px;line-height:1.6}
+.article{max-width:1100px;margin:0 auto;padding:28px 20px 0}
+.article h2{font-family:var(--font-display);font-size:18px;font-weight:500;text-transform:uppercase;letter-spacing:.03em;margin:0 0 12px;padding-bottom:8px;border-bottom:2px solid var(--ink)}
+.article p{font-size:14px;line-height:1.7;color:var(--ink-80);margin-bottom:12px}
+.pin-grid{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:8px}
+.pin-chip{font-size:12.5px;font-weight:500;color:var(--ink);border:1.5px solid var(--coral);border-radius:999px;padding:6px 14px;background:var(--paper-white);text-decoration:none;display:inline-block}
+.pin-chip:hover{background:var(--coral);color:#fff;text-decoration:none}
+.source-row{font-size:11px;color:var(--ink-60);font-style:italic;line-height:1.6;padding:16px 0 0;border-top:1px solid var(--ink-20);margin-top:24px}
+.disc{font-size:11px;color:var(--ink-40);line-height:1.6;margin-top:14px}
+</style>
+<meta property="og:type" content="website">
+<meta property="og:title" content="Interactive US Tax Deadline Map | US Tax Calendar">
+<meta property="og:description" content="Click any state or city pin to jump straight to its filtered deadlines - federal, all 50 states + DC, and 8 major city/local jurisdictions.">
+<meta property="og:url" content="https://ustaxcalendar.com/map.html">
+<meta property="og:site_name" content="US Tax Calendar">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","name":"Interactive US Tax Deadline Map","url":"https://ustaxcalendar.com/map.html","isPartOf":{"@type":"WebSite","name":"US Tax Calendar","url":"https://ustaxcalendar.com"},"isAccessibleForFree":true,"inLanguage":"en-US"}
+</script>
+</head>
+<body>
+<nav>
+  <a class="brand" href="/">US Tax<span>Calendar</span><small>a tk.cpa resource</small></a>
+  <a class="cta" href="https://tk.cpa" target="_blank" rel="noopener">tk.cpa</a>
+</nav>
+<div class="cat-nav" role="navigation" aria-label="Sections">
+  <div class="cat-nav-inner">
+    <a href="/">Calendar</a>
+    <a href="map.html" class="active">Map</a>
+    <a href="disclaimer.html">Disclaimer</a>
+  </div>
+</div>
+
+<div class="ph"><div class="phi">
+  <h1>Interactive US Tax Deadline Map</h1>
+  <div class="sub">Click any coral state for its individual income tax deadlines. Coral pins mark 8 city/local tax jurisdictions that file independently of the state. Clicking either jumps to the calendar filtered to that jurisdiction.</div>
+  <div class="badges"><span class="badge">50 states + DC live</span><span class="badge">8 city/local jurisdictions live</span></div>
+</div></div>
+
+<div class="wrap">
+  <div class="legend">
+    <div class="legend-item"><span class="legend-swatch" style="background:var(--coral-100);border-color:var(--coral-600)"></span> State - click to filter the calendar</div>
+    <div class="legend-item"><span class="legend-swatch" style="background:var(--coral);border-radius:50%;border:2px solid var(--ink)"></span> City / local tax jurisdiction - click to filter the calendar</div>
+  </div>
+  <div class="map-wrap" id="map-wrap">
+    <svg id="us-map" viewBox="0 0 960 600" preserveAspectRatio="xMidYMid meet"></svg>
+    <div class="map-tooltip" id="map-tooltip"></div>
+  </div>
+  <p class="map-note">Base geometry: US Census Bureau state boundaries via the <a href="https://github.com/topojson/us-atlas" target="_blank" rel="noopener">us-atlas</a> public-domain TopoJSON, rendered client-side with <a href="https://d3js.org" target="_blank" rel="noopener">D3.js</a>. Alaska and Hawaii are shown at reduced scale via the standard Albers USA composite projection, not geographically true position.</p>
+</div>
+
+<div class="article">
+<h2>City and local tax jurisdictions (live)</h2>
+<p>These localities impose their own income, wage, or earnings taxes independent of the state, filed on their own schedule. They are pinned on the map above - click a pin or the links below to jump to the calendar filtered to that jurisdiction. Ohio's pin covers RITA member municipalities statewide; Michigan's pin covers Michigan cities administered by the state, including Detroit.</p>
+<div class="pin-grid">
+  <a href="index.html?jurisdiction=New%20York%20City" class="pin-chip">New York City</a>
+  <a href="index.html?jurisdiction=Philadelphia" class="pin-chip">Philadelphia</a>
+  <a href="index.html?jurisdiction=Ohio%20Municipalities%20(RITA)" class="pin-chip">Ohio RITA municipalities</a>
+  <a href="index.html?jurisdiction=Michigan%20Cities%20(incl.%20Detroit)" class="pin-chip">Michigan cities</a>
+  <a href="index.html?jurisdiction=Kansas%20City%2C%20MO" class="pin-chip">Kansas City, MO</a>
+  <a href="index.html?jurisdiction=St.%20Louis%2C%20MO" class="pin-chip">St. Louis, MO</a>
+  <a href="index.html?jurisdiction=Portland%20%2F%20Multnomah%20County%2C%20OR" class="pin-chip">Portland / Multnomah County, OR</a>
+  <a href="index.html?jurisdiction=San%20Francisco%2C%20CA" class="pin-chip">San Francisco, CA</a>
+</div>
+
+<div class="source-row">State boundary data: US Census Bureau (public domain) via us-atlas. See the calendar's filter dropdown for the authoritative, per-jurisdiction, cited deadline list.</div>
+<div class="disc">This page is for informational purposes only and is not legal, tax, or accounting advice. No professional relationship is created by using this site. <a href="disclaimer.html">Full disclaimer.</a></div>
+</div>
+
+<footer style="background:var(--ink);border-top:2px solid var(--coral);margin-top:60px;padding:16px 0">
+  <div style="max-width:1100px;margin:0 auto;padding:0 20px;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px">
+    <span style="font-family:var(--font-mono);font-size:11px;color:rgba(255,255,255,.38);letter-spacing:.08em">a tk.cpa resource</span>
+    <a href="https://tk.cpa" target="_blank" rel="noopener" style="font-family:var(--font-sans);font-size:12px;font-weight:600;color:var(--coral);text-decoration:none;letter-spacing:.03em">tk.cpa</a>
+  </div>
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3/dist/topojson-client.min.js"></script>
+<script>
+// FIPS state code -> {name, jurisdiction filter value}. All 50 states + DC are live in the calendar data.
+const STATES = {
+  "01":"Alabama","02":"Alaska","04":"Arizona","05":"Arkansas","06":"California","08":"Colorado",
+  "09":"Connecticut","10":"Delaware","11":"District of Columbia","12":"Florida","13":"Georgia","15":"Hawaii",
+  "16":"Idaho","17":"Illinois","18":"Indiana","19":"Iowa","20":"Kansas","21":"Kentucky",
+  "22":"Louisiana","23":"Maine","24":"Maryland","25":"Massachusetts","26":"Michigan","27":"Minnesota",
+  "28":"Mississippi","29":"Missouri","30":"Montana","31":"Nebraska","32":"Nevada","33":"New Hampshire",
+  "34":"New Jersey","35":"New Mexico","36":"New York","37":"North Carolina","38":"North Dakota","39":"Ohio",
+  "40":"Oklahoma","41":"Oregon","42":"Pennsylvania","44":"Rhode Island","45":"South Carolina","46":"South Dakota",
+  "47":"Tennessee","48":"Texas","49":"Utah","50":"Vermont","51":"Virginia","53":"Washington",
+  "54":"West Virginia","55":"Wisconsin","56":"Wyoming"
+};
+
+const CITIES = [
+  {name:"New York City", jurisdiction:"New York City", lon:-74.0060, lat:40.7128},
+  {name:"Philadelphia", jurisdiction:"Philadelphia", lon:-75.1652, lat:39.9526},
+  {name:"Ohio RITA municipalities", jurisdiction:"Ohio Municipalities (RITA)", lon:-81.6944, lat:41.4993},
+  {name:"Michigan cities (incl. Detroit)", jurisdiction:"Michigan Cities (incl. Detroit)", lon:-83.0458, lat:42.3314},
+  {name:"Kansas City, MO", jurisdiction:"Kansas City, MO", lon:-94.5786, lat:39.0997},
+  {name:"St. Louis, MO", jurisdiction:"St. Louis, MO", lon:-90.1994, lat:38.6270},
+  {name:"Portland / Multnomah County, OR", jurisdiction:"Portland / Multnomah County, OR", lon:-122.6784, lat:45.5152},
+  {name:"San Francisco, CA", jurisdiction:"San Francisco, CA", lon:-122.4194, lat:37.7749}
+];
+
+const width = 960, height = 600;
+const svg = d3.select("#us-map").attr("viewBox", "0 0 " + width + " " + height);
+const projection = d3.geoAlbersUsa().scale(1250).translate([width/2, height/2]);
+const path = d3.geoPath().projection(projection);
+const tooltip = document.getElementById("map-tooltip");
+const wrap = document.getElementById("map-wrap");
+
+function showTip(html, evt) {
+  tooltip.innerHTML = html;
+  tooltip.classList.add("show");
+  const rect = wrap.getBoundingClientRect();
+  tooltip.style.left = (evt.clientX - rect.left) + "px";
+  tooltip.style.top = (evt.clientY - rect.top) + "px";
+}
+function hideTip() { tooltip.classList.remove("show"); }
+function goTo(jurisdiction) {
+  window.location.href = "index.html?jurisdiction=" + encodeURIComponent(jurisdiction);
+}
+
+fetch("https://cdn.jsdelivr.net/npm/us-atlas@3/states-10m.json")
+  .then(r => r.json())
+  .then(us => {
+    const statesGeo = topojson.feature(us, us.objects.states).features;
+    svg.selectAll("path.state")
+      .data(statesGeo)
+      .enter()
+      .append("path")
+      .attr("class", d => STATES[d.id] ? "state live" : "state")
+      .attr("d", path)
+      .on("mousemove", function(evt, d) {
+        const name = STATES[d.id];
+        if (!name) return;
+        showTip(name + '<span class="tt-sub">Click to filter the calendar</span>', evt);
+      })
+      .on("mouseleave", hideTip)
+      .on("click", function(evt, d) {
+        const name = STATES[d.id];
+        if (name) goTo(name);
+      });
+
+    // City pins, drawn after states so they sit on top.
+    const cityLayer = svg.append("g").attr("class", "city-layer");
+    cityLayer.selectAll("circle.city-dot")
+      .data(CITIES)
+      .enter()
+      .append("circle")
+      .attr("class", "city-dot")
+      .attr("r", 6)
+      .attr("cx", d => { const p = projection([d.lon, d.lat]); return p ? p[0] : -100; })
+      .attr("cy", d => { const p = projection([d.lon, d.lat]); return p ? p[1] : -100; })
+      .on("mousemove", function(evt, d) {
+        showTip(d.name + '<span class="tt-sub">Click to filter the calendar</span>', evt);
+      })
+      .on("mouseleave", hideTip)
+      .on("click", function(evt, d) {
+        goTo(d.jurisdiction);
+      });
+  })
+  .catch(function(err) {
+    document.getElementById("map-wrap").innerHTML = '<p style="padding:24px;font-size:13px;color:var(--ink-60)">Map data could not be loaded. Use the <a href="/">calendar\'s jurisdiction filter</a> instead.</p>';
+  });
+</script>
+</body>
+</html>

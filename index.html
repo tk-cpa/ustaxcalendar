@@ -110,6 +110,7 @@
 <div class="cat-nav" role="navigation" aria-label="Sections">
   <div class="cat-nav-inner">
     <a href="/" class="active">Calendar</a>
+    <a href="map.html">Map</a>
     <a href="disclaimer.html">Disclaimer</a>
   </div>
 </div>
@@ -119,7 +120,7 @@
     <div class="eyebrow">tk.cpa AI Lab</div>
     <h1>Every US tax deadline, in one calendar.</h1>
     <p>Federal and state filing deadlines - income tax, payroll tax, excise tax, information returns, estimated payments, and international information returns - searchable and filterable by date, form, and jurisdiction.</p>
-    <span class="slogan">Building this out in public - federal core is live, all 50 states + DC individual income tax dates are live, everything else is in progress.</span>
+    <span class="slogan">Building this out in public - federal core is live, all 50 states + DC individual income tax dates are live, 8 major city/local jurisdictions are live, everything else is in progress.</span>
   </div>
 </div>
 
@@ -161,7 +162,7 @@
 </div>
 
 <div class="disc">
-  <a href="/disclaimer.html">Disclaimer</a>. This is a reference tool built and maintained by <a href="https://tk.cpa" target="_blank" rel="noopener">tk.cpa</a>. Federal dates are sourced from IRS Publication 509 (2026) and current form instructions, cited per entry. State individual income tax due dates are a first-pass build sourced from a secondary aggregator and are flagged as pending independent primary-source verification against each state's own Department of Revenue - treat state dates as a starting point, not a final authority, until that verification is complete. This site is a reference tool, not tax advice; confirm any deadline against the official source cited before relying on it. An extension of time to file is not an extension of time to pay tax that is due.
+  <a href="/disclaimer.html">Disclaimer</a>. This is a reference tool built and maintained by <a href="https://tk.cpa" target="_blank" rel="noopener">tk.cpa</a>. Federal dates are sourced from IRS Publication 509 (2026) and current form instructions, cited per entry. All 50 states + DC individual income tax due dates, and 8 major city/local tax jurisdictions, are sourced directly from each jurisdiction's own government website, cited per entry - a small number of entries (marked in the underlying data) rely on an indirect reference or a well-established but not individually re-fetched fact rather than an explicit primary-source statement; check each entry's cited source before relying on it. This site is a reference tool, not tax advice; confirm any deadline against the official source cited before relying on it. An extension of time to file is not an extension of time to pay tax that is due.
 </div>
 
 <footer>
@@ -180,11 +181,12 @@ let ALL = [];
 let viewYear = 2026, viewMonth = 3; // April (0-indexed)
 
 async function load(){
-  const [fed, states] = await Promise.all([
+  const [fed, states, cities] = await Promise.all([
     fetch('data/deadlines-federal.json').then(r=>r.json()),
-    fetch('data/deadlines-states-income-tax.json').then(r=>r.json())
+    fetch('data/deadlines-states-income-tax.json').then(r=>r.json()),
+    fetch('data/deadlines-cities.json').then(r=>r.json())
   ]);
-  ALL = [...fed, ...states.filter(s=>s.date_2026)];
+  ALL = [...fed, ...states.filter(s=>s.date_2026), ...cities.filter(c=>c.date_2026)];
   populateFilters();
   populateBYOC();
   render();
@@ -305,6 +307,11 @@ function populateFilters(){
   cats.forEach(c=>{
     const o=document.createElement('option'); o.value=c; o.textContent=c; cSel.appendChild(o);
   });
+  const params = new URLSearchParams(window.location.search);
+  const jParam = params.get('jurisdiction');
+  if(jParam && jurs.includes(jParam)){
+    jSel.value = jParam;
+  }
   [jSel,cSel,document.getElementById('f-search'),document.getElementById('f-year')].forEach(el=>{
     el.addEventListener('input', render);
     el.addEventListener('change', render);
