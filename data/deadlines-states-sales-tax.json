@@ -806,14 +806,14 @@
     "form": "State sales & use tax return",
     "form_name": "Quarterly-filer state sales & use tax return (representative pattern - actual filing frequency, monthly/quarterly/annual, is assigned per business by the state based on sales volume)",
     "filer": "Businesses making retail sales, assigned a quarterly filing frequency",
-    "rule": "Widely documented as the standard 20th-of-following-month rule, but a first-party .gov quote stating the specific day-of-month was not obtained this session (only the weekend/holiday roll rule was confirmed) - flagged as needing re-verification.",
+    "rule": "Sales tax returns are due the 30th day of the month following the reporting period, unless the average monthly tax due for the preceding year exceeds $1,000, in which case returns are due the 20th day of the month following the reporting period. These entries use the 20th-day (larger filer) rule.",
     "date_2026": "2026-04-20",
     "extended_date_2026": null,
     "extension_form": null,
-    "description": "Q1 2026 (Jan-Mar) sales tax return, applying Indiana's quarterly-filer due-date rule: Widely documented as the standard 20th-of-following-month rule, but a first-party .gov quote stating the specific day-of-month was not obtained this session (only the weekend/holiday roll rule was confirmed) - flagged as needing re-verification. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
-    "authority": "Rule researched this session from Indiana's own tax agency materials, but not confirmed with a direct .gov quote of this specific figure - see rule/note",
-    "source_url": "https://secure.in.gov/dor/files/st-103inst.pdf",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "description": "Sales tax returns are due the 30th day of the month following the reporting period, unless the average monthly tax due for the preceding year exceeds $1,000, in which case returns are due the 20th day of the month following the reporting period. These entries use the 20th-day (larger filer) rule. This is a representative recurring pattern, not a single annual deadline.",
+    "authority": "Direct fetch of Indiana DOR's General Tax Information Bulletin (GB-102) this session.",
+    "source_url": "https://secure.in.gov/dor/files/gb102.pdf",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-sales-indiana-q2",
@@ -822,14 +822,14 @@
     "form": "State sales & use tax return",
     "form_name": "Quarterly-filer state sales & use tax return (representative pattern - actual filing frequency, monthly/quarterly/annual, is assigned per business by the state based on sales volume)",
     "filer": "Businesses making retail sales, assigned a quarterly filing frequency",
-    "rule": "Widely documented as the standard 20th-of-following-month rule, but a first-party .gov quote stating the specific day-of-month was not obtained this session (only the weekend/holiday roll rule was confirmed) - flagged as needing re-verification.",
+    "rule": "Sales tax returns are due the 30th day of the month following the reporting period, unless the average monthly tax due for the preceding year exceeds $1,000, in which case returns are due the 20th day of the month following the reporting period. These entries use the 20th-day (larger filer) rule.",
     "date_2026": "2026-07-20",
     "extended_date_2026": null,
     "extension_form": null,
-    "description": "Q2 2026 (Apr-Jun) sales tax return, applying Indiana's quarterly-filer due-date rule: Widely documented as the standard 20th-of-following-month rule, but a first-party .gov quote stating the specific day-of-month was not obtained this session (only the weekend/holiday roll rule was confirmed) - flagged as needing re-verification. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
-    "authority": "Rule researched this session from Indiana's own tax agency materials, but not confirmed with a direct .gov quote of this specific figure - see rule/note",
-    "source_url": "https://secure.in.gov/dor/files/st-103inst.pdf",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "description": "Sales tax returns are due the 30th day of the month following the reporting period, unless the average monthly tax due for the preceding year exceeds $1,000, in which case returns are due the 20th day of the month following the reporting period. These entries use the 20th-day (larger filer) rule. This is a representative recurring pattern, not a single annual deadline.",
+    "authority": "Direct fetch of Indiana DOR's General Tax Information Bulletin (GB-102) this session.",
+    "source_url": "https://secure.in.gov/dor/files/gb102.pdf",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-sales-indiana-q3",
@@ -838,14 +838,14 @@
     "form": "State sales & use tax return",
     "form_name": "Quarterly-filer state sales & use tax return (representative pattern - actual filing frequency, monthly/quarterly/annual, is assigned per business by the state based on sales volume)",
     "filer": "Businesses making retail sales, assigned a quarterly filing frequency",
-    "rule": "Widely documented as the standard 20th-of-following-month rule, but a first-party .gov quote stating the specific day-of-month was not obtained this session (only the weekend/holiday roll rule was confirmed) - flagged as needing re-verification.",
+    "rule": "Sales tax returns are due the 30th day of the month following the reporting period, unless the average monthly tax due for the preceding year exceeds $1,000, in which case returns are due the 20th day of the month following the reporting period. These entries use the 20th-day (larger filer) rule.",
     "date_2026": "2026-10-20",
     "extended_date_2026": null,
     "extension_form": null,
-    "description": "Q3 2026 (Jul-Sep) sales tax return, applying Indiana's quarterly-filer due-date rule: Widely documented as the standard 20th-of-following-month rule, but a first-party .gov quote stating the specific day-of-month was not obtained this session (only the weekend/holiday roll rule was confirmed) - flagged as needing re-verification. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
-    "authority": "Rule researched this session from Indiana's own tax agency materials, but not confirmed with a direct .gov quote of this specific figure - see rule/note",
-    "source_url": "https://secure.in.gov/dor/files/st-103inst.pdf",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "description": "Sales tax returns are due the 30th day of the month following the reporting period, unless the average monthly tax due for the preceding year exceeds $1,000, in which case returns are due the 20th day of the month following the reporting period. These entries use the 20th-day (larger filer) rule. This is a representative recurring pattern, not a single annual deadline.",
+    "authority": "Direct fetch of Indiana DOR's General Tax Information Bulletin (GB-102) this session.",
+    "source_url": "https://secure.in.gov/dor/files/gb102.pdf",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-sales-indiana-q4",
@@ -854,14 +854,14 @@
     "form": "State sales & use tax return",
     "form_name": "Quarterly-filer state sales & use tax return (representative pattern - actual filing frequency, monthly/quarterly/annual, is assigned per business by the state based on sales volume)",
     "filer": "Businesses making retail sales, assigned a quarterly filing frequency",
-    "rule": "Widely documented as the standard 20th-of-following-month rule, but a first-party .gov quote stating the specific day-of-month was not obtained this session (only the weekend/holiday roll rule was confirmed) - flagged as needing re-verification.",
+    "rule": "Sales tax returns are due the 30th day of the month following the reporting period, unless the average monthly tax due for the preceding year exceeds $1,000, in which case returns are due the 20th day of the month following the reporting period. These entries use the 20th-day (larger filer) rule.",
     "date_2026": "2027-01-20",
     "extended_date_2026": null,
     "extension_form": null,
-    "description": "Q4 2026 (Oct-Dec) sales tax return, applying Indiana's quarterly-filer due-date rule: Widely documented as the standard 20th-of-following-month rule, but a first-party .gov quote stating the specific day-of-month was not obtained this session (only the weekend/holiday roll rule was confirmed) - flagged as needing re-verification. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
-    "authority": "Rule researched this session from Indiana's own tax agency materials, but not confirmed with a direct .gov quote of this specific figure - see rule/note",
-    "source_url": "https://secure.in.gov/dor/files/st-103inst.pdf",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "description": "Sales tax returns are due the 30th day of the month following the reporting period, unless the average monthly tax due for the preceding year exceeds $1,000, in which case returns are due the 20th day of the month following the reporting period. These entries use the 20th-day (larger filer) rule. This is a representative recurring pattern, not a single annual deadline.",
+    "authority": "Direct fetch of Indiana DOR's General Tax Information Bulletin (GB-102) this session.",
+    "source_url": "https://secure.in.gov/dor/files/gb102.pdf",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-sales-iowa-q1",
@@ -2390,14 +2390,14 @@
     "form": "State sales & use tax return",
     "form_name": "Quarterly-filer state sales & use tax return (representative pattern - actual filing frequency, monthly/quarterly/annual, is assigned per business by the state based on sales volume)",
     "filer": "Businesses making retail sales, assigned a quarterly filing frequency",
-    "rule": "20th of the following month per general/secondary corroboration; the DOR's own due-date detail page did not render text on fetch this session, so this specific figure is not directly quoted from a .gov page.",
+    "rule": "Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electronic and paper returns are both due the 20th of the month following the reporting period.",
     "date_2026": "2026-04-20",
     "extended_date_2026": null,
     "extension_form": null,
-    "description": "Q1 2026 (Jan-Mar) sales tax return, applying South Dakota's quarterly-filer due-date rule: 20th of the following month per general/secondary corroboration; the DOR's own due-date detail page did not render text on fetch this session, so this specific figure is not directly quoted from a .gov page. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
-    "authority": "Rule researched this session from South Dakota's own tax agency materials, but not confirmed with a direct .gov quote of this specific figure - see rule/note",
-    "source_url": "https://dor.sd.gov/businesses/taxes/sales-use-tax/",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "description": "Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electronic and paper returns are both due the 20th of the month following the reporting period. This is a representative recurring pattern, not a single annual deadline.",
+    "authority": "Direct fetch of South Dakota DOR's January 2026 Sales and Use Tax Guide PDF this session.",
+    "source_url": "https://dor.sd.gov/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-sales-south-dakota-q2",
@@ -2406,14 +2406,14 @@
     "form": "State sales & use tax return",
     "form_name": "Quarterly-filer state sales & use tax return (representative pattern - actual filing frequency, monthly/quarterly/annual, is assigned per business by the state based on sales volume)",
     "filer": "Businesses making retail sales, assigned a quarterly filing frequency",
-    "rule": "20th of the following month per general/secondary corroboration; the DOR's own due-date detail page did not render text on fetch this session, so this specific figure is not directly quoted from a .gov page.",
+    "rule": "Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electronic and paper returns are both due the 20th of the month following the reporting period.",
     "date_2026": "2026-07-20",
     "extended_date_2026": null,
     "extension_form": null,
-    "description": "Q2 2026 (Apr-Jun) sales tax return, applying South Dakota's quarterly-filer due-date rule: 20th of the following month per general/secondary corroboration; the DOR's own due-date detail page did not render text on fetch this session, so this specific figure is not directly quoted from a .gov page. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
-    "authority": "Rule researched this session from South Dakota's own tax agency materials, but not confirmed with a direct .gov quote of this specific figure - see rule/note",
-    "source_url": "https://dor.sd.gov/businesses/taxes/sales-use-tax/",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "description": "Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electronic and paper returns are both due the 20th of the month following the reporting period. This is a representative recurring pattern, not a single annual deadline.",
+    "authority": "Direct fetch of South Dakota DOR's January 2026 Sales and Use Tax Guide PDF this session.",
+    "source_url": "https://dor.sd.gov/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-sales-south-dakota-q3",
@@ -2422,14 +2422,14 @@
     "form": "State sales & use tax return",
     "form_name": "Quarterly-filer state sales & use tax return (representative pattern - actual filing frequency, monthly/quarterly/annual, is assigned per business by the state based on sales volume)",
     "filer": "Businesses making retail sales, assigned a quarterly filing frequency",
-    "rule": "20th of the following month per general/secondary corroboration; the DOR's own due-date detail page did not render text on fetch this session, so this specific figure is not directly quoted from a .gov page.",
+    "rule": "Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electronic and paper returns are both due the 20th of the month following the reporting period.",
     "date_2026": "2026-10-20",
     "extended_date_2026": null,
     "extension_form": null,
-    "description": "Q3 2026 (Jul-Sep) sales tax return, applying South Dakota's quarterly-filer due-date rule: 20th of the following month per general/secondary corroboration; the DOR's own due-date detail page did not render text on fetch this session, so this specific figure is not directly quoted from a .gov page. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
-    "authority": "Rule researched this session from South Dakota's own tax agency materials, but not confirmed with a direct .gov quote of this specific figure - see rule/note",
-    "source_url": "https://dor.sd.gov/businesses/taxes/sales-use-tax/",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "description": "Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electronic and paper returns are both due the 20th of the month following the reporting period. This is a representative recurring pattern, not a single annual deadline.",
+    "authority": "Direct fetch of South Dakota DOR's January 2026 Sales and Use Tax Guide PDF this session.",
+    "source_url": "https://dor.sd.gov/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-sales-south-dakota-q4",
@@ -2438,14 +2438,14 @@
     "form": "State sales & use tax return",
     "form_name": "Quarterly-filer state sales & use tax return (representative pattern - actual filing frequency, monthly/quarterly/annual, is assigned per business by the state based on sales volume)",
     "filer": "Businesses making retail sales, assigned a quarterly filing frequency",
-    "rule": "20th of the following month per general/secondary corroboration; the DOR's own due-date detail page did not render text on fetch this session, so this specific figure is not directly quoted from a .gov page.",
+    "rule": "Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electronic and paper returns are both due the 20th of the month following the reporting period.",
     "date_2026": "2027-01-20",
     "extended_date_2026": null,
     "extension_form": null,
-    "description": "Q4 2026 (Oct-Dec) sales tax return, applying South Dakota's quarterly-filer due-date rule: 20th of the following month per general/secondary corroboration; the DOR's own due-date detail page did not render text on fetch this session, so this specific figure is not directly quoted from a .gov page. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
-    "authority": "Rule researched this session from South Dakota's own tax agency materials, but not confirmed with a direct .gov quote of this specific figure - see rule/note",
-    "source_url": "https://dor.sd.gov/businesses/taxes/sales-use-tax/",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "description": "Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electronic and paper returns are both due the 20th of the month following the reporting period. This is a representative recurring pattern, not a single annual deadline.",
+    "authority": "Direct fetch of South Dakota DOR's January 2026 Sales and Use Tax Guide PDF this session.",
+    "source_url": "https://dor.sd.gov/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-sales-tennessee-q1",
@@ -2646,14 +2646,14 @@
     "form": "State sales & use tax return",
     "form_name": "Quarterly-filer state sales & use tax return (representative pattern - actual filing frequency, monthly/quarterly/annual, is assigned per business by the state based on sales volume)",
     "filer": "Businesses making retail sales, assigned a quarterly filing frequency",
-    "rule": "25th of the following month per multiple secondary corroborations; the Vermont DOT FAQ page's answer text did not render via fetch this session, so this figure is not directly quoted from the .gov page itself.",
-    "date_2026": "2026-04-25",
+    "rule": "Vermont's actual rule (confirmed this session directly against tax.vermont.gov, correcting a prior secondary-sourced figure): monthly filers due the 25th of the following month; quarterly filers due the 27th of the month following the quarter (April/July/October/January); annual filers due January 25 of the following year. These entries use the quarterly 27th-day rule.",
+    "date_2026": "2026-04-27",
     "extended_date_2026": null,
     "extension_form": null,
-    "description": "Q1 2026 (Jan-Mar) sales tax return, applying Vermont's quarterly-filer due-date rule: 25th of the following month per multiple secondary corroborations; the Vermont DOT FAQ page's answer text did not render via fetch this session, so this figure is not directly quoted from the .gov page itself. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
-    "authority": "Rule researched this session from Vermont's own tax agency materials, but not confirmed with a direct .gov quote of this specific figure - see rule/note",
-    "source_url": "https://tax.vermont.gov/business-and-corp/sales-and-use-tax/faqs",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "description": "Vermont's actual rule (confirmed this session directly against tax.vermont.gov, correcting a prior secondary-sourced figure): monthly filers due the 25th of the following month; quarterly filers due the 27th of the month following the quarter (April/July/October/January); annual filers due January 25 of the following year. These entries use the quarterly 27th-day rule. This is a representative recurring pattern, not a single annual deadline.",
+    "authority": "Direct fetch of tax.vermont.gov's Sales and Use Tax program page this session.",
+    "source_url": "https://tax.vermont.gov/business/sales-and-use-tax",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-sales-vermont-q2",
@@ -2662,14 +2662,14 @@
     "form": "State sales & use tax return",
     "form_name": "Quarterly-filer state sales & use tax return (representative pattern - actual filing frequency, monthly/quarterly/annual, is assigned per business by the state based on sales volume)",
     "filer": "Businesses making retail sales, assigned a quarterly filing frequency",
-    "rule": "25th of the following month per multiple secondary corroborations; the Vermont DOT FAQ page's answer text did not render via fetch this session, so this figure is not directly quoted from the .gov page itself.",
-    "date_2026": "2026-07-25",
+    "rule": "Vermont's actual rule (confirmed this session directly against tax.vermont.gov, correcting a prior secondary-sourced figure): monthly filers due the 25th of the following month; quarterly filers due the 27th of the month following the quarter (April/July/October/January); annual filers due January 25 of the following year. These entries use the quarterly 27th-day rule.",
+    "date_2026": "2026-07-27",
     "extended_date_2026": null,
     "extension_form": null,
-    "description": "Q2 2026 (Apr-Jun) sales tax return, applying Vermont's quarterly-filer due-date rule: 25th of the following month per multiple secondary corroborations; the Vermont DOT FAQ page's answer text did not render via fetch this session, so this figure is not directly quoted from the .gov page itself. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
-    "authority": "Rule researched this session from Vermont's own tax agency materials, but not confirmed with a direct .gov quote of this specific figure - see rule/note",
-    "source_url": "https://tax.vermont.gov/business-and-corp/sales-and-use-tax/faqs",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "description": "Vermont's actual rule (confirmed this session directly against tax.vermont.gov, correcting a prior secondary-sourced figure): monthly filers due the 25th of the following month; quarterly filers due the 27th of the month following the quarter (April/July/October/January); annual filers due January 25 of the following year. These entries use the quarterly 27th-day rule. This is a representative recurring pattern, not a single annual deadline.",
+    "authority": "Direct fetch of tax.vermont.gov's Sales and Use Tax program page this session.",
+    "source_url": "https://tax.vermont.gov/business/sales-and-use-tax",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-sales-vermont-q3",
@@ -2678,14 +2678,14 @@
     "form": "State sales & use tax return",
     "form_name": "Quarterly-filer state sales & use tax return (representative pattern - actual filing frequency, monthly/quarterly/annual, is assigned per business by the state based on sales volume)",
     "filer": "Businesses making retail sales, assigned a quarterly filing frequency",
-    "rule": "25th of the following month per multiple secondary corroborations; the Vermont DOT FAQ page's answer text did not render via fetch this session, so this figure is not directly quoted from the .gov page itself.",
-    "date_2026": "2026-10-25",
+    "rule": "Vermont's actual rule (confirmed this session directly against tax.vermont.gov, correcting a prior secondary-sourced figure): monthly filers due the 25th of the following month; quarterly filers due the 27th of the month following the quarter (April/July/October/January); annual filers due January 25 of the following year. These entries use the quarterly 27th-day rule.",
+    "date_2026": "2026-10-27",
     "extended_date_2026": null,
     "extension_form": null,
-    "description": "Q3 2026 (Jul-Sep) sales tax return, applying Vermont's quarterly-filer due-date rule: 25th of the following month per multiple secondary corroborations; the Vermont DOT FAQ page's answer text did not render via fetch this session, so this figure is not directly quoted from the .gov page itself. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
-    "authority": "Rule researched this session from Vermont's own tax agency materials, but not confirmed with a direct .gov quote of this specific figure - see rule/note",
-    "source_url": "https://tax.vermont.gov/business-and-corp/sales-and-use-tax/faqs",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "description": "Vermont's actual rule (confirmed this session directly against tax.vermont.gov, correcting a prior secondary-sourced figure): monthly filers due the 25th of the following month; quarterly filers due the 27th of the month following the quarter (April/July/October/January); annual filers due January 25 of the following year. These entries use the quarterly 27th-day rule. This is a representative recurring pattern, not a single annual deadline.",
+    "authority": "Direct fetch of tax.vermont.gov's Sales and Use Tax program page this session.",
+    "source_url": "https://tax.vermont.gov/business/sales-and-use-tax",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-sales-vermont-q4",
@@ -2694,14 +2694,14 @@
     "form": "State sales & use tax return",
     "form_name": "Quarterly-filer state sales & use tax return (representative pattern - actual filing frequency, monthly/quarterly/annual, is assigned per business by the state based on sales volume)",
     "filer": "Businesses making retail sales, assigned a quarterly filing frequency",
-    "rule": "25th of the following month per multiple secondary corroborations; the Vermont DOT FAQ page's answer text did not render via fetch this session, so this figure is not directly quoted from the .gov page itself.",
-    "date_2026": "2027-01-25",
+    "rule": "Vermont's actual rule (confirmed this session directly against tax.vermont.gov, correcting a prior secondary-sourced figure): monthly filers due the 25th of the following month; quarterly filers due the 27th of the month following the quarter (April/July/October/January); annual filers due January 25 of the following year. These entries use the quarterly 27th-day rule.",
+    "date_2026": "2027-01-27",
     "extended_date_2026": null,
     "extension_form": null,
-    "description": "Q4 2026 (Oct-Dec) sales tax return, applying Vermont's quarterly-filer due-date rule: 25th of the following month per multiple secondary corroborations; the Vermont DOT FAQ page's answer text did not render via fetch this session, so this figure is not directly quoted from the .gov page itself. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
-    "authority": "Rule researched this session from Vermont's own tax agency materials, but not confirmed with a direct .gov quote of this specific figure - see rule/note",
-    "source_url": "https://tax.vermont.gov/business-and-corp/sales-and-use-tax/faqs",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "description": "Vermont's actual rule (confirmed this session directly against tax.vermont.gov, correcting a prior secondary-sourced figure): monthly filers due the 25th of the following month; quarterly filers due the 27th of the month following the quarter (April/July/October/January); annual filers due January 25 of the following year. These entries use the quarterly 27th-day rule. This is a representative recurring pattern, not a single annual deadline.",
+    "authority": "Direct fetch of tax.vermont.gov's Sales and Use Tax program page this session.",
+    "source_url": "https://tax.vermont.gov/business/sales-and-use-tax",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-sales-virginia-q1",

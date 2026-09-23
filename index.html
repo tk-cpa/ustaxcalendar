@@ -120,7 +120,7 @@
     <div class="eyebrow">tk.cpa AI Lab</div>
     <h1>Every US tax deadline, in one calendar.</h1>
     <p>Federal and state filing deadlines - income tax, payroll tax, excise tax, information returns, estimated payments, and international information returns - searchable and filterable by date, form, and jurisdiction.</p>
-    <span class="slogan">Federal, all 50 states + DC individual income tax, 8 city/local jurisdictions, state corporate/franchise tax, state sales tax filing patterns, and state unemployment insurance deadlines - all live.</span>
+    <span class="slogan">Federal, all 50 states + DC individual income tax, 8 city/local jurisdictions, state corporate/franchise tax, state sales tax filing patterns, state unemployment insurance (all 51 jurisdictions individually verified), and estimated tax for 15 states - all live.</span>
   </div>
 </div>
 
@@ -181,14 +181,15 @@ let ALL = [];
 let viewYear = 2026, viewMonth = 3; // April (0-indexed)
 
 async function load(){
-  const [fed, fedAdd, states, cities, statesCorp, statesSales, statesPayroll] = await Promise.all([
+  const [fed, fedAdd, states, cities, statesCorp, statesSales, statesPayroll, statesEst] = await Promise.all([
     fetch('data/deadlines-federal.json').then(r=>r.json()),
     fetch('data/deadlines-federal-additional.json').then(r=>r.json()),
     fetch('data/deadlines-states-income-tax.json').then(r=>r.json()),
     fetch('data/deadlines-cities.json').then(r=>r.json()),
     fetch('data/deadlines-states-corporate.json').then(r=>r.json()),
     fetch('data/deadlines-states-sales-tax.json').then(r=>r.json()),
-    fetch('data/deadlines-states-payroll.json').then(r=>r.json())
+    fetch('data/deadlines-states-payroll.json').then(r=>r.json()),
+    fetch('data/deadlines-states-estimated.json').then(r=>r.json())
   ]);
   ALL = [
     ...fed, ...fedAdd,
@@ -196,7 +197,8 @@ async function load(){
     ...cities.filter(c=>c.date_2026),
     ...statesCorp.filter(s=>s.date_2026),
     ...statesSales.filter(s=>s.date_2026),
-    ...statesPayroll.filter(s=>s.date_2026)
+    ...statesPayroll.filter(s=>s.date_2026),
+    ...statesEst.filter(s=>s.date_2026)
   ];
   populateFilters();
   populateBYOC();

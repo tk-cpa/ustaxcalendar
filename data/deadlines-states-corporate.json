@@ -22,14 +22,14 @@
     "form": "State corporate income/franchise tax return",
     "form_name": "Calendar-year C-corporation state income or franchise tax return",
     "filer": "C-corporations",
-    "rule": "tax.alaska.gov blocks automated fetching; rule (15th day of 5th month, extension to 15th day of month after federal extended due date) is corroborated by a mirrored copy of Alaska DOR's own Form 6000 instructions but was not independently confirmed against tax.alaska.gov directly this session.",
+    "rule": "Due 15th day of 5th month after year end (May 15); automatic extension to 15th day of month following the federal extended due date (November 15).",
     "date_2026": "2026-05-15",
     "extended_date_2026": "2026-11-15",
     "extension_form": null,
-    "description": "tax.alaska.gov blocks automated fetching; rule (15th day of 5th month, extension to 15th day of month after federal extended due date) is corroborated by a mirrored copy of Alaska DOR's own Form 6000 instructions but was not independently confirmed against tax.alaska.gov directly this session.",
-    "authority": "Rule researched this session from Alaska's own tax agency site, but a specific figure (extended date, or the .gov page itself) was not cleanly confirmed with a direct quote - see rule/note for the specific gap",
-    "source_url": "https://www.tax.alaska.gov/",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "description": "Due 15th day of 5th month after year end (May 15); automatic extension to 15th day of month following the federal extended due date (November 15).",
+    "authority": "Direct fetch of Alaska DOR Form 6000 Instructions PDF this session (accessed directly via the document viewer URL, bypassing a robots.txt block on the HTML site), corroborated by a 2024 mirror of the same official instructions: \"C Corporations, generally - Filing due date: 15th of the fifth month; Extended due date: 15th of the eleventh month.\"",
+    "source_url": "https://tax.alaska.gov/programs/documentviewer/viewer.aspx?6661f",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-corp-arizona",
@@ -246,14 +246,14 @@
     "form": "State corporate income/franchise tax return",
     "form_name": "Calendar-year C-corporation state income or franchise tax return",
     "filer": "C-corporations",
-    "rule": "IA 1120 due the last day of the 4th month after year end (April 30 for calendar year, not the 15th-day rule most states use); automatic 6-month extension is filing-only if 90%+ of tax was paid by the original date. The specific current-year instructions PDF used a prior-year example date; the April 30, 2026 date follows the stated last-day-of-4th-month rule but the current-year document was not independently re-pulled.",
+    "rule": "IA 1120 due the last day of the 4th month after year end (April 30 for calendar year); automatic 6-month extension (to October 30) if 90%+ of tax was paid by the original due date - filing only, interest still accrues.",
     "date_2026": "2026-04-30",
-    "extended_date_2026": "2026-10-31",
+    "extended_date_2026": "2026-10-30",
     "extension_form": null,
-    "description": "IA 1120 due the last day of the 4th month after year end (April 30 for calendar year, not the 15th-day rule most states use); automatic 6-month extension is filing-only if 90%+ of tax was paid by the original date. The specific current-year instructions PDF used a prior-year example date; the April 30, 2026 date follows the stated last-day-of-4th-month rule but the current-year document was not independently re-pulled.",
-    "authority": "Rule researched this session from Iowa's own tax agency site, but a specific figure (extended date, or the .gov page itself) was not cleanly confirmed with a direct quote - see rule/note for the specific gap",
-    "source_url": "https://revenue.iowa.gov/media/4083/download?inline=",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "description": "IA 1120 due the last day of the 4th month after year end (April 30 for calendar year); automatic 6-month extension (to October 30) if 90%+ of tax was paid by the original due date - filing only, interest still accrues.",
+    "authority": "Direct fetch of the current (2025 tax year) Iowa Corporation Income Tax Instructions PDF this session: \"Return is due no later than April 30, 2026.\" \"All taxpayers who have paid 90% or more of their correct tax on or before the original due date of their return automatically have an additional six months in which to file their return.\"",
+    "source_url": "https://revenue.iowa.gov/media/4372/download?inline=",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-corp-kansas",

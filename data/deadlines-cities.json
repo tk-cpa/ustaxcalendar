@@ -58,10 +58,10 @@
     "date_2026": "2026-04-15",
     "extended_date_2026": null,
     "extension_form": null,
-    "description": "Employees whose employer did not withhold the full Earnings Tax must file a reconciliation return. Philadelphia's official Earnings Tax due-dates PDF was fetched this session but its quarterly payment table did not state a separate annual reconciliation deadline; the BIRT/NPT April 15 pattern remains the best available inference, not a directly quoted annual reconciliation date.",
-    "authority": "Secondary-sourced by pattern from the confirmed BIRT/NPT April 15 deadline; the Earnings Tax page itself was not independently fetched this session",
-    "source_url": "https://www.phila.gov/media/20241231083013/2025-Earnings-Tax-due-dates.pdf",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "description": "The 2025 Annual Earnings Tax Reconciliation is due April 15, 2026, confirmed directly against Philadelphia's own official instructions PDF this session.",
+    "authority": "Direct fetch of the City of Philadelphia Department of Revenue's 2025 Earnings Tax return instructions PDF this session: \"The 2025 Annual Earnings Tax Reconciliation is due by April 15, 2026.\"",
+    "source_url": "https://www.phila.gov/media/20260112135700/2025-Earnings-Tax-return-instructions-general-information.pdf",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "city-ohio-rita",
@@ -106,8 +106,8 @@
     "date_2026": "2026-04-15",
     "extended_date_2026": null,
     "extension_form": null,
-    "description": "Kansas City's own FAQ page ties its earnings-tax refund-request deadline to \"the federal income tax deadline\" (April 15, 2026); a direct fetch of kcmo.gov's tax FAQ page for the return due date itself returned a 403 error this session, and web search did not surface a page stating the original RD-109 return due date verbatim. April 15 remains the best available inference from the federal-conformity language, not a directly confirmed date.",
-    "authority": "Direct fetch of kcmo.gov this session (refund-deadline language only, not an explicit return due-date statement)",
+    "description": "Every direct kcmo.gov PDF and FAQ path attempted this session returned a 403 error or stated no due date. Third-party hosted mirrors of the official city-issued RD-109/RD-109NR forms state \"on or before April 15th\" (with the standard weekend/holiday roll), corroborating the April 15 date, but this is not a kcmo.gov-hosted confirmation, so it remains secondary-source.",
+    "authority": "Third-party mirrors of the official City of Kansas City RD-109/RD-109NR forms (zillionforms.com, eformrs.com); direct kcmo.gov access blocked (403) on every path attempted this session",
     "source_url": "https://www.kcmo.gov/city-hall/departments/finance/tax-home/tax-faqs",
     "verification_status": "secondary-source, pending primary-source pin"
   },
