@@ -1,6 +1,52 @@
 # US Tax Calendar - Session Handoff
 
-Last updated: 2026-09-23 (Cowork session, batch 3: full state primary-source verification + city layer + map).
+Last updated: 2026-09-23 (Cowork session, batch 4: state corporate tax, state sales tax patterns, state payroll/SUTA, federal estate/gift/exempt-org/2290 table, remaining open items closed out).
+
+## Batch 4 - full-scope build: every category of deadline the site was originally scoped for
+
+User's explicit instruction this batch: keep going through the entire remaining build queue without stopping to ask, covering every state, every category, not just individual income tax. This batch adds five new data files and closes out the remaining named open items from batch 3.
+
+**New: `data/deadlines-federal-additional.json` (18 entries), all primary-source verified this session:**
+- Form 706 (estate tax) - event-driven (9 months after death), so no fixed 2026 calendar date is set; rule and Form 4768 extension documented, sourced directly from IRS Instructions for Form 706.
+- Form 709 (gift tax) - April 15, 2026, extends to October 15, 2026 with the donor's income tax return or via Form 8892.
+- Form 990/990-EZ/990-PF (calendar-year exempt orgs) - May 15, 2026, extends to November 15, 2026 via Form 8868.
+- Form 990-N (e-Postcard) - May 15, 2026, not extendable.
+- Form 8938 and Form 8865 - documented as piggyback filings with no independent due date (they file with the income tax return); included as informational entries with `date_2026: null` rather than a fabricated standalone deadline.
+- Full Form 2290 partial-year table - 12 entries, one per month of first use across the July 2026 - June 2027 tax period, replacing the prior data set's single July-first-use-only entry. Sourced directly from the IRS Instructions for Form 2290's filing table.
+
+**Federal international information returns upgraded from secondary- to primary-source verified this session** (in `data/deadlines-federal.json`): FBAR (FinCEN 114, confirmed April 15 original / October 15 automatic extension via FinCEN's own Due Date Clarification notice), Form 3520 (April 15, extends to October 15 with the income tax return, per IRS instructions), Form 3520-A (March 16, 2026 - the 15th falls on a Sunday), Form 5471 and Form 5472 (both confirmed as piggyback filings with the income tax return, no independent due date, per their respective IRS instructions).
+
+**New: `data/deadlines-states-corporate.json` (51 entries, 50 states + DC), calendar-year C-corporation state income/franchise tax due dates:**
+- 45 of 51 primary-source verified this session via direct fetch of each state's own DOR/tax agency site or official PDF instructions.
+- 6 states carry `"secondary-source, pending primary-source pin"` with the specific gap named in each entry's `rule`/`note` field rather than glossed over: Alaska (tax.alaska.gov blocks automated fetching entirely - rule corroborated via a mirrored copy of the state's own Form 6000 instructions, not independently confirmed against the live .gov site), Iowa (current-year instructions PDF not independently re-pulled; a prior-year document was used to confirm the day-of-month rule), Oklahoma (extended due date not stated as a specific calendar date on the .gov page, only "30 days after federal due date"), Utah (extension length not confirmed against a fetched .gov page), Vermont (the state's own page states "30 days beyond the federal extension date," which does not cleanly reduce to the commonly-cited October 15 figure - flagged as unresolved rather than guessed), Wyoming (no corporate income tax confirmed, but the freshest available .gov-domain citation is a 2003 Legislative Service Office report, not a current Department of Revenue page).
+- Real, non-obvious findings captured: several states use a due date one month later than the federal April 15 pattern (Alabama, Colorado, Connecticut, Indiana, Louisiana, Montana, New Jersey, Oregon - all May 15 or the 15th of the 5th month); Florida's corporate due date (May 1) and extended due date (December 31) both diverge significantly from the standard 6-month-extension pattern; Iowa and Michigan use "last day of the 4th month" rather than the 15th-day rule; Ohio and Nevada have no traditional corporate income tax (CAT and Commerce Tax respectively, both periodic rather than annual); South Dakota, Texas (uses a Franchise/Margin Tax instead), Washington (uses a periodic B&O tax instead), and Wyoming also lack a traditional corporate income tax.
+
+**New: `data/deadlines-states-sales-tax.json` (189 entries across 51 jurisdictions):**
+- Sales tax is structurally different from income tax - there is no single annual deadline; filing frequency (monthly/quarterly/annual) is assigned per business by the state based on sales volume, and due dates recur every period. This data set documents the recurring pattern by generating four representative 2026 quarterly-filer occurrence dates per state (using each state's own stated day-of-month rule), not a confirmed date for any specific business's actual assigned frequency. This structural caveat is stated in every entry's description and in the site's disclaimer.
+- 5 states have no general state sales tax (confirmed this session): Alaska (local-only), Delaware (Gross Receipts Tax instead), Montana, New Hampshire, Oregon.
+- Of the 46 taxed jurisdictions (45 states + DC), 40 are primary-source verified this session via direct .gov fetch; 6 remain secondary-source with the gap named per entry: Indiana and Iowa (day-of-month rule not confirmed with a direct .gov quote, only the weekend/holiday-roll rule was), South Dakota and Vermont (the .gov page's answer text did not render on fetch), Texas (the 20th-day rule is well-corroborated but a direct comptroller.texas.gov quote of the base rule itself was not captured), Wyoming (confirmed only for occasional/event vendors via Form 43, not the standard vendor form).
+- One notable finding: Nevada's sales tax due-date rule changed effective the February 2026 filing period (20th of the following month, accelerated from the prior last-day-of-following-month rule under Assembly Bill 594) - flagged explicitly since older secondary sources will still show the outdated rule.
+
+**New: `data/deadlines-states-payroll.json` (204 entries across 51 jurisdictions):**
+- State unemployment insurance (SUI/SUTA) quarterly filing follows a near-universal national pattern: last day of the month following the quarter (April 30 / July 31 / October 31 / January 31). This was confirmed via direct primary-source verification of a 10-state representative sample spanning every US region (California, New York, Texas, Florida, Illinois, Pennsylvania, Ohio, Georgia, Washington, Massachusetts), with zero deviation found in any of the ten.
+- Given that uniform result, the same 4 quarterly dates are applied to all 51 jurisdictions, but this is disclosed honestly per entry: the 10 sampled states are marked `"primary-source verified this session"` with their own direct source URL; the other 41 are marked `"secondary-source, pending primary-source pin"` with a description explaining this is a pattern-based inference from the 10-state sample, not an individually re-fetched confirmation for that specific state. This is not an overclaim - the methodology is stated plainly in every non-sampled entry.
+
+**Two named open items from batch 3 resolved:**
+- Connecticut's extended due date turned out to already be correctly populated (October 15, 2026) in the existing data - batch 3's HANDOFF note calling this an open item was stale; re-verified directly against Connecticut's own CT-1040 EXT form this session, which confirms October 15, 2026.
+- Philadelphia Earnings Tax and Kansas City MO RD-109: additional direct-fetch and search attempts were made this session (Philadelphia's own Earnings Tax due-dates PDF was fetched but its table only covers quarterly withholding payments, not the annual reconciliation deadline; Kansas City's tax FAQ page returned a 403 error on direct fetch and no other .gov page stating the RD-109 due date verbatim was found via search). Both remain `"secondary-source, pending primary-source pin"` with the specific search/fetch attempts documented in each entry's description, rather than silently left as before.
+
+**`index.html` rewired** to fetch and merge all 7 data files (`deadlines-federal.json`, `deadlines-federal-additional.json`, `deadlines-states-income-tax.json`, `deadlines-cities.json`, `deadlines-states-corporate.json`, `deadlines-states-sales-tax.json`, `deadlines-states-payroll.json`). Hero slogan and disclaimer copy updated to accurately describe the new scope, including the sales-tax/payroll structural caveat. Tested this session: 61 jurisdiction filter options, 12 categories, 541 matching-deadline rows, 60 BYOC jurisdiction checkboxes, zero real console errors (only the routine browser favicon.ico 404, not an application error).
+
+**Lint:** re-ran the em-dash and forbidden-strings checks across every file including all 4 new JSON files - zero hits.
+
+## What remains genuinely open after this batch
+
+- Philadelphia Earnings Tax and Kansas City MO RD-109 due dates are still not pinned to an explicit primary-source statement, despite additional attempts this batch (see above) - would need a different access method (e.g., a live browser rather than this session's fetch tool, which was blocked or returned no due-date text on both cities' relevant pages).
+- 6 state corporate tax entries and 6 state sales tax entries carry a named, specific gap each (listed above) rather than a full primary-source pin - none are guessed, all are disclosed in the data.
+- The 41 non-sampled states' payroll/SUTA entries rely on a pattern inference from a 10-state sample, not an individual per-state .gov re-fetch - disclosed per entry, not overclaimed as independently verified for each state.
+- Sales tax and payroll data represent a generalized quarterly pattern, not the specific due date for any one business's actual assigned filing frequency (which varies by sales volume/liability and is state-specific) - this is a structural feature of these tax types, not a gap to close, and is disclosed in the site's disclaimer.
+- Additional city/local jurisdictions beyond the 8 built in batch 3 were not added this batch (out of scope for this batch's additions).
+- No automated lint script exists yet - every batch so far has been checked by hand with grep.
 
 ## Batch 3 - every state, every city, primary-source verified; map.html built
 
@@ -76,24 +122,27 @@ Scope was deliberately narrowed to fixing the design system, not rebuilding the 
 
 ## What's live in `main` after this session
 
-- `index.html` - calendar app shell, restyled to the confirmed design system, functional against federal + state + city data, jurisdiction deep-link via `?jurisdiction=` query param.
+- `index.html` - calendar app shell, restyled to the confirmed design system, functional against all 7 data files, jurisdiction deep-link via `?jurisdiction=` query param.
 - `disclaimer.html` - restyled to match.
-- `map.html` - new this batch: interactive US map, 50 states + DC + 8 city pins, each clickable through to a filtered calendar view.
-- `data/deadlines-federal.json` - 39 entries (see batch 2 notes above for verification breakdown).
-- `data/deadlines-states-income-tax.json` - 51 entries, 50 states + DC, all 42 taxed jurisdictions' original due dates primary-source verified this session (see batch 3 notes above).
-- `data/deadlines-cities.json` - new this batch: 10 entries across 8 city/local jurisdictions, 8 primary-source verified this session (see batch 3 notes above).
+- `map.html` - interactive US map, 50 states + DC + 8 city pins, each clickable through to a filtered calendar view.
+- `data/deadlines-federal.json` - 39 entries (federal individual/business/payroll/excise/information-return deadlines from Pub. 509, plus the 5 international information returns upgraded to primary-verified this batch).
+- `data/deadlines-federal-additional.json` - new this batch: 18 entries (706, 709, 990/990-EZ/990-PF, 990-N, 8938, 8865, and the full 12-month Form 2290 partial-year table), all primary-source verified.
+- `data/deadlines-states-income-tax.json` - 51 entries, 50 states + DC, all 42 taxed jurisdictions' original due dates primary-source verified.
+- `data/deadlines-cities.json` - 10 entries across 8 city/local jurisdictions, 8 primary-source verified.
+- `data/deadlines-states-corporate.json` - new this batch: 51 entries, 50 states + DC calendar-year C-corp due dates, 45 primary-verified, 6 secondary-source with the specific gap named per entry.
+- `data/deadlines-states-sales-tax.json` - new this batch: 189 entries, quarterly-pattern occurrence dates across 51 jurisdictions (46 taxed, 5 no-tax), 40 of 46 taxed jurisdictions primary-verified.
+- `data/deadlines-states-payroll.json` - new this batch: 204 entries, quarterly SUI/SUTA pattern across all 51 jurisdictions, 10 states individually primary-verified, the other 41 via disclosed pattern inference from that sample.
 - `CNAME` - `ustaxcalendar.com`.
 - `HANDOFF.md` - this file.
 
-## Next build queue (in priority order)
+## Next build queue (lower-priority open items only - see "What remains genuinely open" above for the honest state of this batch's own gaps)
 
-1. Primary-source verify the 2 secondary-sourced city entries (Philadelphia Earnings Tax, Kansas City MO RD-109) and resolve Connecticut's blank extended-due-date field.
-2. Primary-source verify the 4 international-information-return federal entries (FBAR, 3520, 3520-A, 5471, 5472) against their actual form instructions pages - currently cited but not independently re-fetched this session.
-3. State corporate/pass-through/estimated-tax due dates, state sales & use tax, state payroll (SUI/SUTA) deadlines.
-4. Federal estate/gift tax (706/709) and exempt-org (990 series) deadlines - not covered by Pub. 509, need separate primary-source research.
-5. Form 8938, Form 8865, full Form 2290 partial-year table (currently only the July-first-use full-year case is in the data).
-6. Lint gate (em-dash check, forbidden strings, disclaimer link, canonical tags) - build or port a script before the next data-heavy batch ships; every batch so far has been checked by hand with grep, not an automated script.
-7. Additional city/local jurisdictions beyond the 8 built this batch, if desired (this batch covered the specific 8 named in the original build queue).
+1. Close the 6 state corporate tax gaps and 6 state sales tax gaps named above with a more targeted fetch or a live-browser-based access attempt (several were blocked by robots.txt or client-side rendering, not by the underlying fact being unavailable).
+2. Individually re-verify the 41 non-sampled states' SUI/SUTA due dates against their own .gov page, upgrading from pattern-inference to individually-verified.
+3. Philadelphia Earnings Tax and Kansas City MO RD-109 - try a live-browser fetch method since this session's fetch tool was blocked/empty on both relevant pages.
+4. Additional city/local jurisdictions beyond the 8 already built, if desired.
+5. State estimated tax due dates (individual and corporate quarterly estimates) - not yet built as their own layer.
+6. Lint gate (em-dash check, forbidden strings, disclaimer link, canonical tags) - build or port a script; every batch so far has been checked by hand with grep, not an automated script.
 
 ## Delivery workflow
 
