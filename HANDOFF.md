@@ -1,6 +1,19 @@
 # US Tax Calendar - Session Handoff
 
-Last updated: 2026-09-23 (Cowork session, design-system alignment batch).
+Last updated: 2026-09-23 (Cowork session, batch 2: data layer + functional calendar).
+
+## Batch 2 - the calendar is now functional
+
+- Built `data/deadlines-federal.json` (39 entries) and `data/deadlines-states-income-tax.json` (51 entries: 50 states + DC), which did not exist before this batch - the site was previously an empty shell.
+- **Federal data**: sourced directly from IRS Publication 509 (2026), fetched and read as a PDF this session (`https://www.irs.gov/pub/irs-pdf/p509.pdf`, parsed with `pdftotext`), not carried forward from any prior claim. 27 entries carry `"verification_status":"primary-source verified this session"` because their exact date was read directly out of Pub. 509's text this session (1040/1040-SR, all 1040-ES/1120 estimated installments, 1065, 1120-S, Form 2553, W-2, 1099-NEC and other 1099 recipient/IRS deadlines, 941/940/943/944/945, Form 720 Q1-Q3, Form 2290, Form 5500). 4 international-information-return entries (FBAR, 3520, 3520-A, 5471, 5472) are NOT in Pub. 509 itself (it explicitly excludes them) - these are marked `"secondary-source, pending primary-source pin"` and cite the relevant form instructions page, not independently re-fetched this session; do not upgrade their status without actually checking those instruction pages.
+- Form 2290 only covers the standard July-first-use case (Aug 31, 2026) - the full month-by-month partial-year table from Pub. 509 was not built out, consistent with the original open item.
+- **State data**: all 50 states + DC individual income tax due dates are populated so the calendar and filters have full state coverage, but the verification bar is lower than the federal layer and is disclosed per-entry:
+  - Virginia is `"primary-source verified this session"` - fetched directly from tax.virginia.gov/when-to-file this session (May 1, 2026 original; automatic 6-month extension to Nov. 1, 2026).
+  - Delaware (Apr 30), Iowa (Apr 30), Louisiana (May 15), Hawaii (Apr 20), Oklahoma (shown Apr 15, pending confirmation of a possible Apr 20 e-file accommodation date some aggregators cite), and South Carolina (standing Apr 15, with a one-time SCDOR relief extension to Oct 15, 2026 for 2025 returns tied to OBBBA conformity) are all `"secondary-source, pending primary-source pin"` - sourced from Kiplinger's and Money.com's 2026 state deadline surveys, cross-checked against each other but not against each state's own DOR site this session.
+  - The other 35 states + DC are shown conforming to the federal April 15 deadline, also `"secondary-source, pending primary-source pin"`, same two aggregators as authority.
+  - The 9 no-broad-income-tax states (AK, FL, NV, SD, TN, TX, WA, WY, NH) are included with `date_2026: null` so they don't appear as false deadlines in the calendar/list, but do appear correctly in the "Build your own calendar" jurisdiction picker.
+  - **This state layer is not yet held to the same bar as the federal layer - primary-source verification against each state's own DOR remains the top open item**, same as before this batch; what changed is that the calendar now has real (if partially secondary-sourced) data instead of no data at all.
+- Tested locally this session with a headless Chromium (Playwright) load of `index.html` served over local HTTP: the month grid renders deadline dots, the filter dropdowns populate (44 jurisdiction options, 8 categories), the deadline list table renders 81 rows, and the "Build your own calendar" checkboxes populate correctly. No console errors on load. Screenshot reviewed visually - design system renders as intended (ink/coral/mono tokens, dark cat-nav bar, dark BYOC panel, dark footer).
 
 ## Correction to prior handoff docs - read this first
 
@@ -27,20 +40,22 @@ Scope was deliberately narrowed to fixing the design system, not rebuilding the 
 
 ## What's live in `main` after this session
 
-- `index.html` - calendar app shell, restyled to the confirmed design system. Non-functional (empty grid/list/filters) until `data/` exists.
+- `index.html` - calendar app shell, restyled to the confirmed design system, now functional against real data.
 - `disclaimer.html` - restyled to match.
+- `data/deadlines-federal.json` - 39 entries (see batch 2 notes above for verification breakdown).
+- `data/deadlines-states-income-tax.json` - 51 entries, 50 states + DC (see batch 2 notes above for verification breakdown).
 - `CNAME` - `ustaxcalendar.com`.
-- No `map.html`, no `data/` directory, no JSON data files.
+- Still missing: `map.html`, `data/deadlines-cities.json`, and the `href="map.html"` link in the nav currently points to a page that doesn't exist yet - fix that link or build the page next, whichever comes first.
 
-## Next build queue (in priority order - unchanged in substance from the original brief, resequenced for what's actually needed first)
+## Next build queue (in priority order)
 
-1. **Build `data/deadlines-federal.json` and `data/deadlines-states-income-tax.json` from scratch** - these do not exist in `main` despite being referenced by `index.html`'s fetch calls. This is the actual top priority, above state verification, because without it the live site shows nothing. Primary-source each entry (IRS Pub. 509 2026 for federal; each state's own DOR for state individual income tax due dates) rather than porting unverified numbers from an old handoff doc.
-2. Once the federal + state data exists, build `data/deadlines-cities.json` and `map.html` (see the confirmed D3/topojson/us-atlas pattern above).
-3. Primary-source verify all 50 states + DC individual income tax due dates against each state's own DOR - do not carry forward any prior session's claimed verification status without re-checking, since no prior verified data survived into `main`.
+1. **Primary-source verify all 50 states + DC individual income tax due dates against each state's own DOR.** This is the single biggest remaining gap - the calendar now shows a date for every jurisdiction, but only Virginia is independently confirmed against a .gov source; everything else rides two secondary aggregators (Kiplinger, Money.com) cross-checked against each other, not against primary sources.
+2. Fix or remove the `map.html` nav link (currently a dead link since the page doesn't exist), then build `map.html` and `data/deadlines-cities.json` together - use extensionguide's confirmed pattern: D3 v7 (`cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js`) + `topojson-client@3` + `us-atlas@3/states-10m.json`, both via jsdelivr, `d3.geoAlbersUsa()` projection.
+3. Primary-source verify the 4 international-information-return federal entries (FBAR, 3520, 3520-A, 5471, 5472) against their actual form instructions pages - currently cited but not independently re-fetched this session.
 4. State corporate/pass-through/estimated-tax due dates, state sales & use tax, state payroll (SUI/SUTA) deadlines.
 5. Federal estate/gift tax (706/709) and exempt-org (990 series) deadlines - not covered by Pub. 509, need separate primary-source research.
-6. Form 8938, Form 8865, full Form 2290 partial-year table.
-7. Lint gate (em-dash check, forbidden strings, disclaimer link, canonical tags) - build or port a script before the next data-heavy batch ships.
+6. Form 8938, Form 8865, full Form 2290 partial-year table (currently only the July-first-use full-year case is in the data).
+7. Lint gate (em-dash check, forbidden strings, disclaimer link, canonical tags) - build or port a script before the next data-heavy batch ships; this session's checks were done by hand with grep, not an automated script.
 
 ## Delivery workflow
 
