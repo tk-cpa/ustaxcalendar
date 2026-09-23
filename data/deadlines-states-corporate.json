@@ -582,14 +582,14 @@
     "form": "State corporate income/franchise tax return",
     "form_name": "Calendar-year C-corporation state income or franchise tax return",
     "filer": "C-corporations",
-    "rule": "Form 512 is due 30 days after the federal return's due date (approximately May 15 for a calendar year); an approved federal extension automatically extends the Oklahoma due date if no OK liability is owed, but the exact extended calendar date was not stated verbatim on the .gov page fetched.",
+    "rule": "Form 512 due 30 days after the federal return's due date (~May 15). Extension mechanism confirmed directly: if no Oklahoma liability is owed, an approved federal extension automatically extends the OK due date to match; otherwise Form 504-C grants an extension not exceeding 7 months total. No single fixed calendar date is stated by Oklahoma's own instructions - it's a floating mechanism, not a flat date, confirmed directly against the 512-Pkt and 504-C instructions.",
     "date_2026": "2026-05-15",
     "extended_date_2026": null,
     "extension_form": null,
-    "description": "Form 512 is due 30 days after the federal return's due date (approximately May 15 for a calendar year); an approved federal extension automatically extends the Oklahoma due date if no OK liability is owed, but the exact extended calendar date was not stated verbatim on the .gov page fetched.",
-    "authority": "Rule researched this session from Oklahoma's own tax agency site, but a specific figure (extended date, or the .gov page itself) was not cleanly confirmed with a direct quote - see rule/note for the specific gap",
+    "description": "Form 512 due 30 days after the federal return's due date (~May 15). Extension mechanism confirmed directly: if no Oklahoma liability is owed, an approved federal extension automatically extends the OK due date to match; otherwise Form 504-C grants an extension not exceeding 7 months total. No single fixed calendar date is stated by Oklahoma's own instructions - it's a floating mechanism, not a flat date, confirmed directly against the 512-Pkt and 504-C instructions.",
+    "authority": "Direct fetch of Oklahoma's 512-Pkt and Form 504-C instructions this session: \"Your Oklahoma return is due 30 days after the due date of your federal return.\" \"An approved federal filing extension automatically extends the due date for your Oklahoma return\" (if no OK liability owed); 504-C: \"an extension may not exceed a total of 7 months.\"",
     "source_url": "https://www.oklahoma.gov/content/dam/ok/en/tax/documents/forms/businesses/corporate-income-tax/current/512-Pkt.pdf",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-corp-oregon",
@@ -614,12 +614,12 @@
     "form": "State corporate income/franchise tax return",
     "form_name": "Calendar-year C-corporation state income or franchise tax return",
     "filer": "C-corporations",
-    "rule": "RCT-101 due May 15 for a calendar year end per PA's official Tax Due Date Reference Guide; PA generally follows the federal extension automatically, or Form REV-853 grants up to 60 days if not using a federal extension, but no single .gov-stated exact extended calendar date was located.",
+    "rule": "RCT-101 due May 15 for a calendar year end. PA generally follows the federal extension automatically; Form REV-853 grants an extension of up to 60 days if not using the federal extension - a variable-length extension, not a single fixed calendar date, confirmed directly against REV-853's own instructions.",
     "date_2026": "2026-05-15",
     "extended_date_2026": null,
     "extension_form": null,
-    "description": "RCT-101 due May 15 for a calendar year end per PA's official Tax Due Date Reference Guide; PA generally follows the federal extension automatically, or Form REV-853 grants up to 60 days if not using a federal extension, but no single .gov-stated exact extended calendar date was located.",
-    "authority": "Direct fetch of Pennsylvania's own tax agency site/publication this session",
+    "description": "RCT-101 due May 15 for a calendar year end. PA generally follows the federal extension automatically; Form REV-853 grants an extension of up to 60 days if not using the federal extension - a variable-length extension, not a single fixed calendar date, confirmed directly against REV-853's own instructions.",
+    "authority": "Direct fetch of PA's REV-853 instructions this session: \"you may file REV-853 to request a Pennsylvania extension of up to 60 days.\" Payment must still be made by the original due date.",
     "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/revenue/documents/formsandpublications/otherforms/documents/dpo-05.pdf",
     "verification_status": "primary-source verified this session"
   },
@@ -710,14 +710,14 @@
     "form": "State corporate income/franchise tax return",
     "form_name": "Calendar-year C-corporation state income or franchise tax return",
     "filer": "C-corporations",
-    "rule": "TC-20 due April 15 for calendar-year filers; Utah is understood to allow an automatic 6-month extension without a separate application, but this was not confirmed against a fetched .gov page this session, so no extended date is stated as verified.",
+    "rule": "TC-20 due April 15 (or the federal due date, if later); corporations are automatically allowed an extension of up to 6 months (to October 15, 2026) without filing an extension form - filing only, not an extension to pay.",
     "date_2026": "2026-04-15",
-    "extended_date_2026": null,
+    "extended_date_2026": "2026-10-15",
     "extension_form": null,
-    "description": "TC-20 due April 15 for calendar-year filers; Utah is understood to allow an automatic 6-month extension without a separate application, but this was not confirmed against a fetched .gov page this session, so no extended date is stated as verified.",
-    "authority": "Rule researched this session from Utah's own tax agency site, but a specific figure (extended date, or the .gov page itself) was not cleanly confirmed with a direct quote - see rule/note for the specific gap",
-    "source_url": "https://tax.utah.gov/event/individual-corporate-partnership-income-tax-due-date-jan-dec-2025/",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "description": "TC-20 due April 15 (or the federal due date, if later); corporations are automatically allowed an extension of up to 6 months (to October 15, 2026) without filing an extension form - filing only, not an extension to pay.",
+    "authority": "Direct fetch of the 2025 Utah TC-20 Instructions this session: \"Corporations are automatically allowed an extension of up to six months to file a return without filing an extension form.\"",
+    "source_url": "https://files.tax.utah.gov/tax/forms/current/tc-20inst.pdf",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-corp-vermont",
@@ -726,14 +726,14 @@
     "form": "State corporate income/franchise tax return",
     "form_name": "Calendar-year C-corporation state income or franchise tax return",
     "filer": "C-corporations",
-    "rule": "Form CO-411 due April 15; the state's own page states the extension runs to '30 days beyond the federal extension date' rather than a flat 6 months - since the federal extension itself runs to October 15, 30 days beyond that would be mid-November, not October 15, so no single extended date is stated as confirmed pending a clearer .gov statement.",
+    "rule": "Form CO-411 due April 15. Vermont's extended due date is 30 days beyond the federal extended due date (federal extends to October 15, 2026, so Vermont's computed extended date is November 14, 2026) - confirmed directly against the CO-411 instructions, which state the offset rule rather than a fixed calendar date.",
     "date_2026": "2026-04-15",
-    "extended_date_2026": null,
+    "extended_date_2026": "2026-11-14",
     "extension_form": null,
-    "description": "Form CO-411 due April 15; the state's own page states the extension runs to '30 days beyond the federal extension date' rather than a flat 6 months - since the federal extension itself runs to October 15, 30 days beyond that would be mid-November, not October 15, so no single extended date is stated as confirmed pending a clearer .gov statement.",
-    "authority": "Rule researched this session from Vermont's own tax agency site, but a specific figure (extended date, or the .gov page itself) was not cleanly confirmed with a direct quote - see rule/note for the specific gap",
-    "source_url": "https://tax.vermont.gov/business/corporate-income-tax",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "description": "Form CO-411 due April 15. Vermont's extended due date is 30 days beyond the federal extended due date (federal extends to October 15, 2026, so Vermont's computed extended date is November 14, 2026) - confirmed directly against the CO-411 instructions, which state the offset rule rather than a fixed calendar date.",
+    "authority": "Direct fetch of Vermont's 2024 Form CO-411 Instructions this session: \"The Vermont extended due date is 30 days beyond the federal extended due date.\"",
+    "source_url": "https://tax.vermont.gov/sites/tax/files/documents/CO-411-Instr-2024.pdf",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-corp-virginia",
@@ -806,13 +806,13 @@
     "form": "State corporate income/franchise tax return",
     "form_name": "Calendar-year C-corporation state income or franchise tax return",
     "filer": "C-corporations",
-    "rule": "No corporate income tax. The specific citation used is a 2003 Wyoming Legislative Service Office research report - the Wyoming Department of Revenue's own site does not have a page independently restating this in a directly fetchable form this session, so treat as structurally accurate but not the freshest possible primary source.",
+    "rule": "No corporate income tax. Confirmed via a 2022 Wyoming Legislature Joint Revenue Committee memo (fresher than the 2003 report previously cited) - the Wyoming Department of Revenue's own site does not carry a general \"tax types\" overview page stating this negative fact directly, so the freshest available .gov-domain citation is this legislative research memo, not a Department of Revenue page itself.",
     "date_2026": null,
     "extended_date_2026": null,
     "extension_form": null,
-    "description": "No corporate income tax. The specific citation used is a 2003 Wyoming Legislative Service Office research report - the Wyoming Department of Revenue's own site does not have a page independently restating this in a directly fetchable form this session, so treat as structurally accurate but not the freshest possible primary source.",
-    "authority": "Rule researched this session from Wyoming's own tax agency site, but a specific figure (extended date, or the .gov page itself) was not cleanly confirmed with a direct quote - see rule/note for the specific gap",
-    "source_url": "https://wyoleg.gov/LSOResearch/2003/03sr001.pdf",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "description": "No corporate income tax. Confirmed via a 2022 Wyoming Legislature Joint Revenue Committee memo (fresher than the 2003 report previously cited) - the Wyoming Department of Revenue's own site does not carry a general \"tax types\" overview page stating this negative fact directly, so the freshest available .gov-domain citation is this legislative research memo, not a Department of Revenue page itself.",
+    "authority": "Wyoming Legislature Joint Revenue Committee memo (wyoleg.gov, 2022): \"Wyoming has no state income tax of any kind, whether on individuals, businesses, or trusts.\"",
+    "source_url": "https://wyoleg.gov/InterimCommittee/2022/03-2022042711-01LRWMemo.pdf",
+    "verification_status": "primary-source verified this session"
   }
 ]

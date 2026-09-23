@@ -106,10 +106,10 @@
     "date_2026": "2026-04-15",
     "extended_date_2026": null,
     "extension_form": null,
-    "description": "Every direct kcmo.gov PDF and FAQ path attempted this session returned a 403 error or stated no due date. Third-party hosted mirrors of the official city-issued RD-109/RD-109NR forms state \"on or before April 15th\" (with the standard weekend/holiday roll), corroborating the April 15 date, but this is not a kcmo.gov-hosted confirmation, so it remains secondary-source.",
-    "authority": "Third-party mirrors of the official City of Kansas City RD-109/RD-109NR forms (zillionforms.com, eformrs.com); direct kcmo.gov access blocked (403) on every path attempted this session",
-    "source_url": "https://www.kcmo.gov/city-hall/departments/finance/tax-home/tax-faqs",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "description": "Confirmed via a Wayback Machine archive of kcmo.gov's own Tax FAQs page (the live page returns 403 to automated fetches, so the archived snapshot of the same official content was used): \"Annual returns are due April 15 each year\" and \"Residents who are self-employed must pay the one percent tax on the net profit of their business by filing a profits return with the Revenue Division by April 15 of each year.\" Corroborated by a third-party-hosted copy of the official RD-109 form itself.",
+    "authority": "Wayback Machine archived snapshot of kcmo.gov's own Tax FAQs page (live page returns 403 to automated fetches)",
+    "source_url": "https://web.archive.org/web/20221009025655/https://www.kcmo.gov/city-hall/departments/finance/tax-home/tax-faqs",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "city-stlouis",
