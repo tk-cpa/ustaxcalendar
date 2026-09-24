@@ -1,6 +1,24 @@
 # US Tax Calendar - Session Handoff
 
-Last updated: 2026-09-23 (Cowork session, batch 8: fixed 2 real bugs in the .ics export feature, and shipped a new Pass-Through Entity data layer, 44 states + DC).
+Last updated: 2026-09-23 (Cowork session, batch 9: closed the Alaska and DC open items in the Pass-Through Entity layer - all 51 jurisdictions in that layer are now primary-source verified, 45 with a confirmed 2026 date).
+
+## Batch 9 - closing the Pass-Through Entity layer's remaining open items
+
+User asked to finalize. Two items from batch 8 were reopened and closed with genuine primary-source quotes rather than left as named gaps.
+
+**Alaska - resolved.** Batch 8 could not confirm Alaska's pass-through entity filing status after exhausting direct tax.alaska.gov access (blocked by robots.txt) and several alternate paths. This batch found the actual answer: Alaska Form 6900 (Partnership Information Return) is required only when a partnership has a corporate or partnership partner (not when all partners are natural persons), and is due 30 days after the federal partnership return's due date - April 15, 2026 for the 2025 tax year (30 days after the federal 1065 due date of March 16, 2026, itself shifted from March 15 which falls on a Sunday). A federal extension automatically extends the Alaska due date to 30 days after the federal extended due date (October 15, 2026). Separately, S corporations doing business in Alaska file Form 6000 (the corporate return) but are generally not taxed on pass-through income. Quoted directly from the Alaska Department of Revenue's own Form 6900i and 6000i instructions; tax.alaska.gov itself still blocks automated fetch via robots.txt, so the quoted text was accessed via two independently-hosted verbatim mirrors of the same official PDF (identical wording on both) rather than a direct fetch - this caveat is disclosed in the entry's own citation text.
+
+**DC - resolved.** Batch 8's D-65 (partnership) due date was inferred from an extension form rather than cleanly quoted, because the booklet PDF's due-date sentence extracted as corrupted text. This batch located and directly fetched the actual current-year (2025 tax year) D-65 booklet at its correct URL and got a clean quote: "Calendar year filer - April 15, 2026," matching the D-30 date already confirmed in batch 8. Extension is a 6-month extension via Form FR-165 (to October 15, 2026); a federal extension does not automatically extend the DC due date.
+
+**Texas - normalized, not changed in substance.** The Texas entry's verification_status string had non-canonical wording (still correct in substance: Texas has no separate pass-through filing and is cross-referenced to the existing Franchise Tax entry rather than duplicated) - normalized to the standard `"primary-source verified this session"` value used everywhere else in the data set, for internal consistency.
+
+**Result: all 51 entries in the Pass-Through Entity layer are now `"primary-source verified this session"` - zero open items remain in this layer.** 45 of 51 have a confirmed 2026 date (44 states + DC); 6 correctly show no separate filing (Maine, South Dakota, Wyoming, Nevada, Washington, Texas), each with its own direct source.
+
+**Re-tested:** all 9 data files load with HTTP 200; `ALL.length` = 746 (up from 745); 45 Pass-Through Entity rows in `ALL` (up from 44); a full BYOC download filtered to Pass-Through Entity only produced exactly 45 VEVENT blocks, independently parsed clean by Python's `icalendar` library, including the new Alaska and DC entries with correct dates.
+
+**Lint:** re-ran em-dash and forbidden-strings checks, and JSON validity - zero hits, all valid.
+
+**What remains genuinely open after this batch:** state PTE elective-tax election and payment deadlines (a distinct, more variable layer from the base pass-through entity return due date, deliberately out of scope for this build) - named in the disclaimer and in the build queue below. No other named open item remains in this data set.
 
 ## Batch 8 - .ics export bug fixes, and a new Pass-Through Entity deadline layer
 
@@ -237,9 +255,9 @@ Scope was deliberately narrowed to fixing the design system, not rebuilding the 
 - Preserved every existing JS hook/class name (`.dot`, `.cell`, `.badge`, `.byoc-box`, etc.) - only the CSS declarations changed, not the markup structure or IDs the script depends on, so no functional regression from this batch.
 - `map.html` was not created this session - it doesn't exist yet, so there was nothing to restyle. When it's built, follow extensionguide's `map.html` pattern directly (confirmed this session): D3 v7 (`cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js`) + `topojson-client@3` + `us-atlas@3/states-10m.json`, both via jsdelivr, `d3.geoAlbersUsa()` projection - this matches what the original task brief described, so that part of the brief was accurate even though the file itself isn't in `main`.
 
-## What's live in `main` after this session (batch 8 final state)
+## What's live in `main` after this session (batch 9 final state - all data 100% primary-source verified)
 
-- `index.html` - calendar app shell, restyled to the confirmed design system, functional against all 9 data files, jurisdiction deep-link via `?jurisdiction=` query param. `.ics` export bugs (newline escaping, RFC 5545 line folding) fixed this batch.
+- `index.html` - calendar app shell, restyled to the confirmed design system, functional against all 9 data files, jurisdiction deep-link via `?jurisdiction=` query param. `.ics` export bugs (newline escaping, RFC 5545 line folding) fixed in batch 8.
 - `disclaimer.html` - restyled to match.
 - `map.html` - interactive US map, 50 states + DC + 8 city pins, each clickable through to a filtered calendar view.
 - `data/deadlines-federal.json` - 39 entries, all primary-source verified (Pub. 509 plus the 5 international information returns).
@@ -250,18 +268,17 @@ Scope was deliberately narrowed to fixing the design system, not rebuilding the 
 - `data/deadlines-states-sales-tax.json` - 189 entries across 51 jurisdictions (46 taxed, 5 no-tax), all primary-source verified. Iowa's 4 entries were corrected in batch 7 from an assumed 20th-of-month/quarterly rule to the actual monthly (last day of following month) / annual (Jan 31, under $1,200/year) rule per the Iowa Administrative Code.
 - `data/deadlines-states-payroll.json` - 204 entries, all 51 jurisdictions individually primary-source verified, including 2 real deviations found (Michigan, New Jersey).
 - `data/deadlines-states-estimated.json` - 158 entries across all 41 income-tax jurisdictions, all primary-source verified, including 4 confirmed deviations from the federal pattern (Virginia, Delaware, Hawaii, Iowa) and 2 special-case states with no standard quarterly regime (Idaho, Utah).
-- `data/deadlines-states-passthrough.json` - **new this batch.** 51 entries, 50 states + DC. Base entity-level (1065/1120-S-equivalent) return due date only - PTE elective-tax election/payment deadlines are explicitly out of scope. 44 of 51 primary-source verified with a confirmed 2026 date; 6 correctly show no separate filing (Maine, South Dakota, Wyoming, Nevada, Washington, Texas - each with its own direct source, Texas cross-referenced to the existing corporate franchise tax entry rather than duplicated); Alaska is the one open item, marked secondary-source pending primary-source pin with the specific attempts documented in the entry itself.
+- `data/deadlines-states-passthrough.json` - 51 entries, 50 states + DC. Base entity-level (1065/1120-S-equivalent) return due date only - PTE elective-tax election/payment deadlines are explicitly out of scope. All 51 entries are now `"primary-source verified this session"` - zero open items. 45 of 51 have a confirmed 2026 date (44 states + DC); 6 correctly show no separate filing (Maine, South Dakota, Wyoming, Nevada, Washington, Texas), each with its own direct source, Texas cross-referenced to the existing corporate franchise tax entry rather than duplicated.
 - `CNAME` - `ustaxcalendar.com`.
 - `HANDOFF.md` - this file.
 
-Verification tally: 720 of 720 entries in the batch-7 data set remain 100% primary-source verified. Of the 51 new pass-through entity entries, 44 are primary-source verified, 6 are correctly-sourced negative findings (no filing exists), and 1 (Alaska) is a named, honestly-disclosed open item.
+Verification tally: 720 of 720 entries in the original data set remain 100% primary-source verified. All 51 pass-through entity entries are now primary-source verified: 45 have a confirmed 2026 date, 6 are correctly-sourced negative findings (no separate filing exists). Zero open items remain anywhere in the site's data.
 
-## Next build queue (everything below is new scope, not a verification gap)
+## Next build queue (everything below is new scope, not a verification gap - the data set is 100% verified)
 
-1. State PTE elective-tax election and payment deadlines - a distinct, more variable layer from the base pass-through entity return due date just built; deliberately deferred this batch.
-2. Alaska pass-through entity filing status - the one open item in the new layer; needs a cleaner primary-source path than the ones exhausted this session (tax.alaska.gov blocked direct fetches; an Alaska Legislature memo returned 403; the Alaska Administrative Code mirror found only filing mechanics, not entity-type definitions).
-3. Additional city/local jurisdictions beyond the 8 already built, if desired.
-4. Lint gate (em-dash check, forbidden strings, disclaimer link, canonical tags) - build or port a script; every batch so far has been checked by hand with grep, not an automated script.
+1. State PTE elective-tax election and payment deadlines - a distinct, more variable layer from the base pass-through entity return due date just built; deliberately out of scope for this build, named in the site's own disclaimer.
+2. Additional city/local jurisdictions beyond the 8 already built, if desired.
+3. Lint gate (em-dash check, forbidden strings, disclaimer link, canonical tags) - build or port a script; every batch so far has been checked by hand with grep, not an automated script.
 
 ## Delivery workflow
 
