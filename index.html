@@ -251,6 +251,33 @@ function icsEscape(s){
   return (s||'').replace(/\\/g,'\\\\').replace(/;/g,'\\;').replace(/,/g,'\\,').replace(/\n/g,'\\n');
 }
 
+// RFC 5545 3.1: content lines must be folded so no physical line exceeds 75 octets
+// (excluding the CRLF), continuation lines prefixed with a single space. Folds on
+// UTF-8 character boundaries so a multi-byte character is never split mid-sequence.
+function foldLine(line){
+  const bytes = (s)=>new TextEncoder().encode(s).length;
+  if(bytes(line) <= 75) return line;
+  const out = [];
+  let cur = '';
+  let curBytes = 0;
+  const chars = Array.from(line);
+  for(let i=0;i<chars.length;i++){
+    const ch = chars[i];
+    const chBytes = bytes(ch);
+    const limit = out.length===0 ? 75 : 74; // continuation lines start with 1 space, so 74 content octets
+    if(curBytes + chBytes > limit){
+      out.push(cur);
+      cur = ch;
+      curBytes = chBytes;
+    } else {
+      cur += ch;
+      curBytes += chBytes;
+    }
+  }
+  if(cur) out.push(cur);
+  return out.map((seg,i)=> i===0 ? seg : ' '+seg).join('\r\n');
+}
+
 function buildICS(events){
   const lines = ['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//ustaxcalendar.com//US Tax Calendar//EN','CALSCALE:GREGORIAN'];
   events.forEach(d=>{
@@ -260,7 +287,7 @@ function buildICS(events){
     const uid = d.id + "@ustaxcalendar.com";
     const summary = icsEscape(d.jurisdiction + " - " + d.form);
     const descParts = [d.form_name, d.rule ? "Rule: "+d.rule : "", d.description||"", "Authority: "+(d.authority||""), d.source_url||""].filter(Boolean);
-    const desc = icsEscape(descParts.join("\\n"));
+    const desc = icsEscape(descParts.join("\n"));
     lines.push('BEGIN:VEVENT');
     lines.push('UID:'+uid);
     lines.push('DTSTAMP:'+new Date().toISOString().replace(/[-:]/g,'').split('.')[0]+'Z');
@@ -276,7 +303,7 @@ function buildICS(events){
     lines.push('END:VEVENT');
   });
   lines.push('END:VCALENDAR');
-  return lines.join('\r\n');
+  return lines.map(foldLine).join('\r\n');
 }
 
 function downloadICS(){
