@@ -1,0 +1,163 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tk.cpa//US Tax Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:US Tax Calendar - San Francisco\, CA
+X-WR-CALDESC:Recurring US tax filing deadlines from ustaxcalendar.com (a tk
+ .cpa resource). Reference only\, not tax advice.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:city-sanfrancisco-2025-02-28@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250228
+DTEND;VALUE=DATE:20250301
+SUMMARY:San Francisco\, CA: Annual Business Tax Return due
+DESCRIPTION:Annual filing deadline\, earlier than the typical April 15 patt
+ ern | San Francisco's Annual Business Registration and Tax Return for tax y
+ ear 2025 must be submitted and paid by March 2\, 2026 to avoid late penalti
+ es - notably earlier than the April 15 pattern most other jurisdictions use
+ . San Francisco has no separate individual wage-earner income tax\; this is
+  a business/gross-receipts tax that can apply to self-employed individuals.
+  | Authority: Direct fetch of the Treasurer & Tax Collector's Annual Busine
+ ss Registration and Tax Form Instructions this session | Source: https://sf
+ treasurer.org/annual-business-registration-and-tax-form-instructions-25-27 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-sanfrancisco-2026-03-02@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260303
+SUMMARY:San Francisco\, CA: Annual Business Tax Return due
+DESCRIPTION:Annual filing deadline\, earlier than the typical April 15 patt
+ ern | San Francisco's Annual Business Registration and Tax Return for tax y
+ ear 2025 must be submitted and paid by March 2\, 2026 to avoid late penalti
+ es - notably earlier than the April 15 pattern most other jurisdictions use
+ . San Francisco has no separate individual wage-earner income tax\; this is
+  a business/gross-receipts tax that can apply to self-employed individuals.
+  | Authority: Direct fetch of the Treasurer & Tax Collector's Annual Busine
+ ss Registration and Tax Form Instructions this session | Source: https://sf
+ treasurer.org/annual-business-registration-and-tax-form-instructions-25-27 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-sanfrancisco-2027-03-01@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:San Francisco\, CA: Annual Business Tax Return due
+DESCRIPTION:Annual filing deadline\, earlier than the typical April 15 patt
+ ern | San Francisco's Annual Business Registration and Tax Return for tax y
+ ear 2025 must be submitted and paid by March 2\, 2026 to avoid late penalti
+ es - notably earlier than the April 15 pattern most other jurisdictions use
+ . San Francisco has no separate individual wage-earner income tax\; this is
+  a business/gross-receipts tax that can apply to self-employed individuals.
+  | Authority: Direct fetch of the Treasurer & Tax Collector's Annual Busine
+ ss Registration and Tax Form Instructions this session | Source: https://sf
+ treasurer.org/annual-business-registration-and-tax-form-instructions-25-27 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-sanfrancisco-2028-02-29@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280229
+DTEND;VALUE=DATE:20280301
+SUMMARY:San Francisco\, CA: Annual Business Tax Return due
+DESCRIPTION:Annual filing deadline\, earlier than the typical April 15 patt
+ ern | San Francisco's Annual Business Registration and Tax Return for tax y
+ ear 2025 must be submitted and paid by March 2\, 2026 to avoid late penalti
+ es - notably earlier than the April 15 pattern most other jurisdictions use
+ . San Francisco has no separate individual wage-earner income tax\; this is
+  a business/gross-receipts tax that can apply to self-employed individuals.
+  | Authority: Direct fetch of the Treasurer & Tax Collector's Annual Busine
+ ss Registration and Tax Form Instructions this session | Source: https://sf
+ treasurer.org/annual-business-registration-and-tax-form-instructions-25-27 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-sanfrancisco-2029-02-28@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290228
+DTEND;VALUE=DATE:20290301
+SUMMARY:San Francisco\, CA: Annual Business Tax Return due
+DESCRIPTION:Annual filing deadline\, earlier than the typical April 15 patt
+ ern | San Francisco's Annual Business Registration and Tax Return for tax y
+ ear 2025 must be submitted and paid by March 2\, 2026 to avoid late penalti
+ es - notably earlier than the April 15 pattern most other jurisdictions use
+ . San Francisco has no separate individual wage-earner income tax\; this is
+  a business/gross-receipts tax that can apply to self-employed individuals.
+  | Authority: Direct fetch of the Treasurer & Tax Collector's Annual Busine
+ ss Registration and Tax Form Instructions this session | Source: https://sf
+ treasurer.org/annual-business-registration-and-tax-form-instructions-25-27 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-sanfrancisco-2030-02-28@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300228
+DTEND;VALUE=DATE:20300301
+SUMMARY:San Francisco\, CA: Annual Business Tax Return due
+DESCRIPTION:Annual filing deadline\, earlier than the typical April 15 patt
+ ern | San Francisco's Annual Business Registration and Tax Return for tax y
+ ear 2025 must be submitted and paid by March 2\, 2026 to avoid late penalti
+ es - notably earlier than the April 15 pattern most other jurisdictions use
+ . San Francisco has no separate individual wage-earner income tax\; this is
+  a business/gross-receipts tax that can apply to self-employed individuals.
+  | Authority: Direct fetch of the Treasurer & Tax Collector's Annual Busine
+ ss Registration and Tax Form Instructions this session | Source: https://sf
+ treasurer.org/annual-business-registration-and-tax-form-instructions-25-27 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-sanfrancisco-2031-02-28@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310228
+DTEND;VALUE=DATE:20310301
+SUMMARY:San Francisco\, CA: Annual Business Tax Return due
+DESCRIPTION:Annual filing deadline\, earlier than the typical April 15 patt
+ ern | San Francisco's Annual Business Registration and Tax Return for tax y
+ ear 2025 must be submitted and paid by March 2\, 2026 to avoid late penalti
+ es - notably earlier than the April 15 pattern most other jurisdictions use
+ . San Francisco has no separate individual wage-earner income tax\; this is
+  a business/gross-receipts tax that can apply to self-employed individuals.
+  | Authority: Direct fetch of the Treasurer & Tax Collector's Annual Busine
+ ss Registration and Tax Form Instructions this session | Source: https://sf
+ treasurer.org/annual-business-registration-and-tax-form-instructions-25-27 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-sanfrancisco-2032-03-01@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320301
+DTEND;VALUE=DATE:20320302
+SUMMARY:San Francisco\, CA: Annual Business Tax Return due
+DESCRIPTION:Annual filing deadline\, earlier than the typical April 15 patt
+ ern | San Francisco's Annual Business Registration and Tax Return for tax y
+ ear 2025 must be submitted and paid by March 2\, 2026 to avoid late penalti
+ es - notably earlier than the April 15 pattern most other jurisdictions use
+ . San Francisco has no separate individual wage-earner income tax\; this is
+  a business/gross-receipts tax that can apply to self-employed individuals.
+  | Authority: Direct fetch of the Treasurer & Tax Collector's Annual Busine
+ ss Registration and Tax Form Instructions this session | Source: https://sf
+ treasurer.org/annual-business-registration-and-tax-form-instructions-25-27 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

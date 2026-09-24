@@ -1,0 +1,2243 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tk.cpa//US Tax Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:US Tax Calendar - Nebraska
+X-WR-CALDESC:Recurring US tax filing deadlines from ustaxcalendar.com (a tk
+ .cpa resource). Reference only\, not tax advice.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:state-corp-nebraska-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:Nebraska: State corporate income/franchise tax return due
+DESCRIPTION:Form 1120N due 15th day of 4th month after year end\; extension
+  via Form 7004N or attached federal Form 7004\, capped at 7 months total af
+ ter the original due date. | Form 1120N due 15th day of 4th month after yea
+ r end\; extension via Form 7004N or attached federal Form 7004\, capped at 
+ 7 months total after the original due date. | Authority: Direct fetch of Ne
+ braska's own tax agency site/publication this session | Source: https://rev
+ enue.nebraska.gov/about/frequently-asked-questions/business-income-tax-faqs
+  | This date is computed from a recurrence rule and may not reflect a later
+ -announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-nebraska-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:Nebraska: State corporate income/franchise tax return due
+DESCRIPTION:Form 1120N due 15th day of 4th month after year end\; extension
+  via Form 7004N or attached federal Form 7004\, capped at 7 months total af
+ ter the original due date. | Form 1120N due 15th day of 4th month after yea
+ r end\; extension via Form 7004N or attached federal Form 7004\, capped at 
+ 7 months total after the original due date. | Authority: Direct fetch of Ne
+ braska's own tax agency site/publication this session | Source: https://rev
+ enue.nebraska.gov/about/frequently-asked-questions/business-income-tax-faqs
+  | This date is computed from a recurrence rule and may not reflect a later
+ -announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-nebraska-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Nebraska: State corporate income/franchise tax return due
+DESCRIPTION:Form 1120N due 15th day of 4th month after year end\; extension
+  via Form 7004N or attached federal Form 7004\, capped at 7 months total af
+ ter the original due date. | Form 1120N due 15th day of 4th month after yea
+ r end\; extension via Form 7004N or attached federal Form 7004\, capped at 
+ 7 months total after the original due date. | Authority: Direct fetch of Ne
+ braska's own tax agency site/publication this session | Source: https://rev
+ enue.nebraska.gov/about/frequently-asked-questions/business-income-tax-faqs
+  | This date is computed from a recurrence rule and may not reflect a later
+ -announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-nebraska-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Nebraska: State corporate income/franchise tax return due
+DESCRIPTION:Form 1120N due 15th day of 4th month after year end\; extension
+  via Form 7004N or attached federal Form 7004\, capped at 7 months total af
+ ter the original due date. | Form 1120N due 15th day of 4th month after yea
+ r end\; extension via Form 7004N or attached federal Form 7004\, capped at 
+ 7 months total after the original due date. | Authority: Direct fetch of Ne
+ braska's own tax agency site/publication this session | Source: https://rev
+ enue.nebraska.gov/about/frequently-asked-questions/business-income-tax-faqs
+  | This date is computed from a recurrence rule and may not reflect a later
+ -announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-nebraska-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:Nebraska: State corporate income/franchise tax return due
+DESCRIPTION:Form 1120N due 15th day of 4th month after year end\; extension
+  via Form 7004N or attached federal Form 7004\, capped at 7 months total af
+ ter the original due date. | Form 1120N due 15th day of 4th month after yea
+ r end\; extension via Form 7004N or attached federal Form 7004\, capped at 
+ 7 months total after the original due date. | Authority: Direct fetch of Ne
+ braska's own tax agency site/publication this session | Source: https://rev
+ enue.nebraska.gov/about/frequently-asked-questions/business-income-tax-faqs
+  | This date is computed from a recurrence rule and may not reflect a later
+ -announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-nebraska-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:Nebraska: State corporate income/franchise tax return due
+DESCRIPTION:Form 1120N due 15th day of 4th month after year end\; extension
+  via Form 7004N or attached federal Form 7004\, capped at 7 months total af
+ ter the original due date. | Form 1120N due 15th day of 4th month after yea
+ r end\; extension via Form 7004N or attached federal Form 7004\, capped at 
+ 7 months total after the original due date. | Authority: Direct fetch of Ne
+ braska's own tax agency site/publication this session | Source: https://rev
+ enue.nebraska.gov/about/frequently-asked-questions/business-income-tax-faqs
+  | This date is computed from a recurrence rule and may not reflect a later
+ -announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-nebraska-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:Nebraska: State corporate income/franchise tax return due
+DESCRIPTION:Form 1120N due 15th day of 4th month after year end\; extension
+  via Form 7004N or attached federal Form 7004\, capped at 7 months total af
+ ter the original due date. | Form 1120N due 15th day of 4th month after yea
+ r end\; extension via Form 7004N or attached federal Form 7004\, capped at 
+ 7 months total after the original due date. | Authority: Direct fetch of Ne
+ braska's own tax agency site/publication this session | Source: https://rev
+ enue.nebraska.gov/about/frequently-asked-questions/business-income-tax-faqs
+  | This date is computed from a recurrence rule and may not reflect a later
+ -announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-nebraska-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:Nebraska: State corporate income/franchise tax return due
+DESCRIPTION:Form 1120N due 15th day of 4th month after year end\; extension
+  via Form 7004N or attached federal Form 7004\, capped at 7 months total af
+ ter the original due date. | Form 1120N due 15th day of 4th month after yea
+ r end\; extension via Form 7004N or attached federal Form 7004\, capped at 
+ 7 months total after the original due date. | Authority: Direct fetch of Ne
+ braska's own tax agency site/publication this session | Source: https://rev
+ enue.nebraska.gov/about/frequently-asked-questions/business-income-tax-faqs
+  | This date is computed from a recurrence rule and may not reflect a later
+ -announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-nebraska-q1-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:Nebraska: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15 (current year)\, January 15 (
+ next year). | Q1 2026 state individual estimated tax payment. April 15\, Ju
+ ne 15\, September 15 (current year)\, January 15 (next year). | Authority: 
+ Direct fetch of Nebraska's own tax agency site/instructions this session | 
+ Source: https://revenue.nebraska.gov/individuals/instructions-paying-your-e
+ stimated-individual-income-tax | This date is computed from a recurrence ru
+ le and may not reflect a later-announced change\; confirm against the cited
+  source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-nebraska-q1-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:Nebraska: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15 (current year)\, January 15 (
+ next year). | Q1 2026 state individual estimated tax payment. April 15\, Ju
+ ne 15\, September 15 (current year)\, January 15 (next year). | Authority: 
+ Direct fetch of Nebraska's own tax agency site/instructions this session | 
+ Source: https://revenue.nebraska.gov/individuals/instructions-paying-your-e
+ stimated-individual-income-tax | This date is computed from a recurrence ru
+ le and may not reflect a later-announced change\; confirm against the cited
+  source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-nebraska-q1-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Nebraska: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15 (current year)\, January 15 (
+ next year). | Q1 2026 state individual estimated tax payment. April 15\, Ju
+ ne 15\, September 15 (current year)\, January 15 (next year). | Authority: 
+ Direct fetch of Nebraska's own tax agency site/instructions this session | 
+ Source: https://revenue.nebraska.gov/individuals/instructions-paying-your-e
+ stimated-individual-income-tax | This date is computed from a recurrence ru
+ le and may not reflect a later-announced change\; confirm against the cited
+  source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-nebraska-q1-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Nebraska: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15 (current year)\, January 15 (
+ next year). | Q1 2026 state individual estimated tax payment. April 15\, Ju
+ ne 15\, September 15 (current year)\, January 15 (next year). | Authority: 
+ Direct fetch of Nebraska's own tax agency site/instructions this session | 
+ Source: https://revenue.nebraska.gov/individuals/instructions-paying-your-e
+ stimated-individual-income-tax | This date is computed from a recurrence ru
+ le and may not reflect a later-announced change\; confirm against the cited
+  source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-nebraska-q1-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:Nebraska: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15 (current year)\, January 15 (
+ next year). | Q1 2026 state individual estimated tax payment. April 15\, Ju
+ ne 15\, September 15 (current year)\, January 15 (next year). | Authority: 
+ Direct fetch of Nebraska's own tax agency site/instructions this session | 
+ Source: https://revenue.nebraska.gov/individuals/instructions-paying-your-e
+ stimated-individual-income-tax | This date is computed from a recurrence ru
+ le and may not reflect a later-announced change\; confirm against the cited
+  source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-nebraska-q1-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:Nebraska: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15 (current year)\, January 15 (
+ next year). | Q1 2026 state individual estimated tax payment. April 15\, Ju
+ ne 15\, September 15 (current year)\, January 15 (next year). | Authority: 
+ Direct fetch of Nebraska's own tax agency site/instructions this session | 
+ Source: https://revenue.nebraska.gov/individuals/instructions-paying-your-e
+ stimated-individual-income-tax | This date is computed from a recurrence ru
+ le and may not reflect a later-announced change\; confirm against the cited
+  source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-nebraska-q1-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:Nebraska: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15 (current year)\, January 15 (
+ next year). | Q1 2026 state individual estimated tax payment. April 15\, Ju
+ ne 15\, September 15 (current year)\, January 15 (next year). | Authority: 
+ Direct fetch of Nebraska's own tax agency site/instructions this session | 
+ Source: https://revenue.nebraska.gov/individuals/instructions-paying-your-e
+ stimated-individual-income-tax | This date is computed from a recurrence ru
+ le and may not reflect a later-announced change\; confirm against the cited
+  source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-nebraska-q1-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:Nebraska: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15 (current year)\, January 15 (
+ next year). | Q1 2026 state individual estimated tax payment. April 15\, Ju
+ ne 15\, September 15 (current year)\, January 15 (next year). | Authority: 
+ Direct fetch of Nebraska's own tax agency site/instructions this session | 
+ Source: https://revenue.nebraska.gov/individuals/instructions-paying-your-e
+ stimated-individual-income-tax | This date is computed from a recurrence ru
+ le and may not reflect a later-announced change\; confirm against the cited
+  source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-nebraska-q2-2025-06-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250617
+SUMMARY:Nebraska: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15 (current year)\, January 15 (
+ next year). | Q2 2026 state individual estimated tax payment. April 15\, Ju
+ ne 15\, September 15 (current year)\, January 15 (next year). | Authority: 
+ Direct fetch of Nebraska's own tax agency site/instructions this session | 
+ Source: https://revenue.nebraska.gov/individuals/instructions-paying-your-e
+ stimated-individual-income-tax | This date is computed from a recurrence ru
+ le and may not reflect a later-announced change\; confirm against the cited
+  source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-nebraska-q2-2026-06-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Nebraska: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15 (current year)\, January 15 (
+ next year). | Q2 2026 state individual estimated tax payment. April 15\, Ju
+ ne 15\, September 15 (current year)\, January 15 (next year). | Authority: 
+ Direct fetch of Nebraska's own tax agency site/instructions this session | 
+ Source: https://revenue.nebraska.gov/individuals/instructions-paying-your-e
+ stimated-individual-income-tax | This date is computed from a recurrence ru
+ le and may not reflect a later-announced change\; confirm against the cited
+  source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-nebraska-q2-2027-06-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:Nebraska: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15 (current year)\, January 15 (
+ next year). | Q2 2026 state individual estimated tax payment. April 15\, Ju
+ ne 15\, September 15 (current year)\, January 15 (next year). | Authority: 
+ Direct fetch of Nebraska's own tax agency site/instructions this session | 
+ Source: https://revenue.nebraska.gov/individuals/instructions-paying-your-e
+ stimated-individual-income-tax | This date is computed from a recurrence ru
+ le and may not reflect a later-announced change\; confirm against the cited
+  source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-nebraska-q2-2028-06-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280615
+DTEND;VALUE=DATE:20280616
+SUMMARY:Nebraska: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15 (current year)\, January 15 (
+ next year). | Q2 2026 state individual estimated tax payment. April 15\, Ju
+ ne 15\, September 15 (current year)\, January 15 (next year). | Authority: 
+ Direct fetch of Nebraska's own tax agency site/instructions this session | 
+ Source: https://revenue.nebraska.gov/individuals/instructions-paying-your-e
+ stimated-individual-income-tax | This date is computed from a recurrence ru
+ le and may not reflect a later-announced change\; confirm against the cited
+  source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-nebraska-q2-2029-06-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290615
+DTEND;VALUE=DATE:20290616
+SUMMARY:Nebraska: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15 (current year)\, January 15 (
+ next year). | Q2 2026 state individual estimated tax payment. April 15\, Ju
+ ne 15\, September 15 (current year)\, January 15 (next year). | Authority: 
+ Direct fetch of Nebraska's own tax agency site/instructions this session | 
+ Source: https://revenue.nebraska.gov/individuals/instructions-paying-your-e
+ stimated-individual-income-tax | This date is computed from a recurrence ru
+ le and may not reflect a later-announced change\; confirm against the cited
+  source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-nebraska-q2-2030-06-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300617
+DTEND;VALUE=DATE:20300618
+SUMMARY:Nebraska: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15 (current year)\, January 15 (
+ next year). | Q2 2026 state individual estimated tax payment. April 15\, Ju
+ ne 15\, September 15 (current year)\, January 15 (next year). | Authority: 
+ Direct fetch of Nebraska's own tax agency site/instructions this session | 
+ Source: https://revenue.nebraska.gov/individuals/instructions-paying-your-e
+ stimated-individual-income-tax | This date is computed from a recurrence ru
+ le and may not reflect a later-announced change\; confirm against the cited
+  source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-nebraska-q2-2031-06-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310616
+DTEND;VALUE=DATE:20310617
+SUMMARY:Nebraska: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15 (current year)\, January 15 (
+ next year). | Q2 2026 state individual estimated tax payment. April 15\, Ju
+ ne 15\, September 15 (current year)\, January 15 (next year). | Authority: 
+ Direct fetch of Nebraska's own tax agency site/instructions this session | 
+ Source: https://revenue.nebraska.gov/individuals/instructions-paying-your-e
+ stimated-individual-income-tax | This date is computed from a recurrence ru
+ le and may not reflect a later-announced change\; confirm against the cited
+  source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-nebraska-q2-2032-06-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320615
+DTEND;VALUE=DATE:20320616
+SUMMARY:Nebraska: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15 (current year)\, January 15 (
+ next year). | Q2 2026 state individual estimated tax payment. April 15\, Ju
+ ne 15\, September 15 (current year)\, January 15 (next year). | Authority: 
+ Direct fetch of Nebraska's own tax agency site/instructions this session | 
+ Source: https://revenue.nebraska.gov/individuals/instructions-paying-your-e
+ stimated-individual-income-tax | This date is computed from a recurrence ru
+ le and may not reflect a later-announced change\; confirm against the cited
+  source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-nebraska-q3-2025-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20250916
+SUMMARY:Nebraska: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15 (current year)\, January 15 (
+ next year). | Q3 2026 state individual estimated tax payment. April 15\, Ju
+ ne 15\, September 15 (current year)\, January 15 (next year). | Authority: 
+ Direct fetch of Nebraska's own tax agency site/instructions this session | 
+ Source: https://revenue.nebraska.gov/individuals/instructions-paying-your-e
+ stimated-individual-income-tax | This date is computed from a recurrence ru
+ le and may not reflect a later-announced change\; confirm against the cited
+  source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-nebraska-q3-2026-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Nebraska: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15 (current year)\, January 15 (
+ next year). | Q3 2026 state individual estimated tax payment. April 15\, Ju
+ ne 15\, September 15 (current year)\, January 15 (next year). | Authority: 
+ Direct fetch of Nebraska's own tax agency site/instructions this session | 
+ Source: https://revenue.nebraska.gov/individuals/instructions-paying-your-e
+ stimated-individual-income-tax | This date is computed from a recurrence ru
+ le and may not reflect a later-announced change\; confirm against the cited
+  source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-nebraska-q3-2027-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:Nebraska: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15 (current year)\, January 15 (
+ next year). | Q3 2026 state individual estimated tax payment. April 15\, Ju
+ ne 15\, September 15 (current year)\, January 15 (next year). | Authority: 
+ Direct fetch of Nebraska's own tax agency site/instructions this session | 
+ Source: https://revenue.nebraska.gov/individuals/instructions-paying-your-e
+ stimated-individual-income-tax | This date is computed from a recurrence ru
+ le and may not reflect a later-announced change\; confirm against the cited
+  source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-nebraska-q3-2028-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280915
+DTEND;VALUE=DATE:20280916
+SUMMARY:Nebraska: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15 (current year)\, January 15 (
+ next year). | Q3 2026 state individual estimated tax payment. April 15\, Ju
+ ne 15\, September 15 (current year)\, January 15 (next year). | Authority: 
+ Direct fetch of Nebraska's own tax agency site/instructions this session | 
+ Source: https://revenue.nebraska.gov/individuals/instructions-paying-your-e
+ stimated-individual-income-tax | This date is computed from a recurrence ru
+ le and may not reflect a later-announced change\; confirm against the cited
+  source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-nebraska-q3-2029-09-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290917
+DTEND;VALUE=DATE:20290918
+SUMMARY:Nebraska: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15 (current year)\, January 15 (
+ next year). | Q3 2026 state individual estimated tax payment. April 15\, Ju
+ ne 15\, September 15 (current year)\, January 15 (next year). | Authority: 
+ Direct fetch of Nebraska's own tax agency site/instructions this session | 
+ Source: https://revenue.nebraska.gov/individuals/instructions-paying-your-e
+ stimated-individual-income-tax | This date is computed from a recurrence ru
+ le and may not reflect a later-announced change\; confirm against the cited
+  source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-nebraska-q3-2030-09-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300916
+DTEND;VALUE=DATE:20300917
+SUMMARY:Nebraska: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15 (current year)\, January 15 (
+ next year). | Q3 2026 state individual estimated tax payment. April 15\, Ju
+ ne 15\, September 15 (current year)\, January 15 (next year). | Authority: 
+ Direct fetch of Nebraska's own tax agency site/instructions this session | 
+ Source: https://revenue.nebraska.gov/individuals/instructions-paying-your-e
+ stimated-individual-income-tax | This date is computed from a recurrence ru
+ le and may not reflect a later-announced change\; confirm against the cited
+  source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-nebraska-q3-2031-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310915
+DTEND;VALUE=DATE:20310916
+SUMMARY:Nebraska: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15 (current year)\, January 15 (
+ next year). | Q3 2026 state individual estimated tax payment. April 15\, Ju
+ ne 15\, September 15 (current year)\, January 15 (next year). | Authority: 
+ Direct fetch of Nebraska's own tax agency site/instructions this session | 
+ Source: https://revenue.nebraska.gov/individuals/instructions-paying-your-e
+ stimated-individual-income-tax | This date is computed from a recurrence ru
+ le and may not reflect a later-announced change\; confirm against the cited
+  source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-nebraska-q3-2032-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320915
+DTEND;VALUE=DATE:20320916
+SUMMARY:Nebraska: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15 (current year)\, January 15 (
+ next year). | Q3 2026 state individual estimated tax payment. April 15\, Ju
+ ne 15\, September 15 (current year)\, January 15 (next year). | Authority: 
+ Direct fetch of Nebraska's own tax agency site/instructions this session | 
+ Source: https://revenue.nebraska.gov/individuals/instructions-paying-your-e
+ stimated-individual-income-tax | This date is computed from a recurrence ru
+ le and may not reflect a later-announced change\; confirm against the cited
+  source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-nebraska-q4-2025-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250115
+DTEND;VALUE=DATE:20250116
+SUMMARY:Nebraska: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15 (current year)\, January 15 (
+ next year). | Q4 2026 state individual estimated tax payment. April 15\, Ju
+ ne 15\, September 15 (current year)\, January 15 (next year). | Authority: 
+ Direct fetch of Nebraska's own tax agency site/instructions this session | 
+ Source: https://revenue.nebraska.gov/individuals/instructions-paying-your-e
+ stimated-individual-income-tax | This date is computed from a recurrence ru
+ le and may not reflect a later-announced change\; confirm against the cited
+  source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-nebraska-q4-2026-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260116
+SUMMARY:Nebraska: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15 (current year)\, January 15 (
+ next year). | Q4 2026 state individual estimated tax payment. April 15\, Ju
+ ne 15\, September 15 (current year)\, January 15 (next year). | Authority: 
+ Direct fetch of Nebraska's own tax agency site/instructions this session | 
+ Source: https://revenue.nebraska.gov/individuals/instructions-paying-your-e
+ stimated-individual-income-tax | This date is computed from a recurrence ru
+ le and may not reflect a later-announced change\; confirm against the cited
+  source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-nebraska-q4-2027-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Nebraska: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15 (current year)\, January 15 (
+ next year). | Q4 2026 state individual estimated tax payment. April 15\, Ju
+ ne 15\, September 15 (current year)\, January 15 (next year). | Authority: 
+ Direct fetch of Nebraska's own tax agency site/instructions this session | 
+ Source: https://revenue.nebraska.gov/individuals/instructions-paying-your-e
+ stimated-individual-income-tax | This date is computed from a recurrence ru
+ le and may not reflect a later-announced change\; confirm against the cited
+  source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-nebraska-q4-2028-01-18@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280118
+DTEND;VALUE=DATE:20280119
+SUMMARY:Nebraska: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15 (current year)\, January 15 (
+ next year). | Q4 2026 state individual estimated tax payment. April 15\, Ju
+ ne 15\, September 15 (current year)\, January 15 (next year). | Authority: 
+ Direct fetch of Nebraska's own tax agency site/instructions this session | 
+ Source: https://revenue.nebraska.gov/individuals/instructions-paying-your-e
+ stimated-individual-income-tax | This date is computed from a recurrence ru
+ le and may not reflect a later-announced change\; confirm against the cited
+  source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-nebraska-q4-2029-01-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290116
+DTEND;VALUE=DATE:20290117
+SUMMARY:Nebraska: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15 (current year)\, January 15 (
+ next year). | Q4 2026 state individual estimated tax payment. April 15\, Ju
+ ne 15\, September 15 (current year)\, January 15 (next year). | Authority: 
+ Direct fetch of Nebraska's own tax agency site/instructions this session | 
+ Source: https://revenue.nebraska.gov/individuals/instructions-paying-your-e
+ stimated-individual-income-tax | This date is computed from a recurrence ru
+ le and may not reflect a later-announced change\; confirm against the cited
+  source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-nebraska-q4-2030-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300115
+DTEND;VALUE=DATE:20300116
+SUMMARY:Nebraska: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15 (current year)\, January 15 (
+ next year). | Q4 2026 state individual estimated tax payment. April 15\, Ju
+ ne 15\, September 15 (current year)\, January 15 (next year). | Authority: 
+ Direct fetch of Nebraska's own tax agency site/instructions this session | 
+ Source: https://revenue.nebraska.gov/individuals/instructions-paying-your-e
+ stimated-individual-income-tax | This date is computed from a recurrence ru
+ le and may not reflect a later-announced change\; confirm against the cited
+  source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-nebraska-q4-2031-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310115
+DTEND;VALUE=DATE:20310116
+SUMMARY:Nebraska: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15 (current year)\, January 15 (
+ next year). | Q4 2026 state individual estimated tax payment. April 15\, Ju
+ ne 15\, September 15 (current year)\, January 15 (next year). | Authority: 
+ Direct fetch of Nebraska's own tax agency site/instructions this session | 
+ Source: https://revenue.nebraska.gov/individuals/instructions-paying-your-e
+ stimated-individual-income-tax | This date is computed from a recurrence ru
+ le and may not reflect a later-announced change\; confirm against the cited
+  source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-nebraska-q4-2032-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320115
+DTEND;VALUE=DATE:20320116
+SUMMARY:Nebraska: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15 (current year)\, January 15 (
+ next year). | Q4 2026 state individual estimated tax payment. April 15\, Ju
+ ne 15\, September 15 (current year)\, January 15 (next year). | Authority: 
+ Direct fetch of Nebraska's own tax agency site/instructions this session | 
+ Source: https://revenue.nebraska.gov/individuals/instructions-paying-your-e
+ stimated-individual-income-tax | This date is computed from a recurrence ru
+ le and may not reflect a later-announced change\; confirm against the cited
+  source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-ne-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:Nebraska: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Automatic-extension date not confirmed 
+ this session. | Authority: Direct fetch of https://revenue.nebraska.gov/abo
+ ut/tax-calendar this session | Source: https://revenue.nebraska.gov/about/t
+ ax-calendar | This date is computed from a recurrence rule and may not refl
+ ect a later-announced change\; confirm against the cited source before rely
+ ing on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-ne-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:Nebraska: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Automatic-extension date not confirmed 
+ this session. | Authority: Direct fetch of https://revenue.nebraska.gov/abo
+ ut/tax-calendar this session | Source: https://revenue.nebraska.gov/about/t
+ ax-calendar | This date is computed from a recurrence rule and may not refl
+ ect a later-announced change\; confirm against the cited source before rely
+ ing on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-ne-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Nebraska: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Automatic-extension date not confirmed 
+ this session. | Authority: Direct fetch of https://revenue.nebraska.gov/abo
+ ut/tax-calendar this session | Source: https://revenue.nebraska.gov/about/t
+ ax-calendar | This date is computed from a recurrence rule and may not refl
+ ect a later-announced change\; confirm against the cited source before rely
+ ing on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-ne-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Nebraska: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Automatic-extension date not confirmed 
+ this session. | Authority: Direct fetch of https://revenue.nebraska.gov/abo
+ ut/tax-calendar this session | Source: https://revenue.nebraska.gov/about/t
+ ax-calendar | This date is computed from a recurrence rule and may not refl
+ ect a later-announced change\; confirm against the cited source before rely
+ ing on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-ne-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:Nebraska: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Automatic-extension date not confirmed 
+ this session. | Authority: Direct fetch of https://revenue.nebraska.gov/abo
+ ut/tax-calendar this session | Source: https://revenue.nebraska.gov/about/t
+ ax-calendar | This date is computed from a recurrence rule and may not refl
+ ect a later-announced change\; confirm against the cited source before rely
+ ing on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-ne-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:Nebraska: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Automatic-extension date not confirmed 
+ this session. | Authority: Direct fetch of https://revenue.nebraska.gov/abo
+ ut/tax-calendar this session | Source: https://revenue.nebraska.gov/about/t
+ ax-calendar | This date is computed from a recurrence rule and may not refl
+ ect a later-announced change\; confirm against the cited source before rely
+ ing on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-ne-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:Nebraska: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Automatic-extension date not confirmed 
+ this session. | Authority: Direct fetch of https://revenue.nebraska.gov/abo
+ ut/tax-calendar this session | Source: https://revenue.nebraska.gov/about/t
+ ax-calendar | This date is computed from a recurrence rule and may not refl
+ ect a later-announced change\; confirm against the cited source before rely
+ ing on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-ne-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:Nebraska: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Automatic-extension date not confirmed 
+ this session. | Authority: Direct fetch of https://revenue.nebraska.gov/abo
+ ut/tax-calendar this session | Source: https://revenue.nebraska.gov/about/t
+ ax-calendar | This date is computed from a recurrence rule and may not refl
+ ect a later-announced change\; confirm against the cited source before rely
+ ing on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-nebraska-2025-03-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250318
+SUMMARY:Nebraska: 1065N (partnership) / 1120-SN (S-corp) due
+DESCRIPTION:Nebraska partnership return due the 15th day of the 3rd month a
+ fter year-end. NE's PTE elective tax is reported on the same 1065N/1120-SN.
+  Correction (this rebuild session): the cited source states the general rul
+ e (15th day of the 3rd month) without addressing the 2026-specific weekend 
+ interaction - March 15\, 2026 is a Sunday. Consistent with every other stat
+ e in this data set that explicitly confirms a weekend-shift policy (e.g. Ma
+ ssachusetts\, New York\, Vermont\, Delaware\, Montana\, Oregon all confirm 
+ shifting to March 16\, 2026)\, and with the near-universal US government-de
+ adline convention of shifting to the next business day\, this entry's date_
+ 2026 was corrected from an unshifted March 15\, 2026 to March 16\, 2026. Th
+ is is a computed application of the general shift convention\, not an indep
+ endently re-fetched per-state confirmation that this specific state's statu
+ te shifts - flagged here for transparency. | Nebraska partnership return du
+ e the 15th day of the 3rd month after year-end. NE's PTE elective tax is re
+ ported on the same 1065N/1120-SN. Automatic if a timely federal Form 7004 i
+ s attached (matches the IRS-granted period)\; or file Nebraska Form 7004N b
+ y the original due date if not using a federal extension. Does not extend t
+ ime to pay. Correction (this rebuild session): the cited source states the 
+ general rule (15th day of the 3rd month) without addressing the 2026-specif
+ ic weekend interaction - March 15\, 2026 is a Sunday. Consistent with every
+  other state in this data set that explicitly confirms a weekend-shift poli
+ cy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, Oregon a
+ ll confirm shifting to March 16\, 2026)\, and with the near-universal US go
+ vernment-deadline convention of shifting to the next business day\, this en
+ try's date_2026 was corrected from an unshifted March 15\, 2026 to March 16
+ \, 2026. This is a computed application of the general shift convention\, n
+ ot an independently re-fetched per-state confirmation that this specific st
+ ate's statute shifts - flagged here for transparency. | Authority: Nebraska
+  Department of Revenue\, direct fetch this session: "on or before the 15th 
+ day of the third month following the close of the taxable year." | Source: 
+ https://revenue.nebraska.gov/sites/default/files/doc/tax-forms/2024/f_Retur
+ n_of_Partnership_Booklet.pdf | This date is computed from a recurrence rule
+  and may not reflect a later-announced change\; confirm against the cited s
+ ource before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-nebraska-2026-03-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260317
+SUMMARY:Nebraska: 1065N (partnership) / 1120-SN (S-corp) due
+DESCRIPTION:Nebraska partnership return due the 15th day of the 3rd month a
+ fter year-end. NE's PTE elective tax is reported on the same 1065N/1120-SN.
+  Correction (this rebuild session): the cited source states the general rul
+ e (15th day of the 3rd month) without addressing the 2026-specific weekend 
+ interaction - March 15\, 2026 is a Sunday. Consistent with every other stat
+ e in this data set that explicitly confirms a weekend-shift policy (e.g. Ma
+ ssachusetts\, New York\, Vermont\, Delaware\, Montana\, Oregon all confirm 
+ shifting to March 16\, 2026)\, and with the near-universal US government-de
+ adline convention of shifting to the next business day\, this entry's date_
+ 2026 was corrected from an unshifted March 15\, 2026 to March 16\, 2026. Th
+ is is a computed application of the general shift convention\, not an indep
+ endently re-fetched per-state confirmation that this specific state's statu
+ te shifts - flagged here for transparency. | Nebraska partnership return du
+ e the 15th day of the 3rd month after year-end. NE's PTE elective tax is re
+ ported on the same 1065N/1120-SN. Automatic if a timely federal Form 7004 i
+ s attached (matches the IRS-granted period)\; or file Nebraska Form 7004N b
+ y the original due date if not using a federal extension. Does not extend t
+ ime to pay. Correction (this rebuild session): the cited source states the 
+ general rule (15th day of the 3rd month) without addressing the 2026-specif
+ ic weekend interaction - March 15\, 2026 is a Sunday. Consistent with every
+  other state in this data set that explicitly confirms a weekend-shift poli
+ cy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, Oregon a
+ ll confirm shifting to March 16\, 2026)\, and with the near-universal US go
+ vernment-deadline convention of shifting to the next business day\, this en
+ try's date_2026 was corrected from an unshifted March 15\, 2026 to March 16
+ \, 2026. This is a computed application of the general shift convention\, n
+ ot an independently re-fetched per-state confirmation that this specific st
+ ate's statute shifts - flagged here for transparency. | Authority: Nebraska
+  Department of Revenue\, direct fetch this session: "on or before the 15th 
+ day of the third month following the close of the taxable year." | Source: 
+ https://revenue.nebraska.gov/sites/default/files/doc/tax-forms/2024/f_Retur
+ n_of_Partnership_Booklet.pdf | This date is computed from a recurrence rule
+  and may not reflect a later-announced change\; confirm against the cited s
+ ource before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-nebraska-2027-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:Nebraska: 1065N (partnership) / 1120-SN (S-corp) due
+DESCRIPTION:Nebraska partnership return due the 15th day of the 3rd month a
+ fter year-end. NE's PTE elective tax is reported on the same 1065N/1120-SN.
+  Correction (this rebuild session): the cited source states the general rul
+ e (15th day of the 3rd month) without addressing the 2026-specific weekend 
+ interaction - March 15\, 2026 is a Sunday. Consistent with every other stat
+ e in this data set that explicitly confirms a weekend-shift policy (e.g. Ma
+ ssachusetts\, New York\, Vermont\, Delaware\, Montana\, Oregon all confirm 
+ shifting to March 16\, 2026)\, and with the near-universal US government-de
+ adline convention of shifting to the next business day\, this entry's date_
+ 2026 was corrected from an unshifted March 15\, 2026 to March 16\, 2026. Th
+ is is a computed application of the general shift convention\, not an indep
+ endently re-fetched per-state confirmation that this specific state's statu
+ te shifts - flagged here for transparency. | Nebraska partnership return du
+ e the 15th day of the 3rd month after year-end. NE's PTE elective tax is re
+ ported on the same 1065N/1120-SN. Automatic if a timely federal Form 7004 i
+ s attached (matches the IRS-granted period)\; or file Nebraska Form 7004N b
+ y the original due date if not using a federal extension. Does not extend t
+ ime to pay. Correction (this rebuild session): the cited source states the 
+ general rule (15th day of the 3rd month) without addressing the 2026-specif
+ ic weekend interaction - March 15\, 2026 is a Sunday. Consistent with every
+  other state in this data set that explicitly confirms a weekend-shift poli
+ cy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, Oregon a
+ ll confirm shifting to March 16\, 2026)\, and with the near-universal US go
+ vernment-deadline convention of shifting to the next business day\, this en
+ try's date_2026 was corrected from an unshifted March 15\, 2026 to March 16
+ \, 2026. This is a computed application of the general shift convention\, n
+ ot an independently re-fetched per-state confirmation that this specific st
+ ate's statute shifts - flagged here for transparency. | Authority: Nebraska
+  Department of Revenue\, direct fetch this session: "on or before the 15th 
+ day of the third month following the close of the taxable year." | Source: 
+ https://revenue.nebraska.gov/sites/default/files/doc/tax-forms/2024/f_Retur
+ n_of_Partnership_Booklet.pdf | This date is computed from a recurrence rule
+  and may not reflect a later-announced change\; confirm against the cited s
+ ource before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-nebraska-2028-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280315
+DTEND;VALUE=DATE:20280316
+SUMMARY:Nebraska: 1065N (partnership) / 1120-SN (S-corp) due
+DESCRIPTION:Nebraska partnership return due the 15th day of the 3rd month a
+ fter year-end. NE's PTE elective tax is reported on the same 1065N/1120-SN.
+  Correction (this rebuild session): the cited source states the general rul
+ e (15th day of the 3rd month) without addressing the 2026-specific weekend 
+ interaction - March 15\, 2026 is a Sunday. Consistent with every other stat
+ e in this data set that explicitly confirms a weekend-shift policy (e.g. Ma
+ ssachusetts\, New York\, Vermont\, Delaware\, Montana\, Oregon all confirm 
+ shifting to March 16\, 2026)\, and with the near-universal US government-de
+ adline convention of shifting to the next business day\, this entry's date_
+ 2026 was corrected from an unshifted March 15\, 2026 to March 16\, 2026. Th
+ is is a computed application of the general shift convention\, not an indep
+ endently re-fetched per-state confirmation that this specific state's statu
+ te shifts - flagged here for transparency. | Nebraska partnership return du
+ e the 15th day of the 3rd month after year-end. NE's PTE elective tax is re
+ ported on the same 1065N/1120-SN. Automatic if a timely federal Form 7004 i
+ s attached (matches the IRS-granted period)\; or file Nebraska Form 7004N b
+ y the original due date if not using a federal extension. Does not extend t
+ ime to pay. Correction (this rebuild session): the cited source states the 
+ general rule (15th day of the 3rd month) without addressing the 2026-specif
+ ic weekend interaction - March 15\, 2026 is a Sunday. Consistent with every
+  other state in this data set that explicitly confirms a weekend-shift poli
+ cy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, Oregon a
+ ll confirm shifting to March 16\, 2026)\, and with the near-universal US go
+ vernment-deadline convention of shifting to the next business day\, this en
+ try's date_2026 was corrected from an unshifted March 15\, 2026 to March 16
+ \, 2026. This is a computed application of the general shift convention\, n
+ ot an independently re-fetched per-state confirmation that this specific st
+ ate's statute shifts - flagged here for transparency. | Authority: Nebraska
+  Department of Revenue\, direct fetch this session: "on or before the 15th 
+ day of the third month following the close of the taxable year." | Source: 
+ https://revenue.nebraska.gov/sites/default/files/doc/tax-forms/2024/f_Retur
+ n_of_Partnership_Booklet.pdf | This date is computed from a recurrence rule
+  and may not reflect a later-announced change\; confirm against the cited s
+ ource before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-nebraska-2029-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290315
+DTEND;VALUE=DATE:20290316
+SUMMARY:Nebraska: 1065N (partnership) / 1120-SN (S-corp) due
+DESCRIPTION:Nebraska partnership return due the 15th day of the 3rd month a
+ fter year-end. NE's PTE elective tax is reported on the same 1065N/1120-SN.
+  Correction (this rebuild session): the cited source states the general rul
+ e (15th day of the 3rd month) without addressing the 2026-specific weekend 
+ interaction - March 15\, 2026 is a Sunday. Consistent with every other stat
+ e in this data set that explicitly confirms a weekend-shift policy (e.g. Ma
+ ssachusetts\, New York\, Vermont\, Delaware\, Montana\, Oregon all confirm 
+ shifting to March 16\, 2026)\, and with the near-universal US government-de
+ adline convention of shifting to the next business day\, this entry's date_
+ 2026 was corrected from an unshifted March 15\, 2026 to March 16\, 2026. Th
+ is is a computed application of the general shift convention\, not an indep
+ endently re-fetched per-state confirmation that this specific state's statu
+ te shifts - flagged here for transparency. | Nebraska partnership return du
+ e the 15th day of the 3rd month after year-end. NE's PTE elective tax is re
+ ported on the same 1065N/1120-SN. Automatic if a timely federal Form 7004 i
+ s attached (matches the IRS-granted period)\; or file Nebraska Form 7004N b
+ y the original due date if not using a federal extension. Does not extend t
+ ime to pay. Correction (this rebuild session): the cited source states the 
+ general rule (15th day of the 3rd month) without addressing the 2026-specif
+ ic weekend interaction - March 15\, 2026 is a Sunday. Consistent with every
+  other state in this data set that explicitly confirms a weekend-shift poli
+ cy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, Oregon a
+ ll confirm shifting to March 16\, 2026)\, and with the near-universal US go
+ vernment-deadline convention of shifting to the next business day\, this en
+ try's date_2026 was corrected from an unshifted March 15\, 2026 to March 16
+ \, 2026. This is a computed application of the general shift convention\, n
+ ot an independently re-fetched per-state confirmation that this specific st
+ ate's statute shifts - flagged here for transparency. | Authority: Nebraska
+  Department of Revenue\, direct fetch this session: "on or before the 15th 
+ day of the third month following the close of the taxable year." | Source: 
+ https://revenue.nebraska.gov/sites/default/files/doc/tax-forms/2024/f_Retur
+ n_of_Partnership_Booklet.pdf | This date is computed from a recurrence rule
+  and may not reflect a later-announced change\; confirm against the cited s
+ ource before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-nebraska-2030-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300315
+DTEND;VALUE=DATE:20300316
+SUMMARY:Nebraska: 1065N (partnership) / 1120-SN (S-corp) due
+DESCRIPTION:Nebraska partnership return due the 15th day of the 3rd month a
+ fter year-end. NE's PTE elective tax is reported on the same 1065N/1120-SN.
+  Correction (this rebuild session): the cited source states the general rul
+ e (15th day of the 3rd month) without addressing the 2026-specific weekend 
+ interaction - March 15\, 2026 is a Sunday. Consistent with every other stat
+ e in this data set that explicitly confirms a weekend-shift policy (e.g. Ma
+ ssachusetts\, New York\, Vermont\, Delaware\, Montana\, Oregon all confirm 
+ shifting to March 16\, 2026)\, and with the near-universal US government-de
+ adline convention of shifting to the next business day\, this entry's date_
+ 2026 was corrected from an unshifted March 15\, 2026 to March 16\, 2026. Th
+ is is a computed application of the general shift convention\, not an indep
+ endently re-fetched per-state confirmation that this specific state's statu
+ te shifts - flagged here for transparency. | Nebraska partnership return du
+ e the 15th day of the 3rd month after year-end. NE's PTE elective tax is re
+ ported on the same 1065N/1120-SN. Automatic if a timely federal Form 7004 i
+ s attached (matches the IRS-granted period)\; or file Nebraska Form 7004N b
+ y the original due date if not using a federal extension. Does not extend t
+ ime to pay. Correction (this rebuild session): the cited source states the 
+ general rule (15th day of the 3rd month) without addressing the 2026-specif
+ ic weekend interaction - March 15\, 2026 is a Sunday. Consistent with every
+  other state in this data set that explicitly confirms a weekend-shift poli
+ cy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, Oregon a
+ ll confirm shifting to March 16\, 2026)\, and with the near-universal US go
+ vernment-deadline convention of shifting to the next business day\, this en
+ try's date_2026 was corrected from an unshifted March 15\, 2026 to March 16
+ \, 2026. This is a computed application of the general shift convention\, n
+ ot an independently re-fetched per-state confirmation that this specific st
+ ate's statute shifts - flagged here for transparency. | Authority: Nebraska
+  Department of Revenue\, direct fetch this session: "on or before the 15th 
+ day of the third month following the close of the taxable year." | Source: 
+ https://revenue.nebraska.gov/sites/default/files/doc/tax-forms/2024/f_Retur
+ n_of_Partnership_Booklet.pdf | This date is computed from a recurrence rule
+  and may not reflect a later-announced change\; confirm against the cited s
+ ource before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-nebraska-2031-03-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310317
+DTEND;VALUE=DATE:20310318
+SUMMARY:Nebraska: 1065N (partnership) / 1120-SN (S-corp) due
+DESCRIPTION:Nebraska partnership return due the 15th day of the 3rd month a
+ fter year-end. NE's PTE elective tax is reported on the same 1065N/1120-SN.
+  Correction (this rebuild session): the cited source states the general rul
+ e (15th day of the 3rd month) without addressing the 2026-specific weekend 
+ interaction - March 15\, 2026 is a Sunday. Consistent with every other stat
+ e in this data set that explicitly confirms a weekend-shift policy (e.g. Ma
+ ssachusetts\, New York\, Vermont\, Delaware\, Montana\, Oregon all confirm 
+ shifting to March 16\, 2026)\, and with the near-universal US government-de
+ adline convention of shifting to the next business day\, this entry's date_
+ 2026 was corrected from an unshifted March 15\, 2026 to March 16\, 2026. Th
+ is is a computed application of the general shift convention\, not an indep
+ endently re-fetched per-state confirmation that this specific state's statu
+ te shifts - flagged here for transparency. | Nebraska partnership return du
+ e the 15th day of the 3rd month after year-end. NE's PTE elective tax is re
+ ported on the same 1065N/1120-SN. Automatic if a timely federal Form 7004 i
+ s attached (matches the IRS-granted period)\; or file Nebraska Form 7004N b
+ y the original due date if not using a federal extension. Does not extend t
+ ime to pay. Correction (this rebuild session): the cited source states the 
+ general rule (15th day of the 3rd month) without addressing the 2026-specif
+ ic weekend interaction - March 15\, 2026 is a Sunday. Consistent with every
+  other state in this data set that explicitly confirms a weekend-shift poli
+ cy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, Oregon a
+ ll confirm shifting to March 16\, 2026)\, and with the near-universal US go
+ vernment-deadline convention of shifting to the next business day\, this en
+ try's date_2026 was corrected from an unshifted March 15\, 2026 to March 16
+ \, 2026. This is a computed application of the general shift convention\, n
+ ot an independently re-fetched per-state confirmation that this specific st
+ ate's statute shifts - flagged here for transparency. | Authority: Nebraska
+  Department of Revenue\, direct fetch this session: "on or before the 15th 
+ day of the third month following the close of the taxable year." | Source: 
+ https://revenue.nebraska.gov/sites/default/files/doc/tax-forms/2024/f_Retur
+ n_of_Partnership_Booklet.pdf | This date is computed from a recurrence rule
+  and may not reflect a later-announced change\; confirm against the cited s
+ ource before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-nebraska-2032-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320315
+DTEND;VALUE=DATE:20320316
+SUMMARY:Nebraska: 1065N (partnership) / 1120-SN (S-corp) due
+DESCRIPTION:Nebraska partnership return due the 15th day of the 3rd month a
+ fter year-end. NE's PTE elective tax is reported on the same 1065N/1120-SN.
+  Correction (this rebuild session): the cited source states the general rul
+ e (15th day of the 3rd month) without addressing the 2026-specific weekend 
+ interaction - March 15\, 2026 is a Sunday. Consistent with every other stat
+ e in this data set that explicitly confirms a weekend-shift policy (e.g. Ma
+ ssachusetts\, New York\, Vermont\, Delaware\, Montana\, Oregon all confirm 
+ shifting to March 16\, 2026)\, and with the near-universal US government-de
+ adline convention of shifting to the next business day\, this entry's date_
+ 2026 was corrected from an unshifted March 15\, 2026 to March 16\, 2026. Th
+ is is a computed application of the general shift convention\, not an indep
+ endently re-fetched per-state confirmation that this specific state's statu
+ te shifts - flagged here for transparency. | Nebraska partnership return du
+ e the 15th day of the 3rd month after year-end. NE's PTE elective tax is re
+ ported on the same 1065N/1120-SN. Automatic if a timely federal Form 7004 i
+ s attached (matches the IRS-granted period)\; or file Nebraska Form 7004N b
+ y the original due date if not using a federal extension. Does not extend t
+ ime to pay. Correction (this rebuild session): the cited source states the 
+ general rule (15th day of the 3rd month) without addressing the 2026-specif
+ ic weekend interaction - March 15\, 2026 is a Sunday. Consistent with every
+  other state in this data set that explicitly confirms a weekend-shift poli
+ cy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, Oregon a
+ ll confirm shifting to March 16\, 2026)\, and with the near-universal US go
+ vernment-deadline convention of shifting to the next business day\, this en
+ try's date_2026 was corrected from an unshifted March 15\, 2026 to March 16
+ \, 2026. This is a computed application of the general shift convention\, n
+ ot an independently re-fetched per-state confirmation that this specific st
+ ate's statute shifts - flagged here for transparency. | Authority: Nebraska
+  Department of Revenue\, direct fetch this session: "on or before the 15th 
+ day of the third month following the close of the taxable year." | Source: 
+ https://revenue.nebraska.gov/sites/default/files/doc/tax-forms/2024/f_Retur
+ n_of_Partnership_Booklet.pdf | This date is computed from a recurrence rule
+  and may not reflect a later-announced change\; confirm against the cited s
+ ource before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-nebraska-q1-2025-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250430
+DTEND;VALUE=DATE:20250501
+SUMMARY:Nebraska: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Combined tax is due on the first day and delinquent after the last d
+ ay of the month following the end of the calendar quarter. | Authority: Dir
+ ect fetch of Nebraska's own unemployment insurance agency site/handbook/cod
+ e this session | Source: https://dol.nebraska.gov/webdocs/getfile/da557858-
+ b2cd-412f-a78b-caf4ff0cd131 | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-nebraska-q1-2026-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:Nebraska: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Combined tax is due on the first day and delinquent after the last d
+ ay of the month following the end of the calendar quarter. | Authority: Dir
+ ect fetch of Nebraska's own unemployment insurance agency site/handbook/cod
+ e this session | Source: https://dol.nebraska.gov/webdocs/getfile/da557858-
+ b2cd-412f-a78b-caf4ff0cd131 | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-nebraska-q1-2027-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:Nebraska: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Combined tax is due on the first day and delinquent after the last d
+ ay of the month following the end of the calendar quarter. | Authority: Dir
+ ect fetch of Nebraska's own unemployment insurance agency site/handbook/cod
+ e this session | Source: https://dol.nebraska.gov/webdocs/getfile/da557858-
+ b2cd-412f-a78b-caf4ff0cd131 | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-nebraska-q1-2028-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280430
+DTEND;VALUE=DATE:20280501
+SUMMARY:Nebraska: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Combined tax is due on the first day and delinquent after the last d
+ ay of the month following the end of the calendar quarter. | Authority: Dir
+ ect fetch of Nebraska's own unemployment insurance agency site/handbook/cod
+ e this session | Source: https://dol.nebraska.gov/webdocs/getfile/da557858-
+ b2cd-412f-a78b-caf4ff0cd131 | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-nebraska-q1-2029-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290430
+DTEND;VALUE=DATE:20290501
+SUMMARY:Nebraska: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Combined tax is due on the first day and delinquent after the last d
+ ay of the month following the end of the calendar quarter. | Authority: Dir
+ ect fetch of Nebraska's own unemployment insurance agency site/handbook/cod
+ e this session | Source: https://dol.nebraska.gov/webdocs/getfile/da557858-
+ b2cd-412f-a78b-caf4ff0cd131 | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-nebraska-q1-2030-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300430
+DTEND;VALUE=DATE:20300501
+SUMMARY:Nebraska: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Combined tax is due on the first day and delinquent after the last d
+ ay of the month following the end of the calendar quarter. | Authority: Dir
+ ect fetch of Nebraska's own unemployment insurance agency site/handbook/cod
+ e this session | Source: https://dol.nebraska.gov/webdocs/getfile/da557858-
+ b2cd-412f-a78b-caf4ff0cd131 | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-nebraska-q1-2031-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310430
+DTEND;VALUE=DATE:20310501
+SUMMARY:Nebraska: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Combined tax is due on the first day and delinquent after the last d
+ ay of the month following the end of the calendar quarter. | Authority: Dir
+ ect fetch of Nebraska's own unemployment insurance agency site/handbook/cod
+ e this session | Source: https://dol.nebraska.gov/webdocs/getfile/da557858-
+ b2cd-412f-a78b-caf4ff0cd131 | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-nebraska-q1-2032-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320430
+DTEND;VALUE=DATE:20320501
+SUMMARY:Nebraska: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Combined tax is due on the first day and delinquent after the last d
+ ay of the month following the end of the calendar quarter. | Authority: Dir
+ ect fetch of Nebraska's own unemployment insurance agency site/handbook/cod
+ e this session | Source: https://dol.nebraska.gov/webdocs/getfile/da557858-
+ b2cd-412f-a78b-caf4ff0cd131 | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-nebraska-q2-2025-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250731
+DTEND;VALUE=DATE:20250801
+SUMMARY:Nebraska: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Combined tax is due on the first day and delinquent after the last d
+ ay of the month following the end of the calendar quarter. | Authority: Dir
+ ect fetch of Nebraska's own unemployment insurance agency site/handbook/cod
+ e this session | Source: https://dol.nebraska.gov/webdocs/getfile/da557858-
+ b2cd-412f-a78b-caf4ff0cd131 | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-nebraska-q2-2026-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Nebraska: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Combined tax is due on the first day and delinquent after the last d
+ ay of the month following the end of the calendar quarter. | Authority: Dir
+ ect fetch of Nebraska's own unemployment insurance agency site/handbook/cod
+ e this session | Source: https://dol.nebraska.gov/webdocs/getfile/da557858-
+ b2cd-412f-a78b-caf4ff0cd131 | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-nebraska-q2-2027-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:Nebraska: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Combined tax is due on the first day and delinquent after the last d
+ ay of the month following the end of the calendar quarter. | Authority: Dir
+ ect fetch of Nebraska's own unemployment insurance agency site/handbook/cod
+ e this session | Source: https://dol.nebraska.gov/webdocs/getfile/da557858-
+ b2cd-412f-a78b-caf4ff0cd131 | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-nebraska-q2-2028-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280731
+DTEND;VALUE=DATE:20280801
+SUMMARY:Nebraska: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Combined tax is due on the first day and delinquent after the last d
+ ay of the month following the end of the calendar quarter. | Authority: Dir
+ ect fetch of Nebraska's own unemployment insurance agency site/handbook/cod
+ e this session | Source: https://dol.nebraska.gov/webdocs/getfile/da557858-
+ b2cd-412f-a78b-caf4ff0cd131 | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-nebraska-q2-2029-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290731
+DTEND;VALUE=DATE:20290801
+SUMMARY:Nebraska: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Combined tax is due on the first day and delinquent after the last d
+ ay of the month following the end of the calendar quarter. | Authority: Dir
+ ect fetch of Nebraska's own unemployment insurance agency site/handbook/cod
+ e this session | Source: https://dol.nebraska.gov/webdocs/getfile/da557858-
+ b2cd-412f-a78b-caf4ff0cd131 | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-nebraska-q2-2030-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300731
+DTEND;VALUE=DATE:20300801
+SUMMARY:Nebraska: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Combined tax is due on the first day and delinquent after the last d
+ ay of the month following the end of the calendar quarter. | Authority: Dir
+ ect fetch of Nebraska's own unemployment insurance agency site/handbook/cod
+ e this session | Source: https://dol.nebraska.gov/webdocs/getfile/da557858-
+ b2cd-412f-a78b-caf4ff0cd131 | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-nebraska-q2-2031-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310731
+DTEND;VALUE=DATE:20310801
+SUMMARY:Nebraska: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Combined tax is due on the first day and delinquent after the last d
+ ay of the month following the end of the calendar quarter. | Authority: Dir
+ ect fetch of Nebraska's own unemployment insurance agency site/handbook/cod
+ e this session | Source: https://dol.nebraska.gov/webdocs/getfile/da557858-
+ b2cd-412f-a78b-caf4ff0cd131 | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-nebraska-q2-2032-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320731
+DTEND;VALUE=DATE:20320801
+SUMMARY:Nebraska: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Combined tax is due on the first day and delinquent after the last d
+ ay of the month following the end of the calendar quarter. | Authority: Dir
+ ect fetch of Nebraska's own unemployment insurance agency site/handbook/cod
+ e this session | Source: https://dol.nebraska.gov/webdocs/getfile/da557858-
+ b2cd-412f-a78b-caf4ff0cd131 | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-nebraska-q3-2025-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20251031
+DTEND;VALUE=DATE:20251101
+SUMMARY:Nebraska: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Combined tax is due on the first day and delinquent after the last d
+ ay of the month following the end of the calendar quarter. | Authority: Dir
+ ect fetch of Nebraska's own unemployment insurance agency site/handbook/cod
+ e this session | Source: https://dol.nebraska.gov/webdocs/getfile/da557858-
+ b2cd-412f-a78b-caf4ff0cd131 | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-nebraska-q3-2026-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Nebraska: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Combined tax is due on the first day and delinquent after the last d
+ ay of the month following the end of the calendar quarter. | Authority: Dir
+ ect fetch of Nebraska's own unemployment insurance agency site/handbook/cod
+ e this session | Source: https://dol.nebraska.gov/webdocs/getfile/da557858-
+ b2cd-412f-a78b-caf4ff0cd131 | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-nebraska-q3-2027-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20271031
+DTEND;VALUE=DATE:20271101
+SUMMARY:Nebraska: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Combined tax is due on the first day and delinquent after the last d
+ ay of the month following the end of the calendar quarter. | Authority: Dir
+ ect fetch of Nebraska's own unemployment insurance agency site/handbook/cod
+ e this session | Source: https://dol.nebraska.gov/webdocs/getfile/da557858-
+ b2cd-412f-a78b-caf4ff0cd131 | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-nebraska-q3-2028-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20281031
+DTEND;VALUE=DATE:20281101
+SUMMARY:Nebraska: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Combined tax is due on the first day and delinquent after the last d
+ ay of the month following the end of the calendar quarter. | Authority: Dir
+ ect fetch of Nebraska's own unemployment insurance agency site/handbook/cod
+ e this session | Source: https://dol.nebraska.gov/webdocs/getfile/da557858-
+ b2cd-412f-a78b-caf4ff0cd131 | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-nebraska-q3-2029-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20291031
+DTEND;VALUE=DATE:20291101
+SUMMARY:Nebraska: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Combined tax is due on the first day and delinquent after the last d
+ ay of the month following the end of the calendar quarter. | Authority: Dir
+ ect fetch of Nebraska's own unemployment insurance agency site/handbook/cod
+ e this session | Source: https://dol.nebraska.gov/webdocs/getfile/da557858-
+ b2cd-412f-a78b-caf4ff0cd131 | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-nebraska-q3-2030-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20301031
+DTEND;VALUE=DATE:20301101
+SUMMARY:Nebraska: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Combined tax is due on the first day and delinquent after the last d
+ ay of the month following the end of the calendar quarter. | Authority: Dir
+ ect fetch of Nebraska's own unemployment insurance agency site/handbook/cod
+ e this session | Source: https://dol.nebraska.gov/webdocs/getfile/da557858-
+ b2cd-412f-a78b-caf4ff0cd131 | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-nebraska-q3-2031-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20311031
+DTEND;VALUE=DATE:20311101
+SUMMARY:Nebraska: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Combined tax is due on the first day and delinquent after the last d
+ ay of the month following the end of the calendar quarter. | Authority: Dir
+ ect fetch of Nebraska's own unemployment insurance agency site/handbook/cod
+ e this session | Source: https://dol.nebraska.gov/webdocs/getfile/da557858-
+ b2cd-412f-a78b-caf4ff0cd131 | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-nebraska-q3-2032-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20321031
+DTEND;VALUE=DATE:20321101
+SUMMARY:Nebraska: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Combined tax is due on the first day and delinquent after the last d
+ ay of the month following the end of the calendar quarter. | Authority: Dir
+ ect fetch of Nebraska's own unemployment insurance agency site/handbook/cod
+ e this session | Source: https://dol.nebraska.gov/webdocs/getfile/da557858-
+ b2cd-412f-a78b-caf4ff0cd131 | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-nebraska-q4-2025-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250131
+DTEND;VALUE=DATE:20250201
+SUMMARY:Nebraska: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Combined tax is due on the first day and delinquent after the last d
+ ay of the month following the end of the calendar quarter. | Authority: Dir
+ ect fetch of Nebraska's own unemployment insurance agency site/handbook/cod
+ e this session | Source: https://dol.nebraska.gov/webdocs/getfile/da557858-
+ b2cd-412f-a78b-caf4ff0cd131 | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-nebraska-q4-2026-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:Nebraska: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Combined tax is due on the first day and delinquent after the last d
+ ay of the month following the end of the calendar quarter. | Authority: Dir
+ ect fetch of Nebraska's own unemployment insurance agency site/handbook/cod
+ e this session | Source: https://dol.nebraska.gov/webdocs/getfile/da557858-
+ b2cd-412f-a78b-caf4ff0cd131 | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-nebraska-q4-2027-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Nebraska: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Combined tax is due on the first day and delinquent after the last d
+ ay of the month following the end of the calendar quarter. | Authority: Dir
+ ect fetch of Nebraska's own unemployment insurance agency site/handbook/cod
+ e this session | Source: https://dol.nebraska.gov/webdocs/getfile/da557858-
+ b2cd-412f-a78b-caf4ff0cd131 | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-nebraska-q4-2028-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280131
+DTEND;VALUE=DATE:20280201
+SUMMARY:Nebraska: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Combined tax is due on the first day and delinquent after the last d
+ ay of the month following the end of the calendar quarter. | Authority: Dir
+ ect fetch of Nebraska's own unemployment insurance agency site/handbook/cod
+ e this session | Source: https://dol.nebraska.gov/webdocs/getfile/da557858-
+ b2cd-412f-a78b-caf4ff0cd131 | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-nebraska-q4-2029-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290131
+DTEND;VALUE=DATE:20290201
+SUMMARY:Nebraska: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Combined tax is due on the first day and delinquent after the last d
+ ay of the month following the end of the calendar quarter. | Authority: Dir
+ ect fetch of Nebraska's own unemployment insurance agency site/handbook/cod
+ e this session | Source: https://dol.nebraska.gov/webdocs/getfile/da557858-
+ b2cd-412f-a78b-caf4ff0cd131 | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-nebraska-q4-2030-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300131
+DTEND;VALUE=DATE:20300201
+SUMMARY:Nebraska: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Combined tax is due on the first day and delinquent after the last d
+ ay of the month following the end of the calendar quarter. | Authority: Dir
+ ect fetch of Nebraska's own unemployment insurance agency site/handbook/cod
+ e this session | Source: https://dol.nebraska.gov/webdocs/getfile/da557858-
+ b2cd-412f-a78b-caf4ff0cd131 | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-nebraska-q4-2031-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310131
+DTEND;VALUE=DATE:20310201
+SUMMARY:Nebraska: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Combined tax is due on the first day and delinquent after the last d
+ ay of the month following the end of the calendar quarter. | Authority: Dir
+ ect fetch of Nebraska's own unemployment insurance agency site/handbook/cod
+ e this session | Source: https://dol.nebraska.gov/webdocs/getfile/da557858-
+ b2cd-412f-a78b-caf4ff0cd131 | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-nebraska-q4-2032-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320131
+DTEND;VALUE=DATE:20320201
+SUMMARY:Nebraska: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Combined tax is due on the first day and delinquent after the last d
+ ay of the month following the end of the calendar quarter. | Authority: Dir
+ ect fetch of Nebraska's own unemployment insurance agency site/handbook/cod
+ e this session | Source: https://dol.nebraska.gov/webdocs/getfile/da557858-
+ b2cd-412f-a78b-caf4ff0cd131 | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-nebraska-q1-2025-04-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250422
+SUMMARY:Nebraska: State sales & use tax return due
+DESCRIPTION:20th of the month following the tax period. | Q1 2026 (Jan-Mar)
+  sales tax return\, applying Nebraska's quarterly-filer due-date rule: 20th
+  of the month following the tax period. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Nebraska's own tax agency site this session | Source: https://rev
+ enue.nebraska.gov/about/frequently-asked-questions/nebraska-sales-and-use-t
+ ax-faqs | This date is computed from a recurrence rule and may not reflect 
+ a later-announced change\; confirm against the cited source before relying 
+ on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-nebraska-q1-2026-04-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:Nebraska: State sales & use tax return due
+DESCRIPTION:20th of the month following the tax period. | Q1 2026 (Jan-Mar)
+  sales tax return\, applying Nebraska's quarterly-filer due-date rule: 20th
+  of the month following the tax period. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Nebraska's own tax agency site this session | Source: https://rev
+ enue.nebraska.gov/about/frequently-asked-questions/nebraska-sales-and-use-t
+ ax-faqs | This date is computed from a recurrence rule and may not reflect 
+ a later-announced change\; confirm against the cited source before relying 
+ on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-nebraska-q1-2027-04-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:Nebraska: State sales & use tax return due
+DESCRIPTION:20th of the month following the tax period. | Q1 2026 (Jan-Mar)
+  sales tax return\, applying Nebraska's quarterly-filer due-date rule: 20th
+  of the month following the tax period. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Nebraska's own tax agency site this session | Source: https://rev
+ enue.nebraska.gov/about/frequently-asked-questions/nebraska-sales-and-use-t
+ ax-faqs | This date is computed from a recurrence rule and may not reflect 
+ a later-announced change\; confirm against the cited source before relying 
+ on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-nebraska-q1-2028-04-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280420
+DTEND;VALUE=DATE:20280421
+SUMMARY:Nebraska: State sales & use tax return due
+DESCRIPTION:20th of the month following the tax period. | Q1 2026 (Jan-Mar)
+  sales tax return\, applying Nebraska's quarterly-filer due-date rule: 20th
+  of the month following the tax period. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Nebraska's own tax agency site this session | Source: https://rev
+ enue.nebraska.gov/about/frequently-asked-questions/nebraska-sales-and-use-t
+ ax-faqs | This date is computed from a recurrence rule and may not reflect 
+ a later-announced change\; confirm against the cited source before relying 
+ on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-nebraska-q1-2029-04-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290420
+DTEND;VALUE=DATE:20290421
+SUMMARY:Nebraska: State sales & use tax return due
+DESCRIPTION:20th of the month following the tax period. | Q1 2026 (Jan-Mar)
+  sales tax return\, applying Nebraska's quarterly-filer due-date rule: 20th
+  of the month following the tax period. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Nebraska's own tax agency site this session | Source: https://rev
+ enue.nebraska.gov/about/frequently-asked-questions/nebraska-sales-and-use-t
+ ax-faqs | This date is computed from a recurrence rule and may not reflect 
+ a later-announced change\; confirm against the cited source before relying 
+ on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-nebraska-q1-2030-04-22@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300422
+DTEND;VALUE=DATE:20300423
+SUMMARY:Nebraska: State sales & use tax return due
+DESCRIPTION:20th of the month following the tax period. | Q1 2026 (Jan-Mar)
+  sales tax return\, applying Nebraska's quarterly-filer due-date rule: 20th
+  of the month following the tax period. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Nebraska's own tax agency site this session | Source: https://rev
+ enue.nebraska.gov/about/frequently-asked-questions/nebraska-sales-and-use-t
+ ax-faqs | This date is computed from a recurrence rule and may not reflect 
+ a later-announced change\; confirm against the cited source before relying 
+ on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-nebraska-q1-2031-04-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310421
+DTEND;VALUE=DATE:20310422
+SUMMARY:Nebraska: State sales & use tax return due
+DESCRIPTION:20th of the month following the tax period. | Q1 2026 (Jan-Mar)
+  sales tax return\, applying Nebraska's quarterly-filer due-date rule: 20th
+  of the month following the tax period. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Nebraska's own tax agency site this session | Source: https://rev
+ enue.nebraska.gov/about/frequently-asked-questions/nebraska-sales-and-use-t
+ ax-faqs | This date is computed from a recurrence rule and may not reflect 
+ a later-announced change\; confirm against the cited source before relying 
+ on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-nebraska-q1-2032-04-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320420
+DTEND;VALUE=DATE:20320421
+SUMMARY:Nebraska: State sales & use tax return due
+DESCRIPTION:20th of the month following the tax period. | Q1 2026 (Jan-Mar)
+  sales tax return\, applying Nebraska's quarterly-filer due-date rule: 20th
+  of the month following the tax period. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Nebraska's own tax agency site this session | Source: https://rev
+ enue.nebraska.gov/about/frequently-asked-questions/nebraska-sales-and-use-t
+ ax-faqs | This date is computed from a recurrence rule and may not reflect 
+ a later-announced change\; confirm against the cited source before relying 
+ on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-nebraska-q2-2025-07-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250722
+SUMMARY:Nebraska: State sales & use tax return due
+DESCRIPTION:20th of the month following the tax period. | Q2 2026 (Apr-Jun)
+  sales tax return\, applying Nebraska's quarterly-filer due-date rule: 20th
+  of the month following the tax period. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Nebraska's own tax agency site this session | Source: https://rev
+ enue.nebraska.gov/about/frequently-asked-questions/nebraska-sales-and-use-t
+ ax-faqs | This date is computed from a recurrence rule and may not reflect 
+ a later-announced change\; confirm against the cited source before relying 
+ on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-nebraska-q2-2026-07-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+SUMMARY:Nebraska: State sales & use tax return due
+DESCRIPTION:20th of the month following the tax period. | Q2 2026 (Apr-Jun)
+  sales tax return\, applying Nebraska's quarterly-filer due-date rule: 20th
+  of the month following the tax period. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Nebraska's own tax agency site this session | Source: https://rev
+ enue.nebraska.gov/about/frequently-asked-questions/nebraska-sales-and-use-t
+ ax-faqs | This date is computed from a recurrence rule and may not reflect 
+ a later-announced change\; confirm against the cited source before relying 
+ on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-nebraska-q2-2027-07-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:Nebraska: State sales & use tax return due
+DESCRIPTION:20th of the month following the tax period. | Q2 2026 (Apr-Jun)
+  sales tax return\, applying Nebraska's quarterly-filer due-date rule: 20th
+  of the month following the tax period. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Nebraska's own tax agency site this session | Source: https://rev
+ enue.nebraska.gov/about/frequently-asked-questions/nebraska-sales-and-use-t
+ ax-faqs | This date is computed from a recurrence rule and may not reflect 
+ a later-announced change\; confirm against the cited source before relying 
+ on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-nebraska-q2-2028-07-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Nebraska: State sales & use tax return due
+DESCRIPTION:20th of the month following the tax period. | Q2 2026 (Apr-Jun)
+  sales tax return\, applying Nebraska's quarterly-filer due-date rule: 20th
+  of the month following the tax period. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Nebraska's own tax agency site this session | Source: https://rev
+ enue.nebraska.gov/about/frequently-asked-questions/nebraska-sales-and-use-t
+ ax-faqs | This date is computed from a recurrence rule and may not reflect 
+ a later-announced change\; confirm against the cited source before relying 
+ on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-nebraska-q2-2029-07-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290720
+DTEND;VALUE=DATE:20290721
+SUMMARY:Nebraska: State sales & use tax return due
+DESCRIPTION:20th of the month following the tax period. | Q2 2026 (Apr-Jun)
+  sales tax return\, applying Nebraska's quarterly-filer due-date rule: 20th
+  of the month following the tax period. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Nebraska's own tax agency site this session | Source: https://rev
+ enue.nebraska.gov/about/frequently-asked-questions/nebraska-sales-and-use-t
+ ax-faqs | This date is computed from a recurrence rule and may not reflect 
+ a later-announced change\; confirm against the cited source before relying 
+ on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-nebraska-q2-2030-07-22@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300722
+DTEND;VALUE=DATE:20300723
+SUMMARY:Nebraska: State sales & use tax return due
+DESCRIPTION:20th of the month following the tax period. | Q2 2026 (Apr-Jun)
+  sales tax return\, applying Nebraska's quarterly-filer due-date rule: 20th
+  of the month following the tax period. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Nebraska's own tax agency site this session | Source: https://rev
+ enue.nebraska.gov/about/frequently-asked-questions/nebraska-sales-and-use-t
+ ax-faqs | This date is computed from a recurrence rule and may not reflect 
+ a later-announced change\; confirm against the cited source before relying 
+ on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-nebraska-q2-2031-07-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310721
+DTEND;VALUE=DATE:20310722
+SUMMARY:Nebraska: State sales & use tax return due
+DESCRIPTION:20th of the month following the tax period. | Q2 2026 (Apr-Jun)
+  sales tax return\, applying Nebraska's quarterly-filer due-date rule: 20th
+  of the month following the tax period. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Nebraska's own tax agency site this session | Source: https://rev
+ enue.nebraska.gov/about/frequently-asked-questions/nebraska-sales-and-use-t
+ ax-faqs | This date is computed from a recurrence rule and may not reflect 
+ a later-announced change\; confirm against the cited source before relying 
+ on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-nebraska-q2-2032-07-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320720
+DTEND;VALUE=DATE:20320721
+SUMMARY:Nebraska: State sales & use tax return due
+DESCRIPTION:20th of the month following the tax period. | Q2 2026 (Apr-Jun)
+  sales tax return\, applying Nebraska's quarterly-filer due-date rule: 20th
+  of the month following the tax period. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Nebraska's own tax agency site this session | Source: https://rev
+ enue.nebraska.gov/about/frequently-asked-questions/nebraska-sales-and-use-t
+ ax-faqs | This date is computed from a recurrence rule and may not reflect 
+ a later-announced change\; confirm against the cited source before relying 
+ on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-nebraska-q3-2025-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20251020
+DTEND;VALUE=DATE:20251021
+SUMMARY:Nebraska: State sales & use tax return due
+DESCRIPTION:20th of the month following the tax period. | Q3 2026 (Jul-Sep)
+  sales tax return\, applying Nebraska's quarterly-filer due-date rule: 20th
+  of the month following the tax period. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Nebraska's own tax agency site this session | Source: https://rev
+ enue.nebraska.gov/about/frequently-asked-questions/nebraska-sales-and-use-t
+ ax-faqs | This date is computed from a recurrence rule and may not reflect 
+ a later-announced change\; confirm against the cited source before relying 
+ on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-nebraska-q3-2026-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Nebraska: State sales & use tax return due
+DESCRIPTION:20th of the month following the tax period. | Q3 2026 (Jul-Sep)
+  sales tax return\, applying Nebraska's quarterly-filer due-date rule: 20th
+  of the month following the tax period. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Nebraska's own tax agency site this session | Source: https://rev
+ enue.nebraska.gov/about/frequently-asked-questions/nebraska-sales-and-use-t
+ ax-faqs | This date is computed from a recurrence rule and may not reflect 
+ a later-announced change\; confirm against the cited source before relying 
+ on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-nebraska-q3-2027-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20271020
+DTEND;VALUE=DATE:20271021
+SUMMARY:Nebraska: State sales & use tax return due
+DESCRIPTION:20th of the month following the tax period. | Q3 2026 (Jul-Sep)
+  sales tax return\, applying Nebraska's quarterly-filer due-date rule: 20th
+  of the month following the tax period. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Nebraska's own tax agency site this session | Source: https://rev
+ enue.nebraska.gov/about/frequently-asked-questions/nebraska-sales-and-use-t
+ ax-faqs | This date is computed from a recurrence rule and may not reflect 
+ a later-announced change\; confirm against the cited source before relying 
+ on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-nebraska-q3-2028-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20281020
+DTEND;VALUE=DATE:20281021
+SUMMARY:Nebraska: State sales & use tax return due
+DESCRIPTION:20th of the month following the tax period. | Q3 2026 (Jul-Sep)
+  sales tax return\, applying Nebraska's quarterly-filer due-date rule: 20th
+  of the month following the tax period. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Nebraska's own tax agency site this session | Source: https://rev
+ enue.nebraska.gov/about/frequently-asked-questions/nebraska-sales-and-use-t
+ ax-faqs | This date is computed from a recurrence rule and may not reflect 
+ a later-announced change\; confirm against the cited source before relying 
+ on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-nebraska-q3-2029-10-22@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20291022
+DTEND;VALUE=DATE:20291023
+SUMMARY:Nebraska: State sales & use tax return due
+DESCRIPTION:20th of the month following the tax period. | Q3 2026 (Jul-Sep)
+  sales tax return\, applying Nebraska's quarterly-filer due-date rule: 20th
+  of the month following the tax period. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Nebraska's own tax agency site this session | Source: https://rev
+ enue.nebraska.gov/about/frequently-asked-questions/nebraska-sales-and-use-t
+ ax-faqs | This date is computed from a recurrence rule and may not reflect 
+ a later-announced change\; confirm against the cited source before relying 
+ on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-nebraska-q3-2030-10-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20301021
+DTEND;VALUE=DATE:20301022
+SUMMARY:Nebraska: State sales & use tax return due
+DESCRIPTION:20th of the month following the tax period. | Q3 2026 (Jul-Sep)
+  sales tax return\, applying Nebraska's quarterly-filer due-date rule: 20th
+  of the month following the tax period. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Nebraska's own tax agency site this session | Source: https://rev
+ enue.nebraska.gov/about/frequently-asked-questions/nebraska-sales-and-use-t
+ ax-faqs | This date is computed from a recurrence rule and may not reflect 
+ a later-announced change\; confirm against the cited source before relying 
+ on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-nebraska-q3-2031-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20311020
+DTEND;VALUE=DATE:20311021
+SUMMARY:Nebraska: State sales & use tax return due
+DESCRIPTION:20th of the month following the tax period. | Q3 2026 (Jul-Sep)
+  sales tax return\, applying Nebraska's quarterly-filer due-date rule: 20th
+  of the month following the tax period. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Nebraska's own tax agency site this session | Source: https://rev
+ enue.nebraska.gov/about/frequently-asked-questions/nebraska-sales-and-use-t
+ ax-faqs | This date is computed from a recurrence rule and may not reflect 
+ a later-announced change\; confirm against the cited source before relying 
+ on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-nebraska-q3-2032-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20321020
+DTEND;VALUE=DATE:20321021
+SUMMARY:Nebraska: State sales & use tax return due
+DESCRIPTION:20th of the month following the tax period. | Q3 2026 (Jul-Sep)
+  sales tax return\, applying Nebraska's quarterly-filer due-date rule: 20th
+  of the month following the tax period. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Nebraska's own tax agency site this session | Source: https://rev
+ enue.nebraska.gov/about/frequently-asked-questions/nebraska-sales-and-use-t
+ ax-faqs | This date is computed from a recurrence rule and may not reflect 
+ a later-announced change\; confirm against the cited source before relying 
+ on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-nebraska-q4-2025-01-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250121
+DTEND;VALUE=DATE:20250122
+SUMMARY:Nebraska: State sales & use tax return due
+DESCRIPTION:20th of the month following the tax period. | Q4 2026 (Oct-Dec)
+  sales tax return\, applying Nebraska's quarterly-filer due-date rule: 20th
+  of the month following the tax period. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Nebraska's own tax agency site this session | Source: https://rev
+ enue.nebraska.gov/about/frequently-asked-questions/nebraska-sales-and-use-t
+ ax-faqs | This date is computed from a recurrence rule and may not reflect 
+ a later-announced change\; confirm against the cited source before relying 
+ on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-nebraska-q4-2026-01-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260120
+DTEND;VALUE=DATE:20260121
+SUMMARY:Nebraska: State sales & use tax return due
+DESCRIPTION:20th of the month following the tax period. | Q4 2026 (Oct-Dec)
+  sales tax return\, applying Nebraska's quarterly-filer due-date rule: 20th
+  of the month following the tax period. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Nebraska's own tax agency site this session | Source: https://rev
+ enue.nebraska.gov/about/frequently-asked-questions/nebraska-sales-and-use-t
+ ax-faqs | This date is computed from a recurrence rule and may not reflect 
+ a later-announced change\; confirm against the cited source before relying 
+ on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-nebraska-q4-2027-01-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:Nebraska: State sales & use tax return due
+DESCRIPTION:20th of the month following the tax period. | Q4 2026 (Oct-Dec)
+  sales tax return\, applying Nebraska's quarterly-filer due-date rule: 20th
+  of the month following the tax period. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Nebraska's own tax agency site this session | Source: https://rev
+ enue.nebraska.gov/about/frequently-asked-questions/nebraska-sales-and-use-t
+ ax-faqs | This date is computed from a recurrence rule and may not reflect 
+ a later-announced change\; confirm against the cited source before relying 
+ on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-nebraska-q4-2028-01-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280120
+DTEND;VALUE=DATE:20280121
+SUMMARY:Nebraska: State sales & use tax return due
+DESCRIPTION:20th of the month following the tax period. | Q4 2026 (Oct-Dec)
+  sales tax return\, applying Nebraska's quarterly-filer due-date rule: 20th
+  of the month following the tax period. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Nebraska's own tax agency site this session | Source: https://rev
+ enue.nebraska.gov/about/frequently-asked-questions/nebraska-sales-and-use-t
+ ax-faqs | This date is computed from a recurrence rule and may not reflect 
+ a later-announced change\; confirm against the cited source before relying 
+ on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-nebraska-q4-2029-01-22@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290122
+DTEND;VALUE=DATE:20290123
+SUMMARY:Nebraska: State sales & use tax return due
+DESCRIPTION:20th of the month following the tax period. | Q4 2026 (Oct-Dec)
+  sales tax return\, applying Nebraska's quarterly-filer due-date rule: 20th
+  of the month following the tax period. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Nebraska's own tax agency site this session | Source: https://rev
+ enue.nebraska.gov/about/frequently-asked-questions/nebraska-sales-and-use-t
+ ax-faqs | This date is computed from a recurrence rule and may not reflect 
+ a later-announced change\; confirm against the cited source before relying 
+ on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-nebraska-q4-2030-01-22@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300122
+DTEND;VALUE=DATE:20300123
+SUMMARY:Nebraska: State sales & use tax return due
+DESCRIPTION:20th of the month following the tax period. | Q4 2026 (Oct-Dec)
+  sales tax return\, applying Nebraska's quarterly-filer due-date rule: 20th
+  of the month following the tax period. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Nebraska's own tax agency site this session | Source: https://rev
+ enue.nebraska.gov/about/frequently-asked-questions/nebraska-sales-and-use-t
+ ax-faqs | This date is computed from a recurrence rule and may not reflect 
+ a later-announced change\; confirm against the cited source before relying 
+ on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-nebraska-q4-2031-01-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310121
+DTEND;VALUE=DATE:20310122
+SUMMARY:Nebraska: State sales & use tax return due
+DESCRIPTION:20th of the month following the tax period. | Q4 2026 (Oct-Dec)
+  sales tax return\, applying Nebraska's quarterly-filer due-date rule: 20th
+  of the month following the tax period. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Nebraska's own tax agency site this session | Source: https://rev
+ enue.nebraska.gov/about/frequently-asked-questions/nebraska-sales-and-use-t
+ ax-faqs | This date is computed from a recurrence rule and may not reflect 
+ a later-announced change\; confirm against the cited source before relying 
+ on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-nebraska-q4-2032-01-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320120
+DTEND;VALUE=DATE:20320121
+SUMMARY:Nebraska: State sales & use tax return due
+DESCRIPTION:20th of the month following the tax period. | Q4 2026 (Oct-Dec)
+  sales tax return\, applying Nebraska's quarterly-filer due-date rule: 20th
+  of the month following the tax period. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Nebraska's own tax agency site this session | Source: https://rev
+ enue.nebraska.gov/about/frequently-asked-questions/nebraska-sales-and-use-t
+ ax-faqs | This date is computed from a recurrence rule and may not reflect 
+ a later-announced change\; confirm against the cited source before relying 
+ on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

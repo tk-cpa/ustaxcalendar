@@ -1,0 +1,723 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tk.cpa//US Tax Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:US Tax Calendar - International Information Return
+X-WR-CALDESC:Recurring US tax filing deadlines from ustaxcalendar.com (a tk
+ .cpa resource). Reference only\, not tax advice.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:fed-fbar-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:Federal: FinCEN 114 (FBAR) due
+DESCRIPTION:Annual FBAR due date\, with automatic extension | FinCEN Form 1
+ 14 (FBAR) for calendar year 2025 is due April 15\, 2026. FinCEN grants an a
+ utomatic extension to October 15\, 2026 for filers who miss the April deadl
+ ine - no extension request is required. | Authority: FinCEN: "Filers ... ha
+ ve an automatic extension up to October 15" (rule confirmed via FinCEN's of
+ ficial Due Date Clarification notice\, applying the same April 15 original 
+ / October 15 automatic-extension pattern to the current filing season). | S
+ ource: https://www.fincen.gov/report-foreign-bank-and-financial-accounts | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-fbar-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:Federal: FinCEN 114 (FBAR) due
+DESCRIPTION:Annual FBAR due date\, with automatic extension | FinCEN Form 1
+ 14 (FBAR) for calendar year 2025 is due April 15\, 2026. FinCEN grants an a
+ utomatic extension to October 15\, 2026 for filers who miss the April deadl
+ ine - no extension request is required. | Authority: FinCEN: "Filers ... ha
+ ve an automatic extension up to October 15" (rule confirmed via FinCEN's of
+ ficial Due Date Clarification notice\, applying the same April 15 original 
+ / October 15 automatic-extension pattern to the current filing season). | S
+ ource: https://www.fincen.gov/report-foreign-bank-and-financial-accounts | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-fbar-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Federal: FinCEN 114 (FBAR) due
+DESCRIPTION:Annual FBAR due date\, with automatic extension | FinCEN Form 1
+ 14 (FBAR) for calendar year 2025 is due April 15\, 2026. FinCEN grants an a
+ utomatic extension to October 15\, 2026 for filers who miss the April deadl
+ ine - no extension request is required. | Authority: FinCEN: "Filers ... ha
+ ve an automatic extension up to October 15" (rule confirmed via FinCEN's of
+ ficial Due Date Clarification notice\, applying the same April 15 original 
+ / October 15 automatic-extension pattern to the current filing season). | S
+ ource: https://www.fincen.gov/report-foreign-bank-and-financial-accounts | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-fbar-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Federal: FinCEN 114 (FBAR) due
+DESCRIPTION:Annual FBAR due date\, with automatic extension | FinCEN Form 1
+ 14 (FBAR) for calendar year 2025 is due April 15\, 2026. FinCEN grants an a
+ utomatic extension to October 15\, 2026 for filers who miss the April deadl
+ ine - no extension request is required. | Authority: FinCEN: "Filers ... ha
+ ve an automatic extension up to October 15" (rule confirmed via FinCEN's of
+ ficial Due Date Clarification notice\, applying the same April 15 original 
+ / October 15 automatic-extension pattern to the current filing season). | S
+ ource: https://www.fincen.gov/report-foreign-bank-and-financial-accounts | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-fbar-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:Federal: FinCEN 114 (FBAR) due
+DESCRIPTION:Annual FBAR due date\, with automatic extension | FinCEN Form 1
+ 14 (FBAR) for calendar year 2025 is due April 15\, 2026. FinCEN grants an a
+ utomatic extension to October 15\, 2026 for filers who miss the April deadl
+ ine - no extension request is required. | Authority: FinCEN: "Filers ... ha
+ ve an automatic extension up to October 15" (rule confirmed via FinCEN's of
+ ficial Due Date Clarification notice\, applying the same April 15 original 
+ / October 15 automatic-extension pattern to the current filing season). | S
+ ource: https://www.fincen.gov/report-foreign-bank-and-financial-accounts | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-fbar-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:Federal: FinCEN 114 (FBAR) due
+DESCRIPTION:Annual FBAR due date\, with automatic extension | FinCEN Form 1
+ 14 (FBAR) for calendar year 2025 is due April 15\, 2026. FinCEN grants an a
+ utomatic extension to October 15\, 2026 for filers who miss the April deadl
+ ine - no extension request is required. | Authority: FinCEN: "Filers ... ha
+ ve an automatic extension up to October 15" (rule confirmed via FinCEN's of
+ ficial Due Date Clarification notice\, applying the same April 15 original 
+ / October 15 automatic-extension pattern to the current filing season). | S
+ ource: https://www.fincen.gov/report-foreign-bank-and-financial-accounts | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-fbar-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:Federal: FinCEN 114 (FBAR) due
+DESCRIPTION:Annual FBAR due date\, with automatic extension | FinCEN Form 1
+ 14 (FBAR) for calendar year 2025 is due April 15\, 2026. FinCEN grants an a
+ utomatic extension to October 15\, 2026 for filers who miss the April deadl
+ ine - no extension request is required. | Authority: FinCEN: "Filers ... ha
+ ve an automatic extension up to October 15" (rule confirmed via FinCEN's of
+ ficial Due Date Clarification notice\, applying the same April 15 original 
+ / October 15 automatic-extension pattern to the current filing season). | S
+ ource: https://www.fincen.gov/report-foreign-bank-and-financial-accounts | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-fbar-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:Federal: FinCEN 114 (FBAR) due
+DESCRIPTION:Annual FBAR due date\, with automatic extension | FinCEN Form 1
+ 14 (FBAR) for calendar year 2025 is due April 15\, 2026. FinCEN grants an a
+ utomatic extension to October 15\, 2026 for filers who miss the April deadl
+ ine - no extension request is required. | Authority: FinCEN: "Filers ... ha
+ ve an automatic extension up to October 15" (rule confirmed via FinCEN's of
+ ficial Due Date Clarification notice\, applying the same April 15 original 
+ / October 15 automatic-extension pattern to the current filing season). | S
+ ource: https://www.fincen.gov/report-foreign-bank-and-financial-accounts | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-3520-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:Federal: 3520 due
+DESCRIPTION:Rides the individual income tax return due date (calendar-year 
+ individual filer) | Form 3520 for a calendar-year individual is due April 1
+ 5\, 2026\, the same day as the income tax return. U.S. citizens/residents l
+ iving and working abroad may get an automatic extension to June 15\, 2026\;
+  if an extension of time to file the income tax return is granted\, Form 35
+ 20 is due no later than October 15\, 2026. | Authority: IRS Instructions fo
+ r Form 3520: "a U.S. person's Form 3520 is due on the 15th day of the 4th m
+ onth following the end of such person's tax year"\; extended to October 15 
+ if the income tax return is extended. | Source: https://www.irs.gov/instruc
+ tions/i3520 | This date is computed from a recurrence rule and may not refl
+ ect a later-announced change\; confirm against the cited source before rely
+ ing on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-3520-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:Federal: 3520 due
+DESCRIPTION:Rides the individual income tax return due date (calendar-year 
+ individual filer) | Form 3520 for a calendar-year individual is due April 1
+ 5\, 2026\, the same day as the income tax return. U.S. citizens/residents l
+ iving and working abroad may get an automatic extension to June 15\, 2026\;
+  if an extension of time to file the income tax return is granted\, Form 35
+ 20 is due no later than October 15\, 2026. | Authority: IRS Instructions fo
+ r Form 3520: "a U.S. person's Form 3520 is due on the 15th day of the 4th m
+ onth following the end of such person's tax year"\; extended to October 15 
+ if the income tax return is extended. | Source: https://www.irs.gov/instruc
+ tions/i3520 | This date is computed from a recurrence rule and may not refl
+ ect a later-announced change\; confirm against the cited source before rely
+ ing on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-3520-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Federal: 3520 due
+DESCRIPTION:Rides the individual income tax return due date (calendar-year 
+ individual filer) | Form 3520 for a calendar-year individual is due April 1
+ 5\, 2026\, the same day as the income tax return. U.S. citizens/residents l
+ iving and working abroad may get an automatic extension to June 15\, 2026\;
+  if an extension of time to file the income tax return is granted\, Form 35
+ 20 is due no later than October 15\, 2026. | Authority: IRS Instructions fo
+ r Form 3520: "a U.S. person's Form 3520 is due on the 15th day of the 4th m
+ onth following the end of such person's tax year"\; extended to October 15 
+ if the income tax return is extended. | Source: https://www.irs.gov/instruc
+ tions/i3520 | This date is computed from a recurrence rule and may not refl
+ ect a later-announced change\; confirm against the cited source before rely
+ ing on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-3520-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Federal: 3520 due
+DESCRIPTION:Rides the individual income tax return due date (calendar-year 
+ individual filer) | Form 3520 for a calendar-year individual is due April 1
+ 5\, 2026\, the same day as the income tax return. U.S. citizens/residents l
+ iving and working abroad may get an automatic extension to June 15\, 2026\;
+  if an extension of time to file the income tax return is granted\, Form 35
+ 20 is due no later than October 15\, 2026. | Authority: IRS Instructions fo
+ r Form 3520: "a U.S. person's Form 3520 is due on the 15th day of the 4th m
+ onth following the end of such person's tax year"\; extended to October 15 
+ if the income tax return is extended. | Source: https://www.irs.gov/instruc
+ tions/i3520 | This date is computed from a recurrence rule and may not refl
+ ect a later-announced change\; confirm against the cited source before rely
+ ing on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-3520-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:Federal: 3520 due
+DESCRIPTION:Rides the individual income tax return due date (calendar-year 
+ individual filer) | Form 3520 for a calendar-year individual is due April 1
+ 5\, 2026\, the same day as the income tax return. U.S. citizens/residents l
+ iving and working abroad may get an automatic extension to June 15\, 2026\;
+  if an extension of time to file the income tax return is granted\, Form 35
+ 20 is due no later than October 15\, 2026. | Authority: IRS Instructions fo
+ r Form 3520: "a U.S. person's Form 3520 is due on the 15th day of the 4th m
+ onth following the end of such person's tax year"\; extended to October 15 
+ if the income tax return is extended. | Source: https://www.irs.gov/instruc
+ tions/i3520 | This date is computed from a recurrence rule and may not refl
+ ect a later-announced change\; confirm against the cited source before rely
+ ing on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-3520-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:Federal: 3520 due
+DESCRIPTION:Rides the individual income tax return due date (calendar-year 
+ individual filer) | Form 3520 for a calendar-year individual is due April 1
+ 5\, 2026\, the same day as the income tax return. U.S. citizens/residents l
+ iving and working abroad may get an automatic extension to June 15\, 2026\;
+  if an extension of time to file the income tax return is granted\, Form 35
+ 20 is due no later than October 15\, 2026. | Authority: IRS Instructions fo
+ r Form 3520: "a U.S. person's Form 3520 is due on the 15th day of the 4th m
+ onth following the end of such person's tax year"\; extended to October 15 
+ if the income tax return is extended. | Source: https://www.irs.gov/instruc
+ tions/i3520 | This date is computed from a recurrence rule and may not refl
+ ect a later-announced change\; confirm against the cited source before rely
+ ing on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-3520-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:Federal: 3520 due
+DESCRIPTION:Rides the individual income tax return due date (calendar-year 
+ individual filer) | Form 3520 for a calendar-year individual is due April 1
+ 5\, 2026\, the same day as the income tax return. U.S. citizens/residents l
+ iving and working abroad may get an automatic extension to June 15\, 2026\;
+  if an extension of time to file the income tax return is granted\, Form 35
+ 20 is due no later than October 15\, 2026. | Authority: IRS Instructions fo
+ r Form 3520: "a U.S. person's Form 3520 is due on the 15th day of the 4th m
+ onth following the end of such person's tax year"\; extended to October 15 
+ if the income tax return is extended. | Source: https://www.irs.gov/instruc
+ tions/i3520 | This date is computed from a recurrence rule and may not refl
+ ect a later-announced change\; confirm against the cited source before rely
+ ing on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-3520-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:Federal: 3520 due
+DESCRIPTION:Rides the individual income tax return due date (calendar-year 
+ individual filer) | Form 3520 for a calendar-year individual is due April 1
+ 5\, 2026\, the same day as the income tax return. U.S. citizens/residents l
+ iving and working abroad may get an automatic extension to June 15\, 2026\;
+  if an extension of time to file the income tax return is granted\, Form 35
+ 20 is due no later than October 15\, 2026. | Authority: IRS Instructions fo
+ r Form 3520: "a U.S. person's Form 3520 is due on the 15th day of the 4th m
+ onth following the end of such person's tax year"\; extended to October 15 
+ if the income tax return is extended. | Source: https://www.irs.gov/instruc
+ tions/i3520 | This date is computed from a recurrence rule and may not refl
+ ect a later-announced change\; confirm against the cited source before rely
+ ing on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-3520a-2025-03-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250318
+SUMMARY:Federal: 3520-A due
+DESCRIPTION:Original due date is the 15th day of the 3rd month after the tr
+ ust's tax year end (calendar-year trust) | Form 3520-A for a calendar-year 
+ foreign trust is due the 15th day of the 3rd month after the trust's tax ye
+ ar end - March 15\, 2026\, which falls on a Sunday\, so the practical due d
+ ate is March 16\, 2026. | Authority: IRS Instructions for Form 3520-A: "For
+ m 3520-A is due by the 15th day of the 3rd month after the end of the forei
+ gn trust's tax year." | Source: https://www.irs.gov/instructions/i3520a | T
+ his date is computed from a recurrence rule and may not reflect a later-ann
+ ounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-3520a-2026-03-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260317
+SUMMARY:Federal: 3520-A due
+DESCRIPTION:Original due date is the 15th day of the 3rd month after the tr
+ ust's tax year end (calendar-year trust) | Form 3520-A for a calendar-year 
+ foreign trust is due the 15th day of the 3rd month after the trust's tax ye
+ ar end - March 15\, 2026\, which falls on a Sunday\, so the practical due d
+ ate is March 16\, 2026. | Authority: IRS Instructions for Form 3520-A: "For
+ m 3520-A is due by the 15th day of the 3rd month after the end of the forei
+ gn trust's tax year." | Source: https://www.irs.gov/instructions/i3520a | T
+ his date is computed from a recurrence rule and may not reflect a later-ann
+ ounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-3520a-2027-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:Federal: 3520-A due
+DESCRIPTION:Original due date is the 15th day of the 3rd month after the tr
+ ust's tax year end (calendar-year trust) | Form 3520-A for a calendar-year 
+ foreign trust is due the 15th day of the 3rd month after the trust's tax ye
+ ar end - March 15\, 2026\, which falls on a Sunday\, so the practical due d
+ ate is March 16\, 2026. | Authority: IRS Instructions for Form 3520-A: "For
+ m 3520-A is due by the 15th day of the 3rd month after the end of the forei
+ gn trust's tax year." | Source: https://www.irs.gov/instructions/i3520a | T
+ his date is computed from a recurrence rule and may not reflect a later-ann
+ ounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-3520a-2028-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280315
+DTEND;VALUE=DATE:20280316
+SUMMARY:Federal: 3520-A due
+DESCRIPTION:Original due date is the 15th day of the 3rd month after the tr
+ ust's tax year end (calendar-year trust) | Form 3520-A for a calendar-year 
+ foreign trust is due the 15th day of the 3rd month after the trust's tax ye
+ ar end - March 15\, 2026\, which falls on a Sunday\, so the practical due d
+ ate is March 16\, 2026. | Authority: IRS Instructions for Form 3520-A: "For
+ m 3520-A is due by the 15th day of the 3rd month after the end of the forei
+ gn trust's tax year." | Source: https://www.irs.gov/instructions/i3520a | T
+ his date is computed from a recurrence rule and may not reflect a later-ann
+ ounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-3520a-2029-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290315
+DTEND;VALUE=DATE:20290316
+SUMMARY:Federal: 3520-A due
+DESCRIPTION:Original due date is the 15th day of the 3rd month after the tr
+ ust's tax year end (calendar-year trust) | Form 3520-A for a calendar-year 
+ foreign trust is due the 15th day of the 3rd month after the trust's tax ye
+ ar end - March 15\, 2026\, which falls on a Sunday\, so the practical due d
+ ate is March 16\, 2026. | Authority: IRS Instructions for Form 3520-A: "For
+ m 3520-A is due by the 15th day of the 3rd month after the end of the forei
+ gn trust's tax year." | Source: https://www.irs.gov/instructions/i3520a | T
+ his date is computed from a recurrence rule and may not reflect a later-ann
+ ounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-3520a-2030-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300315
+DTEND;VALUE=DATE:20300316
+SUMMARY:Federal: 3520-A due
+DESCRIPTION:Original due date is the 15th day of the 3rd month after the tr
+ ust's tax year end (calendar-year trust) | Form 3520-A for a calendar-year 
+ foreign trust is due the 15th day of the 3rd month after the trust's tax ye
+ ar end - March 15\, 2026\, which falls on a Sunday\, so the practical due d
+ ate is March 16\, 2026. | Authority: IRS Instructions for Form 3520-A: "For
+ m 3520-A is due by the 15th day of the 3rd month after the end of the forei
+ gn trust's tax year." | Source: https://www.irs.gov/instructions/i3520a | T
+ his date is computed from a recurrence rule and may not reflect a later-ann
+ ounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-3520a-2031-03-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310317
+DTEND;VALUE=DATE:20310318
+SUMMARY:Federal: 3520-A due
+DESCRIPTION:Original due date is the 15th day of the 3rd month after the tr
+ ust's tax year end (calendar-year trust) | Form 3520-A for a calendar-year 
+ foreign trust is due the 15th day of the 3rd month after the trust's tax ye
+ ar end - March 15\, 2026\, which falls on a Sunday\, so the practical due d
+ ate is March 16\, 2026. | Authority: IRS Instructions for Form 3520-A: "For
+ m 3520-A is due by the 15th day of the 3rd month after the end of the forei
+ gn trust's tax year." | Source: https://www.irs.gov/instructions/i3520a | T
+ his date is computed from a recurrence rule and may not reflect a later-ann
+ ounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-3520a-2032-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320315
+DTEND;VALUE=DATE:20320316
+SUMMARY:Federal: 3520-A due
+DESCRIPTION:Original due date is the 15th day of the 3rd month after the tr
+ ust's tax year end (calendar-year trust) | Form 3520-A for a calendar-year 
+ foreign trust is due the 15th day of the 3rd month after the trust's tax ye
+ ar end - March 15\, 2026\, which falls on a Sunday\, so the practical due d
+ ate is March 16\, 2026. | Authority: IRS Instructions for Form 3520-A: "For
+ m 3520-A is due by the 15th day of the 3rd month after the end of the forei
+ gn trust's tax year." | Source: https://www.irs.gov/instructions/i3520a | T
+ his date is computed from a recurrence rule and may not reflect a later-ann
+ ounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-5471-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:Federal: 5471 due
+DESCRIPTION:Rides the filer's income tax return due date\, including extens
+ ions | Form 5471 has no independent due date - it is attached to and filed 
+ by the due date (including extensions) of the filer's income tax return (or
+  applicable partnership/exempt-org return). | Authority: IRS Instructions f
+ or Form 5471: "Attach Form 5471 to your income tax return ... and file both
+  by the due date (including extensions) for that return." | Source: https:/
+ /www.irs.gov/instructions/i5471 | This date is computed from a recurrence r
+ ule and may not reflect a later-announced change\; confirm against the cite
+ d source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-5471-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:Federal: 5471 due
+DESCRIPTION:Rides the filer's income tax return due date\, including extens
+ ions | Form 5471 has no independent due date - it is attached to and filed 
+ by the due date (including extensions) of the filer's income tax return (or
+  applicable partnership/exempt-org return). | Authority: IRS Instructions f
+ or Form 5471: "Attach Form 5471 to your income tax return ... and file both
+  by the due date (including extensions) for that return." | Source: https:/
+ /www.irs.gov/instructions/i5471 | This date is computed from a recurrence r
+ ule and may not reflect a later-announced change\; confirm against the cite
+ d source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-5471-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Federal: 5471 due
+DESCRIPTION:Rides the filer's income tax return due date\, including extens
+ ions | Form 5471 has no independent due date - it is attached to and filed 
+ by the due date (including extensions) of the filer's income tax return (or
+  applicable partnership/exempt-org return). | Authority: IRS Instructions f
+ or Form 5471: "Attach Form 5471 to your income tax return ... and file both
+  by the due date (including extensions) for that return." | Source: https:/
+ /www.irs.gov/instructions/i5471 | This date is computed from a recurrence r
+ ule and may not reflect a later-announced change\; confirm against the cite
+ d source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-5471-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Federal: 5471 due
+DESCRIPTION:Rides the filer's income tax return due date\, including extens
+ ions | Form 5471 has no independent due date - it is attached to and filed 
+ by the due date (including extensions) of the filer's income tax return (or
+  applicable partnership/exempt-org return). | Authority: IRS Instructions f
+ or Form 5471: "Attach Form 5471 to your income tax return ... and file both
+  by the due date (including extensions) for that return." | Source: https:/
+ /www.irs.gov/instructions/i5471 | This date is computed from a recurrence r
+ ule and may not reflect a later-announced change\; confirm against the cite
+ d source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-5471-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:Federal: 5471 due
+DESCRIPTION:Rides the filer's income tax return due date\, including extens
+ ions | Form 5471 has no independent due date - it is attached to and filed 
+ by the due date (including extensions) of the filer's income tax return (or
+  applicable partnership/exempt-org return). | Authority: IRS Instructions f
+ or Form 5471: "Attach Form 5471 to your income tax return ... and file both
+  by the due date (including extensions) for that return." | Source: https:/
+ /www.irs.gov/instructions/i5471 | This date is computed from a recurrence r
+ ule and may not reflect a later-announced change\; confirm against the cite
+ d source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-5471-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:Federal: 5471 due
+DESCRIPTION:Rides the filer's income tax return due date\, including extens
+ ions | Form 5471 has no independent due date - it is attached to and filed 
+ by the due date (including extensions) of the filer's income tax return (or
+  applicable partnership/exempt-org return). | Authority: IRS Instructions f
+ or Form 5471: "Attach Form 5471 to your income tax return ... and file both
+  by the due date (including extensions) for that return." | Source: https:/
+ /www.irs.gov/instructions/i5471 | This date is computed from a recurrence r
+ ule and may not reflect a later-announced change\; confirm against the cite
+ d source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-5471-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:Federal: 5471 due
+DESCRIPTION:Rides the filer's income tax return due date\, including extens
+ ions | Form 5471 has no independent due date - it is attached to and filed 
+ by the due date (including extensions) of the filer's income tax return (or
+  applicable partnership/exempt-org return). | Authority: IRS Instructions f
+ or Form 5471: "Attach Form 5471 to your income tax return ... and file both
+  by the due date (including extensions) for that return." | Source: https:/
+ /www.irs.gov/instructions/i5471 | This date is computed from a recurrence r
+ ule and may not reflect a later-announced change\; confirm against the cite
+ d source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-5471-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:Federal: 5471 due
+DESCRIPTION:Rides the filer's income tax return due date\, including extens
+ ions | Form 5471 has no independent due date - it is attached to and filed 
+ by the due date (including extensions) of the filer's income tax return (or
+  applicable partnership/exempt-org return). | Authority: IRS Instructions f
+ or Form 5471: "Attach Form 5471 to your income tax return ... and file both
+  by the due date (including extensions) for that return." | Source: https:/
+ /www.irs.gov/instructions/i5471 | This date is computed from a recurrence r
+ ule and may not reflect a later-announced change\; confirm against the cite
+ d source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-5472-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:Federal: 5472 due
+DESCRIPTION:Rides the filer's income tax return due date\, including extens
+ ions | Form 5472 has no independent due date - it is attached to and filed 
+ by the due date (including extensions) of the reporting corporation's incom
+ e tax return. | Authority: IRS Instructions for Form 5472: "File Form 5472 
+ as an attachment to the reporting corporation's income tax return by the du
+ e date (including extensions) of that return." | Source: https://www.irs.go
+ v/instructions/i5472 | This date is computed from a recurrence rule and may
+  not reflect a later-announced change\; confirm against the cited source be
+ fore relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-5472-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:Federal: 5472 due
+DESCRIPTION:Rides the filer's income tax return due date\, including extens
+ ions | Form 5472 has no independent due date - it is attached to and filed 
+ by the due date (including extensions) of the reporting corporation's incom
+ e tax return. | Authority: IRS Instructions for Form 5472: "File Form 5472 
+ as an attachment to the reporting corporation's income tax return by the du
+ e date (including extensions) of that return." | Source: https://www.irs.go
+ v/instructions/i5472 | This date is computed from a recurrence rule and may
+  not reflect a later-announced change\; confirm against the cited source be
+ fore relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-5472-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Federal: 5472 due
+DESCRIPTION:Rides the filer's income tax return due date\, including extens
+ ions | Form 5472 has no independent due date - it is attached to and filed 
+ by the due date (including extensions) of the reporting corporation's incom
+ e tax return. | Authority: IRS Instructions for Form 5472: "File Form 5472 
+ as an attachment to the reporting corporation's income tax return by the du
+ e date (including extensions) of that return." | Source: https://www.irs.go
+ v/instructions/i5472 | This date is computed from a recurrence rule and may
+  not reflect a later-announced change\; confirm against the cited source be
+ fore relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-5472-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Federal: 5472 due
+DESCRIPTION:Rides the filer's income tax return due date\, including extens
+ ions | Form 5472 has no independent due date - it is attached to and filed 
+ by the due date (including extensions) of the reporting corporation's incom
+ e tax return. | Authority: IRS Instructions for Form 5472: "File Form 5472 
+ as an attachment to the reporting corporation's income tax return by the du
+ e date (including extensions) of that return." | Source: https://www.irs.go
+ v/instructions/i5472 | This date is computed from a recurrence rule and may
+  not reflect a later-announced change\; confirm against the cited source be
+ fore relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-5472-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:Federal: 5472 due
+DESCRIPTION:Rides the filer's income tax return due date\, including extens
+ ions | Form 5472 has no independent due date - it is attached to and filed 
+ by the due date (including extensions) of the reporting corporation's incom
+ e tax return. | Authority: IRS Instructions for Form 5472: "File Form 5472 
+ as an attachment to the reporting corporation's income tax return by the du
+ e date (including extensions) of that return." | Source: https://www.irs.go
+ v/instructions/i5472 | This date is computed from a recurrence rule and may
+  not reflect a later-announced change\; confirm against the cited source be
+ fore relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-5472-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:Federal: 5472 due
+DESCRIPTION:Rides the filer's income tax return due date\, including extens
+ ions | Form 5472 has no independent due date - it is attached to and filed 
+ by the due date (including extensions) of the reporting corporation's incom
+ e tax return. | Authority: IRS Instructions for Form 5472: "File Form 5472 
+ as an attachment to the reporting corporation's income tax return by the du
+ e date (including extensions) of that return." | Source: https://www.irs.go
+ v/instructions/i5472 | This date is computed from a recurrence rule and may
+  not reflect a later-announced change\; confirm against the cited source be
+ fore relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-5472-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:Federal: 5472 due
+DESCRIPTION:Rides the filer's income tax return due date\, including extens
+ ions | Form 5472 has no independent due date - it is attached to and filed 
+ by the due date (including extensions) of the reporting corporation's incom
+ e tax return. | Authority: IRS Instructions for Form 5472: "File Form 5472 
+ as an attachment to the reporting corporation's income tax return by the du
+ e date (including extensions) of that return." | Source: https://www.irs.go
+ v/instructions/i5472 | This date is computed from a recurrence rule and may
+  not reflect a later-announced change\; confirm against the cited source be
+ fore relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-5472-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:Federal: 5472 due
+DESCRIPTION:Rides the filer's income tax return due date\, including extens
+ ions | Form 5472 has no independent due date - it is attached to and filed 
+ by the due date (including extensions) of the reporting corporation's incom
+ e tax return. | Authority: IRS Instructions for Form 5472: "File Form 5472 
+ as an attachment to the reporting corporation's income tax return by the du
+ e date (including extensions) of that return." | Source: https://www.irs.go
+ v/instructions/i5472 | This date is computed from a recurrence rule and may
+  not reflect a later-announced change\; confirm against the cited source be
+ fore relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,155 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tk.cpa//US Tax Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:US Tax Calendar - Michigan Cities (incl. Detroit)
+X-WR-CALDESC:Recurring US tax filing deadlines from ustaxcalendar.com (a tk
+ .cpa resource). Reference only\, not tax advice.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:city-michigan-detroit-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:Michigan Cities (incl. Detroit): City of Detroit individual income 
+ tax return due
+DESCRIPTION:Annual return for the prior calendar year\, administered by Mic
+ higan Treasury since 2015 | The 2025 City of Detroit individual income tax 
+ return is due April 15\, 2026\, matching the Michigan state deadline since 
+ the state took over Detroit city-tax administration in 2015 (an older\, pre
+ -2015 April 30 due date no longer applies). | Authority: Direct fetch of mi
+ chigan.gov/taxes/citytax/detroit this session | Source: https://www.michiga
+ n.gov/taxes/citytax/detroit/individual | This date is computed from a recur
+ rence rule and may not reflect a later-announced change\; confirm against t
+ he cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-michigan-detroit-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:Michigan Cities (incl. Detroit): City of Detroit individual income 
+ tax return due
+DESCRIPTION:Annual return for the prior calendar year\, administered by Mic
+ higan Treasury since 2015 | The 2025 City of Detroit individual income tax 
+ return is due April 15\, 2026\, matching the Michigan state deadline since 
+ the state took over Detroit city-tax administration in 2015 (an older\, pre
+ -2015 April 30 due date no longer applies). | Authority: Direct fetch of mi
+ chigan.gov/taxes/citytax/detroit this session | Source: https://www.michiga
+ n.gov/taxes/citytax/detroit/individual | This date is computed from a recur
+ rence rule and may not reflect a later-announced change\; confirm against t
+ he cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-michigan-detroit-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Michigan Cities (incl. Detroit): City of Detroit individual income 
+ tax return due
+DESCRIPTION:Annual return for the prior calendar year\, administered by Mic
+ higan Treasury since 2015 | The 2025 City of Detroit individual income tax 
+ return is due April 15\, 2026\, matching the Michigan state deadline since 
+ the state took over Detroit city-tax administration in 2015 (an older\, pre
+ -2015 April 30 due date no longer applies). | Authority: Direct fetch of mi
+ chigan.gov/taxes/citytax/detroit this session | Source: https://www.michiga
+ n.gov/taxes/citytax/detroit/individual | This date is computed from a recur
+ rence rule and may not reflect a later-announced change\; confirm against t
+ he cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-michigan-detroit-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Michigan Cities (incl. Detroit): City of Detroit individual income 
+ tax return due
+DESCRIPTION:Annual return for the prior calendar year\, administered by Mic
+ higan Treasury since 2015 | The 2025 City of Detroit individual income tax 
+ return is due April 15\, 2026\, matching the Michigan state deadline since 
+ the state took over Detroit city-tax administration in 2015 (an older\, pre
+ -2015 April 30 due date no longer applies). | Authority: Direct fetch of mi
+ chigan.gov/taxes/citytax/detroit this session | Source: https://www.michiga
+ n.gov/taxes/citytax/detroit/individual | This date is computed from a recur
+ rence rule and may not reflect a later-announced change\; confirm against t
+ he cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-michigan-detroit-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:Michigan Cities (incl. Detroit): City of Detroit individual income 
+ tax return due
+DESCRIPTION:Annual return for the prior calendar year\, administered by Mic
+ higan Treasury since 2015 | The 2025 City of Detroit individual income tax 
+ return is due April 15\, 2026\, matching the Michigan state deadline since 
+ the state took over Detroit city-tax administration in 2015 (an older\, pre
+ -2015 April 30 due date no longer applies). | Authority: Direct fetch of mi
+ chigan.gov/taxes/citytax/detroit this session | Source: https://www.michiga
+ n.gov/taxes/citytax/detroit/individual | This date is computed from a recur
+ rence rule and may not reflect a later-announced change\; confirm against t
+ he cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-michigan-detroit-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:Michigan Cities (incl. Detroit): City of Detroit individual income 
+ tax return due
+DESCRIPTION:Annual return for the prior calendar year\, administered by Mic
+ higan Treasury since 2015 | The 2025 City of Detroit individual income tax 
+ return is due April 15\, 2026\, matching the Michigan state deadline since 
+ the state took over Detroit city-tax administration in 2015 (an older\, pre
+ -2015 April 30 due date no longer applies). | Authority: Direct fetch of mi
+ chigan.gov/taxes/citytax/detroit this session | Source: https://www.michiga
+ n.gov/taxes/citytax/detroit/individual | This date is computed from a recur
+ rence rule and may not reflect a later-announced change\; confirm against t
+ he cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-michigan-detroit-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:Michigan Cities (incl. Detroit): City of Detroit individual income 
+ tax return due
+DESCRIPTION:Annual return for the prior calendar year\, administered by Mic
+ higan Treasury since 2015 | The 2025 City of Detroit individual income tax 
+ return is due April 15\, 2026\, matching the Michigan state deadline since 
+ the state took over Detroit city-tax administration in 2015 (an older\, pre
+ -2015 April 30 due date no longer applies). | Authority: Direct fetch of mi
+ chigan.gov/taxes/citytax/detroit this session | Source: https://www.michiga
+ n.gov/taxes/citytax/detroit/individual | This date is computed from a recur
+ rence rule and may not reflect a later-announced change\; confirm against t
+ he cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-michigan-detroit-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:Michigan Cities (incl. Detroit): City of Detroit individual income 
+ tax return due
+DESCRIPTION:Annual return for the prior calendar year\, administered by Mic
+ higan Treasury since 2015 | The 2025 City of Detroit individual income tax 
+ return is due April 15\, 2026\, matching the Michigan state deadline since 
+ the state took over Detroit city-tax administration in 2015 (an older\, pre
+ -2015 April 30 due date no longer applies). | Authority: Direct fetch of mi
+ chigan.gov/taxes/citytax/detroit this session | Source: https://www.michiga
+ n.gov/taxes/citytax/detroit/individual | This date is computed from a recur
+ rence rule and may not reflect a later-announced change\; confirm against t
+ he cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,163 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tk.cpa//US Tax Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:US Tax Calendar - Estate/Gift Tax
+X-WR-CALDESC:Recurring US tax filing deadlines from ustaxcalendar.com (a tk
+ .cpa resource). Reference only\, not tax advice.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:fed-709-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:Federal: 709 due
+DESCRIPTION:Same due date as the individual income tax return | Form 709 fo
+ r 2025 gifts is due April 15\, 2026. An extension of the donor's 2025 Form 
+ 1040 automatically extends the Form 709 due date\; if the income tax return
+  is not being extended\, Form 8892 requests a separate automatic 6-month ex
+ tension. Extensions to file do not extend the deadline to pay any gift or G
+ ST tax due. | Authority: IRS Instructions for Form 709: "Generally\, you mu
+ st file Form 709 no earlier than January 1\, but not later than April 15\, 
+ of the year after the gift was made." | Source: https://www.irs.gov/instruc
+ tions/i709 | This date is computed from a recurrence rule and may not refle
+ ct a later-announced change\; confirm against the cited source before relyi
+ ng on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-709-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:Federal: 709 due
+DESCRIPTION:Same due date as the individual income tax return | Form 709 fo
+ r 2025 gifts is due April 15\, 2026. An extension of the donor's 2025 Form 
+ 1040 automatically extends the Form 709 due date\; if the income tax return
+  is not being extended\, Form 8892 requests a separate automatic 6-month ex
+ tension. Extensions to file do not extend the deadline to pay any gift or G
+ ST tax due. | Authority: IRS Instructions for Form 709: "Generally\, you mu
+ st file Form 709 no earlier than January 1\, but not later than April 15\, 
+ of the year after the gift was made." | Source: https://www.irs.gov/instruc
+ tions/i709 | This date is computed from a recurrence rule and may not refle
+ ct a later-announced change\; confirm against the cited source before relyi
+ ng on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-709-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Federal: 709 due
+DESCRIPTION:Same due date as the individual income tax return | Form 709 fo
+ r 2025 gifts is due April 15\, 2026. An extension of the donor's 2025 Form 
+ 1040 automatically extends the Form 709 due date\; if the income tax return
+  is not being extended\, Form 8892 requests a separate automatic 6-month ex
+ tension. Extensions to file do not extend the deadline to pay any gift or G
+ ST tax due. | Authority: IRS Instructions for Form 709: "Generally\, you mu
+ st file Form 709 no earlier than January 1\, but not later than April 15\, 
+ of the year after the gift was made." | Source: https://www.irs.gov/instruc
+ tions/i709 | This date is computed from a recurrence rule and may not refle
+ ct a later-announced change\; confirm against the cited source before relyi
+ ng on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-709-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Federal: 709 due
+DESCRIPTION:Same due date as the individual income tax return | Form 709 fo
+ r 2025 gifts is due April 15\, 2026. An extension of the donor's 2025 Form 
+ 1040 automatically extends the Form 709 due date\; if the income tax return
+  is not being extended\, Form 8892 requests a separate automatic 6-month ex
+ tension. Extensions to file do not extend the deadline to pay any gift or G
+ ST tax due. | Authority: IRS Instructions for Form 709: "Generally\, you mu
+ st file Form 709 no earlier than January 1\, but not later than April 15\, 
+ of the year after the gift was made." | Source: https://www.irs.gov/instruc
+ tions/i709 | This date is computed from a recurrence rule and may not refle
+ ct a later-announced change\; confirm against the cited source before relyi
+ ng on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-709-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:Federal: 709 due
+DESCRIPTION:Same due date as the individual income tax return | Form 709 fo
+ r 2025 gifts is due April 15\, 2026. An extension of the donor's 2025 Form 
+ 1040 automatically extends the Form 709 due date\; if the income tax return
+  is not being extended\, Form 8892 requests a separate automatic 6-month ex
+ tension. Extensions to file do not extend the deadline to pay any gift or G
+ ST tax due. | Authority: IRS Instructions for Form 709: "Generally\, you mu
+ st file Form 709 no earlier than January 1\, but not later than April 15\, 
+ of the year after the gift was made." | Source: https://www.irs.gov/instruc
+ tions/i709 | This date is computed from a recurrence rule and may not refle
+ ct a later-announced change\; confirm against the cited source before relyi
+ ng on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-709-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:Federal: 709 due
+DESCRIPTION:Same due date as the individual income tax return | Form 709 fo
+ r 2025 gifts is due April 15\, 2026. An extension of the donor's 2025 Form 
+ 1040 automatically extends the Form 709 due date\; if the income tax return
+  is not being extended\, Form 8892 requests a separate automatic 6-month ex
+ tension. Extensions to file do not extend the deadline to pay any gift or G
+ ST tax due. | Authority: IRS Instructions for Form 709: "Generally\, you mu
+ st file Form 709 no earlier than January 1\, but not later than April 15\, 
+ of the year after the gift was made." | Source: https://www.irs.gov/instruc
+ tions/i709 | This date is computed from a recurrence rule and may not refle
+ ct a later-announced change\; confirm against the cited source before relyi
+ ng on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-709-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:Federal: 709 due
+DESCRIPTION:Same due date as the individual income tax return | Form 709 fo
+ r 2025 gifts is due April 15\, 2026. An extension of the donor's 2025 Form 
+ 1040 automatically extends the Form 709 due date\; if the income tax return
+  is not being extended\, Form 8892 requests a separate automatic 6-month ex
+ tension. Extensions to file do not extend the deadline to pay any gift or G
+ ST tax due. | Authority: IRS Instructions for Form 709: "Generally\, you mu
+ st file Form 709 no earlier than January 1\, but not later than April 15\, 
+ of the year after the gift was made." | Source: https://www.irs.gov/instruc
+ tions/i709 | This date is computed from a recurrence rule and may not refle
+ ct a later-announced change\; confirm against the cited source before relyi
+ ng on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-709-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:Federal: 709 due
+DESCRIPTION:Same due date as the individual income tax return | Form 709 fo
+ r 2025 gifts is due April 15\, 2026. An extension of the donor's 2025 Form 
+ 1040 automatically extends the Form 709 due date\; if the income tax return
+  is not being extended\, Form 8892 requests a separate automatic 6-month ex
+ tension. Extensions to file do not extend the deadline to pay any gift or G
+ ST tax due. | Authority: IRS Instructions for Form 709: "Generally\, you mu
+ st file Form 709 no earlier than January 1\, but not later than April 15\, 
+ of the year after the gift was made." | Source: https://www.irs.gov/instruc
+ tions/i709 | This date is computed from a recurrence rule and may not refle
+ ct a later-announced change\; confirm against the cited source before relyi
+ ng on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

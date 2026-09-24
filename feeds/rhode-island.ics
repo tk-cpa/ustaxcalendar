@@ -1,0 +1,2235 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tk.cpa//US Tax Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:US Tax Calendar - Rhode Island
+X-WR-CALDESC:Recurring US tax filing deadlines from ustaxcalendar.com (a tk
+ .cpa resource). Reference only\, not tax advice.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:state-corp-rhode-island-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:Rhode Island: State corporate income/franchise tax return due
+DESCRIPTION:RI-1120C due 15th day of 4th month after year end (April 15)\; 
+ automatic 6-month extension via Form BUS-EXT with full estimated tax (or $4
+ 00 minimum) remitted. | RI-1120C due 15th day of 4th month after year end (
+ April 15)\; automatic 6-month extension via Form BUS-EXT with full estimate
+ d tax (or $400 minimum) remitted. | Authority: Direct fetch of Rhode Island
+ 's own tax agency site/publication this session | Source: https://tax.ri.go
+ v/sites/g/files/xkgbur541/files/2024-12/2024%20General%20Instructions.pdf |
+  This date is computed from a recurrence rule and may not reflect a later-a
+ nnounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-rhode-island-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:Rhode Island: State corporate income/franchise tax return due
+DESCRIPTION:RI-1120C due 15th day of 4th month after year end (April 15)\; 
+ automatic 6-month extension via Form BUS-EXT with full estimated tax (or $4
+ 00 minimum) remitted. | RI-1120C due 15th day of 4th month after year end (
+ April 15)\; automatic 6-month extension via Form BUS-EXT with full estimate
+ d tax (or $400 minimum) remitted. | Authority: Direct fetch of Rhode Island
+ 's own tax agency site/publication this session | Source: https://tax.ri.go
+ v/sites/g/files/xkgbur541/files/2024-12/2024%20General%20Instructions.pdf |
+  This date is computed from a recurrence rule and may not reflect a later-a
+ nnounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-rhode-island-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Rhode Island: State corporate income/franchise tax return due
+DESCRIPTION:RI-1120C due 15th day of 4th month after year end (April 15)\; 
+ automatic 6-month extension via Form BUS-EXT with full estimated tax (or $4
+ 00 minimum) remitted. | RI-1120C due 15th day of 4th month after year end (
+ April 15)\; automatic 6-month extension via Form BUS-EXT with full estimate
+ d tax (or $400 minimum) remitted. | Authority: Direct fetch of Rhode Island
+ 's own tax agency site/publication this session | Source: https://tax.ri.go
+ v/sites/g/files/xkgbur541/files/2024-12/2024%20General%20Instructions.pdf |
+  This date is computed from a recurrence rule and may not reflect a later-a
+ nnounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-rhode-island-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Rhode Island: State corporate income/franchise tax return due
+DESCRIPTION:RI-1120C due 15th day of 4th month after year end (April 15)\; 
+ automatic 6-month extension via Form BUS-EXT with full estimated tax (or $4
+ 00 minimum) remitted. | RI-1120C due 15th day of 4th month after year end (
+ April 15)\; automatic 6-month extension via Form BUS-EXT with full estimate
+ d tax (or $400 minimum) remitted. | Authority: Direct fetch of Rhode Island
+ 's own tax agency site/publication this session | Source: https://tax.ri.go
+ v/sites/g/files/xkgbur541/files/2024-12/2024%20General%20Instructions.pdf |
+  This date is computed from a recurrence rule and may not reflect a later-a
+ nnounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-rhode-island-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:Rhode Island: State corporate income/franchise tax return due
+DESCRIPTION:RI-1120C due 15th day of 4th month after year end (April 15)\; 
+ automatic 6-month extension via Form BUS-EXT with full estimated tax (or $4
+ 00 minimum) remitted. | RI-1120C due 15th day of 4th month after year end (
+ April 15)\; automatic 6-month extension via Form BUS-EXT with full estimate
+ d tax (or $400 minimum) remitted. | Authority: Direct fetch of Rhode Island
+ 's own tax agency site/publication this session | Source: https://tax.ri.go
+ v/sites/g/files/xkgbur541/files/2024-12/2024%20General%20Instructions.pdf |
+  This date is computed from a recurrence rule and may not reflect a later-a
+ nnounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-rhode-island-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:Rhode Island: State corporate income/franchise tax return due
+DESCRIPTION:RI-1120C due 15th day of 4th month after year end (April 15)\; 
+ automatic 6-month extension via Form BUS-EXT with full estimated tax (or $4
+ 00 minimum) remitted. | RI-1120C due 15th day of 4th month after year end (
+ April 15)\; automatic 6-month extension via Form BUS-EXT with full estimate
+ d tax (or $400 minimum) remitted. | Authority: Direct fetch of Rhode Island
+ 's own tax agency site/publication this session | Source: https://tax.ri.go
+ v/sites/g/files/xkgbur541/files/2024-12/2024%20General%20Instructions.pdf |
+  This date is computed from a recurrence rule and may not reflect a later-a
+ nnounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-rhode-island-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:Rhode Island: State corporate income/franchise tax return due
+DESCRIPTION:RI-1120C due 15th day of 4th month after year end (April 15)\; 
+ automatic 6-month extension via Form BUS-EXT with full estimated tax (or $4
+ 00 minimum) remitted. | RI-1120C due 15th day of 4th month after year end (
+ April 15)\; automatic 6-month extension via Form BUS-EXT with full estimate
+ d tax (or $400 minimum) remitted. | Authority: Direct fetch of Rhode Island
+ 's own tax agency site/publication this session | Source: https://tax.ri.go
+ v/sites/g/files/xkgbur541/files/2024-12/2024%20General%20Instructions.pdf |
+  This date is computed from a recurrence rule and may not reflect a later-a
+ nnounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-rhode-island-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:Rhode Island: State corporate income/franchise tax return due
+DESCRIPTION:RI-1120C due 15th day of 4th month after year end (April 15)\; 
+ automatic 6-month extension via Form BUS-EXT with full estimated tax (or $4
+ 00 minimum) remitted. | RI-1120C due 15th day of 4th month after year end (
+ April 15)\; automatic 6-month extension via Form BUS-EXT with full estimate
+ d tax (or $400 minimum) remitted. | Authority: Direct fetch of Rhode Island
+ 's own tax agency site/publication this session | Source: https://tax.ri.go
+ v/sites/g/files/xkgbur541/files/2024-12/2024%20General%20Instructions.pdf |
+  This date is computed from a recurrence rule and may not reflect a later-a
+ nnounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-rhode-island-q1-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:Rhode Island: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, 2026\; January 15\, 2027. |
+  Q1 2026 state individual estimated tax payment. April 15\, June 15\, Septe
+ mber 15\, 2026\; January 15\, 2027. | Authority: Direct fetch of Rhode Isla
+ nd's own tax agency site/instructions this session | Source: https://tax.ri
+ .gov/sites/g/files/xkgbur541/files/2026-01/2026%20RI-1040ES_w.pdf | This da
+ te is computed from a recurrence rule and may not reflect a later-announced
+  change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-rhode-island-q1-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:Rhode Island: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, 2026\; January 15\, 2027. |
+  Q1 2026 state individual estimated tax payment. April 15\, June 15\, Septe
+ mber 15\, 2026\; January 15\, 2027. | Authority: Direct fetch of Rhode Isla
+ nd's own tax agency site/instructions this session | Source: https://tax.ri
+ .gov/sites/g/files/xkgbur541/files/2026-01/2026%20RI-1040ES_w.pdf | This da
+ te is computed from a recurrence rule and may not reflect a later-announced
+  change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-rhode-island-q1-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Rhode Island: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, 2026\; January 15\, 2027. |
+  Q1 2026 state individual estimated tax payment. April 15\, June 15\, Septe
+ mber 15\, 2026\; January 15\, 2027. | Authority: Direct fetch of Rhode Isla
+ nd's own tax agency site/instructions this session | Source: https://tax.ri
+ .gov/sites/g/files/xkgbur541/files/2026-01/2026%20RI-1040ES_w.pdf | This da
+ te is computed from a recurrence rule and may not reflect a later-announced
+  change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-rhode-island-q1-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Rhode Island: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, 2026\; January 15\, 2027. |
+  Q1 2026 state individual estimated tax payment. April 15\, June 15\, Septe
+ mber 15\, 2026\; January 15\, 2027. | Authority: Direct fetch of Rhode Isla
+ nd's own tax agency site/instructions this session | Source: https://tax.ri
+ .gov/sites/g/files/xkgbur541/files/2026-01/2026%20RI-1040ES_w.pdf | This da
+ te is computed from a recurrence rule and may not reflect a later-announced
+  change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-rhode-island-q1-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:Rhode Island: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, 2026\; January 15\, 2027. |
+  Q1 2026 state individual estimated tax payment. April 15\, June 15\, Septe
+ mber 15\, 2026\; January 15\, 2027. | Authority: Direct fetch of Rhode Isla
+ nd's own tax agency site/instructions this session | Source: https://tax.ri
+ .gov/sites/g/files/xkgbur541/files/2026-01/2026%20RI-1040ES_w.pdf | This da
+ te is computed from a recurrence rule and may not reflect a later-announced
+  change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-rhode-island-q1-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:Rhode Island: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, 2026\; January 15\, 2027. |
+  Q1 2026 state individual estimated tax payment. April 15\, June 15\, Septe
+ mber 15\, 2026\; January 15\, 2027. | Authority: Direct fetch of Rhode Isla
+ nd's own tax agency site/instructions this session | Source: https://tax.ri
+ .gov/sites/g/files/xkgbur541/files/2026-01/2026%20RI-1040ES_w.pdf | This da
+ te is computed from a recurrence rule and may not reflect a later-announced
+  change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-rhode-island-q1-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:Rhode Island: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, 2026\; January 15\, 2027. |
+  Q1 2026 state individual estimated tax payment. April 15\, June 15\, Septe
+ mber 15\, 2026\; January 15\, 2027. | Authority: Direct fetch of Rhode Isla
+ nd's own tax agency site/instructions this session | Source: https://tax.ri
+ .gov/sites/g/files/xkgbur541/files/2026-01/2026%20RI-1040ES_w.pdf | This da
+ te is computed from a recurrence rule and may not reflect a later-announced
+  change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-rhode-island-q1-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:Rhode Island: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, 2026\; January 15\, 2027. |
+  Q1 2026 state individual estimated tax payment. April 15\, June 15\, Septe
+ mber 15\, 2026\; January 15\, 2027. | Authority: Direct fetch of Rhode Isla
+ nd's own tax agency site/instructions this session | Source: https://tax.ri
+ .gov/sites/g/files/xkgbur541/files/2026-01/2026%20RI-1040ES_w.pdf | This da
+ te is computed from a recurrence rule and may not reflect a later-announced
+  change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-rhode-island-q2-2025-06-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250617
+SUMMARY:Rhode Island: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, 2026\; January 15\, 2027. |
+  Q2 2026 state individual estimated tax payment. April 15\, June 15\, Septe
+ mber 15\, 2026\; January 15\, 2027. | Authority: Direct fetch of Rhode Isla
+ nd's own tax agency site/instructions this session | Source: https://tax.ri
+ .gov/sites/g/files/xkgbur541/files/2026-01/2026%20RI-1040ES_w.pdf | This da
+ te is computed from a recurrence rule and may not reflect a later-announced
+  change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-rhode-island-q2-2026-06-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Rhode Island: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, 2026\; January 15\, 2027. |
+  Q2 2026 state individual estimated tax payment. April 15\, June 15\, Septe
+ mber 15\, 2026\; January 15\, 2027. | Authority: Direct fetch of Rhode Isla
+ nd's own tax agency site/instructions this session | Source: https://tax.ri
+ .gov/sites/g/files/xkgbur541/files/2026-01/2026%20RI-1040ES_w.pdf | This da
+ te is computed from a recurrence rule and may not reflect a later-announced
+  change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-rhode-island-q2-2027-06-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:Rhode Island: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, 2026\; January 15\, 2027. |
+  Q2 2026 state individual estimated tax payment. April 15\, June 15\, Septe
+ mber 15\, 2026\; January 15\, 2027. | Authority: Direct fetch of Rhode Isla
+ nd's own tax agency site/instructions this session | Source: https://tax.ri
+ .gov/sites/g/files/xkgbur541/files/2026-01/2026%20RI-1040ES_w.pdf | This da
+ te is computed from a recurrence rule and may not reflect a later-announced
+  change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-rhode-island-q2-2028-06-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280615
+DTEND;VALUE=DATE:20280616
+SUMMARY:Rhode Island: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, 2026\; January 15\, 2027. |
+  Q2 2026 state individual estimated tax payment. April 15\, June 15\, Septe
+ mber 15\, 2026\; January 15\, 2027. | Authority: Direct fetch of Rhode Isla
+ nd's own tax agency site/instructions this session | Source: https://tax.ri
+ .gov/sites/g/files/xkgbur541/files/2026-01/2026%20RI-1040ES_w.pdf | This da
+ te is computed from a recurrence rule and may not reflect a later-announced
+  change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-rhode-island-q2-2029-06-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290615
+DTEND;VALUE=DATE:20290616
+SUMMARY:Rhode Island: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, 2026\; January 15\, 2027. |
+  Q2 2026 state individual estimated tax payment. April 15\, June 15\, Septe
+ mber 15\, 2026\; January 15\, 2027. | Authority: Direct fetch of Rhode Isla
+ nd's own tax agency site/instructions this session | Source: https://tax.ri
+ .gov/sites/g/files/xkgbur541/files/2026-01/2026%20RI-1040ES_w.pdf | This da
+ te is computed from a recurrence rule and may not reflect a later-announced
+  change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-rhode-island-q2-2030-06-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300617
+DTEND;VALUE=DATE:20300618
+SUMMARY:Rhode Island: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, 2026\; January 15\, 2027. |
+  Q2 2026 state individual estimated tax payment. April 15\, June 15\, Septe
+ mber 15\, 2026\; January 15\, 2027. | Authority: Direct fetch of Rhode Isla
+ nd's own tax agency site/instructions this session | Source: https://tax.ri
+ .gov/sites/g/files/xkgbur541/files/2026-01/2026%20RI-1040ES_w.pdf | This da
+ te is computed from a recurrence rule and may not reflect a later-announced
+  change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-rhode-island-q2-2031-06-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310616
+DTEND;VALUE=DATE:20310617
+SUMMARY:Rhode Island: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, 2026\; January 15\, 2027. |
+  Q2 2026 state individual estimated tax payment. April 15\, June 15\, Septe
+ mber 15\, 2026\; January 15\, 2027. | Authority: Direct fetch of Rhode Isla
+ nd's own tax agency site/instructions this session | Source: https://tax.ri
+ .gov/sites/g/files/xkgbur541/files/2026-01/2026%20RI-1040ES_w.pdf | This da
+ te is computed from a recurrence rule and may not reflect a later-announced
+  change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-rhode-island-q2-2032-06-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320615
+DTEND;VALUE=DATE:20320616
+SUMMARY:Rhode Island: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, 2026\; January 15\, 2027. |
+  Q2 2026 state individual estimated tax payment. April 15\, June 15\, Septe
+ mber 15\, 2026\; January 15\, 2027. | Authority: Direct fetch of Rhode Isla
+ nd's own tax agency site/instructions this session | Source: https://tax.ri
+ .gov/sites/g/files/xkgbur541/files/2026-01/2026%20RI-1040ES_w.pdf | This da
+ te is computed from a recurrence rule and may not reflect a later-announced
+  change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-rhode-island-q3-2025-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20250916
+SUMMARY:Rhode Island: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, 2026\; January 15\, 2027. |
+  Q3 2026 state individual estimated tax payment. April 15\, June 15\, Septe
+ mber 15\, 2026\; January 15\, 2027. | Authority: Direct fetch of Rhode Isla
+ nd's own tax agency site/instructions this session | Source: https://tax.ri
+ .gov/sites/g/files/xkgbur541/files/2026-01/2026%20RI-1040ES_w.pdf | This da
+ te is computed from a recurrence rule and may not reflect a later-announced
+  change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-rhode-island-q3-2026-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Rhode Island: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, 2026\; January 15\, 2027. |
+  Q3 2026 state individual estimated tax payment. April 15\, June 15\, Septe
+ mber 15\, 2026\; January 15\, 2027. | Authority: Direct fetch of Rhode Isla
+ nd's own tax agency site/instructions this session | Source: https://tax.ri
+ .gov/sites/g/files/xkgbur541/files/2026-01/2026%20RI-1040ES_w.pdf | This da
+ te is computed from a recurrence rule and may not reflect a later-announced
+  change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-rhode-island-q3-2027-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:Rhode Island: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, 2026\; January 15\, 2027. |
+  Q3 2026 state individual estimated tax payment. April 15\, June 15\, Septe
+ mber 15\, 2026\; January 15\, 2027. | Authority: Direct fetch of Rhode Isla
+ nd's own tax agency site/instructions this session | Source: https://tax.ri
+ .gov/sites/g/files/xkgbur541/files/2026-01/2026%20RI-1040ES_w.pdf | This da
+ te is computed from a recurrence rule and may not reflect a later-announced
+  change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-rhode-island-q3-2028-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280915
+DTEND;VALUE=DATE:20280916
+SUMMARY:Rhode Island: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, 2026\; January 15\, 2027. |
+  Q3 2026 state individual estimated tax payment. April 15\, June 15\, Septe
+ mber 15\, 2026\; January 15\, 2027. | Authority: Direct fetch of Rhode Isla
+ nd's own tax agency site/instructions this session | Source: https://tax.ri
+ .gov/sites/g/files/xkgbur541/files/2026-01/2026%20RI-1040ES_w.pdf | This da
+ te is computed from a recurrence rule and may not reflect a later-announced
+  change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-rhode-island-q3-2029-09-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290917
+DTEND;VALUE=DATE:20290918
+SUMMARY:Rhode Island: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, 2026\; January 15\, 2027. |
+  Q3 2026 state individual estimated tax payment. April 15\, June 15\, Septe
+ mber 15\, 2026\; January 15\, 2027. | Authority: Direct fetch of Rhode Isla
+ nd's own tax agency site/instructions this session | Source: https://tax.ri
+ .gov/sites/g/files/xkgbur541/files/2026-01/2026%20RI-1040ES_w.pdf | This da
+ te is computed from a recurrence rule and may not reflect a later-announced
+  change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-rhode-island-q3-2030-09-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300916
+DTEND;VALUE=DATE:20300917
+SUMMARY:Rhode Island: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, 2026\; January 15\, 2027. |
+  Q3 2026 state individual estimated tax payment. April 15\, June 15\, Septe
+ mber 15\, 2026\; January 15\, 2027. | Authority: Direct fetch of Rhode Isla
+ nd's own tax agency site/instructions this session | Source: https://tax.ri
+ .gov/sites/g/files/xkgbur541/files/2026-01/2026%20RI-1040ES_w.pdf | This da
+ te is computed from a recurrence rule and may not reflect a later-announced
+  change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-rhode-island-q3-2031-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310915
+DTEND;VALUE=DATE:20310916
+SUMMARY:Rhode Island: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, 2026\; January 15\, 2027. |
+  Q3 2026 state individual estimated tax payment. April 15\, June 15\, Septe
+ mber 15\, 2026\; January 15\, 2027. | Authority: Direct fetch of Rhode Isla
+ nd's own tax agency site/instructions this session | Source: https://tax.ri
+ .gov/sites/g/files/xkgbur541/files/2026-01/2026%20RI-1040ES_w.pdf | This da
+ te is computed from a recurrence rule and may not reflect a later-announced
+  change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-rhode-island-q3-2032-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320915
+DTEND;VALUE=DATE:20320916
+SUMMARY:Rhode Island: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, 2026\; January 15\, 2027. |
+  Q3 2026 state individual estimated tax payment. April 15\, June 15\, Septe
+ mber 15\, 2026\; January 15\, 2027. | Authority: Direct fetch of Rhode Isla
+ nd's own tax agency site/instructions this session | Source: https://tax.ri
+ .gov/sites/g/files/xkgbur541/files/2026-01/2026%20RI-1040ES_w.pdf | This da
+ te is computed from a recurrence rule and may not reflect a later-announced
+  change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-rhode-island-q4-2025-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250115
+DTEND;VALUE=DATE:20250116
+SUMMARY:Rhode Island: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, 2026\; January 15\, 2027. |
+  Q4 2026 state individual estimated tax payment. April 15\, June 15\, Septe
+ mber 15\, 2026\; January 15\, 2027. | Authority: Direct fetch of Rhode Isla
+ nd's own tax agency site/instructions this session | Source: https://tax.ri
+ .gov/sites/g/files/xkgbur541/files/2026-01/2026%20RI-1040ES_w.pdf | This da
+ te is computed from a recurrence rule and may not reflect a later-announced
+  change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-rhode-island-q4-2026-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260116
+SUMMARY:Rhode Island: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, 2026\; January 15\, 2027. |
+  Q4 2026 state individual estimated tax payment. April 15\, June 15\, Septe
+ mber 15\, 2026\; January 15\, 2027. | Authority: Direct fetch of Rhode Isla
+ nd's own tax agency site/instructions this session | Source: https://tax.ri
+ .gov/sites/g/files/xkgbur541/files/2026-01/2026%20RI-1040ES_w.pdf | This da
+ te is computed from a recurrence rule and may not reflect a later-announced
+  change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-rhode-island-q4-2027-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Rhode Island: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, 2026\; January 15\, 2027. |
+  Q4 2026 state individual estimated tax payment. April 15\, June 15\, Septe
+ mber 15\, 2026\; January 15\, 2027. | Authority: Direct fetch of Rhode Isla
+ nd's own tax agency site/instructions this session | Source: https://tax.ri
+ .gov/sites/g/files/xkgbur541/files/2026-01/2026%20RI-1040ES_w.pdf | This da
+ te is computed from a recurrence rule and may not reflect a later-announced
+  change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-rhode-island-q4-2028-01-18@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280118
+DTEND;VALUE=DATE:20280119
+SUMMARY:Rhode Island: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, 2026\; January 15\, 2027. |
+  Q4 2026 state individual estimated tax payment. April 15\, June 15\, Septe
+ mber 15\, 2026\; January 15\, 2027. | Authority: Direct fetch of Rhode Isla
+ nd's own tax agency site/instructions this session | Source: https://tax.ri
+ .gov/sites/g/files/xkgbur541/files/2026-01/2026%20RI-1040ES_w.pdf | This da
+ te is computed from a recurrence rule and may not reflect a later-announced
+  change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-rhode-island-q4-2029-01-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290116
+DTEND;VALUE=DATE:20290117
+SUMMARY:Rhode Island: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, 2026\; January 15\, 2027. |
+  Q4 2026 state individual estimated tax payment. April 15\, June 15\, Septe
+ mber 15\, 2026\; January 15\, 2027. | Authority: Direct fetch of Rhode Isla
+ nd's own tax agency site/instructions this session | Source: https://tax.ri
+ .gov/sites/g/files/xkgbur541/files/2026-01/2026%20RI-1040ES_w.pdf | This da
+ te is computed from a recurrence rule and may not reflect a later-announced
+  change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-rhode-island-q4-2030-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300115
+DTEND;VALUE=DATE:20300116
+SUMMARY:Rhode Island: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, 2026\; January 15\, 2027. |
+  Q4 2026 state individual estimated tax payment. April 15\, June 15\, Septe
+ mber 15\, 2026\; January 15\, 2027. | Authority: Direct fetch of Rhode Isla
+ nd's own tax agency site/instructions this session | Source: https://tax.ri
+ .gov/sites/g/files/xkgbur541/files/2026-01/2026%20RI-1040ES_w.pdf | This da
+ te is computed from a recurrence rule and may not reflect a later-announced
+  change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-rhode-island-q4-2031-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310115
+DTEND;VALUE=DATE:20310116
+SUMMARY:Rhode Island: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, 2026\; January 15\, 2027. |
+  Q4 2026 state individual estimated tax payment. April 15\, June 15\, Septe
+ mber 15\, 2026\; January 15\, 2027. | Authority: Direct fetch of Rhode Isla
+ nd's own tax agency site/instructions this session | Source: https://tax.ri
+ .gov/sites/g/files/xkgbur541/files/2026-01/2026%20RI-1040ES_w.pdf | This da
+ te is computed from a recurrence rule and may not reflect a later-announced
+  change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-rhode-island-q4-2032-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320115
+DTEND;VALUE=DATE:20320116
+SUMMARY:Rhode Island: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, 2026\; January 15\, 2027. |
+  Q4 2026 state individual estimated tax payment. April 15\, June 15\, Septe
+ mber 15\, 2026\; January 15\, 2027. | Authority: Direct fetch of Rhode Isla
+ nd's own tax agency site/instructions this session | Source: https://tax.ri
+ .gov/sites/g/files/xkgbur541/files/2026-01/2026%20RI-1040ES_w.pdf | This da
+ te is computed from a recurrence rule and may not reflect a later-announced
+  change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-ri-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:Rhode Island: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Rule stated as the 15th day of the 4th 
+ month after the close of the tax year. Automatic-extension date not confirm
+ ed this session. | Authority: Direct fetch of https://tax.ri.gov/tax-sectio
+ ns/personal-income-tax this session | Source: https://tax.ri.gov/tax-sectio
+ ns/personal-income-tax | This date is computed from a recurrence rule and m
+ ay not reflect a later-announced change\; confirm against the cited source 
+ before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-ri-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:Rhode Island: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Rule stated as the 15th day of the 4th 
+ month after the close of the tax year. Automatic-extension date not confirm
+ ed this session. | Authority: Direct fetch of https://tax.ri.gov/tax-sectio
+ ns/personal-income-tax this session | Source: https://tax.ri.gov/tax-sectio
+ ns/personal-income-tax | This date is computed from a recurrence rule and m
+ ay not reflect a later-announced change\; confirm against the cited source 
+ before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-ri-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Rhode Island: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Rule stated as the 15th day of the 4th 
+ month after the close of the tax year. Automatic-extension date not confirm
+ ed this session. | Authority: Direct fetch of https://tax.ri.gov/tax-sectio
+ ns/personal-income-tax this session | Source: https://tax.ri.gov/tax-sectio
+ ns/personal-income-tax | This date is computed from a recurrence rule and m
+ ay not reflect a later-announced change\; confirm against the cited source 
+ before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-ri-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Rhode Island: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Rule stated as the 15th day of the 4th 
+ month after the close of the tax year. Automatic-extension date not confirm
+ ed this session. | Authority: Direct fetch of https://tax.ri.gov/tax-sectio
+ ns/personal-income-tax this session | Source: https://tax.ri.gov/tax-sectio
+ ns/personal-income-tax | This date is computed from a recurrence rule and m
+ ay not reflect a later-announced change\; confirm against the cited source 
+ before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-ri-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:Rhode Island: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Rule stated as the 15th day of the 4th 
+ month after the close of the tax year. Automatic-extension date not confirm
+ ed this session. | Authority: Direct fetch of https://tax.ri.gov/tax-sectio
+ ns/personal-income-tax this session | Source: https://tax.ri.gov/tax-sectio
+ ns/personal-income-tax | This date is computed from a recurrence rule and m
+ ay not reflect a later-announced change\; confirm against the cited source 
+ before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-ri-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:Rhode Island: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Rule stated as the 15th day of the 4th 
+ month after the close of the tax year. Automatic-extension date not confirm
+ ed this session. | Authority: Direct fetch of https://tax.ri.gov/tax-sectio
+ ns/personal-income-tax this session | Source: https://tax.ri.gov/tax-sectio
+ ns/personal-income-tax | This date is computed from a recurrence rule and m
+ ay not reflect a later-announced change\; confirm against the cited source 
+ before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-ri-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:Rhode Island: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Rule stated as the 15th day of the 4th 
+ month after the close of the tax year. Automatic-extension date not confirm
+ ed this session. | Authority: Direct fetch of https://tax.ri.gov/tax-sectio
+ ns/personal-income-tax this session | Source: https://tax.ri.gov/tax-sectio
+ ns/personal-income-tax | This date is computed from a recurrence rule and m
+ ay not reflect a later-announced change\; confirm against the cited source 
+ before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-ri-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:Rhode Island: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Rule stated as the 15th day of the 4th 
+ month after the close of the tax year. Automatic-extension date not confirm
+ ed this session. | Authority: Direct fetch of https://tax.ri.gov/tax-sectio
+ ns/personal-income-tax this session | Source: https://tax.ri.gov/tax-sectio
+ ns/personal-income-tax | This date is computed from a recurrence rule and m
+ ay not reflect a later-announced change\; confirm against the cited source 
+ before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-rhode-island-2025-03-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250318
+SUMMARY:Rhode Island: RI-1065 (partnership) / RI-1120S (S-corp) due
+DESCRIPTION:Rhode Island partnership return due the 15th day of the 3rd mon
+ th after year-end. Correction (this rebuild session): the cited source stat
+ es the general rule (15th day of the 3rd month) without addressing the 2026
+ -specific weekend interaction - March 15\, 2026 is a Sunday. Consistent wit
+ h every other state in this data set that explicitly confirms a weekend-shi
+ ft policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, O
+ regon all confirm shifting to March 16\, 2026)\, and with the near-universa
+ l US government-deadline convention of shifting to the next business day\, 
+ this entry's date_2026 was corrected from an unshifted March 15\, 2026 to M
+ arch 16\, 2026. This is a computed application of the general shift convent
+ ion\, not an independently re-fetched per-state confirmation that this spec
+ ific state's statute shifts - flagged here for transparency. | Rhode Island
+  partnership return due the 15th day of the 3rd month after year-end. Autom
+ atic 6-month extension via Form RI-7004\, provided full estimated tax is pa
+ id by the payment deadline. Correction (this rebuild session): the cited so
+ urce states the general rule (15th day of the 3rd month) without addressing
+  the 2026-specific weekend interaction - March 15\, 2026 is a Sunday. Consi
+ stent with every other state in this data set that explicitly confirms a we
+ ekend-shift policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Mo
+ ntana\, Oregon all confirm shifting to March 16\, 2026)\, and with the near
+ -universal US government-deadline convention of shifting to the next busine
+ ss day\, this entry's date_2026 was corrected from an unshifted March 15\, 
+ 2026 to March 16\, 2026. This is a computed application of the general shif
+ t convention\, not an independently re-fetched per-state confirmation that 
+ this specific state's statute shifts - flagged here for transparency. | Aut
+ hority: Rhode Island Division of Taxation\, direct fetch this session: "For
+ m RI-1065 is due on or before the fifteenth day of the third month followin
+ g the close of the taxable year" and "Automatic six (6) month extension for
+  filers of... Form RI1120S or Form RI-1065." | Source: https://tax.ri.gov/s
+ ites/g/files/xkgbur541/files/2026-01/2025%20RI-1065%20Instructions.pdf | Th
+ is date is computed from a recurrence rule and may not reflect a later-anno
+ unced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-rhode-island-2026-03-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260317
+SUMMARY:Rhode Island: RI-1065 (partnership) / RI-1120S (S-corp) due
+DESCRIPTION:Rhode Island partnership return due the 15th day of the 3rd mon
+ th after year-end. Correction (this rebuild session): the cited source stat
+ es the general rule (15th day of the 3rd month) without addressing the 2026
+ -specific weekend interaction - March 15\, 2026 is a Sunday. Consistent wit
+ h every other state in this data set that explicitly confirms a weekend-shi
+ ft policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, O
+ regon all confirm shifting to March 16\, 2026)\, and with the near-universa
+ l US government-deadline convention of shifting to the next business day\, 
+ this entry's date_2026 was corrected from an unshifted March 15\, 2026 to M
+ arch 16\, 2026. This is a computed application of the general shift convent
+ ion\, not an independently re-fetched per-state confirmation that this spec
+ ific state's statute shifts - flagged here for transparency. | Rhode Island
+  partnership return due the 15th day of the 3rd month after year-end. Autom
+ atic 6-month extension via Form RI-7004\, provided full estimated tax is pa
+ id by the payment deadline. Correction (this rebuild session): the cited so
+ urce states the general rule (15th day of the 3rd month) without addressing
+  the 2026-specific weekend interaction - March 15\, 2026 is a Sunday. Consi
+ stent with every other state in this data set that explicitly confirms a we
+ ekend-shift policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Mo
+ ntana\, Oregon all confirm shifting to March 16\, 2026)\, and with the near
+ -universal US government-deadline convention of shifting to the next busine
+ ss day\, this entry's date_2026 was corrected from an unshifted March 15\, 
+ 2026 to March 16\, 2026. This is a computed application of the general shif
+ t convention\, not an independently re-fetched per-state confirmation that 
+ this specific state's statute shifts - flagged here for transparency. | Aut
+ hority: Rhode Island Division of Taxation\, direct fetch this session: "For
+ m RI-1065 is due on or before the fifteenth day of the third month followin
+ g the close of the taxable year" and "Automatic six (6) month extension for
+  filers of... Form RI1120S or Form RI-1065." | Source: https://tax.ri.gov/s
+ ites/g/files/xkgbur541/files/2026-01/2025%20RI-1065%20Instructions.pdf | Th
+ is date is computed from a recurrence rule and may not reflect a later-anno
+ unced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-rhode-island-2027-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:Rhode Island: RI-1065 (partnership) / RI-1120S (S-corp) due
+DESCRIPTION:Rhode Island partnership return due the 15th day of the 3rd mon
+ th after year-end. Correction (this rebuild session): the cited source stat
+ es the general rule (15th day of the 3rd month) without addressing the 2026
+ -specific weekend interaction - March 15\, 2026 is a Sunday. Consistent wit
+ h every other state in this data set that explicitly confirms a weekend-shi
+ ft policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, O
+ regon all confirm shifting to March 16\, 2026)\, and with the near-universa
+ l US government-deadline convention of shifting to the next business day\, 
+ this entry's date_2026 was corrected from an unshifted March 15\, 2026 to M
+ arch 16\, 2026. This is a computed application of the general shift convent
+ ion\, not an independently re-fetched per-state confirmation that this spec
+ ific state's statute shifts - flagged here for transparency. | Rhode Island
+  partnership return due the 15th day of the 3rd month after year-end. Autom
+ atic 6-month extension via Form RI-7004\, provided full estimated tax is pa
+ id by the payment deadline. Correction (this rebuild session): the cited so
+ urce states the general rule (15th day of the 3rd month) without addressing
+  the 2026-specific weekend interaction - March 15\, 2026 is a Sunday. Consi
+ stent with every other state in this data set that explicitly confirms a we
+ ekend-shift policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Mo
+ ntana\, Oregon all confirm shifting to March 16\, 2026)\, and with the near
+ -universal US government-deadline convention of shifting to the next busine
+ ss day\, this entry's date_2026 was corrected from an unshifted March 15\, 
+ 2026 to March 16\, 2026. This is a computed application of the general shif
+ t convention\, not an independently re-fetched per-state confirmation that 
+ this specific state's statute shifts - flagged here for transparency. | Aut
+ hority: Rhode Island Division of Taxation\, direct fetch this session: "For
+ m RI-1065 is due on or before the fifteenth day of the third month followin
+ g the close of the taxable year" and "Automatic six (6) month extension for
+  filers of... Form RI1120S or Form RI-1065." | Source: https://tax.ri.gov/s
+ ites/g/files/xkgbur541/files/2026-01/2025%20RI-1065%20Instructions.pdf | Th
+ is date is computed from a recurrence rule and may not reflect a later-anno
+ unced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-rhode-island-2028-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280315
+DTEND;VALUE=DATE:20280316
+SUMMARY:Rhode Island: RI-1065 (partnership) / RI-1120S (S-corp) due
+DESCRIPTION:Rhode Island partnership return due the 15th day of the 3rd mon
+ th after year-end. Correction (this rebuild session): the cited source stat
+ es the general rule (15th day of the 3rd month) without addressing the 2026
+ -specific weekend interaction - March 15\, 2026 is a Sunday. Consistent wit
+ h every other state in this data set that explicitly confirms a weekend-shi
+ ft policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, O
+ regon all confirm shifting to March 16\, 2026)\, and with the near-universa
+ l US government-deadline convention of shifting to the next business day\, 
+ this entry's date_2026 was corrected from an unshifted March 15\, 2026 to M
+ arch 16\, 2026. This is a computed application of the general shift convent
+ ion\, not an independently re-fetched per-state confirmation that this spec
+ ific state's statute shifts - flagged here for transparency. | Rhode Island
+  partnership return due the 15th day of the 3rd month after year-end. Autom
+ atic 6-month extension via Form RI-7004\, provided full estimated tax is pa
+ id by the payment deadline. Correction (this rebuild session): the cited so
+ urce states the general rule (15th day of the 3rd month) without addressing
+  the 2026-specific weekend interaction - March 15\, 2026 is a Sunday. Consi
+ stent with every other state in this data set that explicitly confirms a we
+ ekend-shift policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Mo
+ ntana\, Oregon all confirm shifting to March 16\, 2026)\, and with the near
+ -universal US government-deadline convention of shifting to the next busine
+ ss day\, this entry's date_2026 was corrected from an unshifted March 15\, 
+ 2026 to March 16\, 2026. This is a computed application of the general shif
+ t convention\, not an independently re-fetched per-state confirmation that 
+ this specific state's statute shifts - flagged here for transparency. | Aut
+ hority: Rhode Island Division of Taxation\, direct fetch this session: "For
+ m RI-1065 is due on or before the fifteenth day of the third month followin
+ g the close of the taxable year" and "Automatic six (6) month extension for
+  filers of... Form RI1120S or Form RI-1065." | Source: https://tax.ri.gov/s
+ ites/g/files/xkgbur541/files/2026-01/2025%20RI-1065%20Instructions.pdf | Th
+ is date is computed from a recurrence rule and may not reflect a later-anno
+ unced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-rhode-island-2029-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290315
+DTEND;VALUE=DATE:20290316
+SUMMARY:Rhode Island: RI-1065 (partnership) / RI-1120S (S-corp) due
+DESCRIPTION:Rhode Island partnership return due the 15th day of the 3rd mon
+ th after year-end. Correction (this rebuild session): the cited source stat
+ es the general rule (15th day of the 3rd month) without addressing the 2026
+ -specific weekend interaction - March 15\, 2026 is a Sunday. Consistent wit
+ h every other state in this data set that explicitly confirms a weekend-shi
+ ft policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, O
+ regon all confirm shifting to March 16\, 2026)\, and with the near-universa
+ l US government-deadline convention of shifting to the next business day\, 
+ this entry's date_2026 was corrected from an unshifted March 15\, 2026 to M
+ arch 16\, 2026. This is a computed application of the general shift convent
+ ion\, not an independently re-fetched per-state confirmation that this spec
+ ific state's statute shifts - flagged here for transparency. | Rhode Island
+  partnership return due the 15th day of the 3rd month after year-end. Autom
+ atic 6-month extension via Form RI-7004\, provided full estimated tax is pa
+ id by the payment deadline. Correction (this rebuild session): the cited so
+ urce states the general rule (15th day of the 3rd month) without addressing
+  the 2026-specific weekend interaction - March 15\, 2026 is a Sunday. Consi
+ stent with every other state in this data set that explicitly confirms a we
+ ekend-shift policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Mo
+ ntana\, Oregon all confirm shifting to March 16\, 2026)\, and with the near
+ -universal US government-deadline convention of shifting to the next busine
+ ss day\, this entry's date_2026 was corrected from an unshifted March 15\, 
+ 2026 to March 16\, 2026. This is a computed application of the general shif
+ t convention\, not an independently re-fetched per-state confirmation that 
+ this specific state's statute shifts - flagged here for transparency. | Aut
+ hority: Rhode Island Division of Taxation\, direct fetch this session: "For
+ m RI-1065 is due on or before the fifteenth day of the third month followin
+ g the close of the taxable year" and "Automatic six (6) month extension for
+  filers of... Form RI1120S or Form RI-1065." | Source: https://tax.ri.gov/s
+ ites/g/files/xkgbur541/files/2026-01/2025%20RI-1065%20Instructions.pdf | Th
+ is date is computed from a recurrence rule and may not reflect a later-anno
+ unced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-rhode-island-2030-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300315
+DTEND;VALUE=DATE:20300316
+SUMMARY:Rhode Island: RI-1065 (partnership) / RI-1120S (S-corp) due
+DESCRIPTION:Rhode Island partnership return due the 15th day of the 3rd mon
+ th after year-end. Correction (this rebuild session): the cited source stat
+ es the general rule (15th day of the 3rd month) without addressing the 2026
+ -specific weekend interaction - March 15\, 2026 is a Sunday. Consistent wit
+ h every other state in this data set that explicitly confirms a weekend-shi
+ ft policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, O
+ regon all confirm shifting to March 16\, 2026)\, and with the near-universa
+ l US government-deadline convention of shifting to the next business day\, 
+ this entry's date_2026 was corrected from an unshifted March 15\, 2026 to M
+ arch 16\, 2026. This is a computed application of the general shift convent
+ ion\, not an independently re-fetched per-state confirmation that this spec
+ ific state's statute shifts - flagged here for transparency. | Rhode Island
+  partnership return due the 15th day of the 3rd month after year-end. Autom
+ atic 6-month extension via Form RI-7004\, provided full estimated tax is pa
+ id by the payment deadline. Correction (this rebuild session): the cited so
+ urce states the general rule (15th day of the 3rd month) without addressing
+  the 2026-specific weekend interaction - March 15\, 2026 is a Sunday. Consi
+ stent with every other state in this data set that explicitly confirms a we
+ ekend-shift policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Mo
+ ntana\, Oregon all confirm shifting to March 16\, 2026)\, and with the near
+ -universal US government-deadline convention of shifting to the next busine
+ ss day\, this entry's date_2026 was corrected from an unshifted March 15\, 
+ 2026 to March 16\, 2026. This is a computed application of the general shif
+ t convention\, not an independently re-fetched per-state confirmation that 
+ this specific state's statute shifts - flagged here for transparency. | Aut
+ hority: Rhode Island Division of Taxation\, direct fetch this session: "For
+ m RI-1065 is due on or before the fifteenth day of the third month followin
+ g the close of the taxable year" and "Automatic six (6) month extension for
+  filers of... Form RI1120S or Form RI-1065." | Source: https://tax.ri.gov/s
+ ites/g/files/xkgbur541/files/2026-01/2025%20RI-1065%20Instructions.pdf | Th
+ is date is computed from a recurrence rule and may not reflect a later-anno
+ unced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-rhode-island-2031-03-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310317
+DTEND;VALUE=DATE:20310318
+SUMMARY:Rhode Island: RI-1065 (partnership) / RI-1120S (S-corp) due
+DESCRIPTION:Rhode Island partnership return due the 15th day of the 3rd mon
+ th after year-end. Correction (this rebuild session): the cited source stat
+ es the general rule (15th day of the 3rd month) without addressing the 2026
+ -specific weekend interaction - March 15\, 2026 is a Sunday. Consistent wit
+ h every other state in this data set that explicitly confirms a weekend-shi
+ ft policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, O
+ regon all confirm shifting to March 16\, 2026)\, and with the near-universa
+ l US government-deadline convention of shifting to the next business day\, 
+ this entry's date_2026 was corrected from an unshifted March 15\, 2026 to M
+ arch 16\, 2026. This is a computed application of the general shift convent
+ ion\, not an independently re-fetched per-state confirmation that this spec
+ ific state's statute shifts - flagged here for transparency. | Rhode Island
+  partnership return due the 15th day of the 3rd month after year-end. Autom
+ atic 6-month extension via Form RI-7004\, provided full estimated tax is pa
+ id by the payment deadline. Correction (this rebuild session): the cited so
+ urce states the general rule (15th day of the 3rd month) without addressing
+  the 2026-specific weekend interaction - March 15\, 2026 is a Sunday. Consi
+ stent with every other state in this data set that explicitly confirms a we
+ ekend-shift policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Mo
+ ntana\, Oregon all confirm shifting to March 16\, 2026)\, and with the near
+ -universal US government-deadline convention of shifting to the next busine
+ ss day\, this entry's date_2026 was corrected from an unshifted March 15\, 
+ 2026 to March 16\, 2026. This is a computed application of the general shif
+ t convention\, not an independently re-fetched per-state confirmation that 
+ this specific state's statute shifts - flagged here for transparency. | Aut
+ hority: Rhode Island Division of Taxation\, direct fetch this session: "For
+ m RI-1065 is due on or before the fifteenth day of the third month followin
+ g the close of the taxable year" and "Automatic six (6) month extension for
+  filers of... Form RI1120S or Form RI-1065." | Source: https://tax.ri.gov/s
+ ites/g/files/xkgbur541/files/2026-01/2025%20RI-1065%20Instructions.pdf | Th
+ is date is computed from a recurrence rule and may not reflect a later-anno
+ unced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-rhode-island-2032-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320315
+DTEND;VALUE=DATE:20320316
+SUMMARY:Rhode Island: RI-1065 (partnership) / RI-1120S (S-corp) due
+DESCRIPTION:Rhode Island partnership return due the 15th day of the 3rd mon
+ th after year-end. Correction (this rebuild session): the cited source stat
+ es the general rule (15th day of the 3rd month) without addressing the 2026
+ -specific weekend interaction - March 15\, 2026 is a Sunday. Consistent wit
+ h every other state in this data set that explicitly confirms a weekend-shi
+ ft policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, O
+ regon all confirm shifting to March 16\, 2026)\, and with the near-universa
+ l US government-deadline convention of shifting to the next business day\, 
+ this entry's date_2026 was corrected from an unshifted March 15\, 2026 to M
+ arch 16\, 2026. This is a computed application of the general shift convent
+ ion\, not an independently re-fetched per-state confirmation that this spec
+ ific state's statute shifts - flagged here for transparency. | Rhode Island
+  partnership return due the 15th day of the 3rd month after year-end. Autom
+ atic 6-month extension via Form RI-7004\, provided full estimated tax is pa
+ id by the payment deadline. Correction (this rebuild session): the cited so
+ urce states the general rule (15th day of the 3rd month) without addressing
+  the 2026-specific weekend interaction - March 15\, 2026 is a Sunday. Consi
+ stent with every other state in this data set that explicitly confirms a we
+ ekend-shift policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Mo
+ ntana\, Oregon all confirm shifting to March 16\, 2026)\, and with the near
+ -universal US government-deadline convention of shifting to the next busine
+ ss day\, this entry's date_2026 was corrected from an unshifted March 15\, 
+ 2026 to March 16\, 2026. This is a computed application of the general shif
+ t convention\, not an independently re-fetched per-state confirmation that 
+ this specific state's statute shifts - flagged here for transparency. | Aut
+ hority: Rhode Island Division of Taxation\, direct fetch this session: "For
+ m RI-1065 is due on or before the fifteenth day of the third month followin
+ g the close of the taxable year" and "Automatic six (6) month extension for
+  filers of... Form RI1120S or Form RI-1065." | Source: https://tax.ri.gov/s
+ ites/g/files/xkgbur541/files/2026-01/2025%20RI-1065%20Instructions.pdf | Th
+ is date is computed from a recurrence rule and may not reflect a later-anno
+ unced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-rhode-island-q1-2025-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250430
+DTEND;VALUE=DATE:20250501
+SUMMARY:Rhode Island: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Quarterly taxes are due on the last day of the month following end o
+ f the quarter\; January 31\, April 30\, July 31\, and October 31. | Authori
+ ty: Direct fetch of Rhode Island's own unemployment insurance agency site/h
+ andbook/code this session | Source: https://dlt.ri.gov/employers/employer-t
+ ax-unit/frequently-asked-employer-tax-questions | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-rhode-island-q1-2026-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:Rhode Island: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Quarterly taxes are due on the last day of the month following end o
+ f the quarter\; January 31\, April 30\, July 31\, and October 31. | Authori
+ ty: Direct fetch of Rhode Island's own unemployment insurance agency site/h
+ andbook/code this session | Source: https://dlt.ri.gov/employers/employer-t
+ ax-unit/frequently-asked-employer-tax-questions | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-rhode-island-q1-2027-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:Rhode Island: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Quarterly taxes are due on the last day of the month following end o
+ f the quarter\; January 31\, April 30\, July 31\, and October 31. | Authori
+ ty: Direct fetch of Rhode Island's own unemployment insurance agency site/h
+ andbook/code this session | Source: https://dlt.ri.gov/employers/employer-t
+ ax-unit/frequently-asked-employer-tax-questions | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-rhode-island-q1-2028-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280430
+DTEND;VALUE=DATE:20280501
+SUMMARY:Rhode Island: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Quarterly taxes are due on the last day of the month following end o
+ f the quarter\; January 31\, April 30\, July 31\, and October 31. | Authori
+ ty: Direct fetch of Rhode Island's own unemployment insurance agency site/h
+ andbook/code this session | Source: https://dlt.ri.gov/employers/employer-t
+ ax-unit/frequently-asked-employer-tax-questions | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-rhode-island-q1-2029-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290430
+DTEND;VALUE=DATE:20290501
+SUMMARY:Rhode Island: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Quarterly taxes are due on the last day of the month following end o
+ f the quarter\; January 31\, April 30\, July 31\, and October 31. | Authori
+ ty: Direct fetch of Rhode Island's own unemployment insurance agency site/h
+ andbook/code this session | Source: https://dlt.ri.gov/employers/employer-t
+ ax-unit/frequently-asked-employer-tax-questions | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-rhode-island-q1-2030-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300430
+DTEND;VALUE=DATE:20300501
+SUMMARY:Rhode Island: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Quarterly taxes are due on the last day of the month following end o
+ f the quarter\; January 31\, April 30\, July 31\, and October 31. | Authori
+ ty: Direct fetch of Rhode Island's own unemployment insurance agency site/h
+ andbook/code this session | Source: https://dlt.ri.gov/employers/employer-t
+ ax-unit/frequently-asked-employer-tax-questions | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-rhode-island-q1-2031-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310430
+DTEND;VALUE=DATE:20310501
+SUMMARY:Rhode Island: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Quarterly taxes are due on the last day of the month following end o
+ f the quarter\; January 31\, April 30\, July 31\, and October 31. | Authori
+ ty: Direct fetch of Rhode Island's own unemployment insurance agency site/h
+ andbook/code this session | Source: https://dlt.ri.gov/employers/employer-t
+ ax-unit/frequently-asked-employer-tax-questions | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-rhode-island-q1-2032-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320430
+DTEND;VALUE=DATE:20320501
+SUMMARY:Rhode Island: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Quarterly taxes are due on the last day of the month following end o
+ f the quarter\; January 31\, April 30\, July 31\, and October 31. | Authori
+ ty: Direct fetch of Rhode Island's own unemployment insurance agency site/h
+ andbook/code this session | Source: https://dlt.ri.gov/employers/employer-t
+ ax-unit/frequently-asked-employer-tax-questions | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-rhode-island-q2-2025-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250731
+DTEND;VALUE=DATE:20250801
+SUMMARY:Rhode Island: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Quarterly taxes are due on the last day of the month following end o
+ f the quarter\; January 31\, April 30\, July 31\, and October 31. | Authori
+ ty: Direct fetch of Rhode Island's own unemployment insurance agency site/h
+ andbook/code this session | Source: https://dlt.ri.gov/employers/employer-t
+ ax-unit/frequently-asked-employer-tax-questions | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-rhode-island-q2-2026-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Rhode Island: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Quarterly taxes are due on the last day of the month following end o
+ f the quarter\; January 31\, April 30\, July 31\, and October 31. | Authori
+ ty: Direct fetch of Rhode Island's own unemployment insurance agency site/h
+ andbook/code this session | Source: https://dlt.ri.gov/employers/employer-t
+ ax-unit/frequently-asked-employer-tax-questions | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-rhode-island-q2-2027-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:Rhode Island: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Quarterly taxes are due on the last day of the month following end o
+ f the quarter\; January 31\, April 30\, July 31\, and October 31. | Authori
+ ty: Direct fetch of Rhode Island's own unemployment insurance agency site/h
+ andbook/code this session | Source: https://dlt.ri.gov/employers/employer-t
+ ax-unit/frequently-asked-employer-tax-questions | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-rhode-island-q2-2028-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280731
+DTEND;VALUE=DATE:20280801
+SUMMARY:Rhode Island: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Quarterly taxes are due on the last day of the month following end o
+ f the quarter\; January 31\, April 30\, July 31\, and October 31. | Authori
+ ty: Direct fetch of Rhode Island's own unemployment insurance agency site/h
+ andbook/code this session | Source: https://dlt.ri.gov/employers/employer-t
+ ax-unit/frequently-asked-employer-tax-questions | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-rhode-island-q2-2029-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290731
+DTEND;VALUE=DATE:20290801
+SUMMARY:Rhode Island: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Quarterly taxes are due on the last day of the month following end o
+ f the quarter\; January 31\, April 30\, July 31\, and October 31. | Authori
+ ty: Direct fetch of Rhode Island's own unemployment insurance agency site/h
+ andbook/code this session | Source: https://dlt.ri.gov/employers/employer-t
+ ax-unit/frequently-asked-employer-tax-questions | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-rhode-island-q2-2030-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300731
+DTEND;VALUE=DATE:20300801
+SUMMARY:Rhode Island: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Quarterly taxes are due on the last day of the month following end o
+ f the quarter\; January 31\, April 30\, July 31\, and October 31. | Authori
+ ty: Direct fetch of Rhode Island's own unemployment insurance agency site/h
+ andbook/code this session | Source: https://dlt.ri.gov/employers/employer-t
+ ax-unit/frequently-asked-employer-tax-questions | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-rhode-island-q2-2031-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310731
+DTEND;VALUE=DATE:20310801
+SUMMARY:Rhode Island: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Quarterly taxes are due on the last day of the month following end o
+ f the quarter\; January 31\, April 30\, July 31\, and October 31. | Authori
+ ty: Direct fetch of Rhode Island's own unemployment insurance agency site/h
+ andbook/code this session | Source: https://dlt.ri.gov/employers/employer-t
+ ax-unit/frequently-asked-employer-tax-questions | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-rhode-island-q2-2032-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320731
+DTEND;VALUE=DATE:20320801
+SUMMARY:Rhode Island: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Quarterly taxes are due on the last day of the month following end o
+ f the quarter\; January 31\, April 30\, July 31\, and October 31. | Authori
+ ty: Direct fetch of Rhode Island's own unemployment insurance agency site/h
+ andbook/code this session | Source: https://dlt.ri.gov/employers/employer-t
+ ax-unit/frequently-asked-employer-tax-questions | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-rhode-island-q3-2025-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20251031
+DTEND;VALUE=DATE:20251101
+SUMMARY:Rhode Island: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Quarterly taxes are due on the last day of the month following end o
+ f the quarter\; January 31\, April 30\, July 31\, and October 31. | Authori
+ ty: Direct fetch of Rhode Island's own unemployment insurance agency site/h
+ andbook/code this session | Source: https://dlt.ri.gov/employers/employer-t
+ ax-unit/frequently-asked-employer-tax-questions | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-rhode-island-q3-2026-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Rhode Island: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Quarterly taxes are due on the last day of the month following end o
+ f the quarter\; January 31\, April 30\, July 31\, and October 31. | Authori
+ ty: Direct fetch of Rhode Island's own unemployment insurance agency site/h
+ andbook/code this session | Source: https://dlt.ri.gov/employers/employer-t
+ ax-unit/frequently-asked-employer-tax-questions | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-rhode-island-q3-2027-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20271031
+DTEND;VALUE=DATE:20271101
+SUMMARY:Rhode Island: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Quarterly taxes are due on the last day of the month following end o
+ f the quarter\; January 31\, April 30\, July 31\, and October 31. | Authori
+ ty: Direct fetch of Rhode Island's own unemployment insurance agency site/h
+ andbook/code this session | Source: https://dlt.ri.gov/employers/employer-t
+ ax-unit/frequently-asked-employer-tax-questions | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-rhode-island-q3-2028-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20281031
+DTEND;VALUE=DATE:20281101
+SUMMARY:Rhode Island: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Quarterly taxes are due on the last day of the month following end o
+ f the quarter\; January 31\, April 30\, July 31\, and October 31. | Authori
+ ty: Direct fetch of Rhode Island's own unemployment insurance agency site/h
+ andbook/code this session | Source: https://dlt.ri.gov/employers/employer-t
+ ax-unit/frequently-asked-employer-tax-questions | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-rhode-island-q3-2029-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20291031
+DTEND;VALUE=DATE:20291101
+SUMMARY:Rhode Island: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Quarterly taxes are due on the last day of the month following end o
+ f the quarter\; January 31\, April 30\, July 31\, and October 31. | Authori
+ ty: Direct fetch of Rhode Island's own unemployment insurance agency site/h
+ andbook/code this session | Source: https://dlt.ri.gov/employers/employer-t
+ ax-unit/frequently-asked-employer-tax-questions | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-rhode-island-q3-2030-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20301031
+DTEND;VALUE=DATE:20301101
+SUMMARY:Rhode Island: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Quarterly taxes are due on the last day of the month following end o
+ f the quarter\; January 31\, April 30\, July 31\, and October 31. | Authori
+ ty: Direct fetch of Rhode Island's own unemployment insurance agency site/h
+ andbook/code this session | Source: https://dlt.ri.gov/employers/employer-t
+ ax-unit/frequently-asked-employer-tax-questions | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-rhode-island-q3-2031-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20311031
+DTEND;VALUE=DATE:20311101
+SUMMARY:Rhode Island: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Quarterly taxes are due on the last day of the month following end o
+ f the quarter\; January 31\, April 30\, July 31\, and October 31. | Authori
+ ty: Direct fetch of Rhode Island's own unemployment insurance agency site/h
+ andbook/code this session | Source: https://dlt.ri.gov/employers/employer-t
+ ax-unit/frequently-asked-employer-tax-questions | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-rhode-island-q3-2032-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20321031
+DTEND;VALUE=DATE:20321101
+SUMMARY:Rhode Island: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Quarterly taxes are due on the last day of the month following end o
+ f the quarter\; January 31\, April 30\, July 31\, and October 31. | Authori
+ ty: Direct fetch of Rhode Island's own unemployment insurance agency site/h
+ andbook/code this session | Source: https://dlt.ri.gov/employers/employer-t
+ ax-unit/frequently-asked-employer-tax-questions | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-rhode-island-q4-2025-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250131
+DTEND;VALUE=DATE:20250201
+SUMMARY:Rhode Island: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Quarterly taxes are due on the last day of the month following end o
+ f the quarter\; January 31\, April 30\, July 31\, and October 31. | Authori
+ ty: Direct fetch of Rhode Island's own unemployment insurance agency site/h
+ andbook/code this session | Source: https://dlt.ri.gov/employers/employer-t
+ ax-unit/frequently-asked-employer-tax-questions | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-rhode-island-q4-2026-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:Rhode Island: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Quarterly taxes are due on the last day of the month following end o
+ f the quarter\; January 31\, April 30\, July 31\, and October 31. | Authori
+ ty: Direct fetch of Rhode Island's own unemployment insurance agency site/h
+ andbook/code this session | Source: https://dlt.ri.gov/employers/employer-t
+ ax-unit/frequently-asked-employer-tax-questions | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-rhode-island-q4-2027-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Rhode Island: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Quarterly taxes are due on the last day of the month following end o
+ f the quarter\; January 31\, April 30\, July 31\, and October 31. | Authori
+ ty: Direct fetch of Rhode Island's own unemployment insurance agency site/h
+ andbook/code this session | Source: https://dlt.ri.gov/employers/employer-t
+ ax-unit/frequently-asked-employer-tax-questions | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-rhode-island-q4-2028-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280131
+DTEND;VALUE=DATE:20280201
+SUMMARY:Rhode Island: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Quarterly taxes are due on the last day of the month following end o
+ f the quarter\; January 31\, April 30\, July 31\, and October 31. | Authori
+ ty: Direct fetch of Rhode Island's own unemployment insurance agency site/h
+ andbook/code this session | Source: https://dlt.ri.gov/employers/employer-t
+ ax-unit/frequently-asked-employer-tax-questions | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-rhode-island-q4-2029-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290131
+DTEND;VALUE=DATE:20290201
+SUMMARY:Rhode Island: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Quarterly taxes are due on the last day of the month following end o
+ f the quarter\; January 31\, April 30\, July 31\, and October 31. | Authori
+ ty: Direct fetch of Rhode Island's own unemployment insurance agency site/h
+ andbook/code this session | Source: https://dlt.ri.gov/employers/employer-t
+ ax-unit/frequently-asked-employer-tax-questions | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-rhode-island-q4-2030-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300131
+DTEND;VALUE=DATE:20300201
+SUMMARY:Rhode Island: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Quarterly taxes are due on the last day of the month following end o
+ f the quarter\; January 31\, April 30\, July 31\, and October 31. | Authori
+ ty: Direct fetch of Rhode Island's own unemployment insurance agency site/h
+ andbook/code this session | Source: https://dlt.ri.gov/employers/employer-t
+ ax-unit/frequently-asked-employer-tax-questions | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-rhode-island-q4-2031-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310131
+DTEND;VALUE=DATE:20310201
+SUMMARY:Rhode Island: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Quarterly taxes are due on the last day of the month following end o
+ f the quarter\; January 31\, April 30\, July 31\, and October 31. | Authori
+ ty: Direct fetch of Rhode Island's own unemployment insurance agency site/h
+ andbook/code this session | Source: https://dlt.ri.gov/employers/employer-t
+ ax-unit/frequently-asked-employer-tax-questions | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-rhode-island-q4-2032-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320131
+DTEND;VALUE=DATE:20320201
+SUMMARY:Rhode Island: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Quarterly taxes are due on the last day of the month following end o
+ f the quarter\; January 31\, April 30\, July 31\, and October 31. | Authori
+ ty: Direct fetch of Rhode Island's own unemployment insurance agency site/h
+ andbook/code this session | Source: https://dlt.ri.gov/employers/employer-t
+ ax-unit/frequently-asked-employer-tax-questions | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-rhode-island-q1-2025-04-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250422
+SUMMARY:Rhode Island: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly available by election i
+ f liability is low\, due last day of Jul/Oct/Jan/Apr. | Q1 2026 (Jan-Mar) s
+ ales tax return\, applying Rhode Island's quarterly-filer due-date rule: 20
+ th of the following month\; quarterly available by election if liability is
+  low\, due last day of Jul/Oct/Jan/Apr. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Rhode Island's own tax agency site this session | Source: https:/
+ /tax.ri.gov/tax-sections/sales-excise-taxes/sales-use-tax | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-rhode-island-q1-2026-04-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:Rhode Island: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly available by election i
+ f liability is low\, due last day of Jul/Oct/Jan/Apr. | Q1 2026 (Jan-Mar) s
+ ales tax return\, applying Rhode Island's quarterly-filer due-date rule: 20
+ th of the following month\; quarterly available by election if liability is
+  low\, due last day of Jul/Oct/Jan/Apr. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Rhode Island's own tax agency site this session | Source: https:/
+ /tax.ri.gov/tax-sections/sales-excise-taxes/sales-use-tax | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-rhode-island-q1-2027-04-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:Rhode Island: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly available by election i
+ f liability is low\, due last day of Jul/Oct/Jan/Apr. | Q1 2026 (Jan-Mar) s
+ ales tax return\, applying Rhode Island's quarterly-filer due-date rule: 20
+ th of the following month\; quarterly available by election if liability is
+  low\, due last day of Jul/Oct/Jan/Apr. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Rhode Island's own tax agency site this session | Source: https:/
+ /tax.ri.gov/tax-sections/sales-excise-taxes/sales-use-tax | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-rhode-island-q1-2028-04-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280420
+DTEND;VALUE=DATE:20280421
+SUMMARY:Rhode Island: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly available by election i
+ f liability is low\, due last day of Jul/Oct/Jan/Apr. | Q1 2026 (Jan-Mar) s
+ ales tax return\, applying Rhode Island's quarterly-filer due-date rule: 20
+ th of the following month\; quarterly available by election if liability is
+  low\, due last day of Jul/Oct/Jan/Apr. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Rhode Island's own tax agency site this session | Source: https:/
+ /tax.ri.gov/tax-sections/sales-excise-taxes/sales-use-tax | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-rhode-island-q1-2029-04-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290420
+DTEND;VALUE=DATE:20290421
+SUMMARY:Rhode Island: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly available by election i
+ f liability is low\, due last day of Jul/Oct/Jan/Apr. | Q1 2026 (Jan-Mar) s
+ ales tax return\, applying Rhode Island's quarterly-filer due-date rule: 20
+ th of the following month\; quarterly available by election if liability is
+  low\, due last day of Jul/Oct/Jan/Apr. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Rhode Island's own tax agency site this session | Source: https:/
+ /tax.ri.gov/tax-sections/sales-excise-taxes/sales-use-tax | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-rhode-island-q1-2030-04-22@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300422
+DTEND;VALUE=DATE:20300423
+SUMMARY:Rhode Island: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly available by election i
+ f liability is low\, due last day of Jul/Oct/Jan/Apr. | Q1 2026 (Jan-Mar) s
+ ales tax return\, applying Rhode Island's quarterly-filer due-date rule: 20
+ th of the following month\; quarterly available by election if liability is
+  low\, due last day of Jul/Oct/Jan/Apr. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Rhode Island's own tax agency site this session | Source: https:/
+ /tax.ri.gov/tax-sections/sales-excise-taxes/sales-use-tax | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-rhode-island-q1-2031-04-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310421
+DTEND;VALUE=DATE:20310422
+SUMMARY:Rhode Island: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly available by election i
+ f liability is low\, due last day of Jul/Oct/Jan/Apr. | Q1 2026 (Jan-Mar) s
+ ales tax return\, applying Rhode Island's quarterly-filer due-date rule: 20
+ th of the following month\; quarterly available by election if liability is
+  low\, due last day of Jul/Oct/Jan/Apr. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Rhode Island's own tax agency site this session | Source: https:/
+ /tax.ri.gov/tax-sections/sales-excise-taxes/sales-use-tax | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-rhode-island-q1-2032-04-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320420
+DTEND;VALUE=DATE:20320421
+SUMMARY:Rhode Island: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly available by election i
+ f liability is low\, due last day of Jul/Oct/Jan/Apr. | Q1 2026 (Jan-Mar) s
+ ales tax return\, applying Rhode Island's quarterly-filer due-date rule: 20
+ th of the following month\; quarterly available by election if liability is
+  low\, due last day of Jul/Oct/Jan/Apr. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Rhode Island's own tax agency site this session | Source: https:/
+ /tax.ri.gov/tax-sections/sales-excise-taxes/sales-use-tax | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-rhode-island-q2-2025-07-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250722
+SUMMARY:Rhode Island: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly available by election i
+ f liability is low\, due last day of Jul/Oct/Jan/Apr. | Q2 2026 (Apr-Jun) s
+ ales tax return\, applying Rhode Island's quarterly-filer due-date rule: 20
+ th of the following month\; quarterly available by election if liability is
+  low\, due last day of Jul/Oct/Jan/Apr. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Rhode Island's own tax agency site this session | Source: https:/
+ /tax.ri.gov/tax-sections/sales-excise-taxes/sales-use-tax | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-rhode-island-q2-2026-07-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+SUMMARY:Rhode Island: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly available by election i
+ f liability is low\, due last day of Jul/Oct/Jan/Apr. | Q2 2026 (Apr-Jun) s
+ ales tax return\, applying Rhode Island's quarterly-filer due-date rule: 20
+ th of the following month\; quarterly available by election if liability is
+  low\, due last day of Jul/Oct/Jan/Apr. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Rhode Island's own tax agency site this session | Source: https:/
+ /tax.ri.gov/tax-sections/sales-excise-taxes/sales-use-tax | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-rhode-island-q2-2027-07-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:Rhode Island: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly available by election i
+ f liability is low\, due last day of Jul/Oct/Jan/Apr. | Q2 2026 (Apr-Jun) s
+ ales tax return\, applying Rhode Island's quarterly-filer due-date rule: 20
+ th of the following month\; quarterly available by election if liability is
+  low\, due last day of Jul/Oct/Jan/Apr. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Rhode Island's own tax agency site this session | Source: https:/
+ /tax.ri.gov/tax-sections/sales-excise-taxes/sales-use-tax | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-rhode-island-q2-2028-07-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Rhode Island: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly available by election i
+ f liability is low\, due last day of Jul/Oct/Jan/Apr. | Q2 2026 (Apr-Jun) s
+ ales tax return\, applying Rhode Island's quarterly-filer due-date rule: 20
+ th of the following month\; quarterly available by election if liability is
+  low\, due last day of Jul/Oct/Jan/Apr. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Rhode Island's own tax agency site this session | Source: https:/
+ /tax.ri.gov/tax-sections/sales-excise-taxes/sales-use-tax | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-rhode-island-q2-2029-07-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290720
+DTEND;VALUE=DATE:20290721
+SUMMARY:Rhode Island: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly available by election i
+ f liability is low\, due last day of Jul/Oct/Jan/Apr. | Q2 2026 (Apr-Jun) s
+ ales tax return\, applying Rhode Island's quarterly-filer due-date rule: 20
+ th of the following month\; quarterly available by election if liability is
+  low\, due last day of Jul/Oct/Jan/Apr. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Rhode Island's own tax agency site this session | Source: https:/
+ /tax.ri.gov/tax-sections/sales-excise-taxes/sales-use-tax | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-rhode-island-q2-2030-07-22@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300722
+DTEND;VALUE=DATE:20300723
+SUMMARY:Rhode Island: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly available by election i
+ f liability is low\, due last day of Jul/Oct/Jan/Apr. | Q2 2026 (Apr-Jun) s
+ ales tax return\, applying Rhode Island's quarterly-filer due-date rule: 20
+ th of the following month\; quarterly available by election if liability is
+  low\, due last day of Jul/Oct/Jan/Apr. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Rhode Island's own tax agency site this session | Source: https:/
+ /tax.ri.gov/tax-sections/sales-excise-taxes/sales-use-tax | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-rhode-island-q2-2031-07-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310721
+DTEND;VALUE=DATE:20310722
+SUMMARY:Rhode Island: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly available by election i
+ f liability is low\, due last day of Jul/Oct/Jan/Apr. | Q2 2026 (Apr-Jun) s
+ ales tax return\, applying Rhode Island's quarterly-filer due-date rule: 20
+ th of the following month\; quarterly available by election if liability is
+  low\, due last day of Jul/Oct/Jan/Apr. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Rhode Island's own tax agency site this session | Source: https:/
+ /tax.ri.gov/tax-sections/sales-excise-taxes/sales-use-tax | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-rhode-island-q2-2032-07-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320720
+DTEND;VALUE=DATE:20320721
+SUMMARY:Rhode Island: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly available by election i
+ f liability is low\, due last day of Jul/Oct/Jan/Apr. | Q2 2026 (Apr-Jun) s
+ ales tax return\, applying Rhode Island's quarterly-filer due-date rule: 20
+ th of the following month\; quarterly available by election if liability is
+  low\, due last day of Jul/Oct/Jan/Apr. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Rhode Island's own tax agency site this session | Source: https:/
+ /tax.ri.gov/tax-sections/sales-excise-taxes/sales-use-tax | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-rhode-island-q3-2025-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20251020
+DTEND;VALUE=DATE:20251021
+SUMMARY:Rhode Island: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly available by election i
+ f liability is low\, due last day of Jul/Oct/Jan/Apr. | Q3 2026 (Jul-Sep) s
+ ales tax return\, applying Rhode Island's quarterly-filer due-date rule: 20
+ th of the following month\; quarterly available by election if liability is
+  low\, due last day of Jul/Oct/Jan/Apr. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Rhode Island's own tax agency site this session | Source: https:/
+ /tax.ri.gov/tax-sections/sales-excise-taxes/sales-use-tax | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-rhode-island-q3-2026-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Rhode Island: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly available by election i
+ f liability is low\, due last day of Jul/Oct/Jan/Apr. | Q3 2026 (Jul-Sep) s
+ ales tax return\, applying Rhode Island's quarterly-filer due-date rule: 20
+ th of the following month\; quarterly available by election if liability is
+  low\, due last day of Jul/Oct/Jan/Apr. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Rhode Island's own tax agency site this session | Source: https:/
+ /tax.ri.gov/tax-sections/sales-excise-taxes/sales-use-tax | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-rhode-island-q3-2027-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20271020
+DTEND;VALUE=DATE:20271021
+SUMMARY:Rhode Island: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly available by election i
+ f liability is low\, due last day of Jul/Oct/Jan/Apr. | Q3 2026 (Jul-Sep) s
+ ales tax return\, applying Rhode Island's quarterly-filer due-date rule: 20
+ th of the following month\; quarterly available by election if liability is
+  low\, due last day of Jul/Oct/Jan/Apr. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Rhode Island's own tax agency site this session | Source: https:/
+ /tax.ri.gov/tax-sections/sales-excise-taxes/sales-use-tax | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-rhode-island-q3-2028-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20281020
+DTEND;VALUE=DATE:20281021
+SUMMARY:Rhode Island: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly available by election i
+ f liability is low\, due last day of Jul/Oct/Jan/Apr. | Q3 2026 (Jul-Sep) s
+ ales tax return\, applying Rhode Island's quarterly-filer due-date rule: 20
+ th of the following month\; quarterly available by election if liability is
+  low\, due last day of Jul/Oct/Jan/Apr. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Rhode Island's own tax agency site this session | Source: https:/
+ /tax.ri.gov/tax-sections/sales-excise-taxes/sales-use-tax | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-rhode-island-q3-2029-10-22@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20291022
+DTEND;VALUE=DATE:20291023
+SUMMARY:Rhode Island: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly available by election i
+ f liability is low\, due last day of Jul/Oct/Jan/Apr. | Q3 2026 (Jul-Sep) s
+ ales tax return\, applying Rhode Island's quarterly-filer due-date rule: 20
+ th of the following month\; quarterly available by election if liability is
+  low\, due last day of Jul/Oct/Jan/Apr. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Rhode Island's own tax agency site this session | Source: https:/
+ /tax.ri.gov/tax-sections/sales-excise-taxes/sales-use-tax | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-rhode-island-q3-2030-10-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20301021
+DTEND;VALUE=DATE:20301022
+SUMMARY:Rhode Island: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly available by election i
+ f liability is low\, due last day of Jul/Oct/Jan/Apr. | Q3 2026 (Jul-Sep) s
+ ales tax return\, applying Rhode Island's quarterly-filer due-date rule: 20
+ th of the following month\; quarterly available by election if liability is
+  low\, due last day of Jul/Oct/Jan/Apr. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Rhode Island's own tax agency site this session | Source: https:/
+ /tax.ri.gov/tax-sections/sales-excise-taxes/sales-use-tax | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-rhode-island-q3-2031-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20311020
+DTEND;VALUE=DATE:20311021
+SUMMARY:Rhode Island: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly available by election i
+ f liability is low\, due last day of Jul/Oct/Jan/Apr. | Q3 2026 (Jul-Sep) s
+ ales tax return\, applying Rhode Island's quarterly-filer due-date rule: 20
+ th of the following month\; quarterly available by election if liability is
+  low\, due last day of Jul/Oct/Jan/Apr. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Rhode Island's own tax agency site this session | Source: https:/
+ /tax.ri.gov/tax-sections/sales-excise-taxes/sales-use-tax | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-rhode-island-q3-2032-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20321020
+DTEND;VALUE=DATE:20321021
+SUMMARY:Rhode Island: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly available by election i
+ f liability is low\, due last day of Jul/Oct/Jan/Apr. | Q3 2026 (Jul-Sep) s
+ ales tax return\, applying Rhode Island's quarterly-filer due-date rule: 20
+ th of the following month\; quarterly available by election if liability is
+  low\, due last day of Jul/Oct/Jan/Apr. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Rhode Island's own tax agency site this session | Source: https:/
+ /tax.ri.gov/tax-sections/sales-excise-taxes/sales-use-tax | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-rhode-island-q4-2025-01-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250121
+DTEND;VALUE=DATE:20250122
+SUMMARY:Rhode Island: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly available by election i
+ f liability is low\, due last day of Jul/Oct/Jan/Apr. | Q4 2026 (Oct-Dec) s
+ ales tax return\, applying Rhode Island's quarterly-filer due-date rule: 20
+ th of the following month\; quarterly available by election if liability is
+  low\, due last day of Jul/Oct/Jan/Apr. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Rhode Island's own tax agency site this session | Source: https:/
+ /tax.ri.gov/tax-sections/sales-excise-taxes/sales-use-tax | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-rhode-island-q4-2026-01-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260120
+DTEND;VALUE=DATE:20260121
+SUMMARY:Rhode Island: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly available by election i
+ f liability is low\, due last day of Jul/Oct/Jan/Apr. | Q4 2026 (Oct-Dec) s
+ ales tax return\, applying Rhode Island's quarterly-filer due-date rule: 20
+ th of the following month\; quarterly available by election if liability is
+  low\, due last day of Jul/Oct/Jan/Apr. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Rhode Island's own tax agency site this session | Source: https:/
+ /tax.ri.gov/tax-sections/sales-excise-taxes/sales-use-tax | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-rhode-island-q4-2027-01-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:Rhode Island: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly available by election i
+ f liability is low\, due last day of Jul/Oct/Jan/Apr. | Q4 2026 (Oct-Dec) s
+ ales tax return\, applying Rhode Island's quarterly-filer due-date rule: 20
+ th of the following month\; quarterly available by election if liability is
+  low\, due last day of Jul/Oct/Jan/Apr. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Rhode Island's own tax agency site this session | Source: https:/
+ /tax.ri.gov/tax-sections/sales-excise-taxes/sales-use-tax | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-rhode-island-q4-2028-01-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280120
+DTEND;VALUE=DATE:20280121
+SUMMARY:Rhode Island: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly available by election i
+ f liability is low\, due last day of Jul/Oct/Jan/Apr. | Q4 2026 (Oct-Dec) s
+ ales tax return\, applying Rhode Island's quarterly-filer due-date rule: 20
+ th of the following month\; quarterly available by election if liability is
+  low\, due last day of Jul/Oct/Jan/Apr. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Rhode Island's own tax agency site this session | Source: https:/
+ /tax.ri.gov/tax-sections/sales-excise-taxes/sales-use-tax | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-rhode-island-q4-2029-01-22@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290122
+DTEND;VALUE=DATE:20290123
+SUMMARY:Rhode Island: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly available by election i
+ f liability is low\, due last day of Jul/Oct/Jan/Apr. | Q4 2026 (Oct-Dec) s
+ ales tax return\, applying Rhode Island's quarterly-filer due-date rule: 20
+ th of the following month\; quarterly available by election if liability is
+  low\, due last day of Jul/Oct/Jan/Apr. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Rhode Island's own tax agency site this session | Source: https:/
+ /tax.ri.gov/tax-sections/sales-excise-taxes/sales-use-tax | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-rhode-island-q4-2030-01-22@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300122
+DTEND;VALUE=DATE:20300123
+SUMMARY:Rhode Island: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly available by election i
+ f liability is low\, due last day of Jul/Oct/Jan/Apr. | Q4 2026 (Oct-Dec) s
+ ales tax return\, applying Rhode Island's quarterly-filer due-date rule: 20
+ th of the following month\; quarterly available by election if liability is
+  low\, due last day of Jul/Oct/Jan/Apr. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Rhode Island's own tax agency site this session | Source: https:/
+ /tax.ri.gov/tax-sections/sales-excise-taxes/sales-use-tax | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-rhode-island-q4-2031-01-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310121
+DTEND;VALUE=DATE:20310122
+SUMMARY:Rhode Island: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly available by election i
+ f liability is low\, due last day of Jul/Oct/Jan/Apr. | Q4 2026 (Oct-Dec) s
+ ales tax return\, applying Rhode Island's quarterly-filer due-date rule: 20
+ th of the following month\; quarterly available by election if liability is
+  low\, due last day of Jul/Oct/Jan/Apr. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Rhode Island's own tax agency site this session | Source: https:/
+ /tax.ri.gov/tax-sections/sales-excise-taxes/sales-use-tax | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-rhode-island-q4-2032-01-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320120
+DTEND;VALUE=DATE:20320121
+SUMMARY:Rhode Island: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly available by election i
+ f liability is low\, due last day of Jul/Oct/Jan/Apr. | Q4 2026 (Oct-Dec) s
+ ales tax return\, applying Rhode Island's quarterly-filer due-date rule: 20
+ th of the following month\; quarterly available by election if liability is
+  low\, due last day of Jul/Oct/Jan/Apr. This is a representative recurring 
+ pattern\, not a single annual deadline - actual filing frequency (monthly/q
+ uarterly/annual) is assigned per business by the state. | Authority: Direct
+  fetch of Rhode Island's own tax agency site this session | Source: https:/
+ /tax.ri.gov/tax-sections/sales-excise-taxes/sales-use-tax | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

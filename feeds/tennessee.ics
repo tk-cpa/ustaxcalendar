@@ -1,0 +1,1643 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tk.cpa//US Tax Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:US Tax Calendar - Tennessee
+X-WR-CALDESC:Recurring US tax filing deadlines from ustaxcalendar.com (a tk
+ .cpa resource). Reference only\, not tax advice.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:state-corp-tennessee-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:Tennessee: State corporate income/franchise tax return due
+DESCRIPTION:Franchise & Excise Tax (Form FAE170) due 15th day of 4th month 
+ after year end\; automatic 7-month extension for tax years beginning on/aft
+ er 1/1/2021. | Franchise & Excise Tax (Form FAE170) due 15th day of 4th mon
+ th after year end\; automatic 7-month extension for tax years beginning on/
+ after 1/1/2021. | Authority: Direct fetch of Tennessee's own tax agency sit
+ e/publication this session | Source: https://revenue.support.tn.gov/hc/en-u
+ s/articles/360057843932-F-E-5-Due-Date-for-Filing-Form-FAE170-and-Online-Fi
+ ling-Requirement | This date is computed from a recurrence rule and may not
+  reflect a later-announced change\; confirm against the cited source before
+  relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-tennessee-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:Tennessee: State corporate income/franchise tax return due
+DESCRIPTION:Franchise & Excise Tax (Form FAE170) due 15th day of 4th month 
+ after year end\; automatic 7-month extension for tax years beginning on/aft
+ er 1/1/2021. | Franchise & Excise Tax (Form FAE170) due 15th day of 4th mon
+ th after year end\; automatic 7-month extension for tax years beginning on/
+ after 1/1/2021. | Authority: Direct fetch of Tennessee's own tax agency sit
+ e/publication this session | Source: https://revenue.support.tn.gov/hc/en-u
+ s/articles/360057843932-F-E-5-Due-Date-for-Filing-Form-FAE170-and-Online-Fi
+ ling-Requirement | This date is computed from a recurrence rule and may not
+  reflect a later-announced change\; confirm against the cited source before
+  relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-tennessee-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Tennessee: State corporate income/franchise tax return due
+DESCRIPTION:Franchise & Excise Tax (Form FAE170) due 15th day of 4th month 
+ after year end\; automatic 7-month extension for tax years beginning on/aft
+ er 1/1/2021. | Franchise & Excise Tax (Form FAE170) due 15th day of 4th mon
+ th after year end\; automatic 7-month extension for tax years beginning on/
+ after 1/1/2021. | Authority: Direct fetch of Tennessee's own tax agency sit
+ e/publication this session | Source: https://revenue.support.tn.gov/hc/en-u
+ s/articles/360057843932-F-E-5-Due-Date-for-Filing-Form-FAE170-and-Online-Fi
+ ling-Requirement | This date is computed from a recurrence rule and may not
+  reflect a later-announced change\; confirm against the cited source before
+  relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-tennessee-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Tennessee: State corporate income/franchise tax return due
+DESCRIPTION:Franchise & Excise Tax (Form FAE170) due 15th day of 4th month 
+ after year end\; automatic 7-month extension for tax years beginning on/aft
+ er 1/1/2021. | Franchise & Excise Tax (Form FAE170) due 15th day of 4th mon
+ th after year end\; automatic 7-month extension for tax years beginning on/
+ after 1/1/2021. | Authority: Direct fetch of Tennessee's own tax agency sit
+ e/publication this session | Source: https://revenue.support.tn.gov/hc/en-u
+ s/articles/360057843932-F-E-5-Due-Date-for-Filing-Form-FAE170-and-Online-Fi
+ ling-Requirement | This date is computed from a recurrence rule and may not
+  reflect a later-announced change\; confirm against the cited source before
+  relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-tennessee-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:Tennessee: State corporate income/franchise tax return due
+DESCRIPTION:Franchise & Excise Tax (Form FAE170) due 15th day of 4th month 
+ after year end\; automatic 7-month extension for tax years beginning on/aft
+ er 1/1/2021. | Franchise & Excise Tax (Form FAE170) due 15th day of 4th mon
+ th after year end\; automatic 7-month extension for tax years beginning on/
+ after 1/1/2021. | Authority: Direct fetch of Tennessee's own tax agency sit
+ e/publication this session | Source: https://revenue.support.tn.gov/hc/en-u
+ s/articles/360057843932-F-E-5-Due-Date-for-Filing-Form-FAE170-and-Online-Fi
+ ling-Requirement | This date is computed from a recurrence rule and may not
+  reflect a later-announced change\; confirm against the cited source before
+  relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-tennessee-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:Tennessee: State corporate income/franchise tax return due
+DESCRIPTION:Franchise & Excise Tax (Form FAE170) due 15th day of 4th month 
+ after year end\; automatic 7-month extension for tax years beginning on/aft
+ er 1/1/2021. | Franchise & Excise Tax (Form FAE170) due 15th day of 4th mon
+ th after year end\; automatic 7-month extension for tax years beginning on/
+ after 1/1/2021. | Authority: Direct fetch of Tennessee's own tax agency sit
+ e/publication this session | Source: https://revenue.support.tn.gov/hc/en-u
+ s/articles/360057843932-F-E-5-Due-Date-for-Filing-Form-FAE170-and-Online-Fi
+ ling-Requirement | This date is computed from a recurrence rule and may not
+  reflect a later-announced change\; confirm against the cited source before
+  relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-tennessee-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:Tennessee: State corporate income/franchise tax return due
+DESCRIPTION:Franchise & Excise Tax (Form FAE170) due 15th day of 4th month 
+ after year end\; automatic 7-month extension for tax years beginning on/aft
+ er 1/1/2021. | Franchise & Excise Tax (Form FAE170) due 15th day of 4th mon
+ th after year end\; automatic 7-month extension for tax years beginning on/
+ after 1/1/2021. | Authority: Direct fetch of Tennessee's own tax agency sit
+ e/publication this session | Source: https://revenue.support.tn.gov/hc/en-u
+ s/articles/360057843932-F-E-5-Due-Date-for-Filing-Form-FAE170-and-Online-Fi
+ ling-Requirement | This date is computed from a recurrence rule and may not
+  reflect a later-announced change\; confirm against the cited source before
+  relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-tennessee-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:Tennessee: State corporate income/franchise tax return due
+DESCRIPTION:Franchise & Excise Tax (Form FAE170) due 15th day of 4th month 
+ after year end\; automatic 7-month extension for tax years beginning on/aft
+ er 1/1/2021. | Franchise & Excise Tax (Form FAE170) due 15th day of 4th mon
+ th after year end\; automatic 7-month extension for tax years beginning on/
+ after 1/1/2021. | Authority: Direct fetch of Tennessee's own tax agency sit
+ e/publication this session | Source: https://revenue.support.tn.gov/hc/en-u
+ s/articles/360057843932-F-E-5-Due-Date-for-Filing-Form-FAE170-and-Online-Fi
+ ling-Requirement | This date is computed from a recurrence rule and may not
+  reflect a later-announced change\; confirm against the cited source before
+  relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-tennessee-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:Tennessee: Franchise\, Excise Tax Return (form number commonly FAE1
+ 70\; not independently confirmed this session) due
+DESCRIPTION:Tennessee has no broad individual income tax\, but LLCs and lim
+ ited partnerships (along with corporations) doing business in or registered
+  in Tennessee must file the Franchise & Excise Tax return\, due the 15th da
+ y of the 4th month after year-end - this is TN's primary source of state-le
+ vel tax exposure for pass-through entities. | Tennessee has no broad indivi
+ dual income tax\, but LLCs and limited partnerships (along with corporation
+ s) doing business in or registered in Tennessee must file the Franchise & E
+ xcise Tax return\, due the 15th day of the 4th month after year-end - this 
+ is TN's primary source of state-level tax exposure for pass-through entitie
+ s. Extension mechanism (automatic vs. filed request) not independently conf
+ irmed this session. | Authority: Tennessee Department of Revenue\, direct f
+ etch this session: "15th day of the fourth month following the close of you
+ r books and records. For businesses with a January 1 - December 31 calendar
+  year\, this tax is due on April 15 of the following year" and "If you are 
+ a corporation\, limited partnership\, limited liability company\, or busine
+ ss trust chartered\, qualified\, or registered in Tennessee or doing busine
+ ss in this state\, then you must register for and pay franchise and excise 
+ taxes." | Source: https://www.tn.gov/revenue/taxes/franchise---excise-tax/d
+ ue-dates-and-tax-rates.html | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-tennessee-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:Tennessee: Franchise\, Excise Tax Return (form number commonly FAE1
+ 70\; not independently confirmed this session) due
+DESCRIPTION:Tennessee has no broad individual income tax\, but LLCs and lim
+ ited partnerships (along with corporations) doing business in or registered
+  in Tennessee must file the Franchise & Excise Tax return\, due the 15th da
+ y of the 4th month after year-end - this is TN's primary source of state-le
+ vel tax exposure for pass-through entities. | Tennessee has no broad indivi
+ dual income tax\, but LLCs and limited partnerships (along with corporation
+ s) doing business in or registered in Tennessee must file the Franchise & E
+ xcise Tax return\, due the 15th day of the 4th month after year-end - this 
+ is TN's primary source of state-level tax exposure for pass-through entitie
+ s. Extension mechanism (automatic vs. filed request) not independently conf
+ irmed this session. | Authority: Tennessee Department of Revenue\, direct f
+ etch this session: "15th day of the fourth month following the close of you
+ r books and records. For businesses with a January 1 - December 31 calendar
+  year\, this tax is due on April 15 of the following year" and "If you are 
+ a corporation\, limited partnership\, limited liability company\, or busine
+ ss trust chartered\, qualified\, or registered in Tennessee or doing busine
+ ss in this state\, then you must register for and pay franchise and excise 
+ taxes." | Source: https://www.tn.gov/revenue/taxes/franchise---excise-tax/d
+ ue-dates-and-tax-rates.html | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-tennessee-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Tennessee: Franchise\, Excise Tax Return (form number commonly FAE1
+ 70\; not independently confirmed this session) due
+DESCRIPTION:Tennessee has no broad individual income tax\, but LLCs and lim
+ ited partnerships (along with corporations) doing business in or registered
+  in Tennessee must file the Franchise & Excise Tax return\, due the 15th da
+ y of the 4th month after year-end - this is TN's primary source of state-le
+ vel tax exposure for pass-through entities. | Tennessee has no broad indivi
+ dual income tax\, but LLCs and limited partnerships (along with corporation
+ s) doing business in or registered in Tennessee must file the Franchise & E
+ xcise Tax return\, due the 15th day of the 4th month after year-end - this 
+ is TN's primary source of state-level tax exposure for pass-through entitie
+ s. Extension mechanism (automatic vs. filed request) not independently conf
+ irmed this session. | Authority: Tennessee Department of Revenue\, direct f
+ etch this session: "15th day of the fourth month following the close of you
+ r books and records. For businesses with a January 1 - December 31 calendar
+  year\, this tax is due on April 15 of the following year" and "If you are 
+ a corporation\, limited partnership\, limited liability company\, or busine
+ ss trust chartered\, qualified\, or registered in Tennessee or doing busine
+ ss in this state\, then you must register for and pay franchise and excise 
+ taxes." | Source: https://www.tn.gov/revenue/taxes/franchise---excise-tax/d
+ ue-dates-and-tax-rates.html | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-tennessee-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Tennessee: Franchise\, Excise Tax Return (form number commonly FAE1
+ 70\; not independently confirmed this session) due
+DESCRIPTION:Tennessee has no broad individual income tax\, but LLCs and lim
+ ited partnerships (along with corporations) doing business in or registered
+  in Tennessee must file the Franchise & Excise Tax return\, due the 15th da
+ y of the 4th month after year-end - this is TN's primary source of state-le
+ vel tax exposure for pass-through entities. | Tennessee has no broad indivi
+ dual income tax\, but LLCs and limited partnerships (along with corporation
+ s) doing business in or registered in Tennessee must file the Franchise & E
+ xcise Tax return\, due the 15th day of the 4th month after year-end - this 
+ is TN's primary source of state-level tax exposure for pass-through entitie
+ s. Extension mechanism (automatic vs. filed request) not independently conf
+ irmed this session. | Authority: Tennessee Department of Revenue\, direct f
+ etch this session: "15th day of the fourth month following the close of you
+ r books and records. For businesses with a January 1 - December 31 calendar
+  year\, this tax is due on April 15 of the following year" and "If you are 
+ a corporation\, limited partnership\, limited liability company\, or busine
+ ss trust chartered\, qualified\, or registered in Tennessee or doing busine
+ ss in this state\, then you must register for and pay franchise and excise 
+ taxes." | Source: https://www.tn.gov/revenue/taxes/franchise---excise-tax/d
+ ue-dates-and-tax-rates.html | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-tennessee-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:Tennessee: Franchise\, Excise Tax Return (form number commonly FAE1
+ 70\; not independently confirmed this session) due
+DESCRIPTION:Tennessee has no broad individual income tax\, but LLCs and lim
+ ited partnerships (along with corporations) doing business in or registered
+  in Tennessee must file the Franchise & Excise Tax return\, due the 15th da
+ y of the 4th month after year-end - this is TN's primary source of state-le
+ vel tax exposure for pass-through entities. | Tennessee has no broad indivi
+ dual income tax\, but LLCs and limited partnerships (along with corporation
+ s) doing business in or registered in Tennessee must file the Franchise & E
+ xcise Tax return\, due the 15th day of the 4th month after year-end - this 
+ is TN's primary source of state-level tax exposure for pass-through entitie
+ s. Extension mechanism (automatic vs. filed request) not independently conf
+ irmed this session. | Authority: Tennessee Department of Revenue\, direct f
+ etch this session: "15th day of the fourth month following the close of you
+ r books and records. For businesses with a January 1 - December 31 calendar
+  year\, this tax is due on April 15 of the following year" and "If you are 
+ a corporation\, limited partnership\, limited liability company\, or busine
+ ss trust chartered\, qualified\, or registered in Tennessee or doing busine
+ ss in this state\, then you must register for and pay franchise and excise 
+ taxes." | Source: https://www.tn.gov/revenue/taxes/franchise---excise-tax/d
+ ue-dates-and-tax-rates.html | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-tennessee-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:Tennessee: Franchise\, Excise Tax Return (form number commonly FAE1
+ 70\; not independently confirmed this session) due
+DESCRIPTION:Tennessee has no broad individual income tax\, but LLCs and lim
+ ited partnerships (along with corporations) doing business in or registered
+  in Tennessee must file the Franchise & Excise Tax return\, due the 15th da
+ y of the 4th month after year-end - this is TN's primary source of state-le
+ vel tax exposure for pass-through entities. | Tennessee has no broad indivi
+ dual income tax\, but LLCs and limited partnerships (along with corporation
+ s) doing business in or registered in Tennessee must file the Franchise & E
+ xcise Tax return\, due the 15th day of the 4th month after year-end - this 
+ is TN's primary source of state-level tax exposure for pass-through entitie
+ s. Extension mechanism (automatic vs. filed request) not independently conf
+ irmed this session. | Authority: Tennessee Department of Revenue\, direct f
+ etch this session: "15th day of the fourth month following the close of you
+ r books and records. For businesses with a January 1 - December 31 calendar
+  year\, this tax is due on April 15 of the following year" and "If you are 
+ a corporation\, limited partnership\, limited liability company\, or busine
+ ss trust chartered\, qualified\, or registered in Tennessee or doing busine
+ ss in this state\, then you must register for and pay franchise and excise 
+ taxes." | Source: https://www.tn.gov/revenue/taxes/franchise---excise-tax/d
+ ue-dates-and-tax-rates.html | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-tennessee-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:Tennessee: Franchise\, Excise Tax Return (form number commonly FAE1
+ 70\; not independently confirmed this session) due
+DESCRIPTION:Tennessee has no broad individual income tax\, but LLCs and lim
+ ited partnerships (along with corporations) doing business in or registered
+  in Tennessee must file the Franchise & Excise Tax return\, due the 15th da
+ y of the 4th month after year-end - this is TN's primary source of state-le
+ vel tax exposure for pass-through entities. | Tennessee has no broad indivi
+ dual income tax\, but LLCs and limited partnerships (along with corporation
+ s) doing business in or registered in Tennessee must file the Franchise & E
+ xcise Tax return\, due the 15th day of the 4th month after year-end - this 
+ is TN's primary source of state-level tax exposure for pass-through entitie
+ s. Extension mechanism (automatic vs. filed request) not independently conf
+ irmed this session. | Authority: Tennessee Department of Revenue\, direct f
+ etch this session: "15th day of the fourth month following the close of you
+ r books and records. For businesses with a January 1 - December 31 calendar
+  year\, this tax is due on April 15 of the following year" and "If you are 
+ a corporation\, limited partnership\, limited liability company\, or busine
+ ss trust chartered\, qualified\, or registered in Tennessee or doing busine
+ ss in this state\, then you must register for and pay franchise and excise 
+ taxes." | Source: https://www.tn.gov/revenue/taxes/franchise---excise-tax/d
+ ue-dates-and-tax-rates.html | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-tennessee-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:Tennessee: Franchise\, Excise Tax Return (form number commonly FAE1
+ 70\; not independently confirmed this session) due
+DESCRIPTION:Tennessee has no broad individual income tax\, but LLCs and lim
+ ited partnerships (along with corporations) doing business in or registered
+  in Tennessee must file the Franchise & Excise Tax return\, due the 15th da
+ y of the 4th month after year-end - this is TN's primary source of state-le
+ vel tax exposure for pass-through entities. | Tennessee has no broad indivi
+ dual income tax\, but LLCs and limited partnerships (along with corporation
+ s) doing business in or registered in Tennessee must file the Franchise & E
+ xcise Tax return\, due the 15th day of the 4th month after year-end - this 
+ is TN's primary source of state-level tax exposure for pass-through entitie
+ s. Extension mechanism (automatic vs. filed request) not independently conf
+ irmed this session. | Authority: Tennessee Department of Revenue\, direct f
+ etch this session: "15th day of the fourth month following the close of you
+ r books and records. For businesses with a January 1 - December 31 calendar
+  year\, this tax is due on April 15 of the following year" and "If you are 
+ a corporation\, limited partnership\, limited liability company\, or busine
+ ss trust chartered\, qualified\, or registered in Tennessee or doing busine
+ ss in this state\, then you must register for and pay franchise and excise 
+ taxes." | Source: https://www.tn.gov/revenue/taxes/franchise---excise-tax/d
+ ue-dates-and-tax-rates.html | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-tennessee-q1-2025-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250430
+DTEND;VALUE=DATE:20250501
+SUMMARY:Tennessee: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Due April 30\, July 31\, October 31\, January 31\, per TN DLWD's rul
+ e of within one month after the end of each calendar quarter (primary lwdsu
+ pport.tn.gov page blocked automated fetch this session\; corroborated via a
+  secondary payroll-compliance source citing the same TDLWD rule). | Authori
+ ty: Direct fetch of Tennessee's own unemployment insurance agency site/hand
+ book/code this session | Source: https://lwdsupport.tn.gov/hc/en-us/article
+ s/202843744-When-are-quarterly-reports-due | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-tennessee-q1-2026-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:Tennessee: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Due April 30\, July 31\, October 31\, January 31\, per TN DLWD's rul
+ e of within one month after the end of each calendar quarter (primary lwdsu
+ pport.tn.gov page blocked automated fetch this session\; corroborated via a
+  secondary payroll-compliance source citing the same TDLWD rule). | Authori
+ ty: Direct fetch of Tennessee's own unemployment insurance agency site/hand
+ book/code this session | Source: https://lwdsupport.tn.gov/hc/en-us/article
+ s/202843744-When-are-quarterly-reports-due | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-tennessee-q1-2027-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:Tennessee: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Due April 30\, July 31\, October 31\, January 31\, per TN DLWD's rul
+ e of within one month after the end of each calendar quarter (primary lwdsu
+ pport.tn.gov page blocked automated fetch this session\; corroborated via a
+  secondary payroll-compliance source citing the same TDLWD rule). | Authori
+ ty: Direct fetch of Tennessee's own unemployment insurance agency site/hand
+ book/code this session | Source: https://lwdsupport.tn.gov/hc/en-us/article
+ s/202843744-When-are-quarterly-reports-due | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-tennessee-q1-2028-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280430
+DTEND;VALUE=DATE:20280501
+SUMMARY:Tennessee: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Due April 30\, July 31\, October 31\, January 31\, per TN DLWD's rul
+ e of within one month after the end of each calendar quarter (primary lwdsu
+ pport.tn.gov page blocked automated fetch this session\; corroborated via a
+  secondary payroll-compliance source citing the same TDLWD rule). | Authori
+ ty: Direct fetch of Tennessee's own unemployment insurance agency site/hand
+ book/code this session | Source: https://lwdsupport.tn.gov/hc/en-us/article
+ s/202843744-When-are-quarterly-reports-due | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-tennessee-q1-2029-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290430
+DTEND;VALUE=DATE:20290501
+SUMMARY:Tennessee: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Due April 30\, July 31\, October 31\, January 31\, per TN DLWD's rul
+ e of within one month after the end of each calendar quarter (primary lwdsu
+ pport.tn.gov page blocked automated fetch this session\; corroborated via a
+  secondary payroll-compliance source citing the same TDLWD rule). | Authori
+ ty: Direct fetch of Tennessee's own unemployment insurance agency site/hand
+ book/code this session | Source: https://lwdsupport.tn.gov/hc/en-us/article
+ s/202843744-When-are-quarterly-reports-due | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-tennessee-q1-2030-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300430
+DTEND;VALUE=DATE:20300501
+SUMMARY:Tennessee: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Due April 30\, July 31\, October 31\, January 31\, per TN DLWD's rul
+ e of within one month after the end of each calendar quarter (primary lwdsu
+ pport.tn.gov page blocked automated fetch this session\; corroborated via a
+  secondary payroll-compliance source citing the same TDLWD rule). | Authori
+ ty: Direct fetch of Tennessee's own unemployment insurance agency site/hand
+ book/code this session | Source: https://lwdsupport.tn.gov/hc/en-us/article
+ s/202843744-When-are-quarterly-reports-due | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-tennessee-q1-2031-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310430
+DTEND;VALUE=DATE:20310501
+SUMMARY:Tennessee: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Due April 30\, July 31\, October 31\, January 31\, per TN DLWD's rul
+ e of within one month after the end of each calendar quarter (primary lwdsu
+ pport.tn.gov page blocked automated fetch this session\; corroborated via a
+  secondary payroll-compliance source citing the same TDLWD rule). | Authori
+ ty: Direct fetch of Tennessee's own unemployment insurance agency site/hand
+ book/code this session | Source: https://lwdsupport.tn.gov/hc/en-us/article
+ s/202843744-When-are-quarterly-reports-due | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-tennessee-q1-2032-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320430
+DTEND;VALUE=DATE:20320501
+SUMMARY:Tennessee: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Due April 30\, July 31\, October 31\, January 31\, per TN DLWD's rul
+ e of within one month after the end of each calendar quarter (primary lwdsu
+ pport.tn.gov page blocked automated fetch this session\; corroborated via a
+  secondary payroll-compliance source citing the same TDLWD rule). | Authori
+ ty: Direct fetch of Tennessee's own unemployment insurance agency site/hand
+ book/code this session | Source: https://lwdsupport.tn.gov/hc/en-us/article
+ s/202843744-When-are-quarterly-reports-due | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-tennessee-q2-2025-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250731
+DTEND;VALUE=DATE:20250801
+SUMMARY:Tennessee: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Due April 30\, July 31\, October 31\, January 31\, per TN DLWD's rul
+ e of within one month after the end of each calendar quarter (primary lwdsu
+ pport.tn.gov page blocked automated fetch this session\; corroborated via a
+  secondary payroll-compliance source citing the same TDLWD rule). | Authori
+ ty: Direct fetch of Tennessee's own unemployment insurance agency site/hand
+ book/code this session | Source: https://lwdsupport.tn.gov/hc/en-us/article
+ s/202843744-When-are-quarterly-reports-due | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-tennessee-q2-2026-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Tennessee: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Due April 30\, July 31\, October 31\, January 31\, per TN DLWD's rul
+ e of within one month after the end of each calendar quarter (primary lwdsu
+ pport.tn.gov page blocked automated fetch this session\; corroborated via a
+  secondary payroll-compliance source citing the same TDLWD rule). | Authori
+ ty: Direct fetch of Tennessee's own unemployment insurance agency site/hand
+ book/code this session | Source: https://lwdsupport.tn.gov/hc/en-us/article
+ s/202843744-When-are-quarterly-reports-due | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-tennessee-q2-2027-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:Tennessee: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Due April 30\, July 31\, October 31\, January 31\, per TN DLWD's rul
+ e of within one month after the end of each calendar quarter (primary lwdsu
+ pport.tn.gov page blocked automated fetch this session\; corroborated via a
+  secondary payroll-compliance source citing the same TDLWD rule). | Authori
+ ty: Direct fetch of Tennessee's own unemployment insurance agency site/hand
+ book/code this session | Source: https://lwdsupport.tn.gov/hc/en-us/article
+ s/202843744-When-are-quarterly-reports-due | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-tennessee-q2-2028-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280731
+DTEND;VALUE=DATE:20280801
+SUMMARY:Tennessee: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Due April 30\, July 31\, October 31\, January 31\, per TN DLWD's rul
+ e of within one month after the end of each calendar quarter (primary lwdsu
+ pport.tn.gov page blocked automated fetch this session\; corroborated via a
+  secondary payroll-compliance source citing the same TDLWD rule). | Authori
+ ty: Direct fetch of Tennessee's own unemployment insurance agency site/hand
+ book/code this session | Source: https://lwdsupport.tn.gov/hc/en-us/article
+ s/202843744-When-are-quarterly-reports-due | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-tennessee-q2-2029-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290731
+DTEND;VALUE=DATE:20290801
+SUMMARY:Tennessee: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Due April 30\, July 31\, October 31\, January 31\, per TN DLWD's rul
+ e of within one month after the end of each calendar quarter (primary lwdsu
+ pport.tn.gov page blocked automated fetch this session\; corroborated via a
+  secondary payroll-compliance source citing the same TDLWD rule). | Authori
+ ty: Direct fetch of Tennessee's own unemployment insurance agency site/hand
+ book/code this session | Source: https://lwdsupport.tn.gov/hc/en-us/article
+ s/202843744-When-are-quarterly-reports-due | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-tennessee-q2-2030-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300731
+DTEND;VALUE=DATE:20300801
+SUMMARY:Tennessee: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Due April 30\, July 31\, October 31\, January 31\, per TN DLWD's rul
+ e of within one month after the end of each calendar quarter (primary lwdsu
+ pport.tn.gov page blocked automated fetch this session\; corroborated via a
+  secondary payroll-compliance source citing the same TDLWD rule). | Authori
+ ty: Direct fetch of Tennessee's own unemployment insurance agency site/hand
+ book/code this session | Source: https://lwdsupport.tn.gov/hc/en-us/article
+ s/202843744-When-are-quarterly-reports-due | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-tennessee-q2-2031-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310731
+DTEND;VALUE=DATE:20310801
+SUMMARY:Tennessee: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Due April 30\, July 31\, October 31\, January 31\, per TN DLWD's rul
+ e of within one month after the end of each calendar quarter (primary lwdsu
+ pport.tn.gov page blocked automated fetch this session\; corroborated via a
+  secondary payroll-compliance source citing the same TDLWD rule). | Authori
+ ty: Direct fetch of Tennessee's own unemployment insurance agency site/hand
+ book/code this session | Source: https://lwdsupport.tn.gov/hc/en-us/article
+ s/202843744-When-are-quarterly-reports-due | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-tennessee-q2-2032-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320731
+DTEND;VALUE=DATE:20320801
+SUMMARY:Tennessee: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Due April 30\, July 31\, October 31\, January 31\, per TN DLWD's rul
+ e of within one month after the end of each calendar quarter (primary lwdsu
+ pport.tn.gov page blocked automated fetch this session\; corroborated via a
+  secondary payroll-compliance source citing the same TDLWD rule). | Authori
+ ty: Direct fetch of Tennessee's own unemployment insurance agency site/hand
+ book/code this session | Source: https://lwdsupport.tn.gov/hc/en-us/article
+ s/202843744-When-are-quarterly-reports-due | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-tennessee-q3-2025-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20251031
+DTEND;VALUE=DATE:20251101
+SUMMARY:Tennessee: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Due April 30\, July 31\, October 31\, January 31\, per TN DLWD's rul
+ e of within one month after the end of each calendar quarter (primary lwdsu
+ pport.tn.gov page blocked automated fetch this session\; corroborated via a
+  secondary payroll-compliance source citing the same TDLWD rule). | Authori
+ ty: Direct fetch of Tennessee's own unemployment insurance agency site/hand
+ book/code this session | Source: https://lwdsupport.tn.gov/hc/en-us/article
+ s/202843744-When-are-quarterly-reports-due | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-tennessee-q3-2026-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Tennessee: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Due April 30\, July 31\, October 31\, January 31\, per TN DLWD's rul
+ e of within one month after the end of each calendar quarter (primary lwdsu
+ pport.tn.gov page blocked automated fetch this session\; corroborated via a
+  secondary payroll-compliance source citing the same TDLWD rule). | Authori
+ ty: Direct fetch of Tennessee's own unemployment insurance agency site/hand
+ book/code this session | Source: https://lwdsupport.tn.gov/hc/en-us/article
+ s/202843744-When-are-quarterly-reports-due | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-tennessee-q3-2027-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20271031
+DTEND;VALUE=DATE:20271101
+SUMMARY:Tennessee: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Due April 30\, July 31\, October 31\, January 31\, per TN DLWD's rul
+ e of within one month after the end of each calendar quarter (primary lwdsu
+ pport.tn.gov page blocked automated fetch this session\; corroborated via a
+  secondary payroll-compliance source citing the same TDLWD rule). | Authori
+ ty: Direct fetch of Tennessee's own unemployment insurance agency site/hand
+ book/code this session | Source: https://lwdsupport.tn.gov/hc/en-us/article
+ s/202843744-When-are-quarterly-reports-due | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-tennessee-q3-2028-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20281031
+DTEND;VALUE=DATE:20281101
+SUMMARY:Tennessee: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Due April 30\, July 31\, October 31\, January 31\, per TN DLWD's rul
+ e of within one month after the end of each calendar quarter (primary lwdsu
+ pport.tn.gov page blocked automated fetch this session\; corroborated via a
+  secondary payroll-compliance source citing the same TDLWD rule). | Authori
+ ty: Direct fetch of Tennessee's own unemployment insurance agency site/hand
+ book/code this session | Source: https://lwdsupport.tn.gov/hc/en-us/article
+ s/202843744-When-are-quarterly-reports-due | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-tennessee-q3-2029-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20291031
+DTEND;VALUE=DATE:20291101
+SUMMARY:Tennessee: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Due April 30\, July 31\, October 31\, January 31\, per TN DLWD's rul
+ e of within one month after the end of each calendar quarter (primary lwdsu
+ pport.tn.gov page blocked automated fetch this session\; corroborated via a
+  secondary payroll-compliance source citing the same TDLWD rule). | Authori
+ ty: Direct fetch of Tennessee's own unemployment insurance agency site/hand
+ book/code this session | Source: https://lwdsupport.tn.gov/hc/en-us/article
+ s/202843744-When-are-quarterly-reports-due | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-tennessee-q3-2030-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20301031
+DTEND;VALUE=DATE:20301101
+SUMMARY:Tennessee: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Due April 30\, July 31\, October 31\, January 31\, per TN DLWD's rul
+ e of within one month after the end of each calendar quarter (primary lwdsu
+ pport.tn.gov page blocked automated fetch this session\; corroborated via a
+  secondary payroll-compliance source citing the same TDLWD rule). | Authori
+ ty: Direct fetch of Tennessee's own unemployment insurance agency site/hand
+ book/code this session | Source: https://lwdsupport.tn.gov/hc/en-us/article
+ s/202843744-When-are-quarterly-reports-due | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-tennessee-q3-2031-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20311031
+DTEND;VALUE=DATE:20311101
+SUMMARY:Tennessee: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Due April 30\, July 31\, October 31\, January 31\, per TN DLWD's rul
+ e of within one month after the end of each calendar quarter (primary lwdsu
+ pport.tn.gov page blocked automated fetch this session\; corroborated via a
+  secondary payroll-compliance source citing the same TDLWD rule). | Authori
+ ty: Direct fetch of Tennessee's own unemployment insurance agency site/hand
+ book/code this session | Source: https://lwdsupport.tn.gov/hc/en-us/article
+ s/202843744-When-are-quarterly-reports-due | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-tennessee-q3-2032-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20321031
+DTEND;VALUE=DATE:20321101
+SUMMARY:Tennessee: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Due April 30\, July 31\, October 31\, January 31\, per TN DLWD's rul
+ e of within one month after the end of each calendar quarter (primary lwdsu
+ pport.tn.gov page blocked automated fetch this session\; corroborated via a
+  secondary payroll-compliance source citing the same TDLWD rule). | Authori
+ ty: Direct fetch of Tennessee's own unemployment insurance agency site/hand
+ book/code this session | Source: https://lwdsupport.tn.gov/hc/en-us/article
+ s/202843744-When-are-quarterly-reports-due | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-tennessee-q4-2025-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250131
+DTEND;VALUE=DATE:20250201
+SUMMARY:Tennessee: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Due April 30\, July 31\, October 31\, January 31\, per TN DLWD's rul
+ e of within one month after the end of each calendar quarter (primary lwdsu
+ pport.tn.gov page blocked automated fetch this session\; corroborated via a
+  secondary payroll-compliance source citing the same TDLWD rule). | Authori
+ ty: Direct fetch of Tennessee's own unemployment insurance agency site/hand
+ book/code this session | Source: https://lwdsupport.tn.gov/hc/en-us/article
+ s/202843744-When-are-quarterly-reports-due | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-tennessee-q4-2026-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:Tennessee: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Due April 30\, July 31\, October 31\, January 31\, per TN DLWD's rul
+ e of within one month after the end of each calendar quarter (primary lwdsu
+ pport.tn.gov page blocked automated fetch this session\; corroborated via a
+  secondary payroll-compliance source citing the same TDLWD rule). | Authori
+ ty: Direct fetch of Tennessee's own unemployment insurance agency site/hand
+ book/code this session | Source: https://lwdsupport.tn.gov/hc/en-us/article
+ s/202843744-When-are-quarterly-reports-due | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-tennessee-q4-2027-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Tennessee: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Due April 30\, July 31\, October 31\, January 31\, per TN DLWD's rul
+ e of within one month after the end of each calendar quarter (primary lwdsu
+ pport.tn.gov page blocked automated fetch this session\; corroborated via a
+  secondary payroll-compliance source citing the same TDLWD rule). | Authori
+ ty: Direct fetch of Tennessee's own unemployment insurance agency site/hand
+ book/code this session | Source: https://lwdsupport.tn.gov/hc/en-us/article
+ s/202843744-When-are-quarterly-reports-due | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-tennessee-q4-2028-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280131
+DTEND;VALUE=DATE:20280201
+SUMMARY:Tennessee: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Due April 30\, July 31\, October 31\, January 31\, per TN DLWD's rul
+ e of within one month after the end of each calendar quarter (primary lwdsu
+ pport.tn.gov page blocked automated fetch this session\; corroborated via a
+  secondary payroll-compliance source citing the same TDLWD rule). | Authori
+ ty: Direct fetch of Tennessee's own unemployment insurance agency site/hand
+ book/code this session | Source: https://lwdsupport.tn.gov/hc/en-us/article
+ s/202843744-When-are-quarterly-reports-due | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-tennessee-q4-2029-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290131
+DTEND;VALUE=DATE:20290201
+SUMMARY:Tennessee: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Due April 30\, July 31\, October 31\, January 31\, per TN DLWD's rul
+ e of within one month after the end of each calendar quarter (primary lwdsu
+ pport.tn.gov page blocked automated fetch this session\; corroborated via a
+  secondary payroll-compliance source citing the same TDLWD rule). | Authori
+ ty: Direct fetch of Tennessee's own unemployment insurance agency site/hand
+ book/code this session | Source: https://lwdsupport.tn.gov/hc/en-us/article
+ s/202843744-When-are-quarterly-reports-due | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-tennessee-q4-2030-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300131
+DTEND;VALUE=DATE:20300201
+SUMMARY:Tennessee: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Due April 30\, July 31\, October 31\, January 31\, per TN DLWD's rul
+ e of within one month after the end of each calendar quarter (primary lwdsu
+ pport.tn.gov page blocked automated fetch this session\; corroborated via a
+  secondary payroll-compliance source citing the same TDLWD rule). | Authori
+ ty: Direct fetch of Tennessee's own unemployment insurance agency site/hand
+ book/code this session | Source: https://lwdsupport.tn.gov/hc/en-us/article
+ s/202843744-When-are-quarterly-reports-due | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-tennessee-q4-2031-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310131
+DTEND;VALUE=DATE:20310201
+SUMMARY:Tennessee: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Due April 30\, July 31\, October 31\, January 31\, per TN DLWD's rul
+ e of within one month after the end of each calendar quarter (primary lwdsu
+ pport.tn.gov page blocked automated fetch this session\; corroborated via a
+  secondary payroll-compliance source citing the same TDLWD rule). | Authori
+ ty: Direct fetch of Tennessee's own unemployment insurance agency site/hand
+ book/code this session | Source: https://lwdsupport.tn.gov/hc/en-us/article
+ s/202843744-When-are-quarterly-reports-due | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-tennessee-q4-2032-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320131
+DTEND;VALUE=DATE:20320201
+SUMMARY:Tennessee: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Due April 30\, July 31\, October 31\, January 31\, per TN DLWD's rul
+ e of within one month after the end of each calendar quarter (primary lwdsu
+ pport.tn.gov page blocked automated fetch this session\; corroborated via a
+  secondary payroll-compliance source citing the same TDLWD rule). | Authori
+ ty: Direct fetch of Tennessee's own unemployment insurance agency site/hand
+ book/code this session | Source: https://lwdsupport.tn.gov/hc/en-us/article
+ s/202843744-When-are-quarterly-reports-due | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-tennessee-q1-2025-04-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250422
+SUMMARY:Tennessee: State sales & use tax return due
+DESCRIPTION:20th of month following the reporting period\; quarterly due 20
+ th of month following quarter end\, annual filers due January 20. | Q1 2026
+  (Jan-Mar) sales tax return\, applying Tennessee's quarterly-filer due-date
+  rule: 20th of month following the reporting period\; quarterly due 20th of
+  month following quarter end\, annual filers due January 20. This is a repr
+ esentative recurring pattern\, not a single annual deadline - actual filing
+  frequency (monthly/quarterly/annual) is assigned per business by the state
+ . | Authority: Direct fetch of Tennessee's own tax agency site this session
+  | Source: https://revenue.support.tn.gov/hc/en-us/articles/360058589911-SU
+ T-9-Sales-and-Use-Tax-Filing-Filing-Due-Dates | This date is computed from 
+ a recurrence rule and may not reflect a later-announced change\; confirm ag
+ ainst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-tennessee-q1-2026-04-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:Tennessee: State sales & use tax return due
+DESCRIPTION:20th of month following the reporting period\; quarterly due 20
+ th of month following quarter end\, annual filers due January 20. | Q1 2026
+  (Jan-Mar) sales tax return\, applying Tennessee's quarterly-filer due-date
+  rule: 20th of month following the reporting period\; quarterly due 20th of
+  month following quarter end\, annual filers due January 20. This is a repr
+ esentative recurring pattern\, not a single annual deadline - actual filing
+  frequency (monthly/quarterly/annual) is assigned per business by the state
+ . | Authority: Direct fetch of Tennessee's own tax agency site this session
+  | Source: https://revenue.support.tn.gov/hc/en-us/articles/360058589911-SU
+ T-9-Sales-and-Use-Tax-Filing-Filing-Due-Dates | This date is computed from 
+ a recurrence rule and may not reflect a later-announced change\; confirm ag
+ ainst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-tennessee-q1-2027-04-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:Tennessee: State sales & use tax return due
+DESCRIPTION:20th of month following the reporting period\; quarterly due 20
+ th of month following quarter end\, annual filers due January 20. | Q1 2026
+  (Jan-Mar) sales tax return\, applying Tennessee's quarterly-filer due-date
+  rule: 20th of month following the reporting period\; quarterly due 20th of
+  month following quarter end\, annual filers due January 20. This is a repr
+ esentative recurring pattern\, not a single annual deadline - actual filing
+  frequency (monthly/quarterly/annual) is assigned per business by the state
+ . | Authority: Direct fetch of Tennessee's own tax agency site this session
+  | Source: https://revenue.support.tn.gov/hc/en-us/articles/360058589911-SU
+ T-9-Sales-and-Use-Tax-Filing-Filing-Due-Dates | This date is computed from 
+ a recurrence rule and may not reflect a later-announced change\; confirm ag
+ ainst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-tennessee-q1-2028-04-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280420
+DTEND;VALUE=DATE:20280421
+SUMMARY:Tennessee: State sales & use tax return due
+DESCRIPTION:20th of month following the reporting period\; quarterly due 20
+ th of month following quarter end\, annual filers due January 20. | Q1 2026
+  (Jan-Mar) sales tax return\, applying Tennessee's quarterly-filer due-date
+  rule: 20th of month following the reporting period\; quarterly due 20th of
+  month following quarter end\, annual filers due January 20. This is a repr
+ esentative recurring pattern\, not a single annual deadline - actual filing
+  frequency (monthly/quarterly/annual) is assigned per business by the state
+ . | Authority: Direct fetch of Tennessee's own tax agency site this session
+  | Source: https://revenue.support.tn.gov/hc/en-us/articles/360058589911-SU
+ T-9-Sales-and-Use-Tax-Filing-Filing-Due-Dates | This date is computed from 
+ a recurrence rule and may not reflect a later-announced change\; confirm ag
+ ainst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-tennessee-q1-2029-04-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290420
+DTEND;VALUE=DATE:20290421
+SUMMARY:Tennessee: State sales & use tax return due
+DESCRIPTION:20th of month following the reporting period\; quarterly due 20
+ th of month following quarter end\, annual filers due January 20. | Q1 2026
+  (Jan-Mar) sales tax return\, applying Tennessee's quarterly-filer due-date
+  rule: 20th of month following the reporting period\; quarterly due 20th of
+  month following quarter end\, annual filers due January 20. This is a repr
+ esentative recurring pattern\, not a single annual deadline - actual filing
+  frequency (monthly/quarterly/annual) is assigned per business by the state
+ . | Authority: Direct fetch of Tennessee's own tax agency site this session
+  | Source: https://revenue.support.tn.gov/hc/en-us/articles/360058589911-SU
+ T-9-Sales-and-Use-Tax-Filing-Filing-Due-Dates | This date is computed from 
+ a recurrence rule and may not reflect a later-announced change\; confirm ag
+ ainst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-tennessee-q1-2030-04-22@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300422
+DTEND;VALUE=DATE:20300423
+SUMMARY:Tennessee: State sales & use tax return due
+DESCRIPTION:20th of month following the reporting period\; quarterly due 20
+ th of month following quarter end\, annual filers due January 20. | Q1 2026
+  (Jan-Mar) sales tax return\, applying Tennessee's quarterly-filer due-date
+  rule: 20th of month following the reporting period\; quarterly due 20th of
+  month following quarter end\, annual filers due January 20. This is a repr
+ esentative recurring pattern\, not a single annual deadline - actual filing
+  frequency (monthly/quarterly/annual) is assigned per business by the state
+ . | Authority: Direct fetch of Tennessee's own tax agency site this session
+  | Source: https://revenue.support.tn.gov/hc/en-us/articles/360058589911-SU
+ T-9-Sales-and-Use-Tax-Filing-Filing-Due-Dates | This date is computed from 
+ a recurrence rule and may not reflect a later-announced change\; confirm ag
+ ainst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-tennessee-q1-2031-04-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310421
+DTEND;VALUE=DATE:20310422
+SUMMARY:Tennessee: State sales & use tax return due
+DESCRIPTION:20th of month following the reporting period\; quarterly due 20
+ th of month following quarter end\, annual filers due January 20. | Q1 2026
+  (Jan-Mar) sales tax return\, applying Tennessee's quarterly-filer due-date
+  rule: 20th of month following the reporting period\; quarterly due 20th of
+  month following quarter end\, annual filers due January 20. This is a repr
+ esentative recurring pattern\, not a single annual deadline - actual filing
+  frequency (monthly/quarterly/annual) is assigned per business by the state
+ . | Authority: Direct fetch of Tennessee's own tax agency site this session
+  | Source: https://revenue.support.tn.gov/hc/en-us/articles/360058589911-SU
+ T-9-Sales-and-Use-Tax-Filing-Filing-Due-Dates | This date is computed from 
+ a recurrence rule and may not reflect a later-announced change\; confirm ag
+ ainst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-tennessee-q1-2032-04-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320420
+DTEND;VALUE=DATE:20320421
+SUMMARY:Tennessee: State sales & use tax return due
+DESCRIPTION:20th of month following the reporting period\; quarterly due 20
+ th of month following quarter end\, annual filers due January 20. | Q1 2026
+  (Jan-Mar) sales tax return\, applying Tennessee's quarterly-filer due-date
+  rule: 20th of month following the reporting period\; quarterly due 20th of
+  month following quarter end\, annual filers due January 20. This is a repr
+ esentative recurring pattern\, not a single annual deadline - actual filing
+  frequency (monthly/quarterly/annual) is assigned per business by the state
+ . | Authority: Direct fetch of Tennessee's own tax agency site this session
+  | Source: https://revenue.support.tn.gov/hc/en-us/articles/360058589911-SU
+ T-9-Sales-and-Use-Tax-Filing-Filing-Due-Dates | This date is computed from 
+ a recurrence rule and may not reflect a later-announced change\; confirm ag
+ ainst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-tennessee-q2-2025-07-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250722
+SUMMARY:Tennessee: State sales & use tax return due
+DESCRIPTION:20th of month following the reporting period\; quarterly due 20
+ th of month following quarter end\, annual filers due January 20. | Q2 2026
+  (Apr-Jun) sales tax return\, applying Tennessee's quarterly-filer due-date
+  rule: 20th of month following the reporting period\; quarterly due 20th of
+  month following quarter end\, annual filers due January 20. This is a repr
+ esentative recurring pattern\, not a single annual deadline - actual filing
+  frequency (monthly/quarterly/annual) is assigned per business by the state
+ . | Authority: Direct fetch of Tennessee's own tax agency site this session
+  | Source: https://revenue.support.tn.gov/hc/en-us/articles/360058589911-SU
+ T-9-Sales-and-Use-Tax-Filing-Filing-Due-Dates | This date is computed from 
+ a recurrence rule and may not reflect a later-announced change\; confirm ag
+ ainst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-tennessee-q2-2026-07-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+SUMMARY:Tennessee: State sales & use tax return due
+DESCRIPTION:20th of month following the reporting period\; quarterly due 20
+ th of month following quarter end\, annual filers due January 20. | Q2 2026
+  (Apr-Jun) sales tax return\, applying Tennessee's quarterly-filer due-date
+  rule: 20th of month following the reporting period\; quarterly due 20th of
+  month following quarter end\, annual filers due January 20. This is a repr
+ esentative recurring pattern\, not a single annual deadline - actual filing
+  frequency (monthly/quarterly/annual) is assigned per business by the state
+ . | Authority: Direct fetch of Tennessee's own tax agency site this session
+  | Source: https://revenue.support.tn.gov/hc/en-us/articles/360058589911-SU
+ T-9-Sales-and-Use-Tax-Filing-Filing-Due-Dates | This date is computed from 
+ a recurrence rule and may not reflect a later-announced change\; confirm ag
+ ainst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-tennessee-q2-2027-07-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:Tennessee: State sales & use tax return due
+DESCRIPTION:20th of month following the reporting period\; quarterly due 20
+ th of month following quarter end\, annual filers due January 20. | Q2 2026
+  (Apr-Jun) sales tax return\, applying Tennessee's quarterly-filer due-date
+  rule: 20th of month following the reporting period\; quarterly due 20th of
+  month following quarter end\, annual filers due January 20. This is a repr
+ esentative recurring pattern\, not a single annual deadline - actual filing
+  frequency (monthly/quarterly/annual) is assigned per business by the state
+ . | Authority: Direct fetch of Tennessee's own tax agency site this session
+  | Source: https://revenue.support.tn.gov/hc/en-us/articles/360058589911-SU
+ T-9-Sales-and-Use-Tax-Filing-Filing-Due-Dates | This date is computed from 
+ a recurrence rule and may not reflect a later-announced change\; confirm ag
+ ainst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-tennessee-q2-2028-07-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Tennessee: State sales & use tax return due
+DESCRIPTION:20th of month following the reporting period\; quarterly due 20
+ th of month following quarter end\, annual filers due January 20. | Q2 2026
+  (Apr-Jun) sales tax return\, applying Tennessee's quarterly-filer due-date
+  rule: 20th of month following the reporting period\; quarterly due 20th of
+  month following quarter end\, annual filers due January 20. This is a repr
+ esentative recurring pattern\, not a single annual deadline - actual filing
+  frequency (monthly/quarterly/annual) is assigned per business by the state
+ . | Authority: Direct fetch of Tennessee's own tax agency site this session
+  | Source: https://revenue.support.tn.gov/hc/en-us/articles/360058589911-SU
+ T-9-Sales-and-Use-Tax-Filing-Filing-Due-Dates | This date is computed from 
+ a recurrence rule and may not reflect a later-announced change\; confirm ag
+ ainst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-tennessee-q2-2029-07-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290720
+DTEND;VALUE=DATE:20290721
+SUMMARY:Tennessee: State sales & use tax return due
+DESCRIPTION:20th of month following the reporting period\; quarterly due 20
+ th of month following quarter end\, annual filers due January 20. | Q2 2026
+  (Apr-Jun) sales tax return\, applying Tennessee's quarterly-filer due-date
+  rule: 20th of month following the reporting period\; quarterly due 20th of
+  month following quarter end\, annual filers due January 20. This is a repr
+ esentative recurring pattern\, not a single annual deadline - actual filing
+  frequency (monthly/quarterly/annual) is assigned per business by the state
+ . | Authority: Direct fetch of Tennessee's own tax agency site this session
+  | Source: https://revenue.support.tn.gov/hc/en-us/articles/360058589911-SU
+ T-9-Sales-and-Use-Tax-Filing-Filing-Due-Dates | This date is computed from 
+ a recurrence rule and may not reflect a later-announced change\; confirm ag
+ ainst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-tennessee-q2-2030-07-22@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300722
+DTEND;VALUE=DATE:20300723
+SUMMARY:Tennessee: State sales & use tax return due
+DESCRIPTION:20th of month following the reporting period\; quarterly due 20
+ th of month following quarter end\, annual filers due January 20. | Q2 2026
+  (Apr-Jun) sales tax return\, applying Tennessee's quarterly-filer due-date
+  rule: 20th of month following the reporting period\; quarterly due 20th of
+  month following quarter end\, annual filers due January 20. This is a repr
+ esentative recurring pattern\, not a single annual deadline - actual filing
+  frequency (monthly/quarterly/annual) is assigned per business by the state
+ . | Authority: Direct fetch of Tennessee's own tax agency site this session
+  | Source: https://revenue.support.tn.gov/hc/en-us/articles/360058589911-SU
+ T-9-Sales-and-Use-Tax-Filing-Filing-Due-Dates | This date is computed from 
+ a recurrence rule and may not reflect a later-announced change\; confirm ag
+ ainst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-tennessee-q2-2031-07-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310721
+DTEND;VALUE=DATE:20310722
+SUMMARY:Tennessee: State sales & use tax return due
+DESCRIPTION:20th of month following the reporting period\; quarterly due 20
+ th of month following quarter end\, annual filers due January 20. | Q2 2026
+  (Apr-Jun) sales tax return\, applying Tennessee's quarterly-filer due-date
+  rule: 20th of month following the reporting period\; quarterly due 20th of
+  month following quarter end\, annual filers due January 20. This is a repr
+ esentative recurring pattern\, not a single annual deadline - actual filing
+  frequency (monthly/quarterly/annual) is assigned per business by the state
+ . | Authority: Direct fetch of Tennessee's own tax agency site this session
+  | Source: https://revenue.support.tn.gov/hc/en-us/articles/360058589911-SU
+ T-9-Sales-and-Use-Tax-Filing-Filing-Due-Dates | This date is computed from 
+ a recurrence rule and may not reflect a later-announced change\; confirm ag
+ ainst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-tennessee-q2-2032-07-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320720
+DTEND;VALUE=DATE:20320721
+SUMMARY:Tennessee: State sales & use tax return due
+DESCRIPTION:20th of month following the reporting period\; quarterly due 20
+ th of month following quarter end\, annual filers due January 20. | Q2 2026
+  (Apr-Jun) sales tax return\, applying Tennessee's quarterly-filer due-date
+  rule: 20th of month following the reporting period\; quarterly due 20th of
+  month following quarter end\, annual filers due January 20. This is a repr
+ esentative recurring pattern\, not a single annual deadline - actual filing
+  frequency (monthly/quarterly/annual) is assigned per business by the state
+ . | Authority: Direct fetch of Tennessee's own tax agency site this session
+  | Source: https://revenue.support.tn.gov/hc/en-us/articles/360058589911-SU
+ T-9-Sales-and-Use-Tax-Filing-Filing-Due-Dates | This date is computed from 
+ a recurrence rule and may not reflect a later-announced change\; confirm ag
+ ainst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-tennessee-q3-2025-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20251020
+DTEND;VALUE=DATE:20251021
+SUMMARY:Tennessee: State sales & use tax return due
+DESCRIPTION:20th of month following the reporting period\; quarterly due 20
+ th of month following quarter end\, annual filers due January 20. | Q3 2026
+  (Jul-Sep) sales tax return\, applying Tennessee's quarterly-filer due-date
+  rule: 20th of month following the reporting period\; quarterly due 20th of
+  month following quarter end\, annual filers due January 20. This is a repr
+ esentative recurring pattern\, not a single annual deadline - actual filing
+  frequency (monthly/quarterly/annual) is assigned per business by the state
+ . | Authority: Direct fetch of Tennessee's own tax agency site this session
+  | Source: https://revenue.support.tn.gov/hc/en-us/articles/360058589911-SU
+ T-9-Sales-and-Use-Tax-Filing-Filing-Due-Dates | This date is computed from 
+ a recurrence rule and may not reflect a later-announced change\; confirm ag
+ ainst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-tennessee-q3-2026-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Tennessee: State sales & use tax return due
+DESCRIPTION:20th of month following the reporting period\; quarterly due 20
+ th of month following quarter end\, annual filers due January 20. | Q3 2026
+  (Jul-Sep) sales tax return\, applying Tennessee's quarterly-filer due-date
+  rule: 20th of month following the reporting period\; quarterly due 20th of
+  month following quarter end\, annual filers due January 20. This is a repr
+ esentative recurring pattern\, not a single annual deadline - actual filing
+  frequency (monthly/quarterly/annual) is assigned per business by the state
+ . | Authority: Direct fetch of Tennessee's own tax agency site this session
+  | Source: https://revenue.support.tn.gov/hc/en-us/articles/360058589911-SU
+ T-9-Sales-and-Use-Tax-Filing-Filing-Due-Dates | This date is computed from 
+ a recurrence rule and may not reflect a later-announced change\; confirm ag
+ ainst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-tennessee-q3-2027-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20271020
+DTEND;VALUE=DATE:20271021
+SUMMARY:Tennessee: State sales & use tax return due
+DESCRIPTION:20th of month following the reporting period\; quarterly due 20
+ th of month following quarter end\, annual filers due January 20. | Q3 2026
+  (Jul-Sep) sales tax return\, applying Tennessee's quarterly-filer due-date
+  rule: 20th of month following the reporting period\; quarterly due 20th of
+  month following quarter end\, annual filers due January 20. This is a repr
+ esentative recurring pattern\, not a single annual deadline - actual filing
+  frequency (monthly/quarterly/annual) is assigned per business by the state
+ . | Authority: Direct fetch of Tennessee's own tax agency site this session
+  | Source: https://revenue.support.tn.gov/hc/en-us/articles/360058589911-SU
+ T-9-Sales-and-Use-Tax-Filing-Filing-Due-Dates | This date is computed from 
+ a recurrence rule and may not reflect a later-announced change\; confirm ag
+ ainst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-tennessee-q3-2028-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20281020
+DTEND;VALUE=DATE:20281021
+SUMMARY:Tennessee: State sales & use tax return due
+DESCRIPTION:20th of month following the reporting period\; quarterly due 20
+ th of month following quarter end\, annual filers due January 20. | Q3 2026
+  (Jul-Sep) sales tax return\, applying Tennessee's quarterly-filer due-date
+  rule: 20th of month following the reporting period\; quarterly due 20th of
+  month following quarter end\, annual filers due January 20. This is a repr
+ esentative recurring pattern\, not a single annual deadline - actual filing
+  frequency (monthly/quarterly/annual) is assigned per business by the state
+ . | Authority: Direct fetch of Tennessee's own tax agency site this session
+  | Source: https://revenue.support.tn.gov/hc/en-us/articles/360058589911-SU
+ T-9-Sales-and-Use-Tax-Filing-Filing-Due-Dates | This date is computed from 
+ a recurrence rule and may not reflect a later-announced change\; confirm ag
+ ainst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-tennessee-q3-2029-10-22@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20291022
+DTEND;VALUE=DATE:20291023
+SUMMARY:Tennessee: State sales & use tax return due
+DESCRIPTION:20th of month following the reporting period\; quarterly due 20
+ th of month following quarter end\, annual filers due January 20. | Q3 2026
+  (Jul-Sep) sales tax return\, applying Tennessee's quarterly-filer due-date
+  rule: 20th of month following the reporting period\; quarterly due 20th of
+  month following quarter end\, annual filers due January 20. This is a repr
+ esentative recurring pattern\, not a single annual deadline - actual filing
+  frequency (monthly/quarterly/annual) is assigned per business by the state
+ . | Authority: Direct fetch of Tennessee's own tax agency site this session
+  | Source: https://revenue.support.tn.gov/hc/en-us/articles/360058589911-SU
+ T-9-Sales-and-Use-Tax-Filing-Filing-Due-Dates | This date is computed from 
+ a recurrence rule and may not reflect a later-announced change\; confirm ag
+ ainst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-tennessee-q3-2030-10-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20301021
+DTEND;VALUE=DATE:20301022
+SUMMARY:Tennessee: State sales & use tax return due
+DESCRIPTION:20th of month following the reporting period\; quarterly due 20
+ th of month following quarter end\, annual filers due January 20. | Q3 2026
+  (Jul-Sep) sales tax return\, applying Tennessee's quarterly-filer due-date
+  rule: 20th of month following the reporting period\; quarterly due 20th of
+  month following quarter end\, annual filers due January 20. This is a repr
+ esentative recurring pattern\, not a single annual deadline - actual filing
+  frequency (monthly/quarterly/annual) is assigned per business by the state
+ . | Authority: Direct fetch of Tennessee's own tax agency site this session
+  | Source: https://revenue.support.tn.gov/hc/en-us/articles/360058589911-SU
+ T-9-Sales-and-Use-Tax-Filing-Filing-Due-Dates | This date is computed from 
+ a recurrence rule and may not reflect a later-announced change\; confirm ag
+ ainst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-tennessee-q3-2031-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20311020
+DTEND;VALUE=DATE:20311021
+SUMMARY:Tennessee: State sales & use tax return due
+DESCRIPTION:20th of month following the reporting period\; quarterly due 20
+ th of month following quarter end\, annual filers due January 20. | Q3 2026
+  (Jul-Sep) sales tax return\, applying Tennessee's quarterly-filer due-date
+  rule: 20th of month following the reporting period\; quarterly due 20th of
+  month following quarter end\, annual filers due January 20. This is a repr
+ esentative recurring pattern\, not a single annual deadline - actual filing
+  frequency (monthly/quarterly/annual) is assigned per business by the state
+ . | Authority: Direct fetch of Tennessee's own tax agency site this session
+  | Source: https://revenue.support.tn.gov/hc/en-us/articles/360058589911-SU
+ T-9-Sales-and-Use-Tax-Filing-Filing-Due-Dates | This date is computed from 
+ a recurrence rule and may not reflect a later-announced change\; confirm ag
+ ainst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-tennessee-q3-2032-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20321020
+DTEND;VALUE=DATE:20321021
+SUMMARY:Tennessee: State sales & use tax return due
+DESCRIPTION:20th of month following the reporting period\; quarterly due 20
+ th of month following quarter end\, annual filers due January 20. | Q3 2026
+  (Jul-Sep) sales tax return\, applying Tennessee's quarterly-filer due-date
+  rule: 20th of month following the reporting period\; quarterly due 20th of
+  month following quarter end\, annual filers due January 20. This is a repr
+ esentative recurring pattern\, not a single annual deadline - actual filing
+  frequency (monthly/quarterly/annual) is assigned per business by the state
+ . | Authority: Direct fetch of Tennessee's own tax agency site this session
+  | Source: https://revenue.support.tn.gov/hc/en-us/articles/360058589911-SU
+ T-9-Sales-and-Use-Tax-Filing-Filing-Due-Dates | This date is computed from 
+ a recurrence rule and may not reflect a later-announced change\; confirm ag
+ ainst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-tennessee-q4-2025-01-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250121
+DTEND;VALUE=DATE:20250122
+SUMMARY:Tennessee: State sales & use tax return due
+DESCRIPTION:20th of month following the reporting period\; quarterly due 20
+ th of month following quarter end\, annual filers due January 20. | Q4 2026
+  (Oct-Dec) sales tax return\, applying Tennessee's quarterly-filer due-date
+  rule: 20th of month following the reporting period\; quarterly due 20th of
+  month following quarter end\, annual filers due January 20. This is a repr
+ esentative recurring pattern\, not a single annual deadline - actual filing
+  frequency (monthly/quarterly/annual) is assigned per business by the state
+ . | Authority: Direct fetch of Tennessee's own tax agency site this session
+  | Source: https://revenue.support.tn.gov/hc/en-us/articles/360058589911-SU
+ T-9-Sales-and-Use-Tax-Filing-Filing-Due-Dates | This date is computed from 
+ a recurrence rule and may not reflect a later-announced change\; confirm ag
+ ainst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-tennessee-q4-2026-01-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260120
+DTEND;VALUE=DATE:20260121
+SUMMARY:Tennessee: State sales & use tax return due
+DESCRIPTION:20th of month following the reporting period\; quarterly due 20
+ th of month following quarter end\, annual filers due January 20. | Q4 2026
+  (Oct-Dec) sales tax return\, applying Tennessee's quarterly-filer due-date
+  rule: 20th of month following the reporting period\; quarterly due 20th of
+  month following quarter end\, annual filers due January 20. This is a repr
+ esentative recurring pattern\, not a single annual deadline - actual filing
+  frequency (monthly/quarterly/annual) is assigned per business by the state
+ . | Authority: Direct fetch of Tennessee's own tax agency site this session
+  | Source: https://revenue.support.tn.gov/hc/en-us/articles/360058589911-SU
+ T-9-Sales-and-Use-Tax-Filing-Filing-Due-Dates | This date is computed from 
+ a recurrence rule and may not reflect a later-announced change\; confirm ag
+ ainst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-tennessee-q4-2027-01-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:Tennessee: State sales & use tax return due
+DESCRIPTION:20th of month following the reporting period\; quarterly due 20
+ th of month following quarter end\, annual filers due January 20. | Q4 2026
+  (Oct-Dec) sales tax return\, applying Tennessee's quarterly-filer due-date
+  rule: 20th of month following the reporting period\; quarterly due 20th of
+  month following quarter end\, annual filers due January 20. This is a repr
+ esentative recurring pattern\, not a single annual deadline - actual filing
+  frequency (monthly/quarterly/annual) is assigned per business by the state
+ . | Authority: Direct fetch of Tennessee's own tax agency site this session
+  | Source: https://revenue.support.tn.gov/hc/en-us/articles/360058589911-SU
+ T-9-Sales-and-Use-Tax-Filing-Filing-Due-Dates | This date is computed from 
+ a recurrence rule and may not reflect a later-announced change\; confirm ag
+ ainst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-tennessee-q4-2028-01-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280120
+DTEND;VALUE=DATE:20280121
+SUMMARY:Tennessee: State sales & use tax return due
+DESCRIPTION:20th of month following the reporting period\; quarterly due 20
+ th of month following quarter end\, annual filers due January 20. | Q4 2026
+  (Oct-Dec) sales tax return\, applying Tennessee's quarterly-filer due-date
+  rule: 20th of month following the reporting period\; quarterly due 20th of
+  month following quarter end\, annual filers due January 20. This is a repr
+ esentative recurring pattern\, not a single annual deadline - actual filing
+  frequency (monthly/quarterly/annual) is assigned per business by the state
+ . | Authority: Direct fetch of Tennessee's own tax agency site this session
+  | Source: https://revenue.support.tn.gov/hc/en-us/articles/360058589911-SU
+ T-9-Sales-and-Use-Tax-Filing-Filing-Due-Dates | This date is computed from 
+ a recurrence rule and may not reflect a later-announced change\; confirm ag
+ ainst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-tennessee-q4-2029-01-22@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290122
+DTEND;VALUE=DATE:20290123
+SUMMARY:Tennessee: State sales & use tax return due
+DESCRIPTION:20th of month following the reporting period\; quarterly due 20
+ th of month following quarter end\, annual filers due January 20. | Q4 2026
+  (Oct-Dec) sales tax return\, applying Tennessee's quarterly-filer due-date
+  rule: 20th of month following the reporting period\; quarterly due 20th of
+  month following quarter end\, annual filers due January 20. This is a repr
+ esentative recurring pattern\, not a single annual deadline - actual filing
+  frequency (monthly/quarterly/annual) is assigned per business by the state
+ . | Authority: Direct fetch of Tennessee's own tax agency site this session
+  | Source: https://revenue.support.tn.gov/hc/en-us/articles/360058589911-SU
+ T-9-Sales-and-Use-Tax-Filing-Filing-Due-Dates | This date is computed from 
+ a recurrence rule and may not reflect a later-announced change\; confirm ag
+ ainst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-tennessee-q4-2030-01-22@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300122
+DTEND;VALUE=DATE:20300123
+SUMMARY:Tennessee: State sales & use tax return due
+DESCRIPTION:20th of month following the reporting period\; quarterly due 20
+ th of month following quarter end\, annual filers due January 20. | Q4 2026
+  (Oct-Dec) sales tax return\, applying Tennessee's quarterly-filer due-date
+  rule: 20th of month following the reporting period\; quarterly due 20th of
+  month following quarter end\, annual filers due January 20. This is a repr
+ esentative recurring pattern\, not a single annual deadline - actual filing
+  frequency (monthly/quarterly/annual) is assigned per business by the state
+ . | Authority: Direct fetch of Tennessee's own tax agency site this session
+  | Source: https://revenue.support.tn.gov/hc/en-us/articles/360058589911-SU
+ T-9-Sales-and-Use-Tax-Filing-Filing-Due-Dates | This date is computed from 
+ a recurrence rule and may not reflect a later-announced change\; confirm ag
+ ainst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-tennessee-q4-2031-01-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310121
+DTEND;VALUE=DATE:20310122
+SUMMARY:Tennessee: State sales & use tax return due
+DESCRIPTION:20th of month following the reporting period\; quarterly due 20
+ th of month following quarter end\, annual filers due January 20. | Q4 2026
+  (Oct-Dec) sales tax return\, applying Tennessee's quarterly-filer due-date
+  rule: 20th of month following the reporting period\; quarterly due 20th of
+  month following quarter end\, annual filers due January 20. This is a repr
+ esentative recurring pattern\, not a single annual deadline - actual filing
+  frequency (monthly/quarterly/annual) is assigned per business by the state
+ . | Authority: Direct fetch of Tennessee's own tax agency site this session
+  | Source: https://revenue.support.tn.gov/hc/en-us/articles/360058589911-SU
+ T-9-Sales-and-Use-Tax-Filing-Filing-Due-Dates | This date is computed from 
+ a recurrence rule and may not reflect a later-announced change\; confirm ag
+ ainst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-tennessee-q4-2032-01-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320120
+DTEND;VALUE=DATE:20320121
+SUMMARY:Tennessee: State sales & use tax return due
+DESCRIPTION:20th of month following the reporting period\; quarterly due 20
+ th of month following quarter end\, annual filers due January 20. | Q4 2026
+  (Oct-Dec) sales tax return\, applying Tennessee's quarterly-filer due-date
+  rule: 20th of month following the reporting period\; quarterly due 20th of
+  month following quarter end\, annual filers due January 20. This is a repr
+ esentative recurring pattern\, not a single annual deadline - actual filing
+  frequency (monthly/quarterly/annual) is assigned per business by the state
+ . | Authority: Direct fetch of Tennessee's own tax agency site this session
+  | Source: https://revenue.support.tn.gov/hc/en-us/articles/360058589911-SU
+ T-9-Sales-and-Use-Tax-Filing-Filing-Due-Dates | This date is computed from 
+ a recurrence rule and may not reflect a later-announced change\; confirm ag
+ ainst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,2027 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tk.cpa//US Tax Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:US Tax Calendar - Missouri
+X-WR-CALDESC:Recurring US tax filing deadlines from ustaxcalendar.com (a tk
+ .cpa resource). Reference only\, not tax advice.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:state-corp-missouri-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:Missouri: State corporate income/franchise tax return due
+DESCRIPTION:Form MO-1120 due 15th day of 4th month after year end\; Missour
+ i automatically extends to match the federal extension\, but the .gov sourc
+ e does not give a single fixed Missouri date (it ties to whatever the feder
+ al extension is). Payment still due on the original date. | Form MO-1120 du
+ e 15th day of 4th month after year end\; Missouri automatically extends to 
+ match the federal extension\, but the .gov source does not give a single fi
+ xed Missouri date (it ties to whatever the federal extension is). Payment s
+ till due on the original date. | Authority: Direct fetch of Missouri's own 
+ tax agency site/publication this session | Source: https://dor.mo.gov/forms
+ /MO-1120%20Instructions_2025.pdf | This date is computed from a recurrence 
+ rule and may not reflect a later-announced change\; confirm against the cit
+ ed source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-missouri-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:Missouri: State corporate income/franchise tax return due
+DESCRIPTION:Form MO-1120 due 15th day of 4th month after year end\; Missour
+ i automatically extends to match the federal extension\, but the .gov sourc
+ e does not give a single fixed Missouri date (it ties to whatever the feder
+ al extension is). Payment still due on the original date. | Form MO-1120 du
+ e 15th day of 4th month after year end\; Missouri automatically extends to 
+ match the federal extension\, but the .gov source does not give a single fi
+ xed Missouri date (it ties to whatever the federal extension is). Payment s
+ till due on the original date. | Authority: Direct fetch of Missouri's own 
+ tax agency site/publication this session | Source: https://dor.mo.gov/forms
+ /MO-1120%20Instructions_2025.pdf | This date is computed from a recurrence 
+ rule and may not reflect a later-announced change\; confirm against the cit
+ ed source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-missouri-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Missouri: State corporate income/franchise tax return due
+DESCRIPTION:Form MO-1120 due 15th day of 4th month after year end\; Missour
+ i automatically extends to match the federal extension\, but the .gov sourc
+ e does not give a single fixed Missouri date (it ties to whatever the feder
+ al extension is). Payment still due on the original date. | Form MO-1120 du
+ e 15th day of 4th month after year end\; Missouri automatically extends to 
+ match the federal extension\, but the .gov source does not give a single fi
+ xed Missouri date (it ties to whatever the federal extension is). Payment s
+ till due on the original date. | Authority: Direct fetch of Missouri's own 
+ tax agency site/publication this session | Source: https://dor.mo.gov/forms
+ /MO-1120%20Instructions_2025.pdf | This date is computed from a recurrence 
+ rule and may not reflect a later-announced change\; confirm against the cit
+ ed source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-missouri-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Missouri: State corporate income/franchise tax return due
+DESCRIPTION:Form MO-1120 due 15th day of 4th month after year end\; Missour
+ i automatically extends to match the federal extension\, but the .gov sourc
+ e does not give a single fixed Missouri date (it ties to whatever the feder
+ al extension is). Payment still due on the original date. | Form MO-1120 du
+ e 15th day of 4th month after year end\; Missouri automatically extends to 
+ match the federal extension\, but the .gov source does not give a single fi
+ xed Missouri date (it ties to whatever the federal extension is). Payment s
+ till due on the original date. | Authority: Direct fetch of Missouri's own 
+ tax agency site/publication this session | Source: https://dor.mo.gov/forms
+ /MO-1120%20Instructions_2025.pdf | This date is computed from a recurrence 
+ rule and may not reflect a later-announced change\; confirm against the cit
+ ed source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-missouri-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:Missouri: State corporate income/franchise tax return due
+DESCRIPTION:Form MO-1120 due 15th day of 4th month after year end\; Missour
+ i automatically extends to match the federal extension\, but the .gov sourc
+ e does not give a single fixed Missouri date (it ties to whatever the feder
+ al extension is). Payment still due on the original date. | Form MO-1120 du
+ e 15th day of 4th month after year end\; Missouri automatically extends to 
+ match the federal extension\, but the .gov source does not give a single fi
+ xed Missouri date (it ties to whatever the federal extension is). Payment s
+ till due on the original date. | Authority: Direct fetch of Missouri's own 
+ tax agency site/publication this session | Source: https://dor.mo.gov/forms
+ /MO-1120%20Instructions_2025.pdf | This date is computed from a recurrence 
+ rule and may not reflect a later-announced change\; confirm against the cit
+ ed source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-missouri-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:Missouri: State corporate income/franchise tax return due
+DESCRIPTION:Form MO-1120 due 15th day of 4th month after year end\; Missour
+ i automatically extends to match the federal extension\, but the .gov sourc
+ e does not give a single fixed Missouri date (it ties to whatever the feder
+ al extension is). Payment still due on the original date. | Form MO-1120 du
+ e 15th day of 4th month after year end\; Missouri automatically extends to 
+ match the federal extension\, but the .gov source does not give a single fi
+ xed Missouri date (it ties to whatever the federal extension is). Payment s
+ till due on the original date. | Authority: Direct fetch of Missouri's own 
+ tax agency site/publication this session | Source: https://dor.mo.gov/forms
+ /MO-1120%20Instructions_2025.pdf | This date is computed from a recurrence 
+ rule and may not reflect a later-announced change\; confirm against the cit
+ ed source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-missouri-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:Missouri: State corporate income/franchise tax return due
+DESCRIPTION:Form MO-1120 due 15th day of 4th month after year end\; Missour
+ i automatically extends to match the federal extension\, but the .gov sourc
+ e does not give a single fixed Missouri date (it ties to whatever the feder
+ al extension is). Payment still due on the original date. | Form MO-1120 du
+ e 15th day of 4th month after year end\; Missouri automatically extends to 
+ match the federal extension\, but the .gov source does not give a single fi
+ xed Missouri date (it ties to whatever the federal extension is). Payment s
+ till due on the original date. | Authority: Direct fetch of Missouri's own 
+ tax agency site/publication this session | Source: https://dor.mo.gov/forms
+ /MO-1120%20Instructions_2025.pdf | This date is computed from a recurrence 
+ rule and may not reflect a later-announced change\; confirm against the cit
+ ed source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-missouri-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:Missouri: State corporate income/franchise tax return due
+DESCRIPTION:Form MO-1120 due 15th day of 4th month after year end\; Missour
+ i automatically extends to match the federal extension\, but the .gov sourc
+ e does not give a single fixed Missouri date (it ties to whatever the feder
+ al extension is). Payment still due on the original date. | Form MO-1120 du
+ e 15th day of 4th month after year end\; Missouri automatically extends to 
+ match the federal extension\, but the .gov source does not give a single fi
+ xed Missouri date (it ties to whatever the federal extension is). Payment s
+ till due on the original date. | Authority: Direct fetch of Missouri's own 
+ tax agency site/publication this session | Source: https://dor.mo.gov/forms
+ /MO-1120%20Instructions_2025.pdf | This date is computed from a recurrence 
+ rule and may not reflect a later-announced change\; confirm against the cit
+ ed source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-missouri-q1-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:Missouri: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q1 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of Missouri's own tax agency site/instruc
+ tions this session | Source: https://dor.mo.gov/forms/MO-1040ES_2026.pdf | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-missouri-q1-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:Missouri: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q1 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of Missouri's own tax agency site/instruc
+ tions this session | Source: https://dor.mo.gov/forms/MO-1040ES_2026.pdf | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-missouri-q1-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Missouri: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q1 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of Missouri's own tax agency site/instruc
+ tions this session | Source: https://dor.mo.gov/forms/MO-1040ES_2026.pdf | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-missouri-q1-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Missouri: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q1 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of Missouri's own tax agency site/instruc
+ tions this session | Source: https://dor.mo.gov/forms/MO-1040ES_2026.pdf | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-missouri-q1-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:Missouri: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q1 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of Missouri's own tax agency site/instruc
+ tions this session | Source: https://dor.mo.gov/forms/MO-1040ES_2026.pdf | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-missouri-q1-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:Missouri: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q1 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of Missouri's own tax agency site/instruc
+ tions this session | Source: https://dor.mo.gov/forms/MO-1040ES_2026.pdf | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-missouri-q1-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:Missouri: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q1 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of Missouri's own tax agency site/instruc
+ tions this session | Source: https://dor.mo.gov/forms/MO-1040ES_2026.pdf | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-missouri-q1-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:Missouri: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q1 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of Missouri's own tax agency site/instruc
+ tions this session | Source: https://dor.mo.gov/forms/MO-1040ES_2026.pdf | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-missouri-q2-2025-06-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250617
+SUMMARY:Missouri: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q2 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of Missouri's own tax agency site/instruc
+ tions this session | Source: https://dor.mo.gov/forms/MO-1040ES_2026.pdf | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-missouri-q2-2026-06-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Missouri: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q2 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of Missouri's own tax agency site/instruc
+ tions this session | Source: https://dor.mo.gov/forms/MO-1040ES_2026.pdf | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-missouri-q2-2027-06-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:Missouri: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q2 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of Missouri's own tax agency site/instruc
+ tions this session | Source: https://dor.mo.gov/forms/MO-1040ES_2026.pdf | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-missouri-q2-2028-06-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280615
+DTEND;VALUE=DATE:20280616
+SUMMARY:Missouri: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q2 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of Missouri's own tax agency site/instruc
+ tions this session | Source: https://dor.mo.gov/forms/MO-1040ES_2026.pdf | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-missouri-q2-2029-06-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290615
+DTEND;VALUE=DATE:20290616
+SUMMARY:Missouri: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q2 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of Missouri's own tax agency site/instruc
+ tions this session | Source: https://dor.mo.gov/forms/MO-1040ES_2026.pdf | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-missouri-q2-2030-06-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300617
+DTEND;VALUE=DATE:20300618
+SUMMARY:Missouri: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q2 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of Missouri's own tax agency site/instruc
+ tions this session | Source: https://dor.mo.gov/forms/MO-1040ES_2026.pdf | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-missouri-q2-2031-06-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310616
+DTEND;VALUE=DATE:20310617
+SUMMARY:Missouri: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q2 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of Missouri's own tax agency site/instruc
+ tions this session | Source: https://dor.mo.gov/forms/MO-1040ES_2026.pdf | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-missouri-q2-2032-06-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320615
+DTEND;VALUE=DATE:20320616
+SUMMARY:Missouri: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q2 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of Missouri's own tax agency site/instruc
+ tions this session | Source: https://dor.mo.gov/forms/MO-1040ES_2026.pdf | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-missouri-q3-2025-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20250916
+SUMMARY:Missouri: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q3 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of Missouri's own tax agency site/instruc
+ tions this session | Source: https://dor.mo.gov/forms/MO-1040ES_2026.pdf | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-missouri-q3-2026-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Missouri: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q3 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of Missouri's own tax agency site/instruc
+ tions this session | Source: https://dor.mo.gov/forms/MO-1040ES_2026.pdf | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-missouri-q3-2027-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:Missouri: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q3 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of Missouri's own tax agency site/instruc
+ tions this session | Source: https://dor.mo.gov/forms/MO-1040ES_2026.pdf | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-missouri-q3-2028-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280915
+DTEND;VALUE=DATE:20280916
+SUMMARY:Missouri: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q3 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of Missouri's own tax agency site/instruc
+ tions this session | Source: https://dor.mo.gov/forms/MO-1040ES_2026.pdf | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-missouri-q3-2029-09-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290917
+DTEND;VALUE=DATE:20290918
+SUMMARY:Missouri: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q3 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of Missouri's own tax agency site/instruc
+ tions this session | Source: https://dor.mo.gov/forms/MO-1040ES_2026.pdf | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-missouri-q3-2030-09-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300916
+DTEND;VALUE=DATE:20300917
+SUMMARY:Missouri: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q3 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of Missouri's own tax agency site/instruc
+ tions this session | Source: https://dor.mo.gov/forms/MO-1040ES_2026.pdf | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-missouri-q3-2031-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310915
+DTEND;VALUE=DATE:20310916
+SUMMARY:Missouri: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q3 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of Missouri's own tax agency site/instruc
+ tions this session | Source: https://dor.mo.gov/forms/MO-1040ES_2026.pdf | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-missouri-q3-2032-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320915
+DTEND;VALUE=DATE:20320916
+SUMMARY:Missouri: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q3 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of Missouri's own tax agency site/instruc
+ tions this session | Source: https://dor.mo.gov/forms/MO-1040ES_2026.pdf | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-missouri-q4-2025-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250115
+DTEND;VALUE=DATE:20250116
+SUMMARY:Missouri: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q4 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of Missouri's own tax agency site/instruc
+ tions this session | Source: https://dor.mo.gov/forms/MO-1040ES_2026.pdf | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-missouri-q4-2026-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260116
+SUMMARY:Missouri: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q4 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of Missouri's own tax agency site/instruc
+ tions this session | Source: https://dor.mo.gov/forms/MO-1040ES_2026.pdf | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-missouri-q4-2027-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Missouri: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q4 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of Missouri's own tax agency site/instruc
+ tions this session | Source: https://dor.mo.gov/forms/MO-1040ES_2026.pdf | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-missouri-q4-2028-01-18@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280118
+DTEND;VALUE=DATE:20280119
+SUMMARY:Missouri: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q4 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of Missouri's own tax agency site/instruc
+ tions this session | Source: https://dor.mo.gov/forms/MO-1040ES_2026.pdf | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-missouri-q4-2029-01-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290116
+DTEND;VALUE=DATE:20290117
+SUMMARY:Missouri: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q4 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of Missouri's own tax agency site/instruc
+ tions this session | Source: https://dor.mo.gov/forms/MO-1040ES_2026.pdf | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-missouri-q4-2030-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300115
+DTEND;VALUE=DATE:20300116
+SUMMARY:Missouri: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q4 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of Missouri's own tax agency site/instruc
+ tions this session | Source: https://dor.mo.gov/forms/MO-1040ES_2026.pdf | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-missouri-q4-2031-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310115
+DTEND;VALUE=DATE:20310116
+SUMMARY:Missouri: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q4 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of Missouri's own tax agency site/instruc
+ tions this session | Source: https://dor.mo.gov/forms/MO-1040ES_2026.pdf | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-missouri-q4-2032-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320115
+DTEND;VALUE=DATE:20320116
+SUMMARY:Missouri: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q4 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of Missouri's own tax agency site/instruc
+ tions this session | Source: https://dor.mo.gov/forms/MO-1040ES_2026.pdf | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-mi-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:Missouri: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Automatic-extension date not confirmed 
+ this session. | Authority: Direct fetch of https://dor.mo.gov/tax-calendar/
+  this session | Source: https://dor.mo.gov/tax-calendar/ | This date is com
+ puted from a recurrence rule and may not reflect a later-announced change\;
+  confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-mi-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:Missouri: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Automatic-extension date not confirmed 
+ this session. | Authority: Direct fetch of https://dor.mo.gov/tax-calendar/
+  this session | Source: https://dor.mo.gov/tax-calendar/ | This date is com
+ puted from a recurrence rule and may not reflect a later-announced change\;
+  confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-mi-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Missouri: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Automatic-extension date not confirmed 
+ this session. | Authority: Direct fetch of https://dor.mo.gov/tax-calendar/
+  this session | Source: https://dor.mo.gov/tax-calendar/ | This date is com
+ puted from a recurrence rule and may not reflect a later-announced change\;
+  confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-mi-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Missouri: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Automatic-extension date not confirmed 
+ this session. | Authority: Direct fetch of https://dor.mo.gov/tax-calendar/
+  this session | Source: https://dor.mo.gov/tax-calendar/ | This date is com
+ puted from a recurrence rule and may not reflect a later-announced change\;
+  confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-mi-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:Missouri: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Automatic-extension date not confirmed 
+ this session. | Authority: Direct fetch of https://dor.mo.gov/tax-calendar/
+  this session | Source: https://dor.mo.gov/tax-calendar/ | This date is com
+ puted from a recurrence rule and may not reflect a later-announced change\;
+  confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-mi-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:Missouri: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Automatic-extension date not confirmed 
+ this session. | Authority: Direct fetch of https://dor.mo.gov/tax-calendar/
+  this session | Source: https://dor.mo.gov/tax-calendar/ | This date is com
+ puted from a recurrence rule and may not reflect a later-announced change\;
+  confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-mi-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:Missouri: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Automatic-extension date not confirmed 
+ this session. | Authority: Direct fetch of https://dor.mo.gov/tax-calendar/
+  this session | Source: https://dor.mo.gov/tax-calendar/ | This date is com
+ puted from a recurrence rule and may not reflect a later-announced change\;
+  confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-mi-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:Missouri: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Automatic-extension date not confirmed 
+ this session. | Authority: Direct fetch of https://dor.mo.gov/tax-calendar/
+  this session | Source: https://dor.mo.gov/tax-calendar/ | This date is com
+ puted from a recurrence rule and may not reflect a later-announced change\;
+  confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-missouri-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:Missouri: MO-1065 due
+DESCRIPTION:Missouri partnership return due the 15th day of the 4th month a
+ fter year-end. MO's PTE tax is reported on the same MO-1065. | Missouri par
+ tnership return due the 15th day of the 4th month after year-end. MO's PTE 
+ tax is reported on the same MO-1065. Automatic if a federal extension (Form
+  7004) is obtained - attach a copy of the filed federal Form 7004 to the Mi
+ ssouri return. | Authority: Missouri Department of Revenue\, direct fetch t
+ his session: "The partnership return is due on the 15th day of the fourth m
+ onth following the close of the calendar or fiscal year" and "you will auto
+ matically be granted an extension of time to file your Missouri Partnership
+  Return of Income for the same 6-month period." | Source: https://dor.mo.go
+ v/faq/taxation/business/partnership.html | This date is computed from a rec
+ urrence rule and may not reflect a later-announced change\; confirm against
+  the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-missouri-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:Missouri: MO-1065 due
+DESCRIPTION:Missouri partnership return due the 15th day of the 4th month a
+ fter year-end. MO's PTE tax is reported on the same MO-1065. | Missouri par
+ tnership return due the 15th day of the 4th month after year-end. MO's PTE 
+ tax is reported on the same MO-1065. Automatic if a federal extension (Form
+  7004) is obtained - attach a copy of the filed federal Form 7004 to the Mi
+ ssouri return. | Authority: Missouri Department of Revenue\, direct fetch t
+ his session: "The partnership return is due on the 15th day of the fourth m
+ onth following the close of the calendar or fiscal year" and "you will auto
+ matically be granted an extension of time to file your Missouri Partnership
+  Return of Income for the same 6-month period." | Source: https://dor.mo.go
+ v/faq/taxation/business/partnership.html | This date is computed from a rec
+ urrence rule and may not reflect a later-announced change\; confirm against
+  the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-missouri-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Missouri: MO-1065 due
+DESCRIPTION:Missouri partnership return due the 15th day of the 4th month a
+ fter year-end. MO's PTE tax is reported on the same MO-1065. | Missouri par
+ tnership return due the 15th day of the 4th month after year-end. MO's PTE 
+ tax is reported on the same MO-1065. Automatic if a federal extension (Form
+  7004) is obtained - attach a copy of the filed federal Form 7004 to the Mi
+ ssouri return. | Authority: Missouri Department of Revenue\, direct fetch t
+ his session: "The partnership return is due on the 15th day of the fourth m
+ onth following the close of the calendar or fiscal year" and "you will auto
+ matically be granted an extension of time to file your Missouri Partnership
+  Return of Income for the same 6-month period." | Source: https://dor.mo.go
+ v/faq/taxation/business/partnership.html | This date is computed from a rec
+ urrence rule and may not reflect a later-announced change\; confirm against
+  the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-missouri-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Missouri: MO-1065 due
+DESCRIPTION:Missouri partnership return due the 15th day of the 4th month a
+ fter year-end. MO's PTE tax is reported on the same MO-1065. | Missouri par
+ tnership return due the 15th day of the 4th month after year-end. MO's PTE 
+ tax is reported on the same MO-1065. Automatic if a federal extension (Form
+  7004) is obtained - attach a copy of the filed federal Form 7004 to the Mi
+ ssouri return. | Authority: Missouri Department of Revenue\, direct fetch t
+ his session: "The partnership return is due on the 15th day of the fourth m
+ onth following the close of the calendar or fiscal year" and "you will auto
+ matically be granted an extension of time to file your Missouri Partnership
+  Return of Income for the same 6-month period." | Source: https://dor.mo.go
+ v/faq/taxation/business/partnership.html | This date is computed from a rec
+ urrence rule and may not reflect a later-announced change\; confirm against
+  the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-missouri-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:Missouri: MO-1065 due
+DESCRIPTION:Missouri partnership return due the 15th day of the 4th month a
+ fter year-end. MO's PTE tax is reported on the same MO-1065. | Missouri par
+ tnership return due the 15th day of the 4th month after year-end. MO's PTE 
+ tax is reported on the same MO-1065. Automatic if a federal extension (Form
+  7004) is obtained - attach a copy of the filed federal Form 7004 to the Mi
+ ssouri return. | Authority: Missouri Department of Revenue\, direct fetch t
+ his session: "The partnership return is due on the 15th day of the fourth m
+ onth following the close of the calendar or fiscal year" and "you will auto
+ matically be granted an extension of time to file your Missouri Partnership
+  Return of Income for the same 6-month period." | Source: https://dor.mo.go
+ v/faq/taxation/business/partnership.html | This date is computed from a rec
+ urrence rule and may not reflect a later-announced change\; confirm against
+  the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-missouri-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:Missouri: MO-1065 due
+DESCRIPTION:Missouri partnership return due the 15th day of the 4th month a
+ fter year-end. MO's PTE tax is reported on the same MO-1065. | Missouri par
+ tnership return due the 15th day of the 4th month after year-end. MO's PTE 
+ tax is reported on the same MO-1065. Automatic if a federal extension (Form
+  7004) is obtained - attach a copy of the filed federal Form 7004 to the Mi
+ ssouri return. | Authority: Missouri Department of Revenue\, direct fetch t
+ his session: "The partnership return is due on the 15th day of the fourth m
+ onth following the close of the calendar or fiscal year" and "you will auto
+ matically be granted an extension of time to file your Missouri Partnership
+  Return of Income for the same 6-month period." | Source: https://dor.mo.go
+ v/faq/taxation/business/partnership.html | This date is computed from a rec
+ urrence rule and may not reflect a later-announced change\; confirm against
+  the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-missouri-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:Missouri: MO-1065 due
+DESCRIPTION:Missouri partnership return due the 15th day of the 4th month a
+ fter year-end. MO's PTE tax is reported on the same MO-1065. | Missouri par
+ tnership return due the 15th day of the 4th month after year-end. MO's PTE 
+ tax is reported on the same MO-1065. Automatic if a federal extension (Form
+  7004) is obtained - attach a copy of the filed federal Form 7004 to the Mi
+ ssouri return. | Authority: Missouri Department of Revenue\, direct fetch t
+ his session: "The partnership return is due on the 15th day of the fourth m
+ onth following the close of the calendar or fiscal year" and "you will auto
+ matically be granted an extension of time to file your Missouri Partnership
+  Return of Income for the same 6-month period." | Source: https://dor.mo.go
+ v/faq/taxation/business/partnership.html | This date is computed from a rec
+ urrence rule and may not reflect a later-announced change\; confirm against
+  the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-missouri-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:Missouri: MO-1065 due
+DESCRIPTION:Missouri partnership return due the 15th day of the 4th month a
+ fter year-end. MO's PTE tax is reported on the same MO-1065. | Missouri par
+ tnership return due the 15th day of the 4th month after year-end. MO's PTE 
+ tax is reported on the same MO-1065. Automatic if a federal extension (Form
+  7004) is obtained - attach a copy of the filed federal Form 7004 to the Mi
+ ssouri return. | Authority: Missouri Department of Revenue\, direct fetch t
+ his session: "The partnership return is due on the 15th day of the fourth m
+ onth following the close of the calendar or fiscal year" and "you will auto
+ matically be granted an extension of time to file your Missouri Partnership
+  Return of Income for the same 6-month period." | Source: https://dor.mo.go
+ v/faq/taxation/business/partnership.html | This date is computed from a rec
+ urrence rule and may not reflect a later-announced change\; confirm against
+  the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-missouri-q1-2025-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250430
+DTEND;VALUE=DATE:20250501
+SUMMARY:Missouri: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. The report should be filed and contributions paid by the last day of
+  the month following the end of each calendar quarter to be considered time
+ ly. | Authority: Direct fetch of Missouri's own unemployment insurance agen
+ cy site/handbook/code this session | Source: https://labor.mo.gov/des/emplo
+ yers/quarterly-reports | This date is computed from a recurrence rule and m
+ ay not reflect a later-announced change\; confirm against the cited source 
+ before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-missouri-q1-2026-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:Missouri: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. The report should be filed and contributions paid by the last day of
+  the month following the end of each calendar quarter to be considered time
+ ly. | Authority: Direct fetch of Missouri's own unemployment insurance agen
+ cy site/handbook/code this session | Source: https://labor.mo.gov/des/emplo
+ yers/quarterly-reports | This date is computed from a recurrence rule and m
+ ay not reflect a later-announced change\; confirm against the cited source 
+ before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-missouri-q1-2027-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:Missouri: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. The report should be filed and contributions paid by the last day of
+  the month following the end of each calendar quarter to be considered time
+ ly. | Authority: Direct fetch of Missouri's own unemployment insurance agen
+ cy site/handbook/code this session | Source: https://labor.mo.gov/des/emplo
+ yers/quarterly-reports | This date is computed from a recurrence rule and m
+ ay not reflect a later-announced change\; confirm against the cited source 
+ before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-missouri-q1-2028-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280430
+DTEND;VALUE=DATE:20280501
+SUMMARY:Missouri: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. The report should be filed and contributions paid by the last day of
+  the month following the end of each calendar quarter to be considered time
+ ly. | Authority: Direct fetch of Missouri's own unemployment insurance agen
+ cy site/handbook/code this session | Source: https://labor.mo.gov/des/emplo
+ yers/quarterly-reports | This date is computed from a recurrence rule and m
+ ay not reflect a later-announced change\; confirm against the cited source 
+ before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-missouri-q1-2029-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290430
+DTEND;VALUE=DATE:20290501
+SUMMARY:Missouri: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. The report should be filed and contributions paid by the last day of
+  the month following the end of each calendar quarter to be considered time
+ ly. | Authority: Direct fetch of Missouri's own unemployment insurance agen
+ cy site/handbook/code this session | Source: https://labor.mo.gov/des/emplo
+ yers/quarterly-reports | This date is computed from a recurrence rule and m
+ ay not reflect a later-announced change\; confirm against the cited source 
+ before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-missouri-q1-2030-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300430
+DTEND;VALUE=DATE:20300501
+SUMMARY:Missouri: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. The report should be filed and contributions paid by the last day of
+  the month following the end of each calendar quarter to be considered time
+ ly. | Authority: Direct fetch of Missouri's own unemployment insurance agen
+ cy site/handbook/code this session | Source: https://labor.mo.gov/des/emplo
+ yers/quarterly-reports | This date is computed from a recurrence rule and m
+ ay not reflect a later-announced change\; confirm against the cited source 
+ before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-missouri-q1-2031-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310430
+DTEND;VALUE=DATE:20310501
+SUMMARY:Missouri: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. The report should be filed and contributions paid by the last day of
+  the month following the end of each calendar quarter to be considered time
+ ly. | Authority: Direct fetch of Missouri's own unemployment insurance agen
+ cy site/handbook/code this session | Source: https://labor.mo.gov/des/emplo
+ yers/quarterly-reports | This date is computed from a recurrence rule and m
+ ay not reflect a later-announced change\; confirm against the cited source 
+ before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-missouri-q1-2032-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320430
+DTEND;VALUE=DATE:20320501
+SUMMARY:Missouri: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. The report should be filed and contributions paid by the last day of
+  the month following the end of each calendar quarter to be considered time
+ ly. | Authority: Direct fetch of Missouri's own unemployment insurance agen
+ cy site/handbook/code this session | Source: https://labor.mo.gov/des/emplo
+ yers/quarterly-reports | This date is computed from a recurrence rule and m
+ ay not reflect a later-announced change\; confirm against the cited source 
+ before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-missouri-q2-2025-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250731
+DTEND;VALUE=DATE:20250801
+SUMMARY:Missouri: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. The report should be filed and contributions paid by the last day of
+  the month following the end of each calendar quarter to be considered time
+ ly. | Authority: Direct fetch of Missouri's own unemployment insurance agen
+ cy site/handbook/code this session | Source: https://labor.mo.gov/des/emplo
+ yers/quarterly-reports | This date is computed from a recurrence rule and m
+ ay not reflect a later-announced change\; confirm against the cited source 
+ before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-missouri-q2-2026-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Missouri: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. The report should be filed and contributions paid by the last day of
+  the month following the end of each calendar quarter to be considered time
+ ly. | Authority: Direct fetch of Missouri's own unemployment insurance agen
+ cy site/handbook/code this session | Source: https://labor.mo.gov/des/emplo
+ yers/quarterly-reports | This date is computed from a recurrence rule and m
+ ay not reflect a later-announced change\; confirm against the cited source 
+ before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-missouri-q2-2027-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:Missouri: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. The report should be filed and contributions paid by the last day of
+  the month following the end of each calendar quarter to be considered time
+ ly. | Authority: Direct fetch of Missouri's own unemployment insurance agen
+ cy site/handbook/code this session | Source: https://labor.mo.gov/des/emplo
+ yers/quarterly-reports | This date is computed from a recurrence rule and m
+ ay not reflect a later-announced change\; confirm against the cited source 
+ before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-missouri-q2-2028-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280731
+DTEND;VALUE=DATE:20280801
+SUMMARY:Missouri: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. The report should be filed and contributions paid by the last day of
+  the month following the end of each calendar quarter to be considered time
+ ly. | Authority: Direct fetch of Missouri's own unemployment insurance agen
+ cy site/handbook/code this session | Source: https://labor.mo.gov/des/emplo
+ yers/quarterly-reports | This date is computed from a recurrence rule and m
+ ay not reflect a later-announced change\; confirm against the cited source 
+ before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-missouri-q2-2029-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290731
+DTEND;VALUE=DATE:20290801
+SUMMARY:Missouri: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. The report should be filed and contributions paid by the last day of
+  the month following the end of each calendar quarter to be considered time
+ ly. | Authority: Direct fetch of Missouri's own unemployment insurance agen
+ cy site/handbook/code this session | Source: https://labor.mo.gov/des/emplo
+ yers/quarterly-reports | This date is computed from a recurrence rule and m
+ ay not reflect a later-announced change\; confirm against the cited source 
+ before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-missouri-q2-2030-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300731
+DTEND;VALUE=DATE:20300801
+SUMMARY:Missouri: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. The report should be filed and contributions paid by the last day of
+  the month following the end of each calendar quarter to be considered time
+ ly. | Authority: Direct fetch of Missouri's own unemployment insurance agen
+ cy site/handbook/code this session | Source: https://labor.mo.gov/des/emplo
+ yers/quarterly-reports | This date is computed from a recurrence rule and m
+ ay not reflect a later-announced change\; confirm against the cited source 
+ before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-missouri-q2-2031-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310731
+DTEND;VALUE=DATE:20310801
+SUMMARY:Missouri: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. The report should be filed and contributions paid by the last day of
+  the month following the end of each calendar quarter to be considered time
+ ly. | Authority: Direct fetch of Missouri's own unemployment insurance agen
+ cy site/handbook/code this session | Source: https://labor.mo.gov/des/emplo
+ yers/quarterly-reports | This date is computed from a recurrence rule and m
+ ay not reflect a later-announced change\; confirm against the cited source 
+ before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-missouri-q2-2032-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320731
+DTEND;VALUE=DATE:20320801
+SUMMARY:Missouri: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. The report should be filed and contributions paid by the last day of
+  the month following the end of each calendar quarter to be considered time
+ ly. | Authority: Direct fetch of Missouri's own unemployment insurance agen
+ cy site/handbook/code this session | Source: https://labor.mo.gov/des/emplo
+ yers/quarterly-reports | This date is computed from a recurrence rule and m
+ ay not reflect a later-announced change\; confirm against the cited source 
+ before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-missouri-q3-2025-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20251031
+DTEND;VALUE=DATE:20251101
+SUMMARY:Missouri: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. The report should be filed and contributions paid by the last day of
+  the month following the end of each calendar quarter to be considered time
+ ly. | Authority: Direct fetch of Missouri's own unemployment insurance agen
+ cy site/handbook/code this session | Source: https://labor.mo.gov/des/emplo
+ yers/quarterly-reports | This date is computed from a recurrence rule and m
+ ay not reflect a later-announced change\; confirm against the cited source 
+ before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-missouri-q3-2026-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Missouri: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. The report should be filed and contributions paid by the last day of
+  the month following the end of each calendar quarter to be considered time
+ ly. | Authority: Direct fetch of Missouri's own unemployment insurance agen
+ cy site/handbook/code this session | Source: https://labor.mo.gov/des/emplo
+ yers/quarterly-reports | This date is computed from a recurrence rule and m
+ ay not reflect a later-announced change\; confirm against the cited source 
+ before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-missouri-q3-2027-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20271031
+DTEND;VALUE=DATE:20271101
+SUMMARY:Missouri: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. The report should be filed and contributions paid by the last day of
+  the month following the end of each calendar quarter to be considered time
+ ly. | Authority: Direct fetch of Missouri's own unemployment insurance agen
+ cy site/handbook/code this session | Source: https://labor.mo.gov/des/emplo
+ yers/quarterly-reports | This date is computed from a recurrence rule and m
+ ay not reflect a later-announced change\; confirm against the cited source 
+ before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-missouri-q3-2028-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20281031
+DTEND;VALUE=DATE:20281101
+SUMMARY:Missouri: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. The report should be filed and contributions paid by the last day of
+  the month following the end of each calendar quarter to be considered time
+ ly. | Authority: Direct fetch of Missouri's own unemployment insurance agen
+ cy site/handbook/code this session | Source: https://labor.mo.gov/des/emplo
+ yers/quarterly-reports | This date is computed from a recurrence rule and m
+ ay not reflect a later-announced change\; confirm against the cited source 
+ before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-missouri-q3-2029-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20291031
+DTEND;VALUE=DATE:20291101
+SUMMARY:Missouri: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. The report should be filed and contributions paid by the last day of
+  the month following the end of each calendar quarter to be considered time
+ ly. | Authority: Direct fetch of Missouri's own unemployment insurance agen
+ cy site/handbook/code this session | Source: https://labor.mo.gov/des/emplo
+ yers/quarterly-reports | This date is computed from a recurrence rule and m
+ ay not reflect a later-announced change\; confirm against the cited source 
+ before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-missouri-q3-2030-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20301031
+DTEND;VALUE=DATE:20301101
+SUMMARY:Missouri: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. The report should be filed and contributions paid by the last day of
+  the month following the end of each calendar quarter to be considered time
+ ly. | Authority: Direct fetch of Missouri's own unemployment insurance agen
+ cy site/handbook/code this session | Source: https://labor.mo.gov/des/emplo
+ yers/quarterly-reports | This date is computed from a recurrence rule and m
+ ay not reflect a later-announced change\; confirm against the cited source 
+ before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-missouri-q3-2031-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20311031
+DTEND;VALUE=DATE:20311101
+SUMMARY:Missouri: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. The report should be filed and contributions paid by the last day of
+  the month following the end of each calendar quarter to be considered time
+ ly. | Authority: Direct fetch of Missouri's own unemployment insurance agen
+ cy site/handbook/code this session | Source: https://labor.mo.gov/des/emplo
+ yers/quarterly-reports | This date is computed from a recurrence rule and m
+ ay not reflect a later-announced change\; confirm against the cited source 
+ before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-missouri-q3-2032-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20321031
+DTEND;VALUE=DATE:20321101
+SUMMARY:Missouri: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. The report should be filed and contributions paid by the last day of
+  the month following the end of each calendar quarter to be considered time
+ ly. | Authority: Direct fetch of Missouri's own unemployment insurance agen
+ cy site/handbook/code this session | Source: https://labor.mo.gov/des/emplo
+ yers/quarterly-reports | This date is computed from a recurrence rule and m
+ ay not reflect a later-announced change\; confirm against the cited source 
+ before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-missouri-q4-2025-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250131
+DTEND;VALUE=DATE:20250201
+SUMMARY:Missouri: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. The report should be filed and contributions paid by the last day of
+  the month following the end of each calendar quarter to be considered time
+ ly. | Authority: Direct fetch of Missouri's own unemployment insurance agen
+ cy site/handbook/code this session | Source: https://labor.mo.gov/des/emplo
+ yers/quarterly-reports | This date is computed from a recurrence rule and m
+ ay not reflect a later-announced change\; confirm against the cited source 
+ before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-missouri-q4-2026-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:Missouri: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. The report should be filed and contributions paid by the last day of
+  the month following the end of each calendar quarter to be considered time
+ ly. | Authority: Direct fetch of Missouri's own unemployment insurance agen
+ cy site/handbook/code this session | Source: https://labor.mo.gov/des/emplo
+ yers/quarterly-reports | This date is computed from a recurrence rule and m
+ ay not reflect a later-announced change\; confirm against the cited source 
+ before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-missouri-q4-2027-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Missouri: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. The report should be filed and contributions paid by the last day of
+  the month following the end of each calendar quarter to be considered time
+ ly. | Authority: Direct fetch of Missouri's own unemployment insurance agen
+ cy site/handbook/code this session | Source: https://labor.mo.gov/des/emplo
+ yers/quarterly-reports | This date is computed from a recurrence rule and m
+ ay not reflect a later-announced change\; confirm against the cited source 
+ before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-missouri-q4-2028-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280131
+DTEND;VALUE=DATE:20280201
+SUMMARY:Missouri: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. The report should be filed and contributions paid by the last day of
+  the month following the end of each calendar quarter to be considered time
+ ly. | Authority: Direct fetch of Missouri's own unemployment insurance agen
+ cy site/handbook/code this session | Source: https://labor.mo.gov/des/emplo
+ yers/quarterly-reports | This date is computed from a recurrence rule and m
+ ay not reflect a later-announced change\; confirm against the cited source 
+ before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-missouri-q4-2029-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290131
+DTEND;VALUE=DATE:20290201
+SUMMARY:Missouri: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. The report should be filed and contributions paid by the last day of
+  the month following the end of each calendar quarter to be considered time
+ ly. | Authority: Direct fetch of Missouri's own unemployment insurance agen
+ cy site/handbook/code this session | Source: https://labor.mo.gov/des/emplo
+ yers/quarterly-reports | This date is computed from a recurrence rule and m
+ ay not reflect a later-announced change\; confirm against the cited source 
+ before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-missouri-q4-2030-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300131
+DTEND;VALUE=DATE:20300201
+SUMMARY:Missouri: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. The report should be filed and contributions paid by the last day of
+  the month following the end of each calendar quarter to be considered time
+ ly. | Authority: Direct fetch of Missouri's own unemployment insurance agen
+ cy site/handbook/code this session | Source: https://labor.mo.gov/des/emplo
+ yers/quarterly-reports | This date is computed from a recurrence rule and m
+ ay not reflect a later-announced change\; confirm against the cited source 
+ before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-missouri-q4-2031-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310131
+DTEND;VALUE=DATE:20310201
+SUMMARY:Missouri: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. The report should be filed and contributions paid by the last day of
+  the month following the end of each calendar quarter to be considered time
+ ly. | Authority: Direct fetch of Missouri's own unemployment insurance agen
+ cy site/handbook/code this session | Source: https://labor.mo.gov/des/emplo
+ yers/quarterly-reports | This date is computed from a recurrence rule and m
+ ay not reflect a later-announced change\; confirm against the cited source 
+ before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-missouri-q4-2032-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320131
+DTEND;VALUE=DATE:20320201
+SUMMARY:Missouri: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. The report should be filed and contributions paid by the last day of
+  the month following the end of each calendar quarter to be considered time
+ ly. | Authority: Direct fetch of Missouri's own unemployment insurance agen
+ cy site/handbook/code this session | Source: https://labor.mo.gov/des/emplo
+ yers/quarterly-reports | This date is computed from a recurrence rule and m
+ ay not reflect a later-announced change\; confirm against the cited source 
+ before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-missouri-q1-2025-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250430
+DTEND;VALUE=DATE:20250501
+SUMMARY:Missouri: State sales & use tax return due
+DESCRIPTION:Last day of the following month\; annual filers due January 31.
+  | Q1 2026 (Jan-Mar) sales tax return\, applying Missouri's quarterly-filer
+  due-date rule: Last day of the following month\; annual filers due January
+  31. This is a representative recurring pattern\, not a single annual deadl
+ ine - actual filing frequency (monthly/quarterly/annual) is assigned per bu
+ siness by the state. | Authority: Direct fetch of Missouri's own tax agency
+  site this session | Source: https://dor.mo.gov/faq/taxation/business/sales
+ -tax-filing.html | This date is computed from a recurrence rule and may not
+  reflect a later-announced change\; confirm against the cited source before
+  relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-missouri-q1-2026-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:Missouri: State sales & use tax return due
+DESCRIPTION:Last day of the following month\; annual filers due January 31.
+  | Q1 2026 (Jan-Mar) sales tax return\, applying Missouri's quarterly-filer
+  due-date rule: Last day of the following month\; annual filers due January
+  31. This is a representative recurring pattern\, not a single annual deadl
+ ine - actual filing frequency (monthly/quarterly/annual) is assigned per bu
+ siness by the state. | Authority: Direct fetch of Missouri's own tax agency
+  site this session | Source: https://dor.mo.gov/faq/taxation/business/sales
+ -tax-filing.html | This date is computed from a recurrence rule and may not
+  reflect a later-announced change\; confirm against the cited source before
+  relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-missouri-q1-2027-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:Missouri: State sales & use tax return due
+DESCRIPTION:Last day of the following month\; annual filers due January 31.
+  | Q1 2026 (Jan-Mar) sales tax return\, applying Missouri's quarterly-filer
+  due-date rule: Last day of the following month\; annual filers due January
+  31. This is a representative recurring pattern\, not a single annual deadl
+ ine - actual filing frequency (monthly/quarterly/annual) is assigned per bu
+ siness by the state. | Authority: Direct fetch of Missouri's own tax agency
+  site this session | Source: https://dor.mo.gov/faq/taxation/business/sales
+ -tax-filing.html | This date is computed from a recurrence rule and may not
+  reflect a later-announced change\; confirm against the cited source before
+  relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-missouri-q1-2028-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280430
+DTEND;VALUE=DATE:20280501
+SUMMARY:Missouri: State sales & use tax return due
+DESCRIPTION:Last day of the following month\; annual filers due January 31.
+  | Q1 2026 (Jan-Mar) sales tax return\, applying Missouri's quarterly-filer
+  due-date rule: Last day of the following month\; annual filers due January
+  31. This is a representative recurring pattern\, not a single annual deadl
+ ine - actual filing frequency (monthly/quarterly/annual) is assigned per bu
+ siness by the state. | Authority: Direct fetch of Missouri's own tax agency
+  site this session | Source: https://dor.mo.gov/faq/taxation/business/sales
+ -tax-filing.html | This date is computed from a recurrence rule and may not
+  reflect a later-announced change\; confirm against the cited source before
+  relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-missouri-q1-2029-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290430
+DTEND;VALUE=DATE:20290501
+SUMMARY:Missouri: State sales & use tax return due
+DESCRIPTION:Last day of the following month\; annual filers due January 31.
+  | Q1 2026 (Jan-Mar) sales tax return\, applying Missouri's quarterly-filer
+  due-date rule: Last day of the following month\; annual filers due January
+  31. This is a representative recurring pattern\, not a single annual deadl
+ ine - actual filing frequency (monthly/quarterly/annual) is assigned per bu
+ siness by the state. | Authority: Direct fetch of Missouri's own tax agency
+  site this session | Source: https://dor.mo.gov/faq/taxation/business/sales
+ -tax-filing.html | This date is computed from a recurrence rule and may not
+  reflect a later-announced change\; confirm against the cited source before
+  relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-missouri-q1-2030-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300430
+DTEND;VALUE=DATE:20300501
+SUMMARY:Missouri: State sales & use tax return due
+DESCRIPTION:Last day of the following month\; annual filers due January 31.
+  | Q1 2026 (Jan-Mar) sales tax return\, applying Missouri's quarterly-filer
+  due-date rule: Last day of the following month\; annual filers due January
+  31. This is a representative recurring pattern\, not a single annual deadl
+ ine - actual filing frequency (monthly/quarterly/annual) is assigned per bu
+ siness by the state. | Authority: Direct fetch of Missouri's own tax agency
+  site this session | Source: https://dor.mo.gov/faq/taxation/business/sales
+ -tax-filing.html | This date is computed from a recurrence rule and may not
+  reflect a later-announced change\; confirm against the cited source before
+  relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-missouri-q1-2031-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310430
+DTEND;VALUE=DATE:20310501
+SUMMARY:Missouri: State sales & use tax return due
+DESCRIPTION:Last day of the following month\; annual filers due January 31.
+  | Q1 2026 (Jan-Mar) sales tax return\, applying Missouri's quarterly-filer
+  due-date rule: Last day of the following month\; annual filers due January
+  31. This is a representative recurring pattern\, not a single annual deadl
+ ine - actual filing frequency (monthly/quarterly/annual) is assigned per bu
+ siness by the state. | Authority: Direct fetch of Missouri's own tax agency
+  site this session | Source: https://dor.mo.gov/faq/taxation/business/sales
+ -tax-filing.html | This date is computed from a recurrence rule and may not
+  reflect a later-announced change\; confirm against the cited source before
+  relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-missouri-q1-2032-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320430
+DTEND;VALUE=DATE:20320501
+SUMMARY:Missouri: State sales & use tax return due
+DESCRIPTION:Last day of the following month\; annual filers due January 31.
+  | Q1 2026 (Jan-Mar) sales tax return\, applying Missouri's quarterly-filer
+  due-date rule: Last day of the following month\; annual filers due January
+  31. This is a representative recurring pattern\, not a single annual deadl
+ ine - actual filing frequency (monthly/quarterly/annual) is assigned per bu
+ siness by the state. | Authority: Direct fetch of Missouri's own tax agency
+  site this session | Source: https://dor.mo.gov/faq/taxation/business/sales
+ -tax-filing.html | This date is computed from a recurrence rule and may not
+  reflect a later-announced change\; confirm against the cited source before
+  relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-missouri-q2-2025-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250731
+DTEND;VALUE=DATE:20250801
+SUMMARY:Missouri: State sales & use tax return due
+DESCRIPTION:Last day of the following month\; annual filers due January 31.
+  | Q2 2026 (Apr-Jun) sales tax return\, applying Missouri's quarterly-filer
+  due-date rule: Last day of the following month\; annual filers due January
+  31. This is a representative recurring pattern\, not a single annual deadl
+ ine - actual filing frequency (monthly/quarterly/annual) is assigned per bu
+ siness by the state. | Authority: Direct fetch of Missouri's own tax agency
+  site this session | Source: https://dor.mo.gov/faq/taxation/business/sales
+ -tax-filing.html | This date is computed from a recurrence rule and may not
+  reflect a later-announced change\; confirm against the cited source before
+  relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-missouri-q2-2026-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Missouri: State sales & use tax return due
+DESCRIPTION:Last day of the following month\; annual filers due January 31.
+  | Q2 2026 (Apr-Jun) sales tax return\, applying Missouri's quarterly-filer
+  due-date rule: Last day of the following month\; annual filers due January
+  31. This is a representative recurring pattern\, not a single annual deadl
+ ine - actual filing frequency (monthly/quarterly/annual) is assigned per bu
+ siness by the state. | Authority: Direct fetch of Missouri's own tax agency
+  site this session | Source: https://dor.mo.gov/faq/taxation/business/sales
+ -tax-filing.html | This date is computed from a recurrence rule and may not
+  reflect a later-announced change\; confirm against the cited source before
+  relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-missouri-q2-2027-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:Missouri: State sales & use tax return due
+DESCRIPTION:Last day of the following month\; annual filers due January 31.
+  | Q2 2026 (Apr-Jun) sales tax return\, applying Missouri's quarterly-filer
+  due-date rule: Last day of the following month\; annual filers due January
+  31. This is a representative recurring pattern\, not a single annual deadl
+ ine - actual filing frequency (monthly/quarterly/annual) is assigned per bu
+ siness by the state. | Authority: Direct fetch of Missouri's own tax agency
+  site this session | Source: https://dor.mo.gov/faq/taxation/business/sales
+ -tax-filing.html | This date is computed from a recurrence rule and may not
+  reflect a later-announced change\; confirm against the cited source before
+  relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-missouri-q2-2028-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280731
+DTEND;VALUE=DATE:20280801
+SUMMARY:Missouri: State sales & use tax return due
+DESCRIPTION:Last day of the following month\; annual filers due January 31.
+  | Q2 2026 (Apr-Jun) sales tax return\, applying Missouri's quarterly-filer
+  due-date rule: Last day of the following month\; annual filers due January
+  31. This is a representative recurring pattern\, not a single annual deadl
+ ine - actual filing frequency (monthly/quarterly/annual) is assigned per bu
+ siness by the state. | Authority: Direct fetch of Missouri's own tax agency
+  site this session | Source: https://dor.mo.gov/faq/taxation/business/sales
+ -tax-filing.html | This date is computed from a recurrence rule and may not
+  reflect a later-announced change\; confirm against the cited source before
+  relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-missouri-q2-2029-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290731
+DTEND;VALUE=DATE:20290801
+SUMMARY:Missouri: State sales & use tax return due
+DESCRIPTION:Last day of the following month\; annual filers due January 31.
+  | Q2 2026 (Apr-Jun) sales tax return\, applying Missouri's quarterly-filer
+  due-date rule: Last day of the following month\; annual filers due January
+  31. This is a representative recurring pattern\, not a single annual deadl
+ ine - actual filing frequency (monthly/quarterly/annual) is assigned per bu
+ siness by the state. | Authority: Direct fetch of Missouri's own tax agency
+  site this session | Source: https://dor.mo.gov/faq/taxation/business/sales
+ -tax-filing.html | This date is computed from a recurrence rule and may not
+  reflect a later-announced change\; confirm against the cited source before
+  relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-missouri-q2-2030-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300731
+DTEND;VALUE=DATE:20300801
+SUMMARY:Missouri: State sales & use tax return due
+DESCRIPTION:Last day of the following month\; annual filers due January 31.
+  | Q2 2026 (Apr-Jun) sales tax return\, applying Missouri's quarterly-filer
+  due-date rule: Last day of the following month\; annual filers due January
+  31. This is a representative recurring pattern\, not a single annual deadl
+ ine - actual filing frequency (monthly/quarterly/annual) is assigned per bu
+ siness by the state. | Authority: Direct fetch of Missouri's own tax agency
+  site this session | Source: https://dor.mo.gov/faq/taxation/business/sales
+ -tax-filing.html | This date is computed from a recurrence rule and may not
+  reflect a later-announced change\; confirm against the cited source before
+  relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-missouri-q2-2031-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310731
+DTEND;VALUE=DATE:20310801
+SUMMARY:Missouri: State sales & use tax return due
+DESCRIPTION:Last day of the following month\; annual filers due January 31.
+  | Q2 2026 (Apr-Jun) sales tax return\, applying Missouri's quarterly-filer
+  due-date rule: Last day of the following month\; annual filers due January
+  31. This is a representative recurring pattern\, not a single annual deadl
+ ine - actual filing frequency (monthly/quarterly/annual) is assigned per bu
+ siness by the state. | Authority: Direct fetch of Missouri's own tax agency
+  site this session | Source: https://dor.mo.gov/faq/taxation/business/sales
+ -tax-filing.html | This date is computed from a recurrence rule and may not
+  reflect a later-announced change\; confirm against the cited source before
+  relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-missouri-q2-2032-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320731
+DTEND;VALUE=DATE:20320801
+SUMMARY:Missouri: State sales & use tax return due
+DESCRIPTION:Last day of the following month\; annual filers due January 31.
+  | Q2 2026 (Apr-Jun) sales tax return\, applying Missouri's quarterly-filer
+  due-date rule: Last day of the following month\; annual filers due January
+  31. This is a representative recurring pattern\, not a single annual deadl
+ ine - actual filing frequency (monthly/quarterly/annual) is assigned per bu
+ siness by the state. | Authority: Direct fetch of Missouri's own tax agency
+  site this session | Source: https://dor.mo.gov/faq/taxation/business/sales
+ -tax-filing.html | This date is computed from a recurrence rule and may not
+  reflect a later-announced change\; confirm against the cited source before
+  relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-missouri-q3-2025-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20251031
+DTEND;VALUE=DATE:20251101
+SUMMARY:Missouri: State sales & use tax return due
+DESCRIPTION:Last day of the following month\; annual filers due January 31.
+  | Q3 2026 (Jul-Sep) sales tax return\, applying Missouri's quarterly-filer
+  due-date rule: Last day of the following month\; annual filers due January
+  31. This is a representative recurring pattern\, not a single annual deadl
+ ine - actual filing frequency (monthly/quarterly/annual) is assigned per bu
+ siness by the state. | Authority: Direct fetch of Missouri's own tax agency
+  site this session | Source: https://dor.mo.gov/faq/taxation/business/sales
+ -tax-filing.html | This date is computed from a recurrence rule and may not
+  reflect a later-announced change\; confirm against the cited source before
+  relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-missouri-q3-2026-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Missouri: State sales & use tax return due
+DESCRIPTION:Last day of the following month\; annual filers due January 31.
+  | Q3 2026 (Jul-Sep) sales tax return\, applying Missouri's quarterly-filer
+  due-date rule: Last day of the following month\; annual filers due January
+  31. This is a representative recurring pattern\, not a single annual deadl
+ ine - actual filing frequency (monthly/quarterly/annual) is assigned per bu
+ siness by the state. | Authority: Direct fetch of Missouri's own tax agency
+  site this session | Source: https://dor.mo.gov/faq/taxation/business/sales
+ -tax-filing.html | This date is computed from a recurrence rule and may not
+  reflect a later-announced change\; confirm against the cited source before
+  relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-missouri-q3-2027-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20271031
+DTEND;VALUE=DATE:20271101
+SUMMARY:Missouri: State sales & use tax return due
+DESCRIPTION:Last day of the following month\; annual filers due January 31.
+  | Q3 2026 (Jul-Sep) sales tax return\, applying Missouri's quarterly-filer
+  due-date rule: Last day of the following month\; annual filers due January
+  31. This is a representative recurring pattern\, not a single annual deadl
+ ine - actual filing frequency (monthly/quarterly/annual) is assigned per bu
+ siness by the state. | Authority: Direct fetch of Missouri's own tax agency
+  site this session | Source: https://dor.mo.gov/faq/taxation/business/sales
+ -tax-filing.html | This date is computed from a recurrence rule and may not
+  reflect a later-announced change\; confirm against the cited source before
+  relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-missouri-q3-2028-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20281031
+DTEND;VALUE=DATE:20281101
+SUMMARY:Missouri: State sales & use tax return due
+DESCRIPTION:Last day of the following month\; annual filers due January 31.
+  | Q3 2026 (Jul-Sep) sales tax return\, applying Missouri's quarterly-filer
+  due-date rule: Last day of the following month\; annual filers due January
+  31. This is a representative recurring pattern\, not a single annual deadl
+ ine - actual filing frequency (monthly/quarterly/annual) is assigned per bu
+ siness by the state. | Authority: Direct fetch of Missouri's own tax agency
+  site this session | Source: https://dor.mo.gov/faq/taxation/business/sales
+ -tax-filing.html | This date is computed from a recurrence rule and may not
+  reflect a later-announced change\; confirm against the cited source before
+  relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-missouri-q3-2029-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20291031
+DTEND;VALUE=DATE:20291101
+SUMMARY:Missouri: State sales & use tax return due
+DESCRIPTION:Last day of the following month\; annual filers due January 31.
+  | Q3 2026 (Jul-Sep) sales tax return\, applying Missouri's quarterly-filer
+  due-date rule: Last day of the following month\; annual filers due January
+  31. This is a representative recurring pattern\, not a single annual deadl
+ ine - actual filing frequency (monthly/quarterly/annual) is assigned per bu
+ siness by the state. | Authority: Direct fetch of Missouri's own tax agency
+  site this session | Source: https://dor.mo.gov/faq/taxation/business/sales
+ -tax-filing.html | This date is computed from a recurrence rule and may not
+  reflect a later-announced change\; confirm against the cited source before
+  relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-missouri-q3-2030-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20301031
+DTEND;VALUE=DATE:20301101
+SUMMARY:Missouri: State sales & use tax return due
+DESCRIPTION:Last day of the following month\; annual filers due January 31.
+  | Q3 2026 (Jul-Sep) sales tax return\, applying Missouri's quarterly-filer
+  due-date rule: Last day of the following month\; annual filers due January
+  31. This is a representative recurring pattern\, not a single annual deadl
+ ine - actual filing frequency (monthly/quarterly/annual) is assigned per bu
+ siness by the state. | Authority: Direct fetch of Missouri's own tax agency
+  site this session | Source: https://dor.mo.gov/faq/taxation/business/sales
+ -tax-filing.html | This date is computed from a recurrence rule and may not
+  reflect a later-announced change\; confirm against the cited source before
+  relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-missouri-q3-2031-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20311031
+DTEND;VALUE=DATE:20311101
+SUMMARY:Missouri: State sales & use tax return due
+DESCRIPTION:Last day of the following month\; annual filers due January 31.
+  | Q3 2026 (Jul-Sep) sales tax return\, applying Missouri's quarterly-filer
+  due-date rule: Last day of the following month\; annual filers due January
+  31. This is a representative recurring pattern\, not a single annual deadl
+ ine - actual filing frequency (monthly/quarterly/annual) is assigned per bu
+ siness by the state. | Authority: Direct fetch of Missouri's own tax agency
+  site this session | Source: https://dor.mo.gov/faq/taxation/business/sales
+ -tax-filing.html | This date is computed from a recurrence rule and may not
+  reflect a later-announced change\; confirm against the cited source before
+  relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-missouri-q3-2032-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20321031
+DTEND;VALUE=DATE:20321101
+SUMMARY:Missouri: State sales & use tax return due
+DESCRIPTION:Last day of the following month\; annual filers due January 31.
+  | Q3 2026 (Jul-Sep) sales tax return\, applying Missouri's quarterly-filer
+  due-date rule: Last day of the following month\; annual filers due January
+  31. This is a representative recurring pattern\, not a single annual deadl
+ ine - actual filing frequency (monthly/quarterly/annual) is assigned per bu
+ siness by the state. | Authority: Direct fetch of Missouri's own tax agency
+  site this session | Source: https://dor.mo.gov/faq/taxation/business/sales
+ -tax-filing.html | This date is computed from a recurrence rule and may not
+  reflect a later-announced change\; confirm against the cited source before
+  relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-missouri-q4-2025-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250131
+DTEND;VALUE=DATE:20250201
+SUMMARY:Missouri: State sales & use tax return due
+DESCRIPTION:Last day of the following month\; annual filers due January 31.
+  | Q4 2026 (Oct-Dec) sales tax return\, applying Missouri's quarterly-filer
+  due-date rule: Last day of the following month\; annual filers due January
+  31. This is a representative recurring pattern\, not a single annual deadl
+ ine - actual filing frequency (monthly/quarterly/annual) is assigned per bu
+ siness by the state. | Authority: Direct fetch of Missouri's own tax agency
+  site this session | Source: https://dor.mo.gov/faq/taxation/business/sales
+ -tax-filing.html | This date is computed from a recurrence rule and may not
+  reflect a later-announced change\; confirm against the cited source before
+  relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-missouri-q4-2026-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:Missouri: State sales & use tax return due
+DESCRIPTION:Last day of the following month\; annual filers due January 31.
+  | Q4 2026 (Oct-Dec) sales tax return\, applying Missouri's quarterly-filer
+  due-date rule: Last day of the following month\; annual filers due January
+  31. This is a representative recurring pattern\, not a single annual deadl
+ ine - actual filing frequency (monthly/quarterly/annual) is assigned per bu
+ siness by the state. | Authority: Direct fetch of Missouri's own tax agency
+  site this session | Source: https://dor.mo.gov/faq/taxation/business/sales
+ -tax-filing.html | This date is computed from a recurrence rule and may not
+  reflect a later-announced change\; confirm against the cited source before
+  relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-missouri-q4-2027-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Missouri: State sales & use tax return due
+DESCRIPTION:Last day of the following month\; annual filers due January 31.
+  | Q4 2026 (Oct-Dec) sales tax return\, applying Missouri's quarterly-filer
+  due-date rule: Last day of the following month\; annual filers due January
+  31. This is a representative recurring pattern\, not a single annual deadl
+ ine - actual filing frequency (monthly/quarterly/annual) is assigned per bu
+ siness by the state. | Authority: Direct fetch of Missouri's own tax agency
+  site this session | Source: https://dor.mo.gov/faq/taxation/business/sales
+ -tax-filing.html | This date is computed from a recurrence rule and may not
+  reflect a later-announced change\; confirm against the cited source before
+  relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-missouri-q4-2028-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280131
+DTEND;VALUE=DATE:20280201
+SUMMARY:Missouri: State sales & use tax return due
+DESCRIPTION:Last day of the following month\; annual filers due January 31.
+  | Q4 2026 (Oct-Dec) sales tax return\, applying Missouri's quarterly-filer
+  due-date rule: Last day of the following month\; annual filers due January
+  31. This is a representative recurring pattern\, not a single annual deadl
+ ine - actual filing frequency (monthly/quarterly/annual) is assigned per bu
+ siness by the state. | Authority: Direct fetch of Missouri's own tax agency
+  site this session | Source: https://dor.mo.gov/faq/taxation/business/sales
+ -tax-filing.html | This date is computed from a recurrence rule and may not
+  reflect a later-announced change\; confirm against the cited source before
+  relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-missouri-q4-2029-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290131
+DTEND;VALUE=DATE:20290201
+SUMMARY:Missouri: State sales & use tax return due
+DESCRIPTION:Last day of the following month\; annual filers due January 31.
+  | Q4 2026 (Oct-Dec) sales tax return\, applying Missouri's quarterly-filer
+  due-date rule: Last day of the following month\; annual filers due January
+  31. This is a representative recurring pattern\, not a single annual deadl
+ ine - actual filing frequency (monthly/quarterly/annual) is assigned per bu
+ siness by the state. | Authority: Direct fetch of Missouri's own tax agency
+  site this session | Source: https://dor.mo.gov/faq/taxation/business/sales
+ -tax-filing.html | This date is computed from a recurrence rule and may not
+  reflect a later-announced change\; confirm against the cited source before
+  relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-missouri-q4-2030-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300131
+DTEND;VALUE=DATE:20300201
+SUMMARY:Missouri: State sales & use tax return due
+DESCRIPTION:Last day of the following month\; annual filers due January 31.
+  | Q4 2026 (Oct-Dec) sales tax return\, applying Missouri's quarterly-filer
+  due-date rule: Last day of the following month\; annual filers due January
+  31. This is a representative recurring pattern\, not a single annual deadl
+ ine - actual filing frequency (monthly/quarterly/annual) is assigned per bu
+ siness by the state. | Authority: Direct fetch of Missouri's own tax agency
+  site this session | Source: https://dor.mo.gov/faq/taxation/business/sales
+ -tax-filing.html | This date is computed from a recurrence rule and may not
+  reflect a later-announced change\; confirm against the cited source before
+  relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-missouri-q4-2031-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310131
+DTEND;VALUE=DATE:20310201
+SUMMARY:Missouri: State sales & use tax return due
+DESCRIPTION:Last day of the following month\; annual filers due January 31.
+  | Q4 2026 (Oct-Dec) sales tax return\, applying Missouri's quarterly-filer
+  due-date rule: Last day of the following month\; annual filers due January
+  31. This is a representative recurring pattern\, not a single annual deadl
+ ine - actual filing frequency (monthly/quarterly/annual) is assigned per bu
+ siness by the state. | Authority: Direct fetch of Missouri's own tax agency
+  site this session | Source: https://dor.mo.gov/faq/taxation/business/sales
+ -tax-filing.html | This date is computed from a recurrence rule and may not
+  reflect a later-announced change\; confirm against the cited source before
+  relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-missouri-q4-2032-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320131
+DTEND;VALUE=DATE:20320201
+SUMMARY:Missouri: State sales & use tax return due
+DESCRIPTION:Last day of the following month\; annual filers due January 31.
+  | Q4 2026 (Oct-Dec) sales tax return\, applying Missouri's quarterly-filer
+  due-date rule: Last day of the following month\; annual filers due January
+  31. This is a representative recurring pattern\, not a single annual deadl
+ ine - actual filing frequency (monthly/quarterly/annual) is assigned per bu
+ siness by the state. | Authority: Direct fetch of Missouri's own tax agency
+  site this session | Source: https://dor.mo.gov/faq/taxation/business/sales
+ -tax-filing.html | This date is computed from a recurrence rule and may not
+  reflect a later-announced change\; confirm against the cited source before
+  relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

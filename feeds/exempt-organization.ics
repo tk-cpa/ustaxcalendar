@@ -1,0 +1,315 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tk.cpa//US Tax Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:US Tax Calendar - Exempt Organization
+X-WR-CALDESC:Recurring US tax filing deadlines from ustaxcalendar.com (a tk
+ .cpa resource). Reference only\, not tax advice.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:fed-990-2025-05-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250515
+DTEND;VALUE=DATE:20250516
+SUMMARY:Federal: 990 / 990-EZ / 990-PF due
+DESCRIPTION:15th day of the 5th month after the close of the accounting per
+ iod | For a calendar-year exempt organization\, Form 990\, 990-EZ\, or 990-
+ PF for tax year 2025 is due May 15\, 2026. Form 8868 provides an automatic 
+ 6-month extension to November 15\, 2026. | Authority: IRS: "Form 990\, 990-
+ EZ\, or 990-PF must be filed by the 15th day of the 5th month after the end
+  of your organization's accounting period." Form 8868 grants an automatic 6
+ -month extension. | Source: https://www.irs.gov/charities-non-profits/annua
+ l-exempt-organization-return-due-date | This date is computed from a recurr
+ ence rule and may not reflect a later-announced change\; confirm against th
+ e cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-990-2026-05-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:Federal: 990 / 990-EZ / 990-PF due
+DESCRIPTION:15th day of the 5th month after the close of the accounting per
+ iod | For a calendar-year exempt organization\, Form 990\, 990-EZ\, or 990-
+ PF for tax year 2025 is due May 15\, 2026. Form 8868 provides an automatic 
+ 6-month extension to November 15\, 2026. | Authority: IRS: "Form 990\, 990-
+ EZ\, or 990-PF must be filed by the 15th day of the 5th month after the end
+  of your organization's accounting period." Form 8868 grants an automatic 6
+ -month extension. | Source: https://www.irs.gov/charities-non-profits/annua
+ l-exempt-organization-return-due-date | This date is computed from a recurr
+ ence rule and may not reflect a later-announced change\; confirm against th
+ e cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-990-2027-05-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:Federal: 990 / 990-EZ / 990-PF due
+DESCRIPTION:15th day of the 5th month after the close of the accounting per
+ iod | For a calendar-year exempt organization\, Form 990\, 990-EZ\, or 990-
+ PF for tax year 2025 is due May 15\, 2026. Form 8868 provides an automatic 
+ 6-month extension to November 15\, 2026. | Authority: IRS: "Form 990\, 990-
+ EZ\, or 990-PF must be filed by the 15th day of the 5th month after the end
+  of your organization's accounting period." Form 8868 grants an automatic 6
+ -month extension. | Source: https://www.irs.gov/charities-non-profits/annua
+ l-exempt-organization-return-due-date | This date is computed from a recurr
+ ence rule and may not reflect a later-announced change\; confirm against th
+ e cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-990-2028-05-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280515
+DTEND;VALUE=DATE:20280516
+SUMMARY:Federal: 990 / 990-EZ / 990-PF due
+DESCRIPTION:15th day of the 5th month after the close of the accounting per
+ iod | For a calendar-year exempt organization\, Form 990\, 990-EZ\, or 990-
+ PF for tax year 2025 is due May 15\, 2026. Form 8868 provides an automatic 
+ 6-month extension to November 15\, 2026. | Authority: IRS: "Form 990\, 990-
+ EZ\, or 990-PF must be filed by the 15th day of the 5th month after the end
+  of your organization's accounting period." Form 8868 grants an automatic 6
+ -month extension. | Source: https://www.irs.gov/charities-non-profits/annua
+ l-exempt-organization-return-due-date | This date is computed from a recurr
+ ence rule and may not reflect a later-announced change\; confirm against th
+ e cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-990-2029-05-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290515
+DTEND;VALUE=DATE:20290516
+SUMMARY:Federal: 990 / 990-EZ / 990-PF due
+DESCRIPTION:15th day of the 5th month after the close of the accounting per
+ iod | For a calendar-year exempt organization\, Form 990\, 990-EZ\, or 990-
+ PF for tax year 2025 is due May 15\, 2026. Form 8868 provides an automatic 
+ 6-month extension to November 15\, 2026. | Authority: IRS: "Form 990\, 990-
+ EZ\, or 990-PF must be filed by the 15th day of the 5th month after the end
+  of your organization's accounting period." Form 8868 grants an automatic 6
+ -month extension. | Source: https://www.irs.gov/charities-non-profits/annua
+ l-exempt-organization-return-due-date | This date is computed from a recurr
+ ence rule and may not reflect a later-announced change\; confirm against th
+ e cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-990-2030-05-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300515
+DTEND;VALUE=DATE:20300516
+SUMMARY:Federal: 990 / 990-EZ / 990-PF due
+DESCRIPTION:15th day of the 5th month after the close of the accounting per
+ iod | For a calendar-year exempt organization\, Form 990\, 990-EZ\, or 990-
+ PF for tax year 2025 is due May 15\, 2026. Form 8868 provides an automatic 
+ 6-month extension to November 15\, 2026. | Authority: IRS: "Form 990\, 990-
+ EZ\, or 990-PF must be filed by the 15th day of the 5th month after the end
+  of your organization's accounting period." Form 8868 grants an automatic 6
+ -month extension. | Source: https://www.irs.gov/charities-non-profits/annua
+ l-exempt-organization-return-due-date | This date is computed from a recurr
+ ence rule and may not reflect a later-announced change\; confirm against th
+ e cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-990-2031-05-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310515
+DTEND;VALUE=DATE:20310516
+SUMMARY:Federal: 990 / 990-EZ / 990-PF due
+DESCRIPTION:15th day of the 5th month after the close of the accounting per
+ iod | For a calendar-year exempt organization\, Form 990\, 990-EZ\, or 990-
+ PF for tax year 2025 is due May 15\, 2026. Form 8868 provides an automatic 
+ 6-month extension to November 15\, 2026. | Authority: IRS: "Form 990\, 990-
+ EZ\, or 990-PF must be filed by the 15th day of the 5th month after the end
+  of your organization's accounting period." Form 8868 grants an automatic 6
+ -month extension. | Source: https://www.irs.gov/charities-non-profits/annua
+ l-exempt-organization-return-due-date | This date is computed from a recurr
+ ence rule and may not reflect a later-announced change\; confirm against th
+ e cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-990-2032-05-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320517
+DTEND;VALUE=DATE:20320518
+SUMMARY:Federal: 990 / 990-EZ / 990-PF due
+DESCRIPTION:15th day of the 5th month after the close of the accounting per
+ iod | For a calendar-year exempt organization\, Form 990\, 990-EZ\, or 990-
+ PF for tax year 2025 is due May 15\, 2026. Form 8868 provides an automatic 
+ 6-month extension to November 15\, 2026. | Authority: IRS: "Form 990\, 990-
+ EZ\, or 990-PF must be filed by the 15th day of the 5th month after the end
+  of your organization's accounting period." Form 8868 grants an automatic 6
+ -month extension. | Source: https://www.irs.gov/charities-non-profits/annua
+ l-exempt-organization-return-due-date | This date is computed from a recurr
+ ence rule and may not reflect a later-announced change\; confirm against th
+ e cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-990-n-2025-05-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250515
+DTEND;VALUE=DATE:20250516
+SUMMARY:Federal: 990-N due
+DESCRIPTION:15th day of the 5th month after the close of the accounting per
+ iod | Form 990-N for a calendar-year small exempt organization is due May 1
+ 5\, 2026\, same as the 990/990-EZ/990-PF due date. Unlike those forms\, the
+  990-N due date cannot be extended - there is no extension mechanism\, thou
+ gh the IRS states there is no penalty for late submission unless it is the 
+ organization's third consecutive missed year (which triggers automatic revo
+ cation of exempt status). | Authority: IRS: "The 990-N due date cannot be e
+ xtended\, but there is no penalty for submitting it late unless it's the th
+ ird (and only) year." | Source: https://www.irs.gov/charities-non-profits/a
+ nnual-exempt-organization-return-due-date | This date is computed from a re
+ currence rule and may not reflect a later-announced change\; confirm agains
+ t the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-990-n-2026-05-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:Federal: 990-N due
+DESCRIPTION:15th day of the 5th month after the close of the accounting per
+ iod | Form 990-N for a calendar-year small exempt organization is due May 1
+ 5\, 2026\, same as the 990/990-EZ/990-PF due date. Unlike those forms\, the
+  990-N due date cannot be extended - there is no extension mechanism\, thou
+ gh the IRS states there is no penalty for late submission unless it is the 
+ organization's third consecutive missed year (which triggers automatic revo
+ cation of exempt status). | Authority: IRS: "The 990-N due date cannot be e
+ xtended\, but there is no penalty for submitting it late unless it's the th
+ ird (and only) year." | Source: https://www.irs.gov/charities-non-profits/a
+ nnual-exempt-organization-return-due-date | This date is computed from a re
+ currence rule and may not reflect a later-announced change\; confirm agains
+ t the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-990-n-2027-05-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:Federal: 990-N due
+DESCRIPTION:15th day of the 5th month after the close of the accounting per
+ iod | Form 990-N for a calendar-year small exempt organization is due May 1
+ 5\, 2026\, same as the 990/990-EZ/990-PF due date. Unlike those forms\, the
+  990-N due date cannot be extended - there is no extension mechanism\, thou
+ gh the IRS states there is no penalty for late submission unless it is the 
+ organization's third consecutive missed year (which triggers automatic revo
+ cation of exempt status). | Authority: IRS: "The 990-N due date cannot be e
+ xtended\, but there is no penalty for submitting it late unless it's the th
+ ird (and only) year." | Source: https://www.irs.gov/charities-non-profits/a
+ nnual-exempt-organization-return-due-date | This date is computed from a re
+ currence rule and may not reflect a later-announced change\; confirm agains
+ t the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-990-n-2028-05-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280515
+DTEND;VALUE=DATE:20280516
+SUMMARY:Federal: 990-N due
+DESCRIPTION:15th day of the 5th month after the close of the accounting per
+ iod | Form 990-N for a calendar-year small exempt organization is due May 1
+ 5\, 2026\, same as the 990/990-EZ/990-PF due date. Unlike those forms\, the
+  990-N due date cannot be extended - there is no extension mechanism\, thou
+ gh the IRS states there is no penalty for late submission unless it is the 
+ organization's third consecutive missed year (which triggers automatic revo
+ cation of exempt status). | Authority: IRS: "The 990-N due date cannot be e
+ xtended\, but there is no penalty for submitting it late unless it's the th
+ ird (and only) year." | Source: https://www.irs.gov/charities-non-profits/a
+ nnual-exempt-organization-return-due-date | This date is computed from a re
+ currence rule and may not reflect a later-announced change\; confirm agains
+ t the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-990-n-2029-05-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290515
+DTEND;VALUE=DATE:20290516
+SUMMARY:Federal: 990-N due
+DESCRIPTION:15th day of the 5th month after the close of the accounting per
+ iod | Form 990-N for a calendar-year small exempt organization is due May 1
+ 5\, 2026\, same as the 990/990-EZ/990-PF due date. Unlike those forms\, the
+  990-N due date cannot be extended - there is no extension mechanism\, thou
+ gh the IRS states there is no penalty for late submission unless it is the 
+ organization's third consecutive missed year (which triggers automatic revo
+ cation of exempt status). | Authority: IRS: "The 990-N due date cannot be e
+ xtended\, but there is no penalty for submitting it late unless it's the th
+ ird (and only) year." | Source: https://www.irs.gov/charities-non-profits/a
+ nnual-exempt-organization-return-due-date | This date is computed from a re
+ currence rule and may not reflect a later-announced change\; confirm agains
+ t the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-990-n-2030-05-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300515
+DTEND;VALUE=DATE:20300516
+SUMMARY:Federal: 990-N due
+DESCRIPTION:15th day of the 5th month after the close of the accounting per
+ iod | Form 990-N for a calendar-year small exempt organization is due May 1
+ 5\, 2026\, same as the 990/990-EZ/990-PF due date. Unlike those forms\, the
+  990-N due date cannot be extended - there is no extension mechanism\, thou
+ gh the IRS states there is no penalty for late submission unless it is the 
+ organization's third consecutive missed year (which triggers automatic revo
+ cation of exempt status). | Authority: IRS: "The 990-N due date cannot be e
+ xtended\, but there is no penalty for submitting it late unless it's the th
+ ird (and only) year." | Source: https://www.irs.gov/charities-non-profits/a
+ nnual-exempt-organization-return-due-date | This date is computed from a re
+ currence rule and may not reflect a later-announced change\; confirm agains
+ t the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-990-n-2031-05-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310515
+DTEND;VALUE=DATE:20310516
+SUMMARY:Federal: 990-N due
+DESCRIPTION:15th day of the 5th month after the close of the accounting per
+ iod | Form 990-N for a calendar-year small exempt organization is due May 1
+ 5\, 2026\, same as the 990/990-EZ/990-PF due date. Unlike those forms\, the
+  990-N due date cannot be extended - there is no extension mechanism\, thou
+ gh the IRS states there is no penalty for late submission unless it is the 
+ organization's third consecutive missed year (which triggers automatic revo
+ cation of exempt status). | Authority: IRS: "The 990-N due date cannot be e
+ xtended\, but there is no penalty for submitting it late unless it's the th
+ ird (and only) year." | Source: https://www.irs.gov/charities-non-profits/a
+ nnual-exempt-organization-return-due-date | This date is computed from a re
+ currence rule and may not reflect a later-announced change\; confirm agains
+ t the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-990-n-2032-05-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320517
+DTEND;VALUE=DATE:20320518
+SUMMARY:Federal: 990-N due
+DESCRIPTION:15th day of the 5th month after the close of the accounting per
+ iod | Form 990-N for a calendar-year small exempt organization is due May 1
+ 5\, 2026\, same as the 990/990-EZ/990-PF due date. Unlike those forms\, the
+  990-N due date cannot be extended - there is no extension mechanism\, thou
+ gh the IRS states there is no penalty for late submission unless it is the 
+ organization's third consecutive missed year (which triggers automatic revo
+ cation of exempt status). | Authority: IRS: "The 990-N due date cannot be e
+ xtended\, but there is no penalty for submitting it late unless it's the th
+ ird (and only) year." | Source: https://www.irs.gov/charities-non-profits/a
+ nnual-exempt-organization-return-due-date | This date is computed from a re
+ currence rule and may not reflect a later-announced change\; confirm agains
+ t the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

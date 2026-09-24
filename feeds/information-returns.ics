@@ -1,0 +1,947 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tk.cpa//US Tax Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:US Tax Calendar - Information Returns
+X-WR-CALDESC:Recurring US tax filing deadlines from ustaxcalendar.com (a tk
+ .cpa resource). Reference only\, not tax advice.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:fed-w2-employees-2025-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250131
+DTEND;VALUE=DATE:20250201
+SUMMARY:Federal: W-2 (to employees) due
+DESCRIPTION:Furnish 2025 Form W-2 copies to employees | Furnish employees t
+ heir 2025 Form W-2 (January 31 falls on a Saturday\, so the due date moves 
+ to the next business day). | Authority: IRS Pub. 509 (2026)\, Employer's Ta
+ x Calendar\, February 2 | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-w2-employees-2026-02-02@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260203
+SUMMARY:Federal: W-2 (to employees) due
+DESCRIPTION:Furnish 2025 Form W-2 copies to employees | Furnish employees t
+ heir 2025 Form W-2 (January 31 falls on a Saturday\, so the due date moves 
+ to the next business day). | Authority: IRS Pub. 509 (2026)\, Employer's Ta
+ x Calendar\, February 2 | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-w2-employees-2027-02-01@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:Federal: W-2 (to employees) due
+DESCRIPTION:Furnish 2025 Form W-2 copies to employees | Furnish employees t
+ heir 2025 Form W-2 (January 31 falls on a Saturday\, so the due date moves 
+ to the next business day). | Authority: IRS Pub. 509 (2026)\, Employer's Ta
+ x Calendar\, February 2 | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-w2-employees-2028-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280131
+DTEND;VALUE=DATE:20280201
+SUMMARY:Federal: W-2 (to employees) due
+DESCRIPTION:Furnish 2025 Form W-2 copies to employees | Furnish employees t
+ heir 2025 Form W-2 (January 31 falls on a Saturday\, so the due date moves 
+ to the next business day). | Authority: IRS Pub. 509 (2026)\, Employer's Ta
+ x Calendar\, February 2 | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-w2-employees-2029-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290131
+DTEND;VALUE=DATE:20290201
+SUMMARY:Federal: W-2 (to employees) due
+DESCRIPTION:Furnish 2025 Form W-2 copies to employees | Furnish employees t
+ heir 2025 Form W-2 (January 31 falls on a Saturday\, so the due date moves 
+ to the next business day). | Authority: IRS Pub. 509 (2026)\, Employer's Ta
+ x Calendar\, February 2 | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-w2-employees-2030-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300131
+DTEND;VALUE=DATE:20300201
+SUMMARY:Federal: W-2 (to employees) due
+DESCRIPTION:Furnish 2025 Form W-2 copies to employees | Furnish employees t
+ heir 2025 Form W-2 (January 31 falls on a Saturday\, so the due date moves 
+ to the next business day). | Authority: IRS Pub. 509 (2026)\, Employer's Ta
+ x Calendar\, February 2 | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-w2-employees-2031-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310131
+DTEND;VALUE=DATE:20310201
+SUMMARY:Federal: W-2 (to employees) due
+DESCRIPTION:Furnish 2025 Form W-2 copies to employees | Furnish employees t
+ heir 2025 Form W-2 (January 31 falls on a Saturday\, so the due date moves 
+ to the next business day). | Authority: IRS Pub. 509 (2026)\, Employer's Ta
+ x Calendar\, February 2 | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-w2-employees-2032-02-02@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320202
+DTEND;VALUE=DATE:20320203
+SUMMARY:Federal: W-2 (to employees) due
+DESCRIPTION:Furnish 2025 Form W-2 copies to employees | Furnish employees t
+ heir 2025 Form W-2 (January 31 falls on a Saturday\, so the due date moves 
+ to the next business day). | Authority: IRS Pub. 509 (2026)\, Employer's Ta
+ x Calendar\, February 2 | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-w2-ssa-2025-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250131
+DTEND;VALUE=DATE:20250201
+SUMMARY:Federal: W-2 / W-3 (to SSA) due
+DESCRIPTION:File 2025 Forms W-2 with Form W-3 with the SSA | File Copy A of
+  all 2025 Forms W-2 with Form W-3 with the Social Security Administration. 
+ | Authority: IRS Pub. 509 (2026)\, Employer's Tax Calendar\, February 2 | S
+ ource: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-w2-ssa-2026-02-02@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260203
+SUMMARY:Federal: W-2 / W-3 (to SSA) due
+DESCRIPTION:File 2025 Forms W-2 with Form W-3 with the SSA | File Copy A of
+  all 2025 Forms W-2 with Form W-3 with the Social Security Administration. 
+ | Authority: IRS Pub. 509 (2026)\, Employer's Tax Calendar\, February 2 | S
+ ource: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-w2-ssa-2027-02-01@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:Federal: W-2 / W-3 (to SSA) due
+DESCRIPTION:File 2025 Forms W-2 with Form W-3 with the SSA | File Copy A of
+  all 2025 Forms W-2 with Form W-3 with the Social Security Administration. 
+ | Authority: IRS Pub. 509 (2026)\, Employer's Tax Calendar\, February 2 | S
+ ource: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-w2-ssa-2028-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280131
+DTEND;VALUE=DATE:20280201
+SUMMARY:Federal: W-2 / W-3 (to SSA) due
+DESCRIPTION:File 2025 Forms W-2 with Form W-3 with the SSA | File Copy A of
+  all 2025 Forms W-2 with Form W-3 with the Social Security Administration. 
+ | Authority: IRS Pub. 509 (2026)\, Employer's Tax Calendar\, February 2 | S
+ ource: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-w2-ssa-2029-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290131
+DTEND;VALUE=DATE:20290201
+SUMMARY:Federal: W-2 / W-3 (to SSA) due
+DESCRIPTION:File 2025 Forms W-2 with Form W-3 with the SSA | File Copy A of
+  all 2025 Forms W-2 with Form W-3 with the Social Security Administration. 
+ | Authority: IRS Pub. 509 (2026)\, Employer's Tax Calendar\, February 2 | S
+ ource: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-w2-ssa-2030-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300131
+DTEND;VALUE=DATE:20300201
+SUMMARY:Federal: W-2 / W-3 (to SSA) due
+DESCRIPTION:File 2025 Forms W-2 with Form W-3 with the SSA | File Copy A of
+  all 2025 Forms W-2 with Form W-3 with the Social Security Administration. 
+ | Authority: IRS Pub. 509 (2026)\, Employer's Tax Calendar\, February 2 | S
+ ource: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-w2-ssa-2031-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310131
+DTEND;VALUE=DATE:20310201
+SUMMARY:Federal: W-2 / W-3 (to SSA) due
+DESCRIPTION:File 2025 Forms W-2 with Form W-3 with the SSA | File Copy A of
+  all 2025 Forms W-2 with Form W-3 with the Social Security Administration. 
+ | Authority: IRS Pub. 509 (2026)\, Employer's Tax Calendar\, February 2 | S
+ ource: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-w2-ssa-2032-02-02@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320202
+DTEND;VALUE=DATE:20320203
+SUMMARY:Federal: W-2 / W-3 (to SSA) due
+DESCRIPTION:File 2025 Forms W-2 with Form W-3 with the SSA | File Copy A of
+  all 2025 Forms W-2 with Form W-3 with the Social Security Administration. 
+ | Authority: IRS Pub. 509 (2026)\, Employer's Tax Calendar\, February 2 | S
+ ource: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-1099nec-2025-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250131
+DTEND;VALUE=DATE:20250201
+SUMMARY:Federal: 1099-NEC due
+DESCRIPTION:File with the IRS and furnish to recipients | File Form 1099-NE
+ C for nonemployee compensation paid in 2025 and furnish copies to recipient
+ s (February 2\, since January 31 falls on a Saturday). | Authority: IRS Pub
+ . 509 (2026)\, General Tax Calendar\, February 2 | Source: https://www.irs.
+ gov/pub/irs-pdf/p509.pdf | This date is computed from a recurrence rule and
+  may not reflect a later-announced change\; confirm against the cited sourc
+ e before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-1099nec-2026-02-02@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260203
+SUMMARY:Federal: 1099-NEC due
+DESCRIPTION:File with the IRS and furnish to recipients | File Form 1099-NE
+ C for nonemployee compensation paid in 2025 and furnish copies to recipient
+ s (February 2\, since January 31 falls on a Saturday). | Authority: IRS Pub
+ . 509 (2026)\, General Tax Calendar\, February 2 | Source: https://www.irs.
+ gov/pub/irs-pdf/p509.pdf | This date is computed from a recurrence rule and
+  may not reflect a later-announced change\; confirm against the cited sourc
+ e before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-1099nec-2027-02-01@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:Federal: 1099-NEC due
+DESCRIPTION:File with the IRS and furnish to recipients | File Form 1099-NE
+ C for nonemployee compensation paid in 2025 and furnish copies to recipient
+ s (February 2\, since January 31 falls on a Saturday). | Authority: IRS Pub
+ . 509 (2026)\, General Tax Calendar\, February 2 | Source: https://www.irs.
+ gov/pub/irs-pdf/p509.pdf | This date is computed from a recurrence rule and
+  may not reflect a later-announced change\; confirm against the cited sourc
+ e before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-1099nec-2028-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280131
+DTEND;VALUE=DATE:20280201
+SUMMARY:Federal: 1099-NEC due
+DESCRIPTION:File with the IRS and furnish to recipients | File Form 1099-NE
+ C for nonemployee compensation paid in 2025 and furnish copies to recipient
+ s (February 2\, since January 31 falls on a Saturday). | Authority: IRS Pub
+ . 509 (2026)\, General Tax Calendar\, February 2 | Source: https://www.irs.
+ gov/pub/irs-pdf/p509.pdf | This date is computed from a recurrence rule and
+  may not reflect a later-announced change\; confirm against the cited sourc
+ e before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-1099nec-2029-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290131
+DTEND;VALUE=DATE:20290201
+SUMMARY:Federal: 1099-NEC due
+DESCRIPTION:File with the IRS and furnish to recipients | File Form 1099-NE
+ C for nonemployee compensation paid in 2025 and furnish copies to recipient
+ s (February 2\, since January 31 falls on a Saturday). | Authority: IRS Pub
+ . 509 (2026)\, General Tax Calendar\, February 2 | Source: https://www.irs.
+ gov/pub/irs-pdf/p509.pdf | This date is computed from a recurrence rule and
+  may not reflect a later-announced change\; confirm against the cited sourc
+ e before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-1099nec-2030-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300131
+DTEND;VALUE=DATE:20300201
+SUMMARY:Federal: 1099-NEC due
+DESCRIPTION:File with the IRS and furnish to recipients | File Form 1099-NE
+ C for nonemployee compensation paid in 2025 and furnish copies to recipient
+ s (February 2\, since January 31 falls on a Saturday). | Authority: IRS Pub
+ . 509 (2026)\, General Tax Calendar\, February 2 | Source: https://www.irs.
+ gov/pub/irs-pdf/p509.pdf | This date is computed from a recurrence rule and
+  may not reflect a later-announced change\; confirm against the cited sourc
+ e before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-1099nec-2031-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310131
+DTEND;VALUE=DATE:20310201
+SUMMARY:Federal: 1099-NEC due
+DESCRIPTION:File with the IRS and furnish to recipients | File Form 1099-NE
+ C for nonemployee compensation paid in 2025 and furnish copies to recipient
+ s (February 2\, since January 31 falls on a Saturday). | Authority: IRS Pub
+ . 509 (2026)\, General Tax Calendar\, February 2 | Source: https://www.irs.
+ gov/pub/irs-pdf/p509.pdf | This date is computed from a recurrence rule and
+  may not reflect a later-announced change\; confirm against the cited sourc
+ e before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-1099nec-2032-02-02@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320202
+DTEND;VALUE=DATE:20320203
+SUMMARY:Federal: 1099-NEC due
+DESCRIPTION:File with the IRS and furnish to recipients | File Form 1099-NE
+ C for nonemployee compensation paid in 2025 and furnish copies to recipient
+ s (February 2\, since January 31 falls on a Saturday). | Authority: IRS Pub
+ . 509 (2026)\, General Tax Calendar\, February 2 | Source: https://www.irs.
+ gov/pub/irs-pdf/p509.pdf | This date is computed from a recurrence rule and
+  may not reflect a later-announced change\; confirm against the cited sourc
+ e before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-1099-general-recipient-2025-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250131
+DTEND;VALUE=DATE:20250201
+SUMMARY:Federal: 1099 series (general\, to recipients) due
+DESCRIPTION:Furnish most 2025 Form 1099 statements to recipients | Furnish 
+ recipients most 2025 Form 1099 information statements (dividends\, interest
+ \, rents\, royalties\, retirement distributions\, etc.). | Authority: IRS P
+ ub. 509 (2026)\, General Tax Calendar\, February 2 | Source: https://www.ir
+ s.gov/pub/irs-pdf/p509.pdf | This date is computed from a recurrence rule a
+ nd may not reflect a later-announced change\; confirm against the cited sou
+ rce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-1099-general-recipient-2026-02-02@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260203
+SUMMARY:Federal: 1099 series (general\, to recipients) due
+DESCRIPTION:Furnish most 2025 Form 1099 statements to recipients | Furnish 
+ recipients most 2025 Form 1099 information statements (dividends\, interest
+ \, rents\, royalties\, retirement distributions\, etc.). | Authority: IRS P
+ ub. 509 (2026)\, General Tax Calendar\, February 2 | Source: https://www.ir
+ s.gov/pub/irs-pdf/p509.pdf | This date is computed from a recurrence rule a
+ nd may not reflect a later-announced change\; confirm against the cited sou
+ rce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-1099-general-recipient-2027-02-01@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:Federal: 1099 series (general\, to recipients) due
+DESCRIPTION:Furnish most 2025 Form 1099 statements to recipients | Furnish 
+ recipients most 2025 Form 1099 information statements (dividends\, interest
+ \, rents\, royalties\, retirement distributions\, etc.). | Authority: IRS P
+ ub. 509 (2026)\, General Tax Calendar\, February 2 | Source: https://www.ir
+ s.gov/pub/irs-pdf/p509.pdf | This date is computed from a recurrence rule a
+ nd may not reflect a later-announced change\; confirm against the cited sou
+ rce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-1099-general-recipient-2028-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280131
+DTEND;VALUE=DATE:20280201
+SUMMARY:Federal: 1099 series (general\, to recipients) due
+DESCRIPTION:Furnish most 2025 Form 1099 statements to recipients | Furnish 
+ recipients most 2025 Form 1099 information statements (dividends\, interest
+ \, rents\, royalties\, retirement distributions\, etc.). | Authority: IRS P
+ ub. 509 (2026)\, General Tax Calendar\, February 2 | Source: https://www.ir
+ s.gov/pub/irs-pdf/p509.pdf | This date is computed from a recurrence rule a
+ nd may not reflect a later-announced change\; confirm against the cited sou
+ rce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-1099-general-recipient-2029-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290131
+DTEND;VALUE=DATE:20290201
+SUMMARY:Federal: 1099 series (general\, to recipients) due
+DESCRIPTION:Furnish most 2025 Form 1099 statements to recipients | Furnish 
+ recipients most 2025 Form 1099 information statements (dividends\, interest
+ \, rents\, royalties\, retirement distributions\, etc.). | Authority: IRS P
+ ub. 509 (2026)\, General Tax Calendar\, February 2 | Source: https://www.ir
+ s.gov/pub/irs-pdf/p509.pdf | This date is computed from a recurrence rule a
+ nd may not reflect a later-announced change\; confirm against the cited sou
+ rce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-1099-general-recipient-2030-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300131
+DTEND;VALUE=DATE:20300201
+SUMMARY:Federal: 1099 series (general\, to recipients) due
+DESCRIPTION:Furnish most 2025 Form 1099 statements to recipients | Furnish 
+ recipients most 2025 Form 1099 information statements (dividends\, interest
+ \, rents\, royalties\, retirement distributions\, etc.). | Authority: IRS P
+ ub. 509 (2026)\, General Tax Calendar\, February 2 | Source: https://www.ir
+ s.gov/pub/irs-pdf/p509.pdf | This date is computed from a recurrence rule a
+ nd may not reflect a later-announced change\; confirm against the cited sou
+ rce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-1099-general-recipient-2031-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310131
+DTEND;VALUE=DATE:20310201
+SUMMARY:Federal: 1099 series (general\, to recipients) due
+DESCRIPTION:Furnish most 2025 Form 1099 statements to recipients | Furnish 
+ recipients most 2025 Form 1099 information statements (dividends\, interest
+ \, rents\, royalties\, retirement distributions\, etc.). | Authority: IRS P
+ ub. 509 (2026)\, General Tax Calendar\, February 2 | Source: https://www.ir
+ s.gov/pub/irs-pdf/p509.pdf | This date is computed from a recurrence rule a
+ nd may not reflect a later-announced change\; confirm against the cited sou
+ rce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-1099-general-recipient-2032-02-02@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320202
+DTEND;VALUE=DATE:20320203
+SUMMARY:Federal: 1099 series (general\, to recipients) due
+DESCRIPTION:Furnish most 2025 Form 1099 statements to recipients | Furnish 
+ recipients most 2025 Form 1099 information statements (dividends\, interest
+ \, rents\, royalties\, retirement distributions\, etc.). | Authority: IRS P
+ ub. 509 (2026)\, General Tax Calendar\, February 2 | Source: https://www.ir
+ s.gov/pub/irs-pdf/p509.pdf | This date is computed from a recurrence rule a
+ nd may not reflect a later-announced change\; confirm against the cited sou
+ rce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-1099b-s-misc-recipient-2025-02-18@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250218
+DTEND;VALUE=DATE:20250219
+SUMMARY:Federal: 1099-B / 1099-S / certain 1099-MISC (to recipients) due
+DESCRIPTION:Furnish these specific 1099 types to recipients | Furnish recip
+ ients 2025 Form 1099-B\, Form 1099-S\, and substitute payments or attorney 
+ gross proceeds reported on Form 1099-MISC boxes 8/10. | Authority: IRS Pub.
+  509 (2026)\, General Tax Calendar\, February 17 | Source: https://www.irs.
+ gov/pub/irs-pdf/p509.pdf | This date is computed from a recurrence rule and
+  may not reflect a later-announced change\; confirm against the cited sourc
+ e before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-1099b-s-misc-recipient-2026-02-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260218
+SUMMARY:Federal: 1099-B / 1099-S / certain 1099-MISC (to recipients) due
+DESCRIPTION:Furnish these specific 1099 types to recipients | Furnish recip
+ ients 2025 Form 1099-B\, Form 1099-S\, and substitute payments or attorney 
+ gross proceeds reported on Form 1099-MISC boxes 8/10. | Authority: IRS Pub.
+  509 (2026)\, General Tax Calendar\, February 17 | Source: https://www.irs.
+ gov/pub/irs-pdf/p509.pdf | This date is computed from a recurrence rule and
+  may not reflect a later-announced change\; confirm against the cited sourc
+ e before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-1099b-s-misc-recipient-2027-02-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:Federal: 1099-B / 1099-S / certain 1099-MISC (to recipients) due
+DESCRIPTION:Furnish these specific 1099 types to recipients | Furnish recip
+ ients 2025 Form 1099-B\, Form 1099-S\, and substitute payments or attorney 
+ gross proceeds reported on Form 1099-MISC boxes 8/10. | Authority: IRS Pub.
+  509 (2026)\, General Tax Calendar\, February 17 | Source: https://www.irs.
+ gov/pub/irs-pdf/p509.pdf | This date is computed from a recurrence rule and
+  may not reflect a later-announced change\; confirm against the cited sourc
+ e before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-1099b-s-misc-recipient-2028-02-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280215
+DTEND;VALUE=DATE:20280216
+SUMMARY:Federal: 1099-B / 1099-S / certain 1099-MISC (to recipients) due
+DESCRIPTION:Furnish these specific 1099 types to recipients | Furnish recip
+ ients 2025 Form 1099-B\, Form 1099-S\, and substitute payments or attorney 
+ gross proceeds reported on Form 1099-MISC boxes 8/10. | Authority: IRS Pub.
+  509 (2026)\, General Tax Calendar\, February 17 | Source: https://www.irs.
+ gov/pub/irs-pdf/p509.pdf | This date is computed from a recurrence rule and
+  may not reflect a later-announced change\; confirm against the cited sourc
+ e before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-1099b-s-misc-recipient-2029-02-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290215
+DTEND;VALUE=DATE:20290216
+SUMMARY:Federal: 1099-B / 1099-S / certain 1099-MISC (to recipients) due
+DESCRIPTION:Furnish these specific 1099 types to recipients | Furnish recip
+ ients 2025 Form 1099-B\, Form 1099-S\, and substitute payments or attorney 
+ gross proceeds reported on Form 1099-MISC boxes 8/10. | Authority: IRS Pub.
+  509 (2026)\, General Tax Calendar\, February 17 | Source: https://www.irs.
+ gov/pub/irs-pdf/p509.pdf | This date is computed from a recurrence rule and
+  may not reflect a later-announced change\; confirm against the cited sourc
+ e before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-1099b-s-misc-recipient-2030-02-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300215
+DTEND;VALUE=DATE:20300216
+SUMMARY:Federal: 1099-B / 1099-S / certain 1099-MISC (to recipients) due
+DESCRIPTION:Furnish these specific 1099 types to recipients | Furnish recip
+ ients 2025 Form 1099-B\, Form 1099-S\, and substitute payments or attorney 
+ gross proceeds reported on Form 1099-MISC boxes 8/10. | Authority: IRS Pub.
+  509 (2026)\, General Tax Calendar\, February 17 | Source: https://www.irs.
+ gov/pub/irs-pdf/p509.pdf | This date is computed from a recurrence rule and
+  may not reflect a later-announced change\; confirm against the cited sourc
+ e before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-1099b-s-misc-recipient-2031-02-18@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310218
+DTEND;VALUE=DATE:20310219
+SUMMARY:Federal: 1099-B / 1099-S / certain 1099-MISC (to recipients) due
+DESCRIPTION:Furnish these specific 1099 types to recipients | Furnish recip
+ ients 2025 Form 1099-B\, Form 1099-S\, and substitute payments or attorney 
+ gross proceeds reported on Form 1099-MISC boxes 8/10. | Authority: IRS Pub.
+  509 (2026)\, General Tax Calendar\, February 17 | Source: https://www.irs.
+ gov/pub/irs-pdf/p509.pdf | This date is computed from a recurrence rule and
+  may not reflect a later-announced change\; confirm against the cited sourc
+ e before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-1099b-s-misc-recipient-2032-02-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320217
+DTEND;VALUE=DATE:20320218
+SUMMARY:Federal: 1099-B / 1099-S / certain 1099-MISC (to recipients) due
+DESCRIPTION:Furnish these specific 1099 types to recipients | Furnish recip
+ ients 2025 Form 1099-B\, Form 1099-S\, and substitute payments or attorney 
+ gross proceeds reported on Form 1099-MISC boxes 8/10. | Authority: IRS Pub.
+  509 (2026)\, General Tax Calendar\, February 17 | Source: https://www.irs.
+ gov/pub/irs-pdf/p509.pdf | This date is computed from a recurrence rule and
+  may not reflect a later-announced change\; confirm against the cited sourc
+ e before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-1099-irs-paper-2025-02-28@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250228
+DTEND;VALUE=DATE:20250301
+SUMMARY:Federal: 1099 series (to IRS\, paper) due
+DESCRIPTION:File most 2025 Form 1099s with the IRS on paper | File most 202
+ 5 Forms 1099 (other than 1099-NEC) with the IRS on paper by March 2\, 2026 
+ (February 28 falls on a Saturday in some years\; confirm current-year weeke
+ nd adjustment). | Authority: IRS Pub. 509 (2026)\, General Tax Calendar\, M
+ arch 2 | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-1099-irs-paper-2026-03-02@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260303
+SUMMARY:Federal: 1099 series (to IRS\, paper) due
+DESCRIPTION:File most 2025 Form 1099s with the IRS on paper | File most 202
+ 5 Forms 1099 (other than 1099-NEC) with the IRS on paper by March 2\, 2026 
+ (February 28 falls on a Saturday in some years\; confirm current-year weeke
+ nd adjustment). | Authority: IRS Pub. 509 (2026)\, General Tax Calendar\, M
+ arch 2 | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-1099-irs-paper-2027-03-01@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:Federal: 1099 series (to IRS\, paper) due
+DESCRIPTION:File most 2025 Form 1099s with the IRS on paper | File most 202
+ 5 Forms 1099 (other than 1099-NEC) with the IRS on paper by March 2\, 2026 
+ (February 28 falls on a Saturday in some years\; confirm current-year weeke
+ nd adjustment). | Authority: IRS Pub. 509 (2026)\, General Tax Calendar\, M
+ arch 2 | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-1099-irs-paper-2028-02-29@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280229
+DTEND;VALUE=DATE:20280301
+SUMMARY:Federal: 1099 series (to IRS\, paper) due
+DESCRIPTION:File most 2025 Form 1099s with the IRS on paper | File most 202
+ 5 Forms 1099 (other than 1099-NEC) with the IRS on paper by March 2\, 2026 
+ (February 28 falls on a Saturday in some years\; confirm current-year weeke
+ nd adjustment). | Authority: IRS Pub. 509 (2026)\, General Tax Calendar\, M
+ arch 2 | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-1099-irs-paper-2029-02-28@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290228
+DTEND;VALUE=DATE:20290301
+SUMMARY:Federal: 1099 series (to IRS\, paper) due
+DESCRIPTION:File most 2025 Form 1099s with the IRS on paper | File most 202
+ 5 Forms 1099 (other than 1099-NEC) with the IRS on paper by March 2\, 2026 
+ (February 28 falls on a Saturday in some years\; confirm current-year weeke
+ nd adjustment). | Authority: IRS Pub. 509 (2026)\, General Tax Calendar\, M
+ arch 2 | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-1099-irs-paper-2030-02-28@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300228
+DTEND;VALUE=DATE:20300301
+SUMMARY:Federal: 1099 series (to IRS\, paper) due
+DESCRIPTION:File most 2025 Form 1099s with the IRS on paper | File most 202
+ 5 Forms 1099 (other than 1099-NEC) with the IRS on paper by March 2\, 2026 
+ (February 28 falls on a Saturday in some years\; confirm current-year weeke
+ nd adjustment). | Authority: IRS Pub. 509 (2026)\, General Tax Calendar\, M
+ arch 2 | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-1099-irs-paper-2031-02-28@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310228
+DTEND;VALUE=DATE:20310301
+SUMMARY:Federal: 1099 series (to IRS\, paper) due
+DESCRIPTION:File most 2025 Form 1099s with the IRS on paper | File most 202
+ 5 Forms 1099 (other than 1099-NEC) with the IRS on paper by March 2\, 2026 
+ (February 28 falls on a Saturday in some years\; confirm current-year weeke
+ nd adjustment). | Authority: IRS Pub. 509 (2026)\, General Tax Calendar\, M
+ arch 2 | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-1099-irs-paper-2032-03-01@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320301
+DTEND;VALUE=DATE:20320302
+SUMMARY:Federal: 1099 series (to IRS\, paper) due
+DESCRIPTION:File most 2025 Form 1099s with the IRS on paper | File most 202
+ 5 Forms 1099 (other than 1099-NEC) with the IRS on paper by March 2\, 2026 
+ (February 28 falls on a Saturday in some years\; confirm current-year weeke
+ nd adjustment). | Authority: IRS Pub. 509 (2026)\, General Tax Calendar\, M
+ arch 2 | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-1099-irs-efile-2025-03-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250401
+SUMMARY:Federal: 1097/1098/1099/3921/3922/W-2G series (to IRS\, electronic)
+  due
+DESCRIPTION:Electronic filing due date with the IRS | File Forms 1097\, 109
+ 8\, 1099 (except 1099-NEC)\, 3921\, 3922\, and W-2G electronically with the
+  IRS by March 31\, 2026. | Authority: IRS Pub. 509 (2026)\, General Tax Cal
+ endar\, March 31 | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf | This 
+ date is computed from a recurrence rule and may not reflect a later-announc
+ ed change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-1099-irs-efile-2026-03-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260401
+SUMMARY:Federal: 1097/1098/1099/3921/3922/W-2G series (to IRS\, electronic)
+  due
+DESCRIPTION:Electronic filing due date with the IRS | File Forms 1097\, 109
+ 8\, 1099 (except 1099-NEC)\, 3921\, 3922\, and W-2G electronically with the
+  IRS by March 31\, 2026. | Authority: IRS Pub. 509 (2026)\, General Tax Cal
+ endar\, March 31 | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf | This 
+ date is computed from a recurrence rule and may not reflect a later-announc
+ ed change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-1099-irs-efile-2027-03-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:Federal: 1097/1098/1099/3921/3922/W-2G series (to IRS\, electronic)
+  due
+DESCRIPTION:Electronic filing due date with the IRS | File Forms 1097\, 109
+ 8\, 1099 (except 1099-NEC)\, 3921\, 3922\, and W-2G electronically with the
+  IRS by March 31\, 2026. | Authority: IRS Pub. 509 (2026)\, General Tax Cal
+ endar\, March 31 | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf | This 
+ date is computed from a recurrence rule and may not reflect a later-announc
+ ed change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-1099-irs-efile-2028-03-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280331
+DTEND;VALUE=DATE:20280401
+SUMMARY:Federal: 1097/1098/1099/3921/3922/W-2G series (to IRS\, electronic)
+  due
+DESCRIPTION:Electronic filing due date with the IRS | File Forms 1097\, 109
+ 8\, 1099 (except 1099-NEC)\, 3921\, 3922\, and W-2G electronically with the
+  IRS by March 31\, 2026. | Authority: IRS Pub. 509 (2026)\, General Tax Cal
+ endar\, March 31 | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf | This 
+ date is computed from a recurrence rule and may not reflect a later-announc
+ ed change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-1099-irs-efile-2029-04-02@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290402
+DTEND;VALUE=DATE:20290403
+SUMMARY:Federal: 1097/1098/1099/3921/3922/W-2G series (to IRS\, electronic)
+  due
+DESCRIPTION:Electronic filing due date with the IRS | File Forms 1097\, 109
+ 8\, 1099 (except 1099-NEC)\, 3921\, 3922\, and W-2G electronically with the
+  IRS by March 31\, 2026. | Authority: IRS Pub. 509 (2026)\, General Tax Cal
+ endar\, March 31 | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf | This 
+ date is computed from a recurrence rule and may not reflect a later-announc
+ ed change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-1099-irs-efile-2030-04-01@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300401
+DTEND;VALUE=DATE:20300402
+SUMMARY:Federal: 1097/1098/1099/3921/3922/W-2G series (to IRS\, electronic)
+  due
+DESCRIPTION:Electronic filing due date with the IRS | File Forms 1097\, 109
+ 8\, 1099 (except 1099-NEC)\, 3921\, 3922\, and W-2G electronically with the
+  IRS by March 31\, 2026. | Authority: IRS Pub. 509 (2026)\, General Tax Cal
+ endar\, March 31 | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf | This 
+ date is computed from a recurrence rule and may not reflect a later-announc
+ ed change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-1099-irs-efile-2031-03-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310331
+DTEND;VALUE=DATE:20310401
+SUMMARY:Federal: 1097/1098/1099/3921/3922/W-2G series (to IRS\, electronic)
+  due
+DESCRIPTION:Electronic filing due date with the IRS | File Forms 1097\, 109
+ 8\, 1099 (except 1099-NEC)\, 3921\, 3922\, and W-2G electronically with the
+  IRS by March 31\, 2026. | Authority: IRS Pub. 509 (2026)\, General Tax Cal
+ endar\, March 31 | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf | This 
+ date is computed from a recurrence rule and may not reflect a later-announc
+ ed change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-1099-irs-efile-2032-03-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320331
+DTEND;VALUE=DATE:20320401
+SUMMARY:Federal: 1097/1098/1099/3921/3922/W-2G series (to IRS\, electronic)
+  due
+DESCRIPTION:Electronic filing due date with the IRS | File Forms 1097\, 109
+ 8\, 1099 (except 1099-NEC)\, 3921\, 3922\, and W-2G electronically with the
+  IRS by March 31\, 2026. | Authority: IRS Pub. 509 (2026)\, General Tax Cal
+ endar\, March 31 | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf | This 
+ date is computed from a recurrence rule and may not reflect a later-announc
+ ed change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-5500-2025-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250731
+DTEND;VALUE=DATE:20250801
+SUMMARY:Federal: 5500 / 5500-EZ due
+DESCRIPTION:Original due date for calendar-year plans | File Form 5500 or 5
+ 500-EZ for the 2025 calendar plan year. Form 5558 extends the deadline to O
+ ctober 15\, 2026. | Authority: IRS Pub. 509 (2026)\, Employer's Tax Calenda
+ r\, July 31 | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date 
+ is computed from a recurrence rule and may not reflect a later-announced ch
+ ange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-5500-2026-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Federal: 5500 / 5500-EZ due
+DESCRIPTION:Original due date for calendar-year plans | File Form 5500 or 5
+ 500-EZ for the 2025 calendar plan year. Form 5558 extends the deadline to O
+ ctober 15\, 2026. | Authority: IRS Pub. 509 (2026)\, Employer's Tax Calenda
+ r\, July 31 | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date 
+ is computed from a recurrence rule and may not reflect a later-announced ch
+ ange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-5500-2027-08-02@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+SUMMARY:Federal: 5500 / 5500-EZ due
+DESCRIPTION:Original due date for calendar-year plans | File Form 5500 or 5
+ 500-EZ for the 2025 calendar plan year. Form 5558 extends the deadline to O
+ ctober 15\, 2026. | Authority: IRS Pub. 509 (2026)\, Employer's Tax Calenda
+ r\, July 31 | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date 
+ is computed from a recurrence rule and may not reflect a later-announced ch
+ ange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-5500-2028-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280731
+DTEND;VALUE=DATE:20280801
+SUMMARY:Federal: 5500 / 5500-EZ due
+DESCRIPTION:Original due date for calendar-year plans | File Form 5500 or 5
+ 500-EZ for the 2025 calendar plan year. Form 5558 extends the deadline to O
+ ctober 15\, 2026. | Authority: IRS Pub. 509 (2026)\, Employer's Tax Calenda
+ r\, July 31 | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date 
+ is computed from a recurrence rule and may not reflect a later-announced ch
+ ange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-5500-2029-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290731
+DTEND;VALUE=DATE:20290801
+SUMMARY:Federal: 5500 / 5500-EZ due
+DESCRIPTION:Original due date for calendar-year plans | File Form 5500 or 5
+ 500-EZ for the 2025 calendar plan year. Form 5558 extends the deadline to O
+ ctober 15\, 2026. | Authority: IRS Pub. 509 (2026)\, Employer's Tax Calenda
+ r\, July 31 | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date 
+ is computed from a recurrence rule and may not reflect a later-announced ch
+ ange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-5500-2030-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300731
+DTEND;VALUE=DATE:20300801
+SUMMARY:Federal: 5500 / 5500-EZ due
+DESCRIPTION:Original due date for calendar-year plans | File Form 5500 or 5
+ 500-EZ for the 2025 calendar plan year. Form 5558 extends the deadline to O
+ ctober 15\, 2026. | Authority: IRS Pub. 509 (2026)\, Employer's Tax Calenda
+ r\, July 31 | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date 
+ is computed from a recurrence rule and may not reflect a later-announced ch
+ ange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-5500-2031-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310731
+DTEND;VALUE=DATE:20310801
+SUMMARY:Federal: 5500 / 5500-EZ due
+DESCRIPTION:Original due date for calendar-year plans | File Form 5500 or 5
+ 500-EZ for the 2025 calendar plan year. Form 5558 extends the deadline to O
+ ctober 15\, 2026. | Authority: IRS Pub. 509 (2026)\, Employer's Tax Calenda
+ r\, July 31 | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date 
+ is computed from a recurrence rule and may not reflect a later-announced ch
+ ange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-5500-2032-08-02@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320802
+DTEND;VALUE=DATE:20320803
+SUMMARY:Federal: 5500 / 5500-EZ due
+DESCRIPTION:Original due date for calendar-year plans | File Form 5500 or 5
+ 500-EZ for the 2025 calendar plan year. Form 5558 extends the deadline to O
+ ctober 15\, 2026. | Authority: IRS Pub. 509 (2026)\, Employer's Tax Calenda
+ r\, July 31 | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date 
+ is computed from a recurrence rule and may not reflect a later-announced ch
+ ange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

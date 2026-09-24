@@ -1,0 +1,2243 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tk.cpa//US Tax Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:US Tax Calendar - Connecticut
+X-WR-CALDESC:Recurring US tax filing deadlines from ustaxcalendar.com (a tk
+ .cpa resource). Reference only\, not tax advice.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:state-corp-connecticut-2025-05-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250515
+DTEND;VALUE=DATE:20250516
+SUMMARY:Connecticut: State corporate income/franchise tax return due
+DESCRIPTION:Due 15th day of month following the federal due date (May 15 fo
+ r calendar year)\; extended due date is 15th day of 11th month after year e
+ nd. | Due 15th day of month following the federal due date (May 15 for cale
+ ndar year)\; extended due date is 15th day of 11th month after year end. | 
+ Authority: Direct fetch of Connecticut's own tax agency site/publication th
+ is session | Source: https://portal.ct.gov/drs/corporation-tax/tax-informat
+ ion | This date is computed from a recurrence rule and may not reflect a la
+ ter-announced change\; confirm against the cited source before relying on i
+ t.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-connecticut-2026-05-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:Connecticut: State corporate income/franchise tax return due
+DESCRIPTION:Due 15th day of month following the federal due date (May 15 fo
+ r calendar year)\; extended due date is 15th day of 11th month after year e
+ nd. | Due 15th day of month following the federal due date (May 15 for cale
+ ndar year)\; extended due date is 15th day of 11th month after year end. | 
+ Authority: Direct fetch of Connecticut's own tax agency site/publication th
+ is session | Source: https://portal.ct.gov/drs/corporation-tax/tax-informat
+ ion | This date is computed from a recurrence rule and may not reflect a la
+ ter-announced change\; confirm against the cited source before relying on i
+ t.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-connecticut-2027-05-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:Connecticut: State corporate income/franchise tax return due
+DESCRIPTION:Due 15th day of month following the federal due date (May 15 fo
+ r calendar year)\; extended due date is 15th day of 11th month after year e
+ nd. | Due 15th day of month following the federal due date (May 15 for cale
+ ndar year)\; extended due date is 15th day of 11th month after year end. | 
+ Authority: Direct fetch of Connecticut's own tax agency site/publication th
+ is session | Source: https://portal.ct.gov/drs/corporation-tax/tax-informat
+ ion | This date is computed from a recurrence rule and may not reflect a la
+ ter-announced change\; confirm against the cited source before relying on i
+ t.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-connecticut-2028-05-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280515
+DTEND;VALUE=DATE:20280516
+SUMMARY:Connecticut: State corporate income/franchise tax return due
+DESCRIPTION:Due 15th day of month following the federal due date (May 15 fo
+ r calendar year)\; extended due date is 15th day of 11th month after year e
+ nd. | Due 15th day of month following the federal due date (May 15 for cale
+ ndar year)\; extended due date is 15th day of 11th month after year end. | 
+ Authority: Direct fetch of Connecticut's own tax agency site/publication th
+ is session | Source: https://portal.ct.gov/drs/corporation-tax/tax-informat
+ ion | This date is computed from a recurrence rule and may not reflect a la
+ ter-announced change\; confirm against the cited source before relying on i
+ t.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-connecticut-2029-05-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290515
+DTEND;VALUE=DATE:20290516
+SUMMARY:Connecticut: State corporate income/franchise tax return due
+DESCRIPTION:Due 15th day of month following the federal due date (May 15 fo
+ r calendar year)\; extended due date is 15th day of 11th month after year e
+ nd. | Due 15th day of month following the federal due date (May 15 for cale
+ ndar year)\; extended due date is 15th day of 11th month after year end. | 
+ Authority: Direct fetch of Connecticut's own tax agency site/publication th
+ is session | Source: https://portal.ct.gov/drs/corporation-tax/tax-informat
+ ion | This date is computed from a recurrence rule and may not reflect a la
+ ter-announced change\; confirm against the cited source before relying on i
+ t.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-connecticut-2030-05-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300515
+DTEND;VALUE=DATE:20300516
+SUMMARY:Connecticut: State corporate income/franchise tax return due
+DESCRIPTION:Due 15th day of month following the federal due date (May 15 fo
+ r calendar year)\; extended due date is 15th day of 11th month after year e
+ nd. | Due 15th day of month following the federal due date (May 15 for cale
+ ndar year)\; extended due date is 15th day of 11th month after year end. | 
+ Authority: Direct fetch of Connecticut's own tax agency site/publication th
+ is session | Source: https://portal.ct.gov/drs/corporation-tax/tax-informat
+ ion | This date is computed from a recurrence rule and may not reflect a la
+ ter-announced change\; confirm against the cited source before relying on i
+ t.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-connecticut-2031-05-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310515
+DTEND;VALUE=DATE:20310516
+SUMMARY:Connecticut: State corporate income/franchise tax return due
+DESCRIPTION:Due 15th day of month following the federal due date (May 15 fo
+ r calendar year)\; extended due date is 15th day of 11th month after year e
+ nd. | Due 15th day of month following the federal due date (May 15 for cale
+ ndar year)\; extended due date is 15th day of 11th month after year end. | 
+ Authority: Direct fetch of Connecticut's own tax agency site/publication th
+ is session | Source: https://portal.ct.gov/drs/corporation-tax/tax-informat
+ ion | This date is computed from a recurrence rule and may not reflect a la
+ ter-announced change\; confirm against the cited source before relying on i
+ t.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-connecticut-2032-05-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320517
+DTEND;VALUE=DATE:20320518
+SUMMARY:Connecticut: State corporate income/franchise tax return due
+DESCRIPTION:Due 15th day of month following the federal due date (May 15 fo
+ r calendar year)\; extended due date is 15th day of 11th month after year e
+ nd. | Due 15th day of month following the federal due date (May 15 for cale
+ ndar year)\; extended due date is 15th day of 11th month after year end. | 
+ Authority: Direct fetch of Connecticut's own tax agency site/publication th
+ is session | Source: https://portal.ct.gov/drs/corporation-tax/tax-informat
+ ion | This date is computed from a recurrence rule and may not reflect a la
+ ter-announced change\; confirm against the cited source before relying on i
+ t.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-connecticut-q1-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:Connecticut: State individual quarterly estimated tax payment due
+DESCRIPTION:Apr 15 / Jun 15 / Sep 15 / Jan 15\, 25% each installment. | Q1 
+ 2026 state individual estimated tax payment. Apr 15 / Jun 15 / Sep 15 / Jan
+  15\, 25% each installment. | Authority: Direct fetch of Connecticut's own 
+ tax agency site/instructions this session | Source: https://portal.ct.gov/d
+ rs/individuals/resident-income-tax/tax-information | This date is computed 
+ from a recurrence rule and may not reflect a later-announced change\; confi
+ rm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-connecticut-q1-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:Connecticut: State individual quarterly estimated tax payment due
+DESCRIPTION:Apr 15 / Jun 15 / Sep 15 / Jan 15\, 25% each installment. | Q1 
+ 2026 state individual estimated tax payment. Apr 15 / Jun 15 / Sep 15 / Jan
+  15\, 25% each installment. | Authority: Direct fetch of Connecticut's own 
+ tax agency site/instructions this session | Source: https://portal.ct.gov/d
+ rs/individuals/resident-income-tax/tax-information | This date is computed 
+ from a recurrence rule and may not reflect a later-announced change\; confi
+ rm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-connecticut-q1-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Connecticut: State individual quarterly estimated tax payment due
+DESCRIPTION:Apr 15 / Jun 15 / Sep 15 / Jan 15\, 25% each installment. | Q1 
+ 2026 state individual estimated tax payment. Apr 15 / Jun 15 / Sep 15 / Jan
+  15\, 25% each installment. | Authority: Direct fetch of Connecticut's own 
+ tax agency site/instructions this session | Source: https://portal.ct.gov/d
+ rs/individuals/resident-income-tax/tax-information | This date is computed 
+ from a recurrence rule and may not reflect a later-announced change\; confi
+ rm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-connecticut-q1-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Connecticut: State individual quarterly estimated tax payment due
+DESCRIPTION:Apr 15 / Jun 15 / Sep 15 / Jan 15\, 25% each installment. | Q1 
+ 2026 state individual estimated tax payment. Apr 15 / Jun 15 / Sep 15 / Jan
+  15\, 25% each installment. | Authority: Direct fetch of Connecticut's own 
+ tax agency site/instructions this session | Source: https://portal.ct.gov/d
+ rs/individuals/resident-income-tax/tax-information | This date is computed 
+ from a recurrence rule and may not reflect a later-announced change\; confi
+ rm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-connecticut-q1-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:Connecticut: State individual quarterly estimated tax payment due
+DESCRIPTION:Apr 15 / Jun 15 / Sep 15 / Jan 15\, 25% each installment. | Q1 
+ 2026 state individual estimated tax payment. Apr 15 / Jun 15 / Sep 15 / Jan
+  15\, 25% each installment. | Authority: Direct fetch of Connecticut's own 
+ tax agency site/instructions this session | Source: https://portal.ct.gov/d
+ rs/individuals/resident-income-tax/tax-information | This date is computed 
+ from a recurrence rule and may not reflect a later-announced change\; confi
+ rm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-connecticut-q1-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:Connecticut: State individual quarterly estimated tax payment due
+DESCRIPTION:Apr 15 / Jun 15 / Sep 15 / Jan 15\, 25% each installment. | Q1 
+ 2026 state individual estimated tax payment. Apr 15 / Jun 15 / Sep 15 / Jan
+  15\, 25% each installment. | Authority: Direct fetch of Connecticut's own 
+ tax agency site/instructions this session | Source: https://portal.ct.gov/d
+ rs/individuals/resident-income-tax/tax-information | This date is computed 
+ from a recurrence rule and may not reflect a later-announced change\; confi
+ rm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-connecticut-q1-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:Connecticut: State individual quarterly estimated tax payment due
+DESCRIPTION:Apr 15 / Jun 15 / Sep 15 / Jan 15\, 25% each installment. | Q1 
+ 2026 state individual estimated tax payment. Apr 15 / Jun 15 / Sep 15 / Jan
+  15\, 25% each installment. | Authority: Direct fetch of Connecticut's own 
+ tax agency site/instructions this session | Source: https://portal.ct.gov/d
+ rs/individuals/resident-income-tax/tax-information | This date is computed 
+ from a recurrence rule and may not reflect a later-announced change\; confi
+ rm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-connecticut-q1-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:Connecticut: State individual quarterly estimated tax payment due
+DESCRIPTION:Apr 15 / Jun 15 / Sep 15 / Jan 15\, 25% each installment. | Q1 
+ 2026 state individual estimated tax payment. Apr 15 / Jun 15 / Sep 15 / Jan
+  15\, 25% each installment. | Authority: Direct fetch of Connecticut's own 
+ tax agency site/instructions this session | Source: https://portal.ct.gov/d
+ rs/individuals/resident-income-tax/tax-information | This date is computed 
+ from a recurrence rule and may not reflect a later-announced change\; confi
+ rm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-connecticut-q2-2025-06-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250617
+SUMMARY:Connecticut: State individual quarterly estimated tax payment due
+DESCRIPTION:Apr 15 / Jun 15 / Sep 15 / Jan 15\, 25% each installment. | Q2 
+ 2026 state individual estimated tax payment. Apr 15 / Jun 15 / Sep 15 / Jan
+  15\, 25% each installment. | Authority: Direct fetch of Connecticut's own 
+ tax agency site/instructions this session | Source: https://portal.ct.gov/d
+ rs/individuals/resident-income-tax/tax-information | This date is computed 
+ from a recurrence rule and may not reflect a later-announced change\; confi
+ rm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-connecticut-q2-2026-06-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Connecticut: State individual quarterly estimated tax payment due
+DESCRIPTION:Apr 15 / Jun 15 / Sep 15 / Jan 15\, 25% each installment. | Q2 
+ 2026 state individual estimated tax payment. Apr 15 / Jun 15 / Sep 15 / Jan
+  15\, 25% each installment. | Authority: Direct fetch of Connecticut's own 
+ tax agency site/instructions this session | Source: https://portal.ct.gov/d
+ rs/individuals/resident-income-tax/tax-information | This date is computed 
+ from a recurrence rule and may not reflect a later-announced change\; confi
+ rm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-connecticut-q2-2027-06-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:Connecticut: State individual quarterly estimated tax payment due
+DESCRIPTION:Apr 15 / Jun 15 / Sep 15 / Jan 15\, 25% each installment. | Q2 
+ 2026 state individual estimated tax payment. Apr 15 / Jun 15 / Sep 15 / Jan
+  15\, 25% each installment. | Authority: Direct fetch of Connecticut's own 
+ tax agency site/instructions this session | Source: https://portal.ct.gov/d
+ rs/individuals/resident-income-tax/tax-information | This date is computed 
+ from a recurrence rule and may not reflect a later-announced change\; confi
+ rm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-connecticut-q2-2028-06-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280615
+DTEND;VALUE=DATE:20280616
+SUMMARY:Connecticut: State individual quarterly estimated tax payment due
+DESCRIPTION:Apr 15 / Jun 15 / Sep 15 / Jan 15\, 25% each installment. | Q2 
+ 2026 state individual estimated tax payment. Apr 15 / Jun 15 / Sep 15 / Jan
+  15\, 25% each installment. | Authority: Direct fetch of Connecticut's own 
+ tax agency site/instructions this session | Source: https://portal.ct.gov/d
+ rs/individuals/resident-income-tax/tax-information | This date is computed 
+ from a recurrence rule and may not reflect a later-announced change\; confi
+ rm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-connecticut-q2-2029-06-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290615
+DTEND;VALUE=DATE:20290616
+SUMMARY:Connecticut: State individual quarterly estimated tax payment due
+DESCRIPTION:Apr 15 / Jun 15 / Sep 15 / Jan 15\, 25% each installment. | Q2 
+ 2026 state individual estimated tax payment. Apr 15 / Jun 15 / Sep 15 / Jan
+  15\, 25% each installment. | Authority: Direct fetch of Connecticut's own 
+ tax agency site/instructions this session | Source: https://portal.ct.gov/d
+ rs/individuals/resident-income-tax/tax-information | This date is computed 
+ from a recurrence rule and may not reflect a later-announced change\; confi
+ rm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-connecticut-q2-2030-06-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300617
+DTEND;VALUE=DATE:20300618
+SUMMARY:Connecticut: State individual quarterly estimated tax payment due
+DESCRIPTION:Apr 15 / Jun 15 / Sep 15 / Jan 15\, 25% each installment. | Q2 
+ 2026 state individual estimated tax payment. Apr 15 / Jun 15 / Sep 15 / Jan
+  15\, 25% each installment. | Authority: Direct fetch of Connecticut's own 
+ tax agency site/instructions this session | Source: https://portal.ct.gov/d
+ rs/individuals/resident-income-tax/tax-information | This date is computed 
+ from a recurrence rule and may not reflect a later-announced change\; confi
+ rm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-connecticut-q2-2031-06-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310616
+DTEND;VALUE=DATE:20310617
+SUMMARY:Connecticut: State individual quarterly estimated tax payment due
+DESCRIPTION:Apr 15 / Jun 15 / Sep 15 / Jan 15\, 25% each installment. | Q2 
+ 2026 state individual estimated tax payment. Apr 15 / Jun 15 / Sep 15 / Jan
+  15\, 25% each installment. | Authority: Direct fetch of Connecticut's own 
+ tax agency site/instructions this session | Source: https://portal.ct.gov/d
+ rs/individuals/resident-income-tax/tax-information | This date is computed 
+ from a recurrence rule and may not reflect a later-announced change\; confi
+ rm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-connecticut-q2-2032-06-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320615
+DTEND;VALUE=DATE:20320616
+SUMMARY:Connecticut: State individual quarterly estimated tax payment due
+DESCRIPTION:Apr 15 / Jun 15 / Sep 15 / Jan 15\, 25% each installment. | Q2 
+ 2026 state individual estimated tax payment. Apr 15 / Jun 15 / Sep 15 / Jan
+  15\, 25% each installment. | Authority: Direct fetch of Connecticut's own 
+ tax agency site/instructions this session | Source: https://portal.ct.gov/d
+ rs/individuals/resident-income-tax/tax-information | This date is computed 
+ from a recurrence rule and may not reflect a later-announced change\; confi
+ rm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-connecticut-q3-2025-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20250916
+SUMMARY:Connecticut: State individual quarterly estimated tax payment due
+DESCRIPTION:Apr 15 / Jun 15 / Sep 15 / Jan 15\, 25% each installment. | Q3 
+ 2026 state individual estimated tax payment. Apr 15 / Jun 15 / Sep 15 / Jan
+  15\, 25% each installment. | Authority: Direct fetch of Connecticut's own 
+ tax agency site/instructions this session | Source: https://portal.ct.gov/d
+ rs/individuals/resident-income-tax/tax-information | This date is computed 
+ from a recurrence rule and may not reflect a later-announced change\; confi
+ rm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-connecticut-q3-2026-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Connecticut: State individual quarterly estimated tax payment due
+DESCRIPTION:Apr 15 / Jun 15 / Sep 15 / Jan 15\, 25% each installment. | Q3 
+ 2026 state individual estimated tax payment. Apr 15 / Jun 15 / Sep 15 / Jan
+  15\, 25% each installment. | Authority: Direct fetch of Connecticut's own 
+ tax agency site/instructions this session | Source: https://portal.ct.gov/d
+ rs/individuals/resident-income-tax/tax-information | This date is computed 
+ from a recurrence rule and may not reflect a later-announced change\; confi
+ rm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-connecticut-q3-2027-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:Connecticut: State individual quarterly estimated tax payment due
+DESCRIPTION:Apr 15 / Jun 15 / Sep 15 / Jan 15\, 25% each installment. | Q3 
+ 2026 state individual estimated tax payment. Apr 15 / Jun 15 / Sep 15 / Jan
+  15\, 25% each installment. | Authority: Direct fetch of Connecticut's own 
+ tax agency site/instructions this session | Source: https://portal.ct.gov/d
+ rs/individuals/resident-income-tax/tax-information | This date is computed 
+ from a recurrence rule and may not reflect a later-announced change\; confi
+ rm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-connecticut-q3-2028-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280915
+DTEND;VALUE=DATE:20280916
+SUMMARY:Connecticut: State individual quarterly estimated tax payment due
+DESCRIPTION:Apr 15 / Jun 15 / Sep 15 / Jan 15\, 25% each installment. | Q3 
+ 2026 state individual estimated tax payment. Apr 15 / Jun 15 / Sep 15 / Jan
+  15\, 25% each installment. | Authority: Direct fetch of Connecticut's own 
+ tax agency site/instructions this session | Source: https://portal.ct.gov/d
+ rs/individuals/resident-income-tax/tax-information | This date is computed 
+ from a recurrence rule and may not reflect a later-announced change\; confi
+ rm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-connecticut-q3-2029-09-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290917
+DTEND;VALUE=DATE:20290918
+SUMMARY:Connecticut: State individual quarterly estimated tax payment due
+DESCRIPTION:Apr 15 / Jun 15 / Sep 15 / Jan 15\, 25% each installment. | Q3 
+ 2026 state individual estimated tax payment. Apr 15 / Jun 15 / Sep 15 / Jan
+  15\, 25% each installment. | Authority: Direct fetch of Connecticut's own 
+ tax agency site/instructions this session | Source: https://portal.ct.gov/d
+ rs/individuals/resident-income-tax/tax-information | This date is computed 
+ from a recurrence rule and may not reflect a later-announced change\; confi
+ rm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-connecticut-q3-2030-09-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300916
+DTEND;VALUE=DATE:20300917
+SUMMARY:Connecticut: State individual quarterly estimated tax payment due
+DESCRIPTION:Apr 15 / Jun 15 / Sep 15 / Jan 15\, 25% each installment. | Q3 
+ 2026 state individual estimated tax payment. Apr 15 / Jun 15 / Sep 15 / Jan
+  15\, 25% each installment. | Authority: Direct fetch of Connecticut's own 
+ tax agency site/instructions this session | Source: https://portal.ct.gov/d
+ rs/individuals/resident-income-tax/tax-information | This date is computed 
+ from a recurrence rule and may not reflect a later-announced change\; confi
+ rm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-connecticut-q3-2031-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310915
+DTEND;VALUE=DATE:20310916
+SUMMARY:Connecticut: State individual quarterly estimated tax payment due
+DESCRIPTION:Apr 15 / Jun 15 / Sep 15 / Jan 15\, 25% each installment. | Q3 
+ 2026 state individual estimated tax payment. Apr 15 / Jun 15 / Sep 15 / Jan
+  15\, 25% each installment. | Authority: Direct fetch of Connecticut's own 
+ tax agency site/instructions this session | Source: https://portal.ct.gov/d
+ rs/individuals/resident-income-tax/tax-information | This date is computed 
+ from a recurrence rule and may not reflect a later-announced change\; confi
+ rm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-connecticut-q3-2032-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320915
+DTEND;VALUE=DATE:20320916
+SUMMARY:Connecticut: State individual quarterly estimated tax payment due
+DESCRIPTION:Apr 15 / Jun 15 / Sep 15 / Jan 15\, 25% each installment. | Q3 
+ 2026 state individual estimated tax payment. Apr 15 / Jun 15 / Sep 15 / Jan
+  15\, 25% each installment. | Authority: Direct fetch of Connecticut's own 
+ tax agency site/instructions this session | Source: https://portal.ct.gov/d
+ rs/individuals/resident-income-tax/tax-information | This date is computed 
+ from a recurrence rule and may not reflect a later-announced change\; confi
+ rm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-connecticut-q4-2025-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250115
+DTEND;VALUE=DATE:20250116
+SUMMARY:Connecticut: State individual quarterly estimated tax payment due
+DESCRIPTION:Apr 15 / Jun 15 / Sep 15 / Jan 15\, 25% each installment. | Q4 
+ 2026 state individual estimated tax payment. Apr 15 / Jun 15 / Sep 15 / Jan
+  15\, 25% each installment. | Authority: Direct fetch of Connecticut's own 
+ tax agency site/instructions this session | Source: https://portal.ct.gov/d
+ rs/individuals/resident-income-tax/tax-information | This date is computed 
+ from a recurrence rule and may not reflect a later-announced change\; confi
+ rm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-connecticut-q4-2026-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260116
+SUMMARY:Connecticut: State individual quarterly estimated tax payment due
+DESCRIPTION:Apr 15 / Jun 15 / Sep 15 / Jan 15\, 25% each installment. | Q4 
+ 2026 state individual estimated tax payment. Apr 15 / Jun 15 / Sep 15 / Jan
+  15\, 25% each installment. | Authority: Direct fetch of Connecticut's own 
+ tax agency site/instructions this session | Source: https://portal.ct.gov/d
+ rs/individuals/resident-income-tax/tax-information | This date is computed 
+ from a recurrence rule and may not reflect a later-announced change\; confi
+ rm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-connecticut-q4-2027-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Connecticut: State individual quarterly estimated tax payment due
+DESCRIPTION:Apr 15 / Jun 15 / Sep 15 / Jan 15\, 25% each installment. | Q4 
+ 2026 state individual estimated tax payment. Apr 15 / Jun 15 / Sep 15 / Jan
+  15\, 25% each installment. | Authority: Direct fetch of Connecticut's own 
+ tax agency site/instructions this session | Source: https://portal.ct.gov/d
+ rs/individuals/resident-income-tax/tax-information | This date is computed 
+ from a recurrence rule and may not reflect a later-announced change\; confi
+ rm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-connecticut-q4-2028-01-18@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280118
+DTEND;VALUE=DATE:20280119
+SUMMARY:Connecticut: State individual quarterly estimated tax payment due
+DESCRIPTION:Apr 15 / Jun 15 / Sep 15 / Jan 15\, 25% each installment. | Q4 
+ 2026 state individual estimated tax payment. Apr 15 / Jun 15 / Sep 15 / Jan
+  15\, 25% each installment. | Authority: Direct fetch of Connecticut's own 
+ tax agency site/instructions this session | Source: https://portal.ct.gov/d
+ rs/individuals/resident-income-tax/tax-information | This date is computed 
+ from a recurrence rule and may not reflect a later-announced change\; confi
+ rm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-connecticut-q4-2029-01-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290116
+DTEND;VALUE=DATE:20290117
+SUMMARY:Connecticut: State individual quarterly estimated tax payment due
+DESCRIPTION:Apr 15 / Jun 15 / Sep 15 / Jan 15\, 25% each installment. | Q4 
+ 2026 state individual estimated tax payment. Apr 15 / Jun 15 / Sep 15 / Jan
+  15\, 25% each installment. | Authority: Direct fetch of Connecticut's own 
+ tax agency site/instructions this session | Source: https://portal.ct.gov/d
+ rs/individuals/resident-income-tax/tax-information | This date is computed 
+ from a recurrence rule and may not reflect a later-announced change\; confi
+ rm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-connecticut-q4-2030-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300115
+DTEND;VALUE=DATE:20300116
+SUMMARY:Connecticut: State individual quarterly estimated tax payment due
+DESCRIPTION:Apr 15 / Jun 15 / Sep 15 / Jan 15\, 25% each installment. | Q4 
+ 2026 state individual estimated tax payment. Apr 15 / Jun 15 / Sep 15 / Jan
+  15\, 25% each installment. | Authority: Direct fetch of Connecticut's own 
+ tax agency site/instructions this session | Source: https://portal.ct.gov/d
+ rs/individuals/resident-income-tax/tax-information | This date is computed 
+ from a recurrence rule and may not reflect a later-announced change\; confi
+ rm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-connecticut-q4-2031-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310115
+DTEND;VALUE=DATE:20310116
+SUMMARY:Connecticut: State individual quarterly estimated tax payment due
+DESCRIPTION:Apr 15 / Jun 15 / Sep 15 / Jan 15\, 25% each installment. | Q4 
+ 2026 state individual estimated tax payment. Apr 15 / Jun 15 / Sep 15 / Jan
+  15\, 25% each installment. | Authority: Direct fetch of Connecticut's own 
+ tax agency site/instructions this session | Source: https://portal.ct.gov/d
+ rs/individuals/resident-income-tax/tax-information | This date is computed 
+ from a recurrence rule and may not reflect a later-announced change\; confi
+ rm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-connecticut-q4-2032-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320115
+DTEND;VALUE=DATE:20320116
+SUMMARY:Connecticut: State individual quarterly estimated tax payment due
+DESCRIPTION:Apr 15 / Jun 15 / Sep 15 / Jan 15\, 25% each installment. | Q4 
+ 2026 state individual estimated tax payment. Apr 15 / Jun 15 / Sep 15 / Jan
+  15\, 25% each installment. | Authority: Direct fetch of Connecticut's own 
+ tax agency site/instructions this session | Source: https://portal.ct.gov/d
+ rs/individuals/resident-income-tax/tax-information | This date is computed 
+ from a recurrence rule and may not reflect a later-announced change\; confi
+ rm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-co-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:Connecticut: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. | Authority: Direct fetch of https://po
+ rtal.ct.gov/drs/individuals/resident-income-tax/tax-information this sessio
+ n | Source: https://portal.ct.gov/drs/individuals/resident-income-tax/tax-i
+ nformation | This date is computed from a recurrence rule and may not refle
+ ct a later-announced change\; confirm against the cited source before relyi
+ ng on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-co-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:Connecticut: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. | Authority: Direct fetch of https://po
+ rtal.ct.gov/drs/individuals/resident-income-tax/tax-information this sessio
+ n | Source: https://portal.ct.gov/drs/individuals/resident-income-tax/tax-i
+ nformation | This date is computed from a recurrence rule and may not refle
+ ct a later-announced change\; confirm against the cited source before relyi
+ ng on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-co-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Connecticut: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. | Authority: Direct fetch of https://po
+ rtal.ct.gov/drs/individuals/resident-income-tax/tax-information this sessio
+ n | Source: https://portal.ct.gov/drs/individuals/resident-income-tax/tax-i
+ nformation | This date is computed from a recurrence rule and may not refle
+ ct a later-announced change\; confirm against the cited source before relyi
+ ng on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-co-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Connecticut: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. | Authority: Direct fetch of https://po
+ rtal.ct.gov/drs/individuals/resident-income-tax/tax-information this sessio
+ n | Source: https://portal.ct.gov/drs/individuals/resident-income-tax/tax-i
+ nformation | This date is computed from a recurrence rule and may not refle
+ ct a later-announced change\; confirm against the cited source before relyi
+ ng on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-co-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:Connecticut: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. | Authority: Direct fetch of https://po
+ rtal.ct.gov/drs/individuals/resident-income-tax/tax-information this sessio
+ n | Source: https://portal.ct.gov/drs/individuals/resident-income-tax/tax-i
+ nformation | This date is computed from a recurrence rule and may not refle
+ ct a later-announced change\; confirm against the cited source before relyi
+ ng on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-co-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:Connecticut: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. | Authority: Direct fetch of https://po
+ rtal.ct.gov/drs/individuals/resident-income-tax/tax-information this sessio
+ n | Source: https://portal.ct.gov/drs/individuals/resident-income-tax/tax-i
+ nformation | This date is computed from a recurrence rule and may not refle
+ ct a later-announced change\; confirm against the cited source before relyi
+ ng on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-co-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:Connecticut: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. | Authority: Direct fetch of https://po
+ rtal.ct.gov/drs/individuals/resident-income-tax/tax-information this sessio
+ n | Source: https://portal.ct.gov/drs/individuals/resident-income-tax/tax-i
+ nformation | This date is computed from a recurrence rule and may not refle
+ ct a later-announced change\; confirm against the cited source before relyi
+ ng on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-co-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:Connecticut: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. | Authority: Direct fetch of https://po
+ rtal.ct.gov/drs/individuals/resident-income-tax/tax-information this sessio
+ n | Source: https://portal.ct.gov/drs/individuals/resident-income-tax/tax-i
+ nformation | This date is computed from a recurrence rule and may not refle
+ ct a later-announced change\; confirm against the cited source before relyi
+ ng on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-connecticut-2025-03-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250318
+SUMMARY:Connecticut: CT-1065/CT-1120SI due
+DESCRIPTION:Connecticut partnership/S-corp composite return due the 15th da
+ y of the 3rd month after year-end. Connecticut's PE Tax (elective as of 202
+ 4) is reported on this same return series. Correction (this rebuild session
+ ): the cited source states the general rule (15th day of the 3rd month) wit
+ hout addressing the 2026-specific weekend interaction - March 15\, 2026 is 
+ a Sunday. Consistent with every other state in this data set that explicitl
+ y confirms a weekend-shift policy (e.g. Massachusetts\, New York\, Vermont\
+ , Delaware\, Montana\, Oregon all confirm shifting to March 16\, 2026)\, an
+ d with the near-universal US government-deadline convention of shifting to 
+ the next business day\, this entry's date_2026 was corrected from an unshif
+ ted March 15\, 2026 to March 16\, 2026. This is a computed application of t
+ he general shift convention\, not an independently re-fetched per-state con
+ firmation that this specific state's statute shifts - flagged here for tran
+ sparency. | Connecticut partnership/S-corp composite return due the 15th da
+ y of the 3rd month after year-end. Connecticut's PE Tax (elective as of 202
+ 4) is reported on this same return series. File Form CT-1065/CT-1120SI EXT 
+ for an automatic 6-month extension. Correction (this rebuild session): the 
+ cited source states the general rule (15th day of the 3rd month) without ad
+ dressing the 2026-specific weekend interaction - March 15\, 2026 is a Sunda
+ y. Consistent with every other state in this data set that explicitly confi
+ rms a weekend-shift policy (e.g. Massachusetts\, New York\, Vermont\, Delaw
+ are\, Montana\, Oregon all confirm shifting to March 16\, 2026)\, and with 
+ the near-universal US government-deadline convention of shifting to the nex
+ t business day\, this entry's date_2026 was corrected from an unshifted Mar
+ ch 15\, 2026 to March 16\, 2026. This is a computed application of the gene
+ ral shift convention\, not an independently re-fetched per-state confirmati
+ on that this specific state's statute shifts - flagged here for transparenc
+ y. | Authority: Connecticut Department of Revenue Services\, direct fetch t
+ his session: "on or before the fifteenth day of the third month following t
+ he close of the taxable year"\; extension form confirms "a six-month extens
+ ion of time to file Form CT-1065/CT-1120SI." | Source: https://portal.ct.go
+ v/drs/taxes/pass-through-entity/tax-information | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-connecticut-2026-03-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260317
+SUMMARY:Connecticut: CT-1065/CT-1120SI due
+DESCRIPTION:Connecticut partnership/S-corp composite return due the 15th da
+ y of the 3rd month after year-end. Connecticut's PE Tax (elective as of 202
+ 4) is reported on this same return series. Correction (this rebuild session
+ ): the cited source states the general rule (15th day of the 3rd month) wit
+ hout addressing the 2026-specific weekend interaction - March 15\, 2026 is 
+ a Sunday. Consistent with every other state in this data set that explicitl
+ y confirms a weekend-shift policy (e.g. Massachusetts\, New York\, Vermont\
+ , Delaware\, Montana\, Oregon all confirm shifting to March 16\, 2026)\, an
+ d with the near-universal US government-deadline convention of shifting to 
+ the next business day\, this entry's date_2026 was corrected from an unshif
+ ted March 15\, 2026 to March 16\, 2026. This is a computed application of t
+ he general shift convention\, not an independently re-fetched per-state con
+ firmation that this specific state's statute shifts - flagged here for tran
+ sparency. | Connecticut partnership/S-corp composite return due the 15th da
+ y of the 3rd month after year-end. Connecticut's PE Tax (elective as of 202
+ 4) is reported on this same return series. File Form CT-1065/CT-1120SI EXT 
+ for an automatic 6-month extension. Correction (this rebuild session): the 
+ cited source states the general rule (15th day of the 3rd month) without ad
+ dressing the 2026-specific weekend interaction - March 15\, 2026 is a Sunda
+ y. Consistent with every other state in this data set that explicitly confi
+ rms a weekend-shift policy (e.g. Massachusetts\, New York\, Vermont\, Delaw
+ are\, Montana\, Oregon all confirm shifting to March 16\, 2026)\, and with 
+ the near-universal US government-deadline convention of shifting to the nex
+ t business day\, this entry's date_2026 was corrected from an unshifted Mar
+ ch 15\, 2026 to March 16\, 2026. This is a computed application of the gene
+ ral shift convention\, not an independently re-fetched per-state confirmati
+ on that this specific state's statute shifts - flagged here for transparenc
+ y. | Authority: Connecticut Department of Revenue Services\, direct fetch t
+ his session: "on or before the fifteenth day of the third month following t
+ he close of the taxable year"\; extension form confirms "a six-month extens
+ ion of time to file Form CT-1065/CT-1120SI." | Source: https://portal.ct.go
+ v/drs/taxes/pass-through-entity/tax-information | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-connecticut-2027-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:Connecticut: CT-1065/CT-1120SI due
+DESCRIPTION:Connecticut partnership/S-corp composite return due the 15th da
+ y of the 3rd month after year-end. Connecticut's PE Tax (elective as of 202
+ 4) is reported on this same return series. Correction (this rebuild session
+ ): the cited source states the general rule (15th day of the 3rd month) wit
+ hout addressing the 2026-specific weekend interaction - March 15\, 2026 is 
+ a Sunday. Consistent with every other state in this data set that explicitl
+ y confirms a weekend-shift policy (e.g. Massachusetts\, New York\, Vermont\
+ , Delaware\, Montana\, Oregon all confirm shifting to March 16\, 2026)\, an
+ d with the near-universal US government-deadline convention of shifting to 
+ the next business day\, this entry's date_2026 was corrected from an unshif
+ ted March 15\, 2026 to March 16\, 2026. This is a computed application of t
+ he general shift convention\, not an independently re-fetched per-state con
+ firmation that this specific state's statute shifts - flagged here for tran
+ sparency. | Connecticut partnership/S-corp composite return due the 15th da
+ y of the 3rd month after year-end. Connecticut's PE Tax (elective as of 202
+ 4) is reported on this same return series. File Form CT-1065/CT-1120SI EXT 
+ for an automatic 6-month extension. Correction (this rebuild session): the 
+ cited source states the general rule (15th day of the 3rd month) without ad
+ dressing the 2026-specific weekend interaction - March 15\, 2026 is a Sunda
+ y. Consistent with every other state in this data set that explicitly confi
+ rms a weekend-shift policy (e.g. Massachusetts\, New York\, Vermont\, Delaw
+ are\, Montana\, Oregon all confirm shifting to March 16\, 2026)\, and with 
+ the near-universal US government-deadline convention of shifting to the nex
+ t business day\, this entry's date_2026 was corrected from an unshifted Mar
+ ch 15\, 2026 to March 16\, 2026. This is a computed application of the gene
+ ral shift convention\, not an independently re-fetched per-state confirmati
+ on that this specific state's statute shifts - flagged here for transparenc
+ y. | Authority: Connecticut Department of Revenue Services\, direct fetch t
+ his session: "on or before the fifteenth day of the third month following t
+ he close of the taxable year"\; extension form confirms "a six-month extens
+ ion of time to file Form CT-1065/CT-1120SI." | Source: https://portal.ct.go
+ v/drs/taxes/pass-through-entity/tax-information | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-connecticut-2028-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280315
+DTEND;VALUE=DATE:20280316
+SUMMARY:Connecticut: CT-1065/CT-1120SI due
+DESCRIPTION:Connecticut partnership/S-corp composite return due the 15th da
+ y of the 3rd month after year-end. Connecticut's PE Tax (elective as of 202
+ 4) is reported on this same return series. Correction (this rebuild session
+ ): the cited source states the general rule (15th day of the 3rd month) wit
+ hout addressing the 2026-specific weekend interaction - March 15\, 2026 is 
+ a Sunday. Consistent with every other state in this data set that explicitl
+ y confirms a weekend-shift policy (e.g. Massachusetts\, New York\, Vermont\
+ , Delaware\, Montana\, Oregon all confirm shifting to March 16\, 2026)\, an
+ d with the near-universal US government-deadline convention of shifting to 
+ the next business day\, this entry's date_2026 was corrected from an unshif
+ ted March 15\, 2026 to March 16\, 2026. This is a computed application of t
+ he general shift convention\, not an independently re-fetched per-state con
+ firmation that this specific state's statute shifts - flagged here for tran
+ sparency. | Connecticut partnership/S-corp composite return due the 15th da
+ y of the 3rd month after year-end. Connecticut's PE Tax (elective as of 202
+ 4) is reported on this same return series. File Form CT-1065/CT-1120SI EXT 
+ for an automatic 6-month extension. Correction (this rebuild session): the 
+ cited source states the general rule (15th day of the 3rd month) without ad
+ dressing the 2026-specific weekend interaction - March 15\, 2026 is a Sunda
+ y. Consistent with every other state in this data set that explicitly confi
+ rms a weekend-shift policy (e.g. Massachusetts\, New York\, Vermont\, Delaw
+ are\, Montana\, Oregon all confirm shifting to March 16\, 2026)\, and with 
+ the near-universal US government-deadline convention of shifting to the nex
+ t business day\, this entry's date_2026 was corrected from an unshifted Mar
+ ch 15\, 2026 to March 16\, 2026. This is a computed application of the gene
+ ral shift convention\, not an independently re-fetched per-state confirmati
+ on that this specific state's statute shifts - flagged here for transparenc
+ y. | Authority: Connecticut Department of Revenue Services\, direct fetch t
+ his session: "on or before the fifteenth day of the third month following t
+ he close of the taxable year"\; extension form confirms "a six-month extens
+ ion of time to file Form CT-1065/CT-1120SI." | Source: https://portal.ct.go
+ v/drs/taxes/pass-through-entity/tax-information | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-connecticut-2029-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290315
+DTEND;VALUE=DATE:20290316
+SUMMARY:Connecticut: CT-1065/CT-1120SI due
+DESCRIPTION:Connecticut partnership/S-corp composite return due the 15th da
+ y of the 3rd month after year-end. Connecticut's PE Tax (elective as of 202
+ 4) is reported on this same return series. Correction (this rebuild session
+ ): the cited source states the general rule (15th day of the 3rd month) wit
+ hout addressing the 2026-specific weekend interaction - March 15\, 2026 is 
+ a Sunday. Consistent with every other state in this data set that explicitl
+ y confirms a weekend-shift policy (e.g. Massachusetts\, New York\, Vermont\
+ , Delaware\, Montana\, Oregon all confirm shifting to March 16\, 2026)\, an
+ d with the near-universal US government-deadline convention of shifting to 
+ the next business day\, this entry's date_2026 was corrected from an unshif
+ ted March 15\, 2026 to March 16\, 2026. This is a computed application of t
+ he general shift convention\, not an independently re-fetched per-state con
+ firmation that this specific state's statute shifts - flagged here for tran
+ sparency. | Connecticut partnership/S-corp composite return due the 15th da
+ y of the 3rd month after year-end. Connecticut's PE Tax (elective as of 202
+ 4) is reported on this same return series. File Form CT-1065/CT-1120SI EXT 
+ for an automatic 6-month extension. Correction (this rebuild session): the 
+ cited source states the general rule (15th day of the 3rd month) without ad
+ dressing the 2026-specific weekend interaction - March 15\, 2026 is a Sunda
+ y. Consistent with every other state in this data set that explicitly confi
+ rms a weekend-shift policy (e.g. Massachusetts\, New York\, Vermont\, Delaw
+ are\, Montana\, Oregon all confirm shifting to March 16\, 2026)\, and with 
+ the near-universal US government-deadline convention of shifting to the nex
+ t business day\, this entry's date_2026 was corrected from an unshifted Mar
+ ch 15\, 2026 to March 16\, 2026. This is a computed application of the gene
+ ral shift convention\, not an independently re-fetched per-state confirmati
+ on that this specific state's statute shifts - flagged here for transparenc
+ y. | Authority: Connecticut Department of Revenue Services\, direct fetch t
+ his session: "on or before the fifteenth day of the third month following t
+ he close of the taxable year"\; extension form confirms "a six-month extens
+ ion of time to file Form CT-1065/CT-1120SI." | Source: https://portal.ct.go
+ v/drs/taxes/pass-through-entity/tax-information | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-connecticut-2030-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300315
+DTEND;VALUE=DATE:20300316
+SUMMARY:Connecticut: CT-1065/CT-1120SI due
+DESCRIPTION:Connecticut partnership/S-corp composite return due the 15th da
+ y of the 3rd month after year-end. Connecticut's PE Tax (elective as of 202
+ 4) is reported on this same return series. Correction (this rebuild session
+ ): the cited source states the general rule (15th day of the 3rd month) wit
+ hout addressing the 2026-specific weekend interaction - March 15\, 2026 is 
+ a Sunday. Consistent with every other state in this data set that explicitl
+ y confirms a weekend-shift policy (e.g. Massachusetts\, New York\, Vermont\
+ , Delaware\, Montana\, Oregon all confirm shifting to March 16\, 2026)\, an
+ d with the near-universal US government-deadline convention of shifting to 
+ the next business day\, this entry's date_2026 was corrected from an unshif
+ ted March 15\, 2026 to March 16\, 2026. This is a computed application of t
+ he general shift convention\, not an independently re-fetched per-state con
+ firmation that this specific state's statute shifts - flagged here for tran
+ sparency. | Connecticut partnership/S-corp composite return due the 15th da
+ y of the 3rd month after year-end. Connecticut's PE Tax (elective as of 202
+ 4) is reported on this same return series. File Form CT-1065/CT-1120SI EXT 
+ for an automatic 6-month extension. Correction (this rebuild session): the 
+ cited source states the general rule (15th day of the 3rd month) without ad
+ dressing the 2026-specific weekend interaction - March 15\, 2026 is a Sunda
+ y. Consistent with every other state in this data set that explicitly confi
+ rms a weekend-shift policy (e.g. Massachusetts\, New York\, Vermont\, Delaw
+ are\, Montana\, Oregon all confirm shifting to March 16\, 2026)\, and with 
+ the near-universal US government-deadline convention of shifting to the nex
+ t business day\, this entry's date_2026 was corrected from an unshifted Mar
+ ch 15\, 2026 to March 16\, 2026. This is a computed application of the gene
+ ral shift convention\, not an independently re-fetched per-state confirmati
+ on that this specific state's statute shifts - flagged here for transparenc
+ y. | Authority: Connecticut Department of Revenue Services\, direct fetch t
+ his session: "on or before the fifteenth day of the third month following t
+ he close of the taxable year"\; extension form confirms "a six-month extens
+ ion of time to file Form CT-1065/CT-1120SI." | Source: https://portal.ct.go
+ v/drs/taxes/pass-through-entity/tax-information | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-connecticut-2031-03-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310317
+DTEND;VALUE=DATE:20310318
+SUMMARY:Connecticut: CT-1065/CT-1120SI due
+DESCRIPTION:Connecticut partnership/S-corp composite return due the 15th da
+ y of the 3rd month after year-end. Connecticut's PE Tax (elective as of 202
+ 4) is reported on this same return series. Correction (this rebuild session
+ ): the cited source states the general rule (15th day of the 3rd month) wit
+ hout addressing the 2026-specific weekend interaction - March 15\, 2026 is 
+ a Sunday. Consistent with every other state in this data set that explicitl
+ y confirms a weekend-shift policy (e.g. Massachusetts\, New York\, Vermont\
+ , Delaware\, Montana\, Oregon all confirm shifting to March 16\, 2026)\, an
+ d with the near-universal US government-deadline convention of shifting to 
+ the next business day\, this entry's date_2026 was corrected from an unshif
+ ted March 15\, 2026 to March 16\, 2026. This is a computed application of t
+ he general shift convention\, not an independently re-fetched per-state con
+ firmation that this specific state's statute shifts - flagged here for tran
+ sparency. | Connecticut partnership/S-corp composite return due the 15th da
+ y of the 3rd month after year-end. Connecticut's PE Tax (elective as of 202
+ 4) is reported on this same return series. File Form CT-1065/CT-1120SI EXT 
+ for an automatic 6-month extension. Correction (this rebuild session): the 
+ cited source states the general rule (15th day of the 3rd month) without ad
+ dressing the 2026-specific weekend interaction - March 15\, 2026 is a Sunda
+ y. Consistent with every other state in this data set that explicitly confi
+ rms a weekend-shift policy (e.g. Massachusetts\, New York\, Vermont\, Delaw
+ are\, Montana\, Oregon all confirm shifting to March 16\, 2026)\, and with 
+ the near-universal US government-deadline convention of shifting to the nex
+ t business day\, this entry's date_2026 was corrected from an unshifted Mar
+ ch 15\, 2026 to March 16\, 2026. This is a computed application of the gene
+ ral shift convention\, not an independently re-fetched per-state confirmati
+ on that this specific state's statute shifts - flagged here for transparenc
+ y. | Authority: Connecticut Department of Revenue Services\, direct fetch t
+ his session: "on or before the fifteenth day of the third month following t
+ he close of the taxable year"\; extension form confirms "a six-month extens
+ ion of time to file Form CT-1065/CT-1120SI." | Source: https://portal.ct.go
+ v/drs/taxes/pass-through-entity/tax-information | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-connecticut-2032-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320315
+DTEND;VALUE=DATE:20320316
+SUMMARY:Connecticut: CT-1065/CT-1120SI due
+DESCRIPTION:Connecticut partnership/S-corp composite return due the 15th da
+ y of the 3rd month after year-end. Connecticut's PE Tax (elective as of 202
+ 4) is reported on this same return series. Correction (this rebuild session
+ ): the cited source states the general rule (15th day of the 3rd month) wit
+ hout addressing the 2026-specific weekend interaction - March 15\, 2026 is 
+ a Sunday. Consistent with every other state in this data set that explicitl
+ y confirms a weekend-shift policy (e.g. Massachusetts\, New York\, Vermont\
+ , Delaware\, Montana\, Oregon all confirm shifting to March 16\, 2026)\, an
+ d with the near-universal US government-deadline convention of shifting to 
+ the next business day\, this entry's date_2026 was corrected from an unshif
+ ted March 15\, 2026 to March 16\, 2026. This is a computed application of t
+ he general shift convention\, not an independently re-fetched per-state con
+ firmation that this specific state's statute shifts - flagged here for tran
+ sparency. | Connecticut partnership/S-corp composite return due the 15th da
+ y of the 3rd month after year-end. Connecticut's PE Tax (elective as of 202
+ 4) is reported on this same return series. File Form CT-1065/CT-1120SI EXT 
+ for an automatic 6-month extension. Correction (this rebuild session): the 
+ cited source states the general rule (15th day of the 3rd month) without ad
+ dressing the 2026-specific weekend interaction - March 15\, 2026 is a Sunda
+ y. Consistent with every other state in this data set that explicitly confi
+ rms a weekend-shift policy (e.g. Massachusetts\, New York\, Vermont\, Delaw
+ are\, Montana\, Oregon all confirm shifting to March 16\, 2026)\, and with 
+ the near-universal US government-deadline convention of shifting to the nex
+ t business day\, this entry's date_2026 was corrected from an unshifted Mar
+ ch 15\, 2026 to March 16\, 2026. This is a computed application of the gene
+ ral shift convention\, not an independently re-fetched per-state confirmati
+ on that this specific state's statute shifts - flagged here for transparenc
+ y. | Authority: Connecticut Department of Revenue Services\, direct fetch t
+ his session: "on or before the fifteenth day of the third month following t
+ he close of the taxable year"\; extension form confirms "a six-month extens
+ ion of time to file Form CT-1065/CT-1120SI." | Source: https://portal.ct.go
+ v/drs/taxes/pass-through-entity/tax-information | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-connecticut-q1-2025-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250430
+DTEND;VALUE=DATE:20250501
+SUMMARY:Connecticut: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. 1st Quarter returns and payments due on or before 4/30\; 2nd 7/31\; 
+ 3rd 10/31\; 4th 1/31. | Authority: Direct fetch of Connecticut's own unempl
+ oyment insurance agency site/handbook/code this session | Source: https://p
+ ortal.ct.gov/dol/knowledge-base/articles/unemployment-taxes/what-are-the-du
+ e-dates-of-my-quarterly-tax-returns | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-connecticut-q1-2026-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:Connecticut: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. 1st Quarter returns and payments due on or before 4/30\; 2nd 7/31\; 
+ 3rd 10/31\; 4th 1/31. | Authority: Direct fetch of Connecticut's own unempl
+ oyment insurance agency site/handbook/code this session | Source: https://p
+ ortal.ct.gov/dol/knowledge-base/articles/unemployment-taxes/what-are-the-du
+ e-dates-of-my-quarterly-tax-returns | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-connecticut-q1-2027-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:Connecticut: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. 1st Quarter returns and payments due on or before 4/30\; 2nd 7/31\; 
+ 3rd 10/31\; 4th 1/31. | Authority: Direct fetch of Connecticut's own unempl
+ oyment insurance agency site/handbook/code this session | Source: https://p
+ ortal.ct.gov/dol/knowledge-base/articles/unemployment-taxes/what-are-the-du
+ e-dates-of-my-quarterly-tax-returns | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-connecticut-q1-2028-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280430
+DTEND;VALUE=DATE:20280501
+SUMMARY:Connecticut: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. 1st Quarter returns and payments due on or before 4/30\; 2nd 7/31\; 
+ 3rd 10/31\; 4th 1/31. | Authority: Direct fetch of Connecticut's own unempl
+ oyment insurance agency site/handbook/code this session | Source: https://p
+ ortal.ct.gov/dol/knowledge-base/articles/unemployment-taxes/what-are-the-du
+ e-dates-of-my-quarterly-tax-returns | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-connecticut-q1-2029-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290430
+DTEND;VALUE=DATE:20290501
+SUMMARY:Connecticut: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. 1st Quarter returns and payments due on or before 4/30\; 2nd 7/31\; 
+ 3rd 10/31\; 4th 1/31. | Authority: Direct fetch of Connecticut's own unempl
+ oyment insurance agency site/handbook/code this session | Source: https://p
+ ortal.ct.gov/dol/knowledge-base/articles/unemployment-taxes/what-are-the-du
+ e-dates-of-my-quarterly-tax-returns | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-connecticut-q1-2030-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300430
+DTEND;VALUE=DATE:20300501
+SUMMARY:Connecticut: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. 1st Quarter returns and payments due on or before 4/30\; 2nd 7/31\; 
+ 3rd 10/31\; 4th 1/31. | Authority: Direct fetch of Connecticut's own unempl
+ oyment insurance agency site/handbook/code this session | Source: https://p
+ ortal.ct.gov/dol/knowledge-base/articles/unemployment-taxes/what-are-the-du
+ e-dates-of-my-quarterly-tax-returns | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-connecticut-q1-2031-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310430
+DTEND;VALUE=DATE:20310501
+SUMMARY:Connecticut: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. 1st Quarter returns and payments due on or before 4/30\; 2nd 7/31\; 
+ 3rd 10/31\; 4th 1/31. | Authority: Direct fetch of Connecticut's own unempl
+ oyment insurance agency site/handbook/code this session | Source: https://p
+ ortal.ct.gov/dol/knowledge-base/articles/unemployment-taxes/what-are-the-du
+ e-dates-of-my-quarterly-tax-returns | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-connecticut-q1-2032-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320430
+DTEND;VALUE=DATE:20320501
+SUMMARY:Connecticut: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. 1st Quarter returns and payments due on or before 4/30\; 2nd 7/31\; 
+ 3rd 10/31\; 4th 1/31. | Authority: Direct fetch of Connecticut's own unempl
+ oyment insurance agency site/handbook/code this session | Source: https://p
+ ortal.ct.gov/dol/knowledge-base/articles/unemployment-taxes/what-are-the-du
+ e-dates-of-my-quarterly-tax-returns | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-connecticut-q2-2025-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250731
+DTEND;VALUE=DATE:20250801
+SUMMARY:Connecticut: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. 1st Quarter returns and payments due on or before 4/30\; 2nd 7/31\; 
+ 3rd 10/31\; 4th 1/31. | Authority: Direct fetch of Connecticut's own unempl
+ oyment insurance agency site/handbook/code this session | Source: https://p
+ ortal.ct.gov/dol/knowledge-base/articles/unemployment-taxes/what-are-the-du
+ e-dates-of-my-quarterly-tax-returns | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-connecticut-q2-2026-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Connecticut: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. 1st Quarter returns and payments due on or before 4/30\; 2nd 7/31\; 
+ 3rd 10/31\; 4th 1/31. | Authority: Direct fetch of Connecticut's own unempl
+ oyment insurance agency site/handbook/code this session | Source: https://p
+ ortal.ct.gov/dol/knowledge-base/articles/unemployment-taxes/what-are-the-du
+ e-dates-of-my-quarterly-tax-returns | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-connecticut-q2-2027-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:Connecticut: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. 1st Quarter returns and payments due on or before 4/30\; 2nd 7/31\; 
+ 3rd 10/31\; 4th 1/31. | Authority: Direct fetch of Connecticut's own unempl
+ oyment insurance agency site/handbook/code this session | Source: https://p
+ ortal.ct.gov/dol/knowledge-base/articles/unemployment-taxes/what-are-the-du
+ e-dates-of-my-quarterly-tax-returns | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-connecticut-q2-2028-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280731
+DTEND;VALUE=DATE:20280801
+SUMMARY:Connecticut: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. 1st Quarter returns and payments due on or before 4/30\; 2nd 7/31\; 
+ 3rd 10/31\; 4th 1/31. | Authority: Direct fetch of Connecticut's own unempl
+ oyment insurance agency site/handbook/code this session | Source: https://p
+ ortal.ct.gov/dol/knowledge-base/articles/unemployment-taxes/what-are-the-du
+ e-dates-of-my-quarterly-tax-returns | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-connecticut-q2-2029-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290731
+DTEND;VALUE=DATE:20290801
+SUMMARY:Connecticut: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. 1st Quarter returns and payments due on or before 4/30\; 2nd 7/31\; 
+ 3rd 10/31\; 4th 1/31. | Authority: Direct fetch of Connecticut's own unempl
+ oyment insurance agency site/handbook/code this session | Source: https://p
+ ortal.ct.gov/dol/knowledge-base/articles/unemployment-taxes/what-are-the-du
+ e-dates-of-my-quarterly-tax-returns | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-connecticut-q2-2030-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300731
+DTEND;VALUE=DATE:20300801
+SUMMARY:Connecticut: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. 1st Quarter returns and payments due on or before 4/30\; 2nd 7/31\; 
+ 3rd 10/31\; 4th 1/31. | Authority: Direct fetch of Connecticut's own unempl
+ oyment insurance agency site/handbook/code this session | Source: https://p
+ ortal.ct.gov/dol/knowledge-base/articles/unemployment-taxes/what-are-the-du
+ e-dates-of-my-quarterly-tax-returns | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-connecticut-q2-2031-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310731
+DTEND;VALUE=DATE:20310801
+SUMMARY:Connecticut: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. 1st Quarter returns and payments due on or before 4/30\; 2nd 7/31\; 
+ 3rd 10/31\; 4th 1/31. | Authority: Direct fetch of Connecticut's own unempl
+ oyment insurance agency site/handbook/code this session | Source: https://p
+ ortal.ct.gov/dol/knowledge-base/articles/unemployment-taxes/what-are-the-du
+ e-dates-of-my-quarterly-tax-returns | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-connecticut-q2-2032-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320731
+DTEND;VALUE=DATE:20320801
+SUMMARY:Connecticut: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. 1st Quarter returns and payments due on or before 4/30\; 2nd 7/31\; 
+ 3rd 10/31\; 4th 1/31. | Authority: Direct fetch of Connecticut's own unempl
+ oyment insurance agency site/handbook/code this session | Source: https://p
+ ortal.ct.gov/dol/knowledge-base/articles/unemployment-taxes/what-are-the-du
+ e-dates-of-my-quarterly-tax-returns | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-connecticut-q3-2025-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20251031
+DTEND;VALUE=DATE:20251101
+SUMMARY:Connecticut: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. 1st Quarter returns and payments due on or before 4/30\; 2nd 7/31\; 
+ 3rd 10/31\; 4th 1/31. | Authority: Direct fetch of Connecticut's own unempl
+ oyment insurance agency site/handbook/code this session | Source: https://p
+ ortal.ct.gov/dol/knowledge-base/articles/unemployment-taxes/what-are-the-du
+ e-dates-of-my-quarterly-tax-returns | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-connecticut-q3-2026-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Connecticut: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. 1st Quarter returns and payments due on or before 4/30\; 2nd 7/31\; 
+ 3rd 10/31\; 4th 1/31. | Authority: Direct fetch of Connecticut's own unempl
+ oyment insurance agency site/handbook/code this session | Source: https://p
+ ortal.ct.gov/dol/knowledge-base/articles/unemployment-taxes/what-are-the-du
+ e-dates-of-my-quarterly-tax-returns | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-connecticut-q3-2027-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20271031
+DTEND;VALUE=DATE:20271101
+SUMMARY:Connecticut: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. 1st Quarter returns and payments due on or before 4/30\; 2nd 7/31\; 
+ 3rd 10/31\; 4th 1/31. | Authority: Direct fetch of Connecticut's own unempl
+ oyment insurance agency site/handbook/code this session | Source: https://p
+ ortal.ct.gov/dol/knowledge-base/articles/unemployment-taxes/what-are-the-du
+ e-dates-of-my-quarterly-tax-returns | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-connecticut-q3-2028-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20281031
+DTEND;VALUE=DATE:20281101
+SUMMARY:Connecticut: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. 1st Quarter returns and payments due on or before 4/30\; 2nd 7/31\; 
+ 3rd 10/31\; 4th 1/31. | Authority: Direct fetch of Connecticut's own unempl
+ oyment insurance agency site/handbook/code this session | Source: https://p
+ ortal.ct.gov/dol/knowledge-base/articles/unemployment-taxes/what-are-the-du
+ e-dates-of-my-quarterly-tax-returns | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-connecticut-q3-2029-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20291031
+DTEND;VALUE=DATE:20291101
+SUMMARY:Connecticut: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. 1st Quarter returns and payments due on or before 4/30\; 2nd 7/31\; 
+ 3rd 10/31\; 4th 1/31. | Authority: Direct fetch of Connecticut's own unempl
+ oyment insurance agency site/handbook/code this session | Source: https://p
+ ortal.ct.gov/dol/knowledge-base/articles/unemployment-taxes/what-are-the-du
+ e-dates-of-my-quarterly-tax-returns | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-connecticut-q3-2030-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20301031
+DTEND;VALUE=DATE:20301101
+SUMMARY:Connecticut: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. 1st Quarter returns and payments due on or before 4/30\; 2nd 7/31\; 
+ 3rd 10/31\; 4th 1/31. | Authority: Direct fetch of Connecticut's own unempl
+ oyment insurance agency site/handbook/code this session | Source: https://p
+ ortal.ct.gov/dol/knowledge-base/articles/unemployment-taxes/what-are-the-du
+ e-dates-of-my-quarterly-tax-returns | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-connecticut-q3-2031-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20311031
+DTEND;VALUE=DATE:20311101
+SUMMARY:Connecticut: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. 1st Quarter returns and payments due on or before 4/30\; 2nd 7/31\; 
+ 3rd 10/31\; 4th 1/31. | Authority: Direct fetch of Connecticut's own unempl
+ oyment insurance agency site/handbook/code this session | Source: https://p
+ ortal.ct.gov/dol/knowledge-base/articles/unemployment-taxes/what-are-the-du
+ e-dates-of-my-quarterly-tax-returns | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-connecticut-q3-2032-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20321031
+DTEND;VALUE=DATE:20321101
+SUMMARY:Connecticut: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. 1st Quarter returns and payments due on or before 4/30\; 2nd 7/31\; 
+ 3rd 10/31\; 4th 1/31. | Authority: Direct fetch of Connecticut's own unempl
+ oyment insurance agency site/handbook/code this session | Source: https://p
+ ortal.ct.gov/dol/knowledge-base/articles/unemployment-taxes/what-are-the-du
+ e-dates-of-my-quarterly-tax-returns | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-connecticut-q4-2025-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250131
+DTEND;VALUE=DATE:20250201
+SUMMARY:Connecticut: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. 1st Quarter returns and payments due on or before 4/30\; 2nd 7/31\; 
+ 3rd 10/31\; 4th 1/31. | Authority: Direct fetch of Connecticut's own unempl
+ oyment insurance agency site/handbook/code this session | Source: https://p
+ ortal.ct.gov/dol/knowledge-base/articles/unemployment-taxes/what-are-the-du
+ e-dates-of-my-quarterly-tax-returns | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-connecticut-q4-2026-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:Connecticut: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. 1st Quarter returns and payments due on or before 4/30\; 2nd 7/31\; 
+ 3rd 10/31\; 4th 1/31. | Authority: Direct fetch of Connecticut's own unempl
+ oyment insurance agency site/handbook/code this session | Source: https://p
+ ortal.ct.gov/dol/knowledge-base/articles/unemployment-taxes/what-are-the-du
+ e-dates-of-my-quarterly-tax-returns | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-connecticut-q4-2027-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Connecticut: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. 1st Quarter returns and payments due on or before 4/30\; 2nd 7/31\; 
+ 3rd 10/31\; 4th 1/31. | Authority: Direct fetch of Connecticut's own unempl
+ oyment insurance agency site/handbook/code this session | Source: https://p
+ ortal.ct.gov/dol/knowledge-base/articles/unemployment-taxes/what-are-the-du
+ e-dates-of-my-quarterly-tax-returns | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-connecticut-q4-2028-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280131
+DTEND;VALUE=DATE:20280201
+SUMMARY:Connecticut: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. 1st Quarter returns and payments due on or before 4/30\; 2nd 7/31\; 
+ 3rd 10/31\; 4th 1/31. | Authority: Direct fetch of Connecticut's own unempl
+ oyment insurance agency site/handbook/code this session | Source: https://p
+ ortal.ct.gov/dol/knowledge-base/articles/unemployment-taxes/what-are-the-du
+ e-dates-of-my-quarterly-tax-returns | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-connecticut-q4-2029-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290131
+DTEND;VALUE=DATE:20290201
+SUMMARY:Connecticut: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. 1st Quarter returns and payments due on or before 4/30\; 2nd 7/31\; 
+ 3rd 10/31\; 4th 1/31. | Authority: Direct fetch of Connecticut's own unempl
+ oyment insurance agency site/handbook/code this session | Source: https://p
+ ortal.ct.gov/dol/knowledge-base/articles/unemployment-taxes/what-are-the-du
+ e-dates-of-my-quarterly-tax-returns | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-connecticut-q4-2030-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300131
+DTEND;VALUE=DATE:20300201
+SUMMARY:Connecticut: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. 1st Quarter returns and payments due on or before 4/30\; 2nd 7/31\; 
+ 3rd 10/31\; 4th 1/31. | Authority: Direct fetch of Connecticut's own unempl
+ oyment insurance agency site/handbook/code this session | Source: https://p
+ ortal.ct.gov/dol/knowledge-base/articles/unemployment-taxes/what-are-the-du
+ e-dates-of-my-quarterly-tax-returns | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-connecticut-q4-2031-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310131
+DTEND;VALUE=DATE:20310201
+SUMMARY:Connecticut: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. 1st Quarter returns and payments due on or before 4/30\; 2nd 7/31\; 
+ 3rd 10/31\; 4th 1/31. | Authority: Direct fetch of Connecticut's own unempl
+ oyment insurance agency site/handbook/code this session | Source: https://p
+ ortal.ct.gov/dol/knowledge-base/articles/unemployment-taxes/what-are-the-du
+ e-dates-of-my-quarterly-tax-returns | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-connecticut-q4-2032-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320131
+DTEND;VALUE=DATE:20320201
+SUMMARY:Connecticut: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. 1st Quarter returns and payments due on or before 4/30\; 2nd 7/31\; 
+ 3rd 10/31\; 4th 1/31. | Authority: Direct fetch of Connecticut's own unempl
+ oyment insurance agency site/handbook/code this session | Source: https://p
+ ortal.ct.gov/dol/knowledge-base/articles/unemployment-taxes/what-are-the-du
+ e-dates-of-my-quarterly-tax-returns | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-connecticut-q1-2025-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250430
+DTEND;VALUE=DATE:20250501
+SUMMARY:Connecticut: State sales & use tax return due
+DESCRIPTION:Form OS-114 due last day of month following the reporting perio
+ d (same rule for monthly and quarterly filers). | Q1 2026 (Jan-Mar) sales t
+ ax return\, applying Connecticut's quarterly-filer due-date rule: Form OS-1
+ 14 due last day of month following the reporting period (same rule for mont
+ hly and quarterly filers). This is a representative recurring pattern\, not
+  a single annual deadline - actual filing frequency (monthly/quarterly/annu
+ al) is assigned per business by the state. | Authority: Direct fetch of Con
+ necticut's own tax agency site this session | Source: https://portal.ct.gov
+ /-/media/drs/forms/2022/sut/os-114_0222.pdf | This date is computed from a 
+ recurrence rule and may not reflect a later-announced change\; confirm agai
+ nst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-connecticut-q1-2026-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:Connecticut: State sales & use tax return due
+DESCRIPTION:Form OS-114 due last day of month following the reporting perio
+ d (same rule for monthly and quarterly filers). | Q1 2026 (Jan-Mar) sales t
+ ax return\, applying Connecticut's quarterly-filer due-date rule: Form OS-1
+ 14 due last day of month following the reporting period (same rule for mont
+ hly and quarterly filers). This is a representative recurring pattern\, not
+  a single annual deadline - actual filing frequency (monthly/quarterly/annu
+ al) is assigned per business by the state. | Authority: Direct fetch of Con
+ necticut's own tax agency site this session | Source: https://portal.ct.gov
+ /-/media/drs/forms/2022/sut/os-114_0222.pdf | This date is computed from a 
+ recurrence rule and may not reflect a later-announced change\; confirm agai
+ nst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-connecticut-q1-2027-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:Connecticut: State sales & use tax return due
+DESCRIPTION:Form OS-114 due last day of month following the reporting perio
+ d (same rule for monthly and quarterly filers). | Q1 2026 (Jan-Mar) sales t
+ ax return\, applying Connecticut's quarterly-filer due-date rule: Form OS-1
+ 14 due last day of month following the reporting period (same rule for mont
+ hly and quarterly filers). This is a representative recurring pattern\, not
+  a single annual deadline - actual filing frequency (monthly/quarterly/annu
+ al) is assigned per business by the state. | Authority: Direct fetch of Con
+ necticut's own tax agency site this session | Source: https://portal.ct.gov
+ /-/media/drs/forms/2022/sut/os-114_0222.pdf | This date is computed from a 
+ recurrence rule and may not reflect a later-announced change\; confirm agai
+ nst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-connecticut-q1-2028-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280430
+DTEND;VALUE=DATE:20280501
+SUMMARY:Connecticut: State sales & use tax return due
+DESCRIPTION:Form OS-114 due last day of month following the reporting perio
+ d (same rule for monthly and quarterly filers). | Q1 2026 (Jan-Mar) sales t
+ ax return\, applying Connecticut's quarterly-filer due-date rule: Form OS-1
+ 14 due last day of month following the reporting period (same rule for mont
+ hly and quarterly filers). This is a representative recurring pattern\, not
+  a single annual deadline - actual filing frequency (monthly/quarterly/annu
+ al) is assigned per business by the state. | Authority: Direct fetch of Con
+ necticut's own tax agency site this session | Source: https://portal.ct.gov
+ /-/media/drs/forms/2022/sut/os-114_0222.pdf | This date is computed from a 
+ recurrence rule and may not reflect a later-announced change\; confirm agai
+ nst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-connecticut-q1-2029-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290430
+DTEND;VALUE=DATE:20290501
+SUMMARY:Connecticut: State sales & use tax return due
+DESCRIPTION:Form OS-114 due last day of month following the reporting perio
+ d (same rule for monthly and quarterly filers). | Q1 2026 (Jan-Mar) sales t
+ ax return\, applying Connecticut's quarterly-filer due-date rule: Form OS-1
+ 14 due last day of month following the reporting period (same rule for mont
+ hly and quarterly filers). This is a representative recurring pattern\, not
+  a single annual deadline - actual filing frequency (monthly/quarterly/annu
+ al) is assigned per business by the state. | Authority: Direct fetch of Con
+ necticut's own tax agency site this session | Source: https://portal.ct.gov
+ /-/media/drs/forms/2022/sut/os-114_0222.pdf | This date is computed from a 
+ recurrence rule and may not reflect a later-announced change\; confirm agai
+ nst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-connecticut-q1-2030-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300430
+DTEND;VALUE=DATE:20300501
+SUMMARY:Connecticut: State sales & use tax return due
+DESCRIPTION:Form OS-114 due last day of month following the reporting perio
+ d (same rule for monthly and quarterly filers). | Q1 2026 (Jan-Mar) sales t
+ ax return\, applying Connecticut's quarterly-filer due-date rule: Form OS-1
+ 14 due last day of month following the reporting period (same rule for mont
+ hly and quarterly filers). This is a representative recurring pattern\, not
+  a single annual deadline - actual filing frequency (monthly/quarterly/annu
+ al) is assigned per business by the state. | Authority: Direct fetch of Con
+ necticut's own tax agency site this session | Source: https://portal.ct.gov
+ /-/media/drs/forms/2022/sut/os-114_0222.pdf | This date is computed from a 
+ recurrence rule and may not reflect a later-announced change\; confirm agai
+ nst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-connecticut-q1-2031-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310430
+DTEND;VALUE=DATE:20310501
+SUMMARY:Connecticut: State sales & use tax return due
+DESCRIPTION:Form OS-114 due last day of month following the reporting perio
+ d (same rule for monthly and quarterly filers). | Q1 2026 (Jan-Mar) sales t
+ ax return\, applying Connecticut's quarterly-filer due-date rule: Form OS-1
+ 14 due last day of month following the reporting period (same rule for mont
+ hly and quarterly filers). This is a representative recurring pattern\, not
+  a single annual deadline - actual filing frequency (monthly/quarterly/annu
+ al) is assigned per business by the state. | Authority: Direct fetch of Con
+ necticut's own tax agency site this session | Source: https://portal.ct.gov
+ /-/media/drs/forms/2022/sut/os-114_0222.pdf | This date is computed from a 
+ recurrence rule and may not reflect a later-announced change\; confirm agai
+ nst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-connecticut-q1-2032-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320430
+DTEND;VALUE=DATE:20320501
+SUMMARY:Connecticut: State sales & use tax return due
+DESCRIPTION:Form OS-114 due last day of month following the reporting perio
+ d (same rule for monthly and quarterly filers). | Q1 2026 (Jan-Mar) sales t
+ ax return\, applying Connecticut's quarterly-filer due-date rule: Form OS-1
+ 14 due last day of month following the reporting period (same rule for mont
+ hly and quarterly filers). This is a representative recurring pattern\, not
+  a single annual deadline - actual filing frequency (monthly/quarterly/annu
+ al) is assigned per business by the state. | Authority: Direct fetch of Con
+ necticut's own tax agency site this session | Source: https://portal.ct.gov
+ /-/media/drs/forms/2022/sut/os-114_0222.pdf | This date is computed from a 
+ recurrence rule and may not reflect a later-announced change\; confirm agai
+ nst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-connecticut-q2-2025-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250731
+DTEND;VALUE=DATE:20250801
+SUMMARY:Connecticut: State sales & use tax return due
+DESCRIPTION:Form OS-114 due last day of month following the reporting perio
+ d (same rule for monthly and quarterly filers). | Q2 2026 (Apr-Jun) sales t
+ ax return\, applying Connecticut's quarterly-filer due-date rule: Form OS-1
+ 14 due last day of month following the reporting period (same rule for mont
+ hly and quarterly filers). This is a representative recurring pattern\, not
+  a single annual deadline - actual filing frequency (monthly/quarterly/annu
+ al) is assigned per business by the state. | Authority: Direct fetch of Con
+ necticut's own tax agency site this session | Source: https://portal.ct.gov
+ /-/media/drs/forms/2022/sut/os-114_0222.pdf | This date is computed from a 
+ recurrence rule and may not reflect a later-announced change\; confirm agai
+ nst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-connecticut-q2-2026-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Connecticut: State sales & use tax return due
+DESCRIPTION:Form OS-114 due last day of month following the reporting perio
+ d (same rule for monthly and quarterly filers). | Q2 2026 (Apr-Jun) sales t
+ ax return\, applying Connecticut's quarterly-filer due-date rule: Form OS-1
+ 14 due last day of month following the reporting period (same rule for mont
+ hly and quarterly filers). This is a representative recurring pattern\, not
+  a single annual deadline - actual filing frequency (monthly/quarterly/annu
+ al) is assigned per business by the state. | Authority: Direct fetch of Con
+ necticut's own tax agency site this session | Source: https://portal.ct.gov
+ /-/media/drs/forms/2022/sut/os-114_0222.pdf | This date is computed from a 
+ recurrence rule and may not reflect a later-announced change\; confirm agai
+ nst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-connecticut-q2-2027-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:Connecticut: State sales & use tax return due
+DESCRIPTION:Form OS-114 due last day of month following the reporting perio
+ d (same rule for monthly and quarterly filers). | Q2 2026 (Apr-Jun) sales t
+ ax return\, applying Connecticut's quarterly-filer due-date rule: Form OS-1
+ 14 due last day of month following the reporting period (same rule for mont
+ hly and quarterly filers). This is a representative recurring pattern\, not
+  a single annual deadline - actual filing frequency (monthly/quarterly/annu
+ al) is assigned per business by the state. | Authority: Direct fetch of Con
+ necticut's own tax agency site this session | Source: https://portal.ct.gov
+ /-/media/drs/forms/2022/sut/os-114_0222.pdf | This date is computed from a 
+ recurrence rule and may not reflect a later-announced change\; confirm agai
+ nst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-connecticut-q2-2028-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280731
+DTEND;VALUE=DATE:20280801
+SUMMARY:Connecticut: State sales & use tax return due
+DESCRIPTION:Form OS-114 due last day of month following the reporting perio
+ d (same rule for monthly and quarterly filers). | Q2 2026 (Apr-Jun) sales t
+ ax return\, applying Connecticut's quarterly-filer due-date rule: Form OS-1
+ 14 due last day of month following the reporting period (same rule for mont
+ hly and quarterly filers). This is a representative recurring pattern\, not
+  a single annual deadline - actual filing frequency (monthly/quarterly/annu
+ al) is assigned per business by the state. | Authority: Direct fetch of Con
+ necticut's own tax agency site this session | Source: https://portal.ct.gov
+ /-/media/drs/forms/2022/sut/os-114_0222.pdf | This date is computed from a 
+ recurrence rule and may not reflect a later-announced change\; confirm agai
+ nst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-connecticut-q2-2029-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290731
+DTEND;VALUE=DATE:20290801
+SUMMARY:Connecticut: State sales & use tax return due
+DESCRIPTION:Form OS-114 due last day of month following the reporting perio
+ d (same rule for monthly and quarterly filers). | Q2 2026 (Apr-Jun) sales t
+ ax return\, applying Connecticut's quarterly-filer due-date rule: Form OS-1
+ 14 due last day of month following the reporting period (same rule for mont
+ hly and quarterly filers). This is a representative recurring pattern\, not
+  a single annual deadline - actual filing frequency (monthly/quarterly/annu
+ al) is assigned per business by the state. | Authority: Direct fetch of Con
+ necticut's own tax agency site this session | Source: https://portal.ct.gov
+ /-/media/drs/forms/2022/sut/os-114_0222.pdf | This date is computed from a 
+ recurrence rule and may not reflect a later-announced change\; confirm agai
+ nst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-connecticut-q2-2030-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300731
+DTEND;VALUE=DATE:20300801
+SUMMARY:Connecticut: State sales & use tax return due
+DESCRIPTION:Form OS-114 due last day of month following the reporting perio
+ d (same rule for monthly and quarterly filers). | Q2 2026 (Apr-Jun) sales t
+ ax return\, applying Connecticut's quarterly-filer due-date rule: Form OS-1
+ 14 due last day of month following the reporting period (same rule for mont
+ hly and quarterly filers). This is a representative recurring pattern\, not
+  a single annual deadline - actual filing frequency (monthly/quarterly/annu
+ al) is assigned per business by the state. | Authority: Direct fetch of Con
+ necticut's own tax agency site this session | Source: https://portal.ct.gov
+ /-/media/drs/forms/2022/sut/os-114_0222.pdf | This date is computed from a 
+ recurrence rule and may not reflect a later-announced change\; confirm agai
+ nst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-connecticut-q2-2031-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310731
+DTEND;VALUE=DATE:20310801
+SUMMARY:Connecticut: State sales & use tax return due
+DESCRIPTION:Form OS-114 due last day of month following the reporting perio
+ d (same rule for monthly and quarterly filers). | Q2 2026 (Apr-Jun) sales t
+ ax return\, applying Connecticut's quarterly-filer due-date rule: Form OS-1
+ 14 due last day of month following the reporting period (same rule for mont
+ hly and quarterly filers). This is a representative recurring pattern\, not
+  a single annual deadline - actual filing frequency (monthly/quarterly/annu
+ al) is assigned per business by the state. | Authority: Direct fetch of Con
+ necticut's own tax agency site this session | Source: https://portal.ct.gov
+ /-/media/drs/forms/2022/sut/os-114_0222.pdf | This date is computed from a 
+ recurrence rule and may not reflect a later-announced change\; confirm agai
+ nst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-connecticut-q2-2032-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320731
+DTEND;VALUE=DATE:20320801
+SUMMARY:Connecticut: State sales & use tax return due
+DESCRIPTION:Form OS-114 due last day of month following the reporting perio
+ d (same rule for monthly and quarterly filers). | Q2 2026 (Apr-Jun) sales t
+ ax return\, applying Connecticut's quarterly-filer due-date rule: Form OS-1
+ 14 due last day of month following the reporting period (same rule for mont
+ hly and quarterly filers). This is a representative recurring pattern\, not
+  a single annual deadline - actual filing frequency (monthly/quarterly/annu
+ al) is assigned per business by the state. | Authority: Direct fetch of Con
+ necticut's own tax agency site this session | Source: https://portal.ct.gov
+ /-/media/drs/forms/2022/sut/os-114_0222.pdf | This date is computed from a 
+ recurrence rule and may not reflect a later-announced change\; confirm agai
+ nst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-connecticut-q3-2025-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20251031
+DTEND;VALUE=DATE:20251101
+SUMMARY:Connecticut: State sales & use tax return due
+DESCRIPTION:Form OS-114 due last day of month following the reporting perio
+ d (same rule for monthly and quarterly filers). | Q3 2026 (Jul-Sep) sales t
+ ax return\, applying Connecticut's quarterly-filer due-date rule: Form OS-1
+ 14 due last day of month following the reporting period (same rule for mont
+ hly and quarterly filers). This is a representative recurring pattern\, not
+  a single annual deadline - actual filing frequency (monthly/quarterly/annu
+ al) is assigned per business by the state. | Authority: Direct fetch of Con
+ necticut's own tax agency site this session | Source: https://portal.ct.gov
+ /-/media/drs/forms/2022/sut/os-114_0222.pdf | This date is computed from a 
+ recurrence rule and may not reflect a later-announced change\; confirm agai
+ nst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-connecticut-q3-2026-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Connecticut: State sales & use tax return due
+DESCRIPTION:Form OS-114 due last day of month following the reporting perio
+ d (same rule for monthly and quarterly filers). | Q3 2026 (Jul-Sep) sales t
+ ax return\, applying Connecticut's quarterly-filer due-date rule: Form OS-1
+ 14 due last day of month following the reporting period (same rule for mont
+ hly and quarterly filers). This is a representative recurring pattern\, not
+  a single annual deadline - actual filing frequency (monthly/quarterly/annu
+ al) is assigned per business by the state. | Authority: Direct fetch of Con
+ necticut's own tax agency site this session | Source: https://portal.ct.gov
+ /-/media/drs/forms/2022/sut/os-114_0222.pdf | This date is computed from a 
+ recurrence rule and may not reflect a later-announced change\; confirm agai
+ nst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-connecticut-q3-2027-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20271031
+DTEND;VALUE=DATE:20271101
+SUMMARY:Connecticut: State sales & use tax return due
+DESCRIPTION:Form OS-114 due last day of month following the reporting perio
+ d (same rule for monthly and quarterly filers). | Q3 2026 (Jul-Sep) sales t
+ ax return\, applying Connecticut's quarterly-filer due-date rule: Form OS-1
+ 14 due last day of month following the reporting period (same rule for mont
+ hly and quarterly filers). This is a representative recurring pattern\, not
+  a single annual deadline - actual filing frequency (monthly/quarterly/annu
+ al) is assigned per business by the state. | Authority: Direct fetch of Con
+ necticut's own tax agency site this session | Source: https://portal.ct.gov
+ /-/media/drs/forms/2022/sut/os-114_0222.pdf | This date is computed from a 
+ recurrence rule and may not reflect a later-announced change\; confirm agai
+ nst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-connecticut-q3-2028-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20281031
+DTEND;VALUE=DATE:20281101
+SUMMARY:Connecticut: State sales & use tax return due
+DESCRIPTION:Form OS-114 due last day of month following the reporting perio
+ d (same rule for monthly and quarterly filers). | Q3 2026 (Jul-Sep) sales t
+ ax return\, applying Connecticut's quarterly-filer due-date rule: Form OS-1
+ 14 due last day of month following the reporting period (same rule for mont
+ hly and quarterly filers). This is a representative recurring pattern\, not
+  a single annual deadline - actual filing frequency (monthly/quarterly/annu
+ al) is assigned per business by the state. | Authority: Direct fetch of Con
+ necticut's own tax agency site this session | Source: https://portal.ct.gov
+ /-/media/drs/forms/2022/sut/os-114_0222.pdf | This date is computed from a 
+ recurrence rule and may not reflect a later-announced change\; confirm agai
+ nst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-connecticut-q3-2029-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20291031
+DTEND;VALUE=DATE:20291101
+SUMMARY:Connecticut: State sales & use tax return due
+DESCRIPTION:Form OS-114 due last day of month following the reporting perio
+ d (same rule for monthly and quarterly filers). | Q3 2026 (Jul-Sep) sales t
+ ax return\, applying Connecticut's quarterly-filer due-date rule: Form OS-1
+ 14 due last day of month following the reporting period (same rule for mont
+ hly and quarterly filers). This is a representative recurring pattern\, not
+  a single annual deadline - actual filing frequency (monthly/quarterly/annu
+ al) is assigned per business by the state. | Authority: Direct fetch of Con
+ necticut's own tax agency site this session | Source: https://portal.ct.gov
+ /-/media/drs/forms/2022/sut/os-114_0222.pdf | This date is computed from a 
+ recurrence rule and may not reflect a later-announced change\; confirm agai
+ nst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-connecticut-q3-2030-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20301031
+DTEND;VALUE=DATE:20301101
+SUMMARY:Connecticut: State sales & use tax return due
+DESCRIPTION:Form OS-114 due last day of month following the reporting perio
+ d (same rule for monthly and quarterly filers). | Q3 2026 (Jul-Sep) sales t
+ ax return\, applying Connecticut's quarterly-filer due-date rule: Form OS-1
+ 14 due last day of month following the reporting period (same rule for mont
+ hly and quarterly filers). This is a representative recurring pattern\, not
+  a single annual deadline - actual filing frequency (monthly/quarterly/annu
+ al) is assigned per business by the state. | Authority: Direct fetch of Con
+ necticut's own tax agency site this session | Source: https://portal.ct.gov
+ /-/media/drs/forms/2022/sut/os-114_0222.pdf | This date is computed from a 
+ recurrence rule and may not reflect a later-announced change\; confirm agai
+ nst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-connecticut-q3-2031-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20311031
+DTEND;VALUE=DATE:20311101
+SUMMARY:Connecticut: State sales & use tax return due
+DESCRIPTION:Form OS-114 due last day of month following the reporting perio
+ d (same rule for monthly and quarterly filers). | Q3 2026 (Jul-Sep) sales t
+ ax return\, applying Connecticut's quarterly-filer due-date rule: Form OS-1
+ 14 due last day of month following the reporting period (same rule for mont
+ hly and quarterly filers). This is a representative recurring pattern\, not
+  a single annual deadline - actual filing frequency (monthly/quarterly/annu
+ al) is assigned per business by the state. | Authority: Direct fetch of Con
+ necticut's own tax agency site this session | Source: https://portal.ct.gov
+ /-/media/drs/forms/2022/sut/os-114_0222.pdf | This date is computed from a 
+ recurrence rule and may not reflect a later-announced change\; confirm agai
+ nst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-connecticut-q3-2032-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20321031
+DTEND;VALUE=DATE:20321101
+SUMMARY:Connecticut: State sales & use tax return due
+DESCRIPTION:Form OS-114 due last day of month following the reporting perio
+ d (same rule for monthly and quarterly filers). | Q3 2026 (Jul-Sep) sales t
+ ax return\, applying Connecticut's quarterly-filer due-date rule: Form OS-1
+ 14 due last day of month following the reporting period (same rule for mont
+ hly and quarterly filers). This is a representative recurring pattern\, not
+  a single annual deadline - actual filing frequency (monthly/quarterly/annu
+ al) is assigned per business by the state. | Authority: Direct fetch of Con
+ necticut's own tax agency site this session | Source: https://portal.ct.gov
+ /-/media/drs/forms/2022/sut/os-114_0222.pdf | This date is computed from a 
+ recurrence rule and may not reflect a later-announced change\; confirm agai
+ nst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-connecticut-q4-2025-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250131
+DTEND;VALUE=DATE:20250201
+SUMMARY:Connecticut: State sales & use tax return due
+DESCRIPTION:Form OS-114 due last day of month following the reporting perio
+ d (same rule for monthly and quarterly filers). | Q4 2026 (Oct-Dec) sales t
+ ax return\, applying Connecticut's quarterly-filer due-date rule: Form OS-1
+ 14 due last day of month following the reporting period (same rule for mont
+ hly and quarterly filers). This is a representative recurring pattern\, not
+  a single annual deadline - actual filing frequency (monthly/quarterly/annu
+ al) is assigned per business by the state. | Authority: Direct fetch of Con
+ necticut's own tax agency site this session | Source: https://portal.ct.gov
+ /-/media/drs/forms/2022/sut/os-114_0222.pdf | This date is computed from a 
+ recurrence rule and may not reflect a later-announced change\; confirm agai
+ nst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-connecticut-q4-2026-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:Connecticut: State sales & use tax return due
+DESCRIPTION:Form OS-114 due last day of month following the reporting perio
+ d (same rule for monthly and quarterly filers). | Q4 2026 (Oct-Dec) sales t
+ ax return\, applying Connecticut's quarterly-filer due-date rule: Form OS-1
+ 14 due last day of month following the reporting period (same rule for mont
+ hly and quarterly filers). This is a representative recurring pattern\, not
+  a single annual deadline - actual filing frequency (monthly/quarterly/annu
+ al) is assigned per business by the state. | Authority: Direct fetch of Con
+ necticut's own tax agency site this session | Source: https://portal.ct.gov
+ /-/media/drs/forms/2022/sut/os-114_0222.pdf | This date is computed from a 
+ recurrence rule and may not reflect a later-announced change\; confirm agai
+ nst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-connecticut-q4-2027-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Connecticut: State sales & use tax return due
+DESCRIPTION:Form OS-114 due last day of month following the reporting perio
+ d (same rule for monthly and quarterly filers). | Q4 2026 (Oct-Dec) sales t
+ ax return\, applying Connecticut's quarterly-filer due-date rule: Form OS-1
+ 14 due last day of month following the reporting period (same rule for mont
+ hly and quarterly filers). This is a representative recurring pattern\, not
+  a single annual deadline - actual filing frequency (monthly/quarterly/annu
+ al) is assigned per business by the state. | Authority: Direct fetch of Con
+ necticut's own tax agency site this session | Source: https://portal.ct.gov
+ /-/media/drs/forms/2022/sut/os-114_0222.pdf | This date is computed from a 
+ recurrence rule and may not reflect a later-announced change\; confirm agai
+ nst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-connecticut-q4-2028-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280131
+DTEND;VALUE=DATE:20280201
+SUMMARY:Connecticut: State sales & use tax return due
+DESCRIPTION:Form OS-114 due last day of month following the reporting perio
+ d (same rule for monthly and quarterly filers). | Q4 2026 (Oct-Dec) sales t
+ ax return\, applying Connecticut's quarterly-filer due-date rule: Form OS-1
+ 14 due last day of month following the reporting period (same rule for mont
+ hly and quarterly filers). This is a representative recurring pattern\, not
+  a single annual deadline - actual filing frequency (monthly/quarterly/annu
+ al) is assigned per business by the state. | Authority: Direct fetch of Con
+ necticut's own tax agency site this session | Source: https://portal.ct.gov
+ /-/media/drs/forms/2022/sut/os-114_0222.pdf | This date is computed from a 
+ recurrence rule and may not reflect a later-announced change\; confirm agai
+ nst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-connecticut-q4-2029-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290131
+DTEND;VALUE=DATE:20290201
+SUMMARY:Connecticut: State sales & use tax return due
+DESCRIPTION:Form OS-114 due last day of month following the reporting perio
+ d (same rule for monthly and quarterly filers). | Q4 2026 (Oct-Dec) sales t
+ ax return\, applying Connecticut's quarterly-filer due-date rule: Form OS-1
+ 14 due last day of month following the reporting period (same rule for mont
+ hly and quarterly filers). This is a representative recurring pattern\, not
+  a single annual deadline - actual filing frequency (monthly/quarterly/annu
+ al) is assigned per business by the state. | Authority: Direct fetch of Con
+ necticut's own tax agency site this session | Source: https://portal.ct.gov
+ /-/media/drs/forms/2022/sut/os-114_0222.pdf | This date is computed from a 
+ recurrence rule and may not reflect a later-announced change\; confirm agai
+ nst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-connecticut-q4-2030-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300131
+DTEND;VALUE=DATE:20300201
+SUMMARY:Connecticut: State sales & use tax return due
+DESCRIPTION:Form OS-114 due last day of month following the reporting perio
+ d (same rule for monthly and quarterly filers). | Q4 2026 (Oct-Dec) sales t
+ ax return\, applying Connecticut's quarterly-filer due-date rule: Form OS-1
+ 14 due last day of month following the reporting period (same rule for mont
+ hly and quarterly filers). This is a representative recurring pattern\, not
+  a single annual deadline - actual filing frequency (monthly/quarterly/annu
+ al) is assigned per business by the state. | Authority: Direct fetch of Con
+ necticut's own tax agency site this session | Source: https://portal.ct.gov
+ /-/media/drs/forms/2022/sut/os-114_0222.pdf | This date is computed from a 
+ recurrence rule and may not reflect a later-announced change\; confirm agai
+ nst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-connecticut-q4-2031-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310131
+DTEND;VALUE=DATE:20310201
+SUMMARY:Connecticut: State sales & use tax return due
+DESCRIPTION:Form OS-114 due last day of month following the reporting perio
+ d (same rule for monthly and quarterly filers). | Q4 2026 (Oct-Dec) sales t
+ ax return\, applying Connecticut's quarterly-filer due-date rule: Form OS-1
+ 14 due last day of month following the reporting period (same rule for mont
+ hly and quarterly filers). This is a representative recurring pattern\, not
+  a single annual deadline - actual filing frequency (monthly/quarterly/annu
+ al) is assigned per business by the state. | Authority: Direct fetch of Con
+ necticut's own tax agency site this session | Source: https://portal.ct.gov
+ /-/media/drs/forms/2022/sut/os-114_0222.pdf | This date is computed from a 
+ recurrence rule and may not reflect a later-announced change\; confirm agai
+ nst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-connecticut-q4-2032-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320131
+DTEND;VALUE=DATE:20320201
+SUMMARY:Connecticut: State sales & use tax return due
+DESCRIPTION:Form OS-114 due last day of month following the reporting perio
+ d (same rule for monthly and quarterly filers). | Q4 2026 (Oct-Dec) sales t
+ ax return\, applying Connecticut's quarterly-filer due-date rule: Form OS-1
+ 14 due last day of month following the reporting period (same rule for mont
+ hly and quarterly filers). This is a representative recurring pattern\, not
+  a single annual deadline - actual filing frequency (monthly/quarterly/annu
+ al) is assigned per business by the state. | Authority: Direct fetch of Con
+ necticut's own tax agency site this session | Source: https://portal.ct.gov
+ /-/media/drs/forms/2022/sut/os-114_0222.pdf | This date is computed from a 
+ recurrence rule and may not reflect a later-announced change\; confirm agai
+ nst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

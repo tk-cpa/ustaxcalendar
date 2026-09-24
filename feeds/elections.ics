@@ -1,0 +1,131 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tk.cpa//US Tax Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:US Tax Calendar - Elections
+X-WR-CALDESC:Recurring US tax filing deadlines from ustaxcalendar.com (a tk
+ .cpa resource). Reference only\, not tax advice.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:fed-2553-2025-03-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250318
+SUMMARY:Federal: 2553 due
+DESCRIPTION:Election to be treated as an S corporation beginning with calen
+ dar year 2026 | File Form 2553 to elect S corporation treatment beginning w
+ ith calendar year 2026. A late-filed election takes effect for 2027 instead
+ . | Authority: IRS Pub. 509 (2026)\, General Tax Calendar\, March 16 | Sour
+ ce: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date is computed from a
+  recurrence rule and may not reflect a later-announced change\; confirm aga
+ inst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2553-2026-03-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260317
+SUMMARY:Federal: 2553 due
+DESCRIPTION:Election to be treated as an S corporation beginning with calen
+ dar year 2026 | File Form 2553 to elect S corporation treatment beginning w
+ ith calendar year 2026. A late-filed election takes effect for 2027 instead
+ . | Authority: IRS Pub. 509 (2026)\, General Tax Calendar\, March 16 | Sour
+ ce: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date is computed from a
+  recurrence rule and may not reflect a later-announced change\; confirm aga
+ inst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2553-2027-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:Federal: 2553 due
+DESCRIPTION:Election to be treated as an S corporation beginning with calen
+ dar year 2026 | File Form 2553 to elect S corporation treatment beginning w
+ ith calendar year 2026. A late-filed election takes effect for 2027 instead
+ . | Authority: IRS Pub. 509 (2026)\, General Tax Calendar\, March 16 | Sour
+ ce: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date is computed from a
+  recurrence rule and may not reflect a later-announced change\; confirm aga
+ inst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2553-2028-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280315
+DTEND;VALUE=DATE:20280316
+SUMMARY:Federal: 2553 due
+DESCRIPTION:Election to be treated as an S corporation beginning with calen
+ dar year 2026 | File Form 2553 to elect S corporation treatment beginning w
+ ith calendar year 2026. A late-filed election takes effect for 2027 instead
+ . | Authority: IRS Pub. 509 (2026)\, General Tax Calendar\, March 16 | Sour
+ ce: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date is computed from a
+  recurrence rule and may not reflect a later-announced change\; confirm aga
+ inst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2553-2029-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290315
+DTEND;VALUE=DATE:20290316
+SUMMARY:Federal: 2553 due
+DESCRIPTION:Election to be treated as an S corporation beginning with calen
+ dar year 2026 | File Form 2553 to elect S corporation treatment beginning w
+ ith calendar year 2026. A late-filed election takes effect for 2027 instead
+ . | Authority: IRS Pub. 509 (2026)\, General Tax Calendar\, March 16 | Sour
+ ce: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date is computed from a
+  recurrence rule and may not reflect a later-announced change\; confirm aga
+ inst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2553-2030-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300315
+DTEND;VALUE=DATE:20300316
+SUMMARY:Federal: 2553 due
+DESCRIPTION:Election to be treated as an S corporation beginning with calen
+ dar year 2026 | File Form 2553 to elect S corporation treatment beginning w
+ ith calendar year 2026. A late-filed election takes effect for 2027 instead
+ . | Authority: IRS Pub. 509 (2026)\, General Tax Calendar\, March 16 | Sour
+ ce: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date is computed from a
+  recurrence rule and may not reflect a later-announced change\; confirm aga
+ inst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2553-2031-03-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310317
+DTEND;VALUE=DATE:20310318
+SUMMARY:Federal: 2553 due
+DESCRIPTION:Election to be treated as an S corporation beginning with calen
+ dar year 2026 | File Form 2553 to elect S corporation treatment beginning w
+ ith calendar year 2026. A late-filed election takes effect for 2027 instead
+ . | Authority: IRS Pub. 509 (2026)\, General Tax Calendar\, March 16 | Sour
+ ce: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date is computed from a
+  recurrence rule and may not reflect a later-announced change\; confirm aga
+ inst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2553-2032-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320315
+DTEND;VALUE=DATE:20320316
+SUMMARY:Federal: 2553 due
+DESCRIPTION:Election to be treated as an S corporation beginning with calen
+ dar year 2026 | File Form 2553 to elect S corporation treatment beginning w
+ ith calendar year 2026. A late-filed election takes effect for 2027 instead
+ . | Authority: IRS Pub. 509 (2026)\, General Tax Calendar\, March 16 | Sour
+ ce: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date is computed from a
+  recurrence rule and may not reflect a later-announced change\; confirm aga
+ inst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

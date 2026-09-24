@@ -1,0 +1,2211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tk.cpa//US Tax Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:US Tax Calendar - North Carolina
+X-WR-CALDESC:Recurring US tax filing deadlines from ustaxcalendar.com (a tk
+ .cpa resource). Reference only\, not tax advice.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:state-corp-north-carolina-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:North Carolina: State corporate income/franchise tax return due
+DESCRIPTION:CD-405 due 15th day of 4th month after year end\; automatic 7-m
+ onth extension for tax years beginning on or after January 1\, 2025 (a chan
+ ge from the prior 6-month extension). | CD-405 due 15th day of 4th month af
+ ter year end\; automatic 7-month extension for tax years beginning on or af
+ ter January 1\, 2025 (a change from the prior 6-month extension). | Authori
+ ty: Direct fetch of North Carolina's own tax agency site/publication this s
+ ession | Source: https://www.ncdor.gov/taxes-forms/corporate-income-franchi
+ se-tax/extensions | This date is computed from a recurrence rule and may no
+ t reflect a later-announced change\; confirm against the cited source befor
+ e relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-north-carolina-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:North Carolina: State corporate income/franchise tax return due
+DESCRIPTION:CD-405 due 15th day of 4th month after year end\; automatic 7-m
+ onth extension for tax years beginning on or after January 1\, 2025 (a chan
+ ge from the prior 6-month extension). | CD-405 due 15th day of 4th month af
+ ter year end\; automatic 7-month extension for tax years beginning on or af
+ ter January 1\, 2025 (a change from the prior 6-month extension). | Authori
+ ty: Direct fetch of North Carolina's own tax agency site/publication this s
+ ession | Source: https://www.ncdor.gov/taxes-forms/corporate-income-franchi
+ se-tax/extensions | This date is computed from a recurrence rule and may no
+ t reflect a later-announced change\; confirm against the cited source befor
+ e relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-north-carolina-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:North Carolina: State corporate income/franchise tax return due
+DESCRIPTION:CD-405 due 15th day of 4th month after year end\; automatic 7-m
+ onth extension for tax years beginning on or after January 1\, 2025 (a chan
+ ge from the prior 6-month extension). | CD-405 due 15th day of 4th month af
+ ter year end\; automatic 7-month extension for tax years beginning on or af
+ ter January 1\, 2025 (a change from the prior 6-month extension). | Authori
+ ty: Direct fetch of North Carolina's own tax agency site/publication this s
+ ession | Source: https://www.ncdor.gov/taxes-forms/corporate-income-franchi
+ se-tax/extensions | This date is computed from a recurrence rule and may no
+ t reflect a later-announced change\; confirm against the cited source befor
+ e relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-north-carolina-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:North Carolina: State corporate income/franchise tax return due
+DESCRIPTION:CD-405 due 15th day of 4th month after year end\; automatic 7-m
+ onth extension for tax years beginning on or after January 1\, 2025 (a chan
+ ge from the prior 6-month extension). | CD-405 due 15th day of 4th month af
+ ter year end\; automatic 7-month extension for tax years beginning on or af
+ ter January 1\, 2025 (a change from the prior 6-month extension). | Authori
+ ty: Direct fetch of North Carolina's own tax agency site/publication this s
+ ession | Source: https://www.ncdor.gov/taxes-forms/corporate-income-franchi
+ se-tax/extensions | This date is computed from a recurrence rule and may no
+ t reflect a later-announced change\; confirm against the cited source befor
+ e relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-north-carolina-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:North Carolina: State corporate income/franchise tax return due
+DESCRIPTION:CD-405 due 15th day of 4th month after year end\; automatic 7-m
+ onth extension for tax years beginning on or after January 1\, 2025 (a chan
+ ge from the prior 6-month extension). | CD-405 due 15th day of 4th month af
+ ter year end\; automatic 7-month extension for tax years beginning on or af
+ ter January 1\, 2025 (a change from the prior 6-month extension). | Authori
+ ty: Direct fetch of North Carolina's own tax agency site/publication this s
+ ession | Source: https://www.ncdor.gov/taxes-forms/corporate-income-franchi
+ se-tax/extensions | This date is computed from a recurrence rule and may no
+ t reflect a later-announced change\; confirm against the cited source befor
+ e relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-north-carolina-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:North Carolina: State corporate income/franchise tax return due
+DESCRIPTION:CD-405 due 15th day of 4th month after year end\; automatic 7-m
+ onth extension for tax years beginning on or after January 1\, 2025 (a chan
+ ge from the prior 6-month extension). | CD-405 due 15th day of 4th month af
+ ter year end\; automatic 7-month extension for tax years beginning on or af
+ ter January 1\, 2025 (a change from the prior 6-month extension). | Authori
+ ty: Direct fetch of North Carolina's own tax agency site/publication this s
+ ession | Source: https://www.ncdor.gov/taxes-forms/corporate-income-franchi
+ se-tax/extensions | This date is computed from a recurrence rule and may no
+ t reflect a later-announced change\; confirm against the cited source befor
+ e relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-north-carolina-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:North Carolina: State corporate income/franchise tax return due
+DESCRIPTION:CD-405 due 15th day of 4th month after year end\; automatic 7-m
+ onth extension for tax years beginning on or after January 1\, 2025 (a chan
+ ge from the prior 6-month extension). | CD-405 due 15th day of 4th month af
+ ter year end\; automatic 7-month extension for tax years beginning on or af
+ ter January 1\, 2025 (a change from the prior 6-month extension). | Authori
+ ty: Direct fetch of North Carolina's own tax agency site/publication this s
+ ession | Source: https://www.ncdor.gov/taxes-forms/corporate-income-franchi
+ se-tax/extensions | This date is computed from a recurrence rule and may no
+ t reflect a later-announced change\; confirm against the cited source befor
+ e relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-north-carolina-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:North Carolina: State corporate income/franchise tax return due
+DESCRIPTION:CD-405 due 15th day of 4th month after year end\; automatic 7-m
+ onth extension for tax years beginning on or after January 1\, 2025 (a chan
+ ge from the prior 6-month extension). | CD-405 due 15th day of 4th month af
+ ter year end\; automatic 7-month extension for tax years beginning on or af
+ ter January 1\, 2025 (a change from the prior 6-month extension). | Authori
+ ty: Direct fetch of North Carolina's own tax agency site/publication this s
+ ession | Source: https://www.ncdor.gov/taxes-forms/corporate-income-franchi
+ se-tax/extensions | This date is computed from a recurrence rule and may no
+ t reflect a later-announced change\; confirm against the cited source befor
+ e relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-north-carolina-q1-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:North Carolina: State individual quarterly estimated tax payment du
+ e
+DESCRIPTION:Estimated payments are due April 15\, June 15\, and September 1
+ 5 of the taxable year and January 15 of the following year. | Q1 2026 state
+  individual estimated tax payment. Estimated payments are due April 15\, Ju
+ ne 15\, and September 15 of the taxable year and January 15 of the followin
+ g year. | Authority: Direct fetch of North Carolina's own tax agency site/i
+ nstructions this session | Source: https://www.ncdor.gov/taxes-forms/indivi
+ dual-income-tax/estimated-income-tax | This date is computed from a recurre
+ nce rule and may not reflect a later-announced change\; confirm against the
+  cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-north-carolina-q1-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:North Carolina: State individual quarterly estimated tax payment du
+ e
+DESCRIPTION:Estimated payments are due April 15\, June 15\, and September 1
+ 5 of the taxable year and January 15 of the following year. | Q1 2026 state
+  individual estimated tax payment. Estimated payments are due April 15\, Ju
+ ne 15\, and September 15 of the taxable year and January 15 of the followin
+ g year. | Authority: Direct fetch of North Carolina's own tax agency site/i
+ nstructions this session | Source: https://www.ncdor.gov/taxes-forms/indivi
+ dual-income-tax/estimated-income-tax | This date is computed from a recurre
+ nce rule and may not reflect a later-announced change\; confirm against the
+  cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-north-carolina-q1-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:North Carolina: State individual quarterly estimated tax payment du
+ e
+DESCRIPTION:Estimated payments are due April 15\, June 15\, and September 1
+ 5 of the taxable year and January 15 of the following year. | Q1 2026 state
+  individual estimated tax payment. Estimated payments are due April 15\, Ju
+ ne 15\, and September 15 of the taxable year and January 15 of the followin
+ g year. | Authority: Direct fetch of North Carolina's own tax agency site/i
+ nstructions this session | Source: https://www.ncdor.gov/taxes-forms/indivi
+ dual-income-tax/estimated-income-tax | This date is computed from a recurre
+ nce rule and may not reflect a later-announced change\; confirm against the
+  cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-north-carolina-q1-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:North Carolina: State individual quarterly estimated tax payment du
+ e
+DESCRIPTION:Estimated payments are due April 15\, June 15\, and September 1
+ 5 of the taxable year and January 15 of the following year. | Q1 2026 state
+  individual estimated tax payment. Estimated payments are due April 15\, Ju
+ ne 15\, and September 15 of the taxable year and January 15 of the followin
+ g year. | Authority: Direct fetch of North Carolina's own tax agency site/i
+ nstructions this session | Source: https://www.ncdor.gov/taxes-forms/indivi
+ dual-income-tax/estimated-income-tax | This date is computed from a recurre
+ nce rule and may not reflect a later-announced change\; confirm against the
+  cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-north-carolina-q1-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:North Carolina: State individual quarterly estimated tax payment du
+ e
+DESCRIPTION:Estimated payments are due April 15\, June 15\, and September 1
+ 5 of the taxable year and January 15 of the following year. | Q1 2026 state
+  individual estimated tax payment. Estimated payments are due April 15\, Ju
+ ne 15\, and September 15 of the taxable year and January 15 of the followin
+ g year. | Authority: Direct fetch of North Carolina's own tax agency site/i
+ nstructions this session | Source: https://www.ncdor.gov/taxes-forms/indivi
+ dual-income-tax/estimated-income-tax | This date is computed from a recurre
+ nce rule and may not reflect a later-announced change\; confirm against the
+  cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-north-carolina-q1-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:North Carolina: State individual quarterly estimated tax payment du
+ e
+DESCRIPTION:Estimated payments are due April 15\, June 15\, and September 1
+ 5 of the taxable year and January 15 of the following year. | Q1 2026 state
+  individual estimated tax payment. Estimated payments are due April 15\, Ju
+ ne 15\, and September 15 of the taxable year and January 15 of the followin
+ g year. | Authority: Direct fetch of North Carolina's own tax agency site/i
+ nstructions this session | Source: https://www.ncdor.gov/taxes-forms/indivi
+ dual-income-tax/estimated-income-tax | This date is computed from a recurre
+ nce rule and may not reflect a later-announced change\; confirm against the
+  cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-north-carolina-q1-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:North Carolina: State individual quarterly estimated tax payment du
+ e
+DESCRIPTION:Estimated payments are due April 15\, June 15\, and September 1
+ 5 of the taxable year and January 15 of the following year. | Q1 2026 state
+  individual estimated tax payment. Estimated payments are due April 15\, Ju
+ ne 15\, and September 15 of the taxable year and January 15 of the followin
+ g year. | Authority: Direct fetch of North Carolina's own tax agency site/i
+ nstructions this session | Source: https://www.ncdor.gov/taxes-forms/indivi
+ dual-income-tax/estimated-income-tax | This date is computed from a recurre
+ nce rule and may not reflect a later-announced change\; confirm against the
+  cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-north-carolina-q1-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:North Carolina: State individual quarterly estimated tax payment du
+ e
+DESCRIPTION:Estimated payments are due April 15\, June 15\, and September 1
+ 5 of the taxable year and January 15 of the following year. | Q1 2026 state
+  individual estimated tax payment. Estimated payments are due April 15\, Ju
+ ne 15\, and September 15 of the taxable year and January 15 of the followin
+ g year. | Authority: Direct fetch of North Carolina's own tax agency site/i
+ nstructions this session | Source: https://www.ncdor.gov/taxes-forms/indivi
+ dual-income-tax/estimated-income-tax | This date is computed from a recurre
+ nce rule and may not reflect a later-announced change\; confirm against the
+  cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-north-carolina-q2-2025-06-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250617
+SUMMARY:North Carolina: State individual quarterly estimated tax payment du
+ e
+DESCRIPTION:Estimated payments are due April 15\, June 15\, and September 1
+ 5 of the taxable year and January 15 of the following year. | Q2 2026 state
+  individual estimated tax payment. Estimated payments are due April 15\, Ju
+ ne 15\, and September 15 of the taxable year and January 15 of the followin
+ g year. | Authority: Direct fetch of North Carolina's own tax agency site/i
+ nstructions this session | Source: https://www.ncdor.gov/taxes-forms/indivi
+ dual-income-tax/estimated-income-tax | This date is computed from a recurre
+ nce rule and may not reflect a later-announced change\; confirm against the
+  cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-north-carolina-q2-2026-06-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:North Carolina: State individual quarterly estimated tax payment du
+ e
+DESCRIPTION:Estimated payments are due April 15\, June 15\, and September 1
+ 5 of the taxable year and January 15 of the following year. | Q2 2026 state
+  individual estimated tax payment. Estimated payments are due April 15\, Ju
+ ne 15\, and September 15 of the taxable year and January 15 of the followin
+ g year. | Authority: Direct fetch of North Carolina's own tax agency site/i
+ nstructions this session | Source: https://www.ncdor.gov/taxes-forms/indivi
+ dual-income-tax/estimated-income-tax | This date is computed from a recurre
+ nce rule and may not reflect a later-announced change\; confirm against the
+  cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-north-carolina-q2-2027-06-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:North Carolina: State individual quarterly estimated tax payment du
+ e
+DESCRIPTION:Estimated payments are due April 15\, June 15\, and September 1
+ 5 of the taxable year and January 15 of the following year. | Q2 2026 state
+  individual estimated tax payment. Estimated payments are due April 15\, Ju
+ ne 15\, and September 15 of the taxable year and January 15 of the followin
+ g year. | Authority: Direct fetch of North Carolina's own tax agency site/i
+ nstructions this session | Source: https://www.ncdor.gov/taxes-forms/indivi
+ dual-income-tax/estimated-income-tax | This date is computed from a recurre
+ nce rule and may not reflect a later-announced change\; confirm against the
+  cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-north-carolina-q2-2028-06-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280615
+DTEND;VALUE=DATE:20280616
+SUMMARY:North Carolina: State individual quarterly estimated tax payment du
+ e
+DESCRIPTION:Estimated payments are due April 15\, June 15\, and September 1
+ 5 of the taxable year and January 15 of the following year. | Q2 2026 state
+  individual estimated tax payment. Estimated payments are due April 15\, Ju
+ ne 15\, and September 15 of the taxable year and January 15 of the followin
+ g year. | Authority: Direct fetch of North Carolina's own tax agency site/i
+ nstructions this session | Source: https://www.ncdor.gov/taxes-forms/indivi
+ dual-income-tax/estimated-income-tax | This date is computed from a recurre
+ nce rule and may not reflect a later-announced change\; confirm against the
+  cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-north-carolina-q2-2029-06-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290615
+DTEND;VALUE=DATE:20290616
+SUMMARY:North Carolina: State individual quarterly estimated tax payment du
+ e
+DESCRIPTION:Estimated payments are due April 15\, June 15\, and September 1
+ 5 of the taxable year and January 15 of the following year. | Q2 2026 state
+  individual estimated tax payment. Estimated payments are due April 15\, Ju
+ ne 15\, and September 15 of the taxable year and January 15 of the followin
+ g year. | Authority: Direct fetch of North Carolina's own tax agency site/i
+ nstructions this session | Source: https://www.ncdor.gov/taxes-forms/indivi
+ dual-income-tax/estimated-income-tax | This date is computed from a recurre
+ nce rule and may not reflect a later-announced change\; confirm against the
+  cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-north-carolina-q2-2030-06-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300617
+DTEND;VALUE=DATE:20300618
+SUMMARY:North Carolina: State individual quarterly estimated tax payment du
+ e
+DESCRIPTION:Estimated payments are due April 15\, June 15\, and September 1
+ 5 of the taxable year and January 15 of the following year. | Q2 2026 state
+  individual estimated tax payment. Estimated payments are due April 15\, Ju
+ ne 15\, and September 15 of the taxable year and January 15 of the followin
+ g year. | Authority: Direct fetch of North Carolina's own tax agency site/i
+ nstructions this session | Source: https://www.ncdor.gov/taxes-forms/indivi
+ dual-income-tax/estimated-income-tax | This date is computed from a recurre
+ nce rule and may not reflect a later-announced change\; confirm against the
+  cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-north-carolina-q2-2031-06-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310616
+DTEND;VALUE=DATE:20310617
+SUMMARY:North Carolina: State individual quarterly estimated tax payment du
+ e
+DESCRIPTION:Estimated payments are due April 15\, June 15\, and September 1
+ 5 of the taxable year and January 15 of the following year. | Q2 2026 state
+  individual estimated tax payment. Estimated payments are due April 15\, Ju
+ ne 15\, and September 15 of the taxable year and January 15 of the followin
+ g year. | Authority: Direct fetch of North Carolina's own tax agency site/i
+ nstructions this session | Source: https://www.ncdor.gov/taxes-forms/indivi
+ dual-income-tax/estimated-income-tax | This date is computed from a recurre
+ nce rule and may not reflect a later-announced change\; confirm against the
+  cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-north-carolina-q2-2032-06-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320615
+DTEND;VALUE=DATE:20320616
+SUMMARY:North Carolina: State individual quarterly estimated tax payment du
+ e
+DESCRIPTION:Estimated payments are due April 15\, June 15\, and September 1
+ 5 of the taxable year and January 15 of the following year. | Q2 2026 state
+  individual estimated tax payment. Estimated payments are due April 15\, Ju
+ ne 15\, and September 15 of the taxable year and January 15 of the followin
+ g year. | Authority: Direct fetch of North Carolina's own tax agency site/i
+ nstructions this session | Source: https://www.ncdor.gov/taxes-forms/indivi
+ dual-income-tax/estimated-income-tax | This date is computed from a recurre
+ nce rule and may not reflect a later-announced change\; confirm against the
+  cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-north-carolina-q3-2025-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20250916
+SUMMARY:North Carolina: State individual quarterly estimated tax payment du
+ e
+DESCRIPTION:Estimated payments are due April 15\, June 15\, and September 1
+ 5 of the taxable year and January 15 of the following year. | Q3 2026 state
+  individual estimated tax payment. Estimated payments are due April 15\, Ju
+ ne 15\, and September 15 of the taxable year and January 15 of the followin
+ g year. | Authority: Direct fetch of North Carolina's own tax agency site/i
+ nstructions this session | Source: https://www.ncdor.gov/taxes-forms/indivi
+ dual-income-tax/estimated-income-tax | This date is computed from a recurre
+ nce rule and may not reflect a later-announced change\; confirm against the
+  cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-north-carolina-q3-2026-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:North Carolina: State individual quarterly estimated tax payment du
+ e
+DESCRIPTION:Estimated payments are due April 15\, June 15\, and September 1
+ 5 of the taxable year and January 15 of the following year. | Q3 2026 state
+  individual estimated tax payment. Estimated payments are due April 15\, Ju
+ ne 15\, and September 15 of the taxable year and January 15 of the followin
+ g year. | Authority: Direct fetch of North Carolina's own tax agency site/i
+ nstructions this session | Source: https://www.ncdor.gov/taxes-forms/indivi
+ dual-income-tax/estimated-income-tax | This date is computed from a recurre
+ nce rule and may not reflect a later-announced change\; confirm against the
+  cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-north-carolina-q3-2027-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:North Carolina: State individual quarterly estimated tax payment du
+ e
+DESCRIPTION:Estimated payments are due April 15\, June 15\, and September 1
+ 5 of the taxable year and January 15 of the following year. | Q3 2026 state
+  individual estimated tax payment. Estimated payments are due April 15\, Ju
+ ne 15\, and September 15 of the taxable year and January 15 of the followin
+ g year. | Authority: Direct fetch of North Carolina's own tax agency site/i
+ nstructions this session | Source: https://www.ncdor.gov/taxes-forms/indivi
+ dual-income-tax/estimated-income-tax | This date is computed from a recurre
+ nce rule and may not reflect a later-announced change\; confirm against the
+  cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-north-carolina-q3-2028-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280915
+DTEND;VALUE=DATE:20280916
+SUMMARY:North Carolina: State individual quarterly estimated tax payment du
+ e
+DESCRIPTION:Estimated payments are due April 15\, June 15\, and September 1
+ 5 of the taxable year and January 15 of the following year. | Q3 2026 state
+  individual estimated tax payment. Estimated payments are due April 15\, Ju
+ ne 15\, and September 15 of the taxable year and January 15 of the followin
+ g year. | Authority: Direct fetch of North Carolina's own tax agency site/i
+ nstructions this session | Source: https://www.ncdor.gov/taxes-forms/indivi
+ dual-income-tax/estimated-income-tax | This date is computed from a recurre
+ nce rule and may not reflect a later-announced change\; confirm against the
+  cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-north-carolina-q3-2029-09-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290917
+DTEND;VALUE=DATE:20290918
+SUMMARY:North Carolina: State individual quarterly estimated tax payment du
+ e
+DESCRIPTION:Estimated payments are due April 15\, June 15\, and September 1
+ 5 of the taxable year and January 15 of the following year. | Q3 2026 state
+  individual estimated tax payment. Estimated payments are due April 15\, Ju
+ ne 15\, and September 15 of the taxable year and January 15 of the followin
+ g year. | Authority: Direct fetch of North Carolina's own tax agency site/i
+ nstructions this session | Source: https://www.ncdor.gov/taxes-forms/indivi
+ dual-income-tax/estimated-income-tax | This date is computed from a recurre
+ nce rule and may not reflect a later-announced change\; confirm against the
+  cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-north-carolina-q3-2030-09-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300916
+DTEND;VALUE=DATE:20300917
+SUMMARY:North Carolina: State individual quarterly estimated tax payment du
+ e
+DESCRIPTION:Estimated payments are due April 15\, June 15\, and September 1
+ 5 of the taxable year and January 15 of the following year. | Q3 2026 state
+  individual estimated tax payment. Estimated payments are due April 15\, Ju
+ ne 15\, and September 15 of the taxable year and January 15 of the followin
+ g year. | Authority: Direct fetch of North Carolina's own tax agency site/i
+ nstructions this session | Source: https://www.ncdor.gov/taxes-forms/indivi
+ dual-income-tax/estimated-income-tax | This date is computed from a recurre
+ nce rule and may not reflect a later-announced change\; confirm against the
+  cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-north-carolina-q3-2031-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310915
+DTEND;VALUE=DATE:20310916
+SUMMARY:North Carolina: State individual quarterly estimated tax payment du
+ e
+DESCRIPTION:Estimated payments are due April 15\, June 15\, and September 1
+ 5 of the taxable year and January 15 of the following year. | Q3 2026 state
+  individual estimated tax payment. Estimated payments are due April 15\, Ju
+ ne 15\, and September 15 of the taxable year and January 15 of the followin
+ g year. | Authority: Direct fetch of North Carolina's own tax agency site/i
+ nstructions this session | Source: https://www.ncdor.gov/taxes-forms/indivi
+ dual-income-tax/estimated-income-tax | This date is computed from a recurre
+ nce rule and may not reflect a later-announced change\; confirm against the
+  cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-north-carolina-q3-2032-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320915
+DTEND;VALUE=DATE:20320916
+SUMMARY:North Carolina: State individual quarterly estimated tax payment du
+ e
+DESCRIPTION:Estimated payments are due April 15\, June 15\, and September 1
+ 5 of the taxable year and January 15 of the following year. | Q3 2026 state
+  individual estimated tax payment. Estimated payments are due April 15\, Ju
+ ne 15\, and September 15 of the taxable year and January 15 of the followin
+ g year. | Authority: Direct fetch of North Carolina's own tax agency site/i
+ nstructions this session | Source: https://www.ncdor.gov/taxes-forms/indivi
+ dual-income-tax/estimated-income-tax | This date is computed from a recurre
+ nce rule and may not reflect a later-announced change\; confirm against the
+  cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-north-carolina-q4-2025-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250115
+DTEND;VALUE=DATE:20250116
+SUMMARY:North Carolina: State individual quarterly estimated tax payment du
+ e
+DESCRIPTION:Estimated payments are due April 15\, June 15\, and September 1
+ 5 of the taxable year and January 15 of the following year. | Q4 2026 state
+  individual estimated tax payment. Estimated payments are due April 15\, Ju
+ ne 15\, and September 15 of the taxable year and January 15 of the followin
+ g year. | Authority: Direct fetch of North Carolina's own tax agency site/i
+ nstructions this session | Source: https://www.ncdor.gov/taxes-forms/indivi
+ dual-income-tax/estimated-income-tax | This date is computed from a recurre
+ nce rule and may not reflect a later-announced change\; confirm against the
+  cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-north-carolina-q4-2026-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260116
+SUMMARY:North Carolina: State individual quarterly estimated tax payment du
+ e
+DESCRIPTION:Estimated payments are due April 15\, June 15\, and September 1
+ 5 of the taxable year and January 15 of the following year. | Q4 2026 state
+  individual estimated tax payment. Estimated payments are due April 15\, Ju
+ ne 15\, and September 15 of the taxable year and January 15 of the followin
+ g year. | Authority: Direct fetch of North Carolina's own tax agency site/i
+ nstructions this session | Source: https://www.ncdor.gov/taxes-forms/indivi
+ dual-income-tax/estimated-income-tax | This date is computed from a recurre
+ nce rule and may not reflect a later-announced change\; confirm against the
+  cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-north-carolina-q4-2027-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:North Carolina: State individual quarterly estimated tax payment du
+ e
+DESCRIPTION:Estimated payments are due April 15\, June 15\, and September 1
+ 5 of the taxable year and January 15 of the following year. | Q4 2026 state
+  individual estimated tax payment. Estimated payments are due April 15\, Ju
+ ne 15\, and September 15 of the taxable year and January 15 of the followin
+ g year. | Authority: Direct fetch of North Carolina's own tax agency site/i
+ nstructions this session | Source: https://www.ncdor.gov/taxes-forms/indivi
+ dual-income-tax/estimated-income-tax | This date is computed from a recurre
+ nce rule and may not reflect a later-announced change\; confirm against the
+  cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-north-carolina-q4-2028-01-18@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280118
+DTEND;VALUE=DATE:20280119
+SUMMARY:North Carolina: State individual quarterly estimated tax payment du
+ e
+DESCRIPTION:Estimated payments are due April 15\, June 15\, and September 1
+ 5 of the taxable year and January 15 of the following year. | Q4 2026 state
+  individual estimated tax payment. Estimated payments are due April 15\, Ju
+ ne 15\, and September 15 of the taxable year and January 15 of the followin
+ g year. | Authority: Direct fetch of North Carolina's own tax agency site/i
+ nstructions this session | Source: https://www.ncdor.gov/taxes-forms/indivi
+ dual-income-tax/estimated-income-tax | This date is computed from a recurre
+ nce rule and may not reflect a later-announced change\; confirm against the
+  cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-north-carolina-q4-2029-01-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290116
+DTEND;VALUE=DATE:20290117
+SUMMARY:North Carolina: State individual quarterly estimated tax payment du
+ e
+DESCRIPTION:Estimated payments are due April 15\, June 15\, and September 1
+ 5 of the taxable year and January 15 of the following year. | Q4 2026 state
+  individual estimated tax payment. Estimated payments are due April 15\, Ju
+ ne 15\, and September 15 of the taxable year and January 15 of the followin
+ g year. | Authority: Direct fetch of North Carolina's own tax agency site/i
+ nstructions this session | Source: https://www.ncdor.gov/taxes-forms/indivi
+ dual-income-tax/estimated-income-tax | This date is computed from a recurre
+ nce rule and may not reflect a later-announced change\; confirm against the
+  cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-north-carolina-q4-2030-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300115
+DTEND;VALUE=DATE:20300116
+SUMMARY:North Carolina: State individual quarterly estimated tax payment du
+ e
+DESCRIPTION:Estimated payments are due April 15\, June 15\, and September 1
+ 5 of the taxable year and January 15 of the following year. | Q4 2026 state
+  individual estimated tax payment. Estimated payments are due April 15\, Ju
+ ne 15\, and September 15 of the taxable year and January 15 of the followin
+ g year. | Authority: Direct fetch of North Carolina's own tax agency site/i
+ nstructions this session | Source: https://www.ncdor.gov/taxes-forms/indivi
+ dual-income-tax/estimated-income-tax | This date is computed from a recurre
+ nce rule and may not reflect a later-announced change\; confirm against the
+  cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-north-carolina-q4-2031-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310115
+DTEND;VALUE=DATE:20310116
+SUMMARY:North Carolina: State individual quarterly estimated tax payment du
+ e
+DESCRIPTION:Estimated payments are due April 15\, June 15\, and September 1
+ 5 of the taxable year and January 15 of the following year. | Q4 2026 state
+  individual estimated tax payment. Estimated payments are due April 15\, Ju
+ ne 15\, and September 15 of the taxable year and January 15 of the followin
+ g year. | Authority: Direct fetch of North Carolina's own tax agency site/i
+ nstructions this session | Source: https://www.ncdor.gov/taxes-forms/indivi
+ dual-income-tax/estimated-income-tax | This date is computed from a recurre
+ nce rule and may not reflect a later-announced change\; confirm against the
+  cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-north-carolina-q4-2032-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320115
+DTEND;VALUE=DATE:20320116
+SUMMARY:North Carolina: State individual quarterly estimated tax payment du
+ e
+DESCRIPTION:Estimated payments are due April 15\, June 15\, and September 1
+ 5 of the taxable year and January 15 of the following year. | Q4 2026 state
+  individual estimated tax payment. Estimated payments are due April 15\, Ju
+ ne 15\, and September 15 of the taxable year and January 15 of the followin
+ g year. | Authority: Direct fetch of North Carolina's own tax agency site/i
+ nstructions this session | Source: https://www.ncdor.gov/taxes-forms/indivi
+ dual-income-tax/estimated-income-tax | This date is computed from a recurre
+ nce rule and may not reflect a later-announced change\; confirm against the
+  cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-nc-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:North Carolina: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Automatic-extension date not confirmed 
+ this session. | Authority: Direct fetch of https://www.ncdor.gov/news/press
+ -releases/2026/04/07/ncdor-urges-taxpayers-file-april-15-deadline this sess
+ ion | Source: https://www.ncdor.gov/news/press-releases/2026/04/07/ncdor-ur
+ ges-taxpayers-file-april-15-deadline | This date is computed from a recurre
+ nce rule and may not reflect a later-announced change\; confirm against the
+  cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-nc-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:North Carolina: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Automatic-extension date not confirmed 
+ this session. | Authority: Direct fetch of https://www.ncdor.gov/news/press
+ -releases/2026/04/07/ncdor-urges-taxpayers-file-april-15-deadline this sess
+ ion | Source: https://www.ncdor.gov/news/press-releases/2026/04/07/ncdor-ur
+ ges-taxpayers-file-april-15-deadline | This date is computed from a recurre
+ nce rule and may not reflect a later-announced change\; confirm against the
+  cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-nc-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:North Carolina: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Automatic-extension date not confirmed 
+ this session. | Authority: Direct fetch of https://www.ncdor.gov/news/press
+ -releases/2026/04/07/ncdor-urges-taxpayers-file-april-15-deadline this sess
+ ion | Source: https://www.ncdor.gov/news/press-releases/2026/04/07/ncdor-ur
+ ges-taxpayers-file-april-15-deadline | This date is computed from a recurre
+ nce rule and may not reflect a later-announced change\; confirm against the
+  cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-nc-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:North Carolina: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Automatic-extension date not confirmed 
+ this session. | Authority: Direct fetch of https://www.ncdor.gov/news/press
+ -releases/2026/04/07/ncdor-urges-taxpayers-file-april-15-deadline this sess
+ ion | Source: https://www.ncdor.gov/news/press-releases/2026/04/07/ncdor-ur
+ ges-taxpayers-file-april-15-deadline | This date is computed from a recurre
+ nce rule and may not reflect a later-announced change\; confirm against the
+  cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-nc-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:North Carolina: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Automatic-extension date not confirmed 
+ this session. | Authority: Direct fetch of https://www.ncdor.gov/news/press
+ -releases/2026/04/07/ncdor-urges-taxpayers-file-april-15-deadline this sess
+ ion | Source: https://www.ncdor.gov/news/press-releases/2026/04/07/ncdor-ur
+ ges-taxpayers-file-april-15-deadline | This date is computed from a recurre
+ nce rule and may not reflect a later-announced change\; confirm against the
+  cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-nc-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:North Carolina: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Automatic-extension date not confirmed 
+ this session. | Authority: Direct fetch of https://www.ncdor.gov/news/press
+ -releases/2026/04/07/ncdor-urges-taxpayers-file-april-15-deadline this sess
+ ion | Source: https://www.ncdor.gov/news/press-releases/2026/04/07/ncdor-ur
+ ges-taxpayers-file-april-15-deadline | This date is computed from a recurre
+ nce rule and may not reflect a later-announced change\; confirm against the
+  cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-nc-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:North Carolina: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Automatic-extension date not confirmed 
+ this session. | Authority: Direct fetch of https://www.ncdor.gov/news/press
+ -releases/2026/04/07/ncdor-urges-taxpayers-file-april-15-deadline this sess
+ ion | Source: https://www.ncdor.gov/news/press-releases/2026/04/07/ncdor-ur
+ ges-taxpayers-file-april-15-deadline | This date is computed from a recurre
+ nce rule and may not reflect a later-announced change\; confirm against the
+  cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-nc-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:North Carolina: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Automatic-extension date not confirmed 
+ this session. | Authority: Direct fetch of https://www.ncdor.gov/news/press
+ -releases/2026/04/07/ncdor-urges-taxpayers-file-april-15-deadline this sess
+ ion | Source: https://www.ncdor.gov/news/press-releases/2026/04/07/ncdor-ur
+ ges-taxpayers-file-april-15-deadline | This date is computed from a recurre
+ nce rule and may not reflect a later-announced change\; confirm against the
+  cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-north-carolina-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:North Carolina: D-403 due
+DESCRIPTION:North Carolina partnership return due the 15th day of the 4th m
+ onth after year-end. Extension length not numerically confirmed this sessio
+ n - see source for the mechanism. | North Carolina partnership return due t
+ he 15th day of the 4th month after year-end. Extension length not numerical
+ ly confirmed this session - see source for the mechanism. File Form D-410P 
+ by the original due date if no automatic federal extension was obtained. | 
+ Authority: North Carolina Department of Revenue\, direct fetch this session
+  (2020-edition instructions\; the 4th-month due-date rule is NC's long-stan
+ ding statutory rule\, not year-specific): "the 2020 Form D-403 is due on or
+  before April 15\, 2021" (illustrating the 15th-day-of-4th-month pattern) a
+ nd "the partnership may still request an extension of time to file Form D-4
+ 03 by filing Form D-410P... by the original due date." | Source: https://ww
+ w.ncdor.gov/documents/files/2020-d-403a-instructions-partnership-income-tax
+ -return/open | This date is computed from a recurrence rule and may not ref
+ lect a later-announced change\; confirm against the cited source before rel
+ ying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-north-carolina-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:North Carolina: D-403 due
+DESCRIPTION:North Carolina partnership return due the 15th day of the 4th m
+ onth after year-end. Extension length not numerically confirmed this sessio
+ n - see source for the mechanism. | North Carolina partnership return due t
+ he 15th day of the 4th month after year-end. Extension length not numerical
+ ly confirmed this session - see source for the mechanism. File Form D-410P 
+ by the original due date if no automatic federal extension was obtained. | 
+ Authority: North Carolina Department of Revenue\, direct fetch this session
+  (2020-edition instructions\; the 4th-month due-date rule is NC's long-stan
+ ding statutory rule\, not year-specific): "the 2020 Form D-403 is due on or
+  before April 15\, 2021" (illustrating the 15th-day-of-4th-month pattern) a
+ nd "the partnership may still request an extension of time to file Form D-4
+ 03 by filing Form D-410P... by the original due date." | Source: https://ww
+ w.ncdor.gov/documents/files/2020-d-403a-instructions-partnership-income-tax
+ -return/open | This date is computed from a recurrence rule and may not ref
+ lect a later-announced change\; confirm against the cited source before rel
+ ying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-north-carolina-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:North Carolina: D-403 due
+DESCRIPTION:North Carolina partnership return due the 15th day of the 4th m
+ onth after year-end. Extension length not numerically confirmed this sessio
+ n - see source for the mechanism. | North Carolina partnership return due t
+ he 15th day of the 4th month after year-end. Extension length not numerical
+ ly confirmed this session - see source for the mechanism. File Form D-410P 
+ by the original due date if no automatic federal extension was obtained. | 
+ Authority: North Carolina Department of Revenue\, direct fetch this session
+  (2020-edition instructions\; the 4th-month due-date rule is NC's long-stan
+ ding statutory rule\, not year-specific): "the 2020 Form D-403 is due on or
+  before April 15\, 2021" (illustrating the 15th-day-of-4th-month pattern) a
+ nd "the partnership may still request an extension of time to file Form D-4
+ 03 by filing Form D-410P... by the original due date." | Source: https://ww
+ w.ncdor.gov/documents/files/2020-d-403a-instructions-partnership-income-tax
+ -return/open | This date is computed from a recurrence rule and may not ref
+ lect a later-announced change\; confirm against the cited source before rel
+ ying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-north-carolina-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:North Carolina: D-403 due
+DESCRIPTION:North Carolina partnership return due the 15th day of the 4th m
+ onth after year-end. Extension length not numerically confirmed this sessio
+ n - see source for the mechanism. | North Carolina partnership return due t
+ he 15th day of the 4th month after year-end. Extension length not numerical
+ ly confirmed this session - see source for the mechanism. File Form D-410P 
+ by the original due date if no automatic federal extension was obtained. | 
+ Authority: North Carolina Department of Revenue\, direct fetch this session
+  (2020-edition instructions\; the 4th-month due-date rule is NC's long-stan
+ ding statutory rule\, not year-specific): "the 2020 Form D-403 is due on or
+  before April 15\, 2021" (illustrating the 15th-day-of-4th-month pattern) a
+ nd "the partnership may still request an extension of time to file Form D-4
+ 03 by filing Form D-410P... by the original due date." | Source: https://ww
+ w.ncdor.gov/documents/files/2020-d-403a-instructions-partnership-income-tax
+ -return/open | This date is computed from a recurrence rule and may not ref
+ lect a later-announced change\; confirm against the cited source before rel
+ ying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-north-carolina-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:North Carolina: D-403 due
+DESCRIPTION:North Carolina partnership return due the 15th day of the 4th m
+ onth after year-end. Extension length not numerically confirmed this sessio
+ n - see source for the mechanism. | North Carolina partnership return due t
+ he 15th day of the 4th month after year-end. Extension length not numerical
+ ly confirmed this session - see source for the mechanism. File Form D-410P 
+ by the original due date if no automatic federal extension was obtained. | 
+ Authority: North Carolina Department of Revenue\, direct fetch this session
+  (2020-edition instructions\; the 4th-month due-date rule is NC's long-stan
+ ding statutory rule\, not year-specific): "the 2020 Form D-403 is due on or
+  before April 15\, 2021" (illustrating the 15th-day-of-4th-month pattern) a
+ nd "the partnership may still request an extension of time to file Form D-4
+ 03 by filing Form D-410P... by the original due date." | Source: https://ww
+ w.ncdor.gov/documents/files/2020-d-403a-instructions-partnership-income-tax
+ -return/open | This date is computed from a recurrence rule and may not ref
+ lect a later-announced change\; confirm against the cited source before rel
+ ying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-north-carolina-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:North Carolina: D-403 due
+DESCRIPTION:North Carolina partnership return due the 15th day of the 4th m
+ onth after year-end. Extension length not numerically confirmed this sessio
+ n - see source for the mechanism. | North Carolina partnership return due t
+ he 15th day of the 4th month after year-end. Extension length not numerical
+ ly confirmed this session - see source for the mechanism. File Form D-410P 
+ by the original due date if no automatic federal extension was obtained. | 
+ Authority: North Carolina Department of Revenue\, direct fetch this session
+  (2020-edition instructions\; the 4th-month due-date rule is NC's long-stan
+ ding statutory rule\, not year-specific): "the 2020 Form D-403 is due on or
+  before April 15\, 2021" (illustrating the 15th-day-of-4th-month pattern) a
+ nd "the partnership may still request an extension of time to file Form D-4
+ 03 by filing Form D-410P... by the original due date." | Source: https://ww
+ w.ncdor.gov/documents/files/2020-d-403a-instructions-partnership-income-tax
+ -return/open | This date is computed from a recurrence rule and may not ref
+ lect a later-announced change\; confirm against the cited source before rel
+ ying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-north-carolina-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:North Carolina: D-403 due
+DESCRIPTION:North Carolina partnership return due the 15th day of the 4th m
+ onth after year-end. Extension length not numerically confirmed this sessio
+ n - see source for the mechanism. | North Carolina partnership return due t
+ he 15th day of the 4th month after year-end. Extension length not numerical
+ ly confirmed this session - see source for the mechanism. File Form D-410P 
+ by the original due date if no automatic federal extension was obtained. | 
+ Authority: North Carolina Department of Revenue\, direct fetch this session
+  (2020-edition instructions\; the 4th-month due-date rule is NC's long-stan
+ ding statutory rule\, not year-specific): "the 2020 Form D-403 is due on or
+  before April 15\, 2021" (illustrating the 15th-day-of-4th-month pattern) a
+ nd "the partnership may still request an extension of time to file Form D-4
+ 03 by filing Form D-410P... by the original due date." | Source: https://ww
+ w.ncdor.gov/documents/files/2020-d-403a-instructions-partnership-income-tax
+ -return/open | This date is computed from a recurrence rule and may not ref
+ lect a later-announced change\; confirm against the cited source before rel
+ ying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-north-carolina-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:North Carolina: D-403 due
+DESCRIPTION:North Carolina partnership return due the 15th day of the 4th m
+ onth after year-end. Extension length not numerically confirmed this sessio
+ n - see source for the mechanism. | North Carolina partnership return due t
+ he 15th day of the 4th month after year-end. Extension length not numerical
+ ly confirmed this session - see source for the mechanism. File Form D-410P 
+ by the original due date if no automatic federal extension was obtained. | 
+ Authority: North Carolina Department of Revenue\, direct fetch this session
+  (2020-edition instructions\; the 4th-month due-date rule is NC's long-stan
+ ding statutory rule\, not year-specific): "the 2020 Form D-403 is due on or
+  before April 15\, 2021" (illustrating the 15th-day-of-4th-month pattern) a
+ nd "the partnership may still request an extension of time to file Form D-4
+ 03 by filing Form D-410P... by the original due date." | Source: https://ww
+ w.ncdor.gov/documents/files/2020-d-403a-instructions-partnership-income-tax
+ -return/open | This date is computed from a recurrence rule and may not ref
+ lect a later-announced change\; confirm against the cited source before rel
+ ying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-north-carolina-q1-2025-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250430
+DTEND;VALUE=DATE:20250501
+SUMMARY:North Carolina: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Due Apr 30\, Jul 31\, Oct 31\, Jan 31. | Authority: Direct fetch of 
+ North Carolina's own unemployment insurance agency site/handbook/code this 
+ session | Source: https://www.des.nc.gov/employers/file-adjust-or-review-qu
+ arterly-tax-wage-report | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-north-carolina-q1-2026-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:North Carolina: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Due Apr 30\, Jul 31\, Oct 31\, Jan 31. | Authority: Direct fetch of 
+ North Carolina's own unemployment insurance agency site/handbook/code this 
+ session | Source: https://www.des.nc.gov/employers/file-adjust-or-review-qu
+ arterly-tax-wage-report | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-north-carolina-q1-2027-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:North Carolina: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Due Apr 30\, Jul 31\, Oct 31\, Jan 31. | Authority: Direct fetch of 
+ North Carolina's own unemployment insurance agency site/handbook/code this 
+ session | Source: https://www.des.nc.gov/employers/file-adjust-or-review-qu
+ arterly-tax-wage-report | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-north-carolina-q1-2028-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280430
+DTEND;VALUE=DATE:20280501
+SUMMARY:North Carolina: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Due Apr 30\, Jul 31\, Oct 31\, Jan 31. | Authority: Direct fetch of 
+ North Carolina's own unemployment insurance agency site/handbook/code this 
+ session | Source: https://www.des.nc.gov/employers/file-adjust-or-review-qu
+ arterly-tax-wage-report | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-north-carolina-q1-2029-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290430
+DTEND;VALUE=DATE:20290501
+SUMMARY:North Carolina: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Due Apr 30\, Jul 31\, Oct 31\, Jan 31. | Authority: Direct fetch of 
+ North Carolina's own unemployment insurance agency site/handbook/code this 
+ session | Source: https://www.des.nc.gov/employers/file-adjust-or-review-qu
+ arterly-tax-wage-report | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-north-carolina-q1-2030-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300430
+DTEND;VALUE=DATE:20300501
+SUMMARY:North Carolina: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Due Apr 30\, Jul 31\, Oct 31\, Jan 31. | Authority: Direct fetch of 
+ North Carolina's own unemployment insurance agency site/handbook/code this 
+ session | Source: https://www.des.nc.gov/employers/file-adjust-or-review-qu
+ arterly-tax-wage-report | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-north-carolina-q1-2031-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310430
+DTEND;VALUE=DATE:20310501
+SUMMARY:North Carolina: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Due Apr 30\, Jul 31\, Oct 31\, Jan 31. | Authority: Direct fetch of 
+ North Carolina's own unemployment insurance agency site/handbook/code this 
+ session | Source: https://www.des.nc.gov/employers/file-adjust-or-review-qu
+ arterly-tax-wage-report | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-north-carolina-q1-2032-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320430
+DTEND;VALUE=DATE:20320501
+SUMMARY:North Carolina: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Due Apr 30\, Jul 31\, Oct 31\, Jan 31. | Authority: Direct fetch of 
+ North Carolina's own unemployment insurance agency site/handbook/code this 
+ session | Source: https://www.des.nc.gov/employers/file-adjust-or-review-qu
+ arterly-tax-wage-report | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-north-carolina-q2-2025-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250731
+DTEND;VALUE=DATE:20250801
+SUMMARY:North Carolina: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Due Apr 30\, Jul 31\, Oct 31\, Jan 31. | Authority: Direct fetch of 
+ North Carolina's own unemployment insurance agency site/handbook/code this 
+ session | Source: https://www.des.nc.gov/employers/file-adjust-or-review-qu
+ arterly-tax-wage-report | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-north-carolina-q2-2026-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:North Carolina: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Due Apr 30\, Jul 31\, Oct 31\, Jan 31. | Authority: Direct fetch of 
+ North Carolina's own unemployment insurance agency site/handbook/code this 
+ session | Source: https://www.des.nc.gov/employers/file-adjust-or-review-qu
+ arterly-tax-wage-report | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-north-carolina-q2-2027-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:North Carolina: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Due Apr 30\, Jul 31\, Oct 31\, Jan 31. | Authority: Direct fetch of 
+ North Carolina's own unemployment insurance agency site/handbook/code this 
+ session | Source: https://www.des.nc.gov/employers/file-adjust-or-review-qu
+ arterly-tax-wage-report | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-north-carolina-q2-2028-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280731
+DTEND;VALUE=DATE:20280801
+SUMMARY:North Carolina: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Due Apr 30\, Jul 31\, Oct 31\, Jan 31. | Authority: Direct fetch of 
+ North Carolina's own unemployment insurance agency site/handbook/code this 
+ session | Source: https://www.des.nc.gov/employers/file-adjust-or-review-qu
+ arterly-tax-wage-report | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-north-carolina-q2-2029-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290731
+DTEND;VALUE=DATE:20290801
+SUMMARY:North Carolina: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Due Apr 30\, Jul 31\, Oct 31\, Jan 31. | Authority: Direct fetch of 
+ North Carolina's own unemployment insurance agency site/handbook/code this 
+ session | Source: https://www.des.nc.gov/employers/file-adjust-or-review-qu
+ arterly-tax-wage-report | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-north-carolina-q2-2030-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300731
+DTEND;VALUE=DATE:20300801
+SUMMARY:North Carolina: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Due Apr 30\, Jul 31\, Oct 31\, Jan 31. | Authority: Direct fetch of 
+ North Carolina's own unemployment insurance agency site/handbook/code this 
+ session | Source: https://www.des.nc.gov/employers/file-adjust-or-review-qu
+ arterly-tax-wage-report | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-north-carolina-q2-2031-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310731
+DTEND;VALUE=DATE:20310801
+SUMMARY:North Carolina: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Due Apr 30\, Jul 31\, Oct 31\, Jan 31. | Authority: Direct fetch of 
+ North Carolina's own unemployment insurance agency site/handbook/code this 
+ session | Source: https://www.des.nc.gov/employers/file-adjust-or-review-qu
+ arterly-tax-wage-report | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-north-carolina-q2-2032-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320731
+DTEND;VALUE=DATE:20320801
+SUMMARY:North Carolina: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Due Apr 30\, Jul 31\, Oct 31\, Jan 31. | Authority: Direct fetch of 
+ North Carolina's own unemployment insurance agency site/handbook/code this 
+ session | Source: https://www.des.nc.gov/employers/file-adjust-or-review-qu
+ arterly-tax-wage-report | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-north-carolina-q3-2025-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20251031
+DTEND;VALUE=DATE:20251101
+SUMMARY:North Carolina: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Due Apr 30\, Jul 31\, Oct 31\, Jan 31. | Authority: Direct fetch of 
+ North Carolina's own unemployment insurance agency site/handbook/code this 
+ session | Source: https://www.des.nc.gov/employers/file-adjust-or-review-qu
+ arterly-tax-wage-report | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-north-carolina-q3-2026-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:North Carolina: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Due Apr 30\, Jul 31\, Oct 31\, Jan 31. | Authority: Direct fetch of 
+ North Carolina's own unemployment insurance agency site/handbook/code this 
+ session | Source: https://www.des.nc.gov/employers/file-adjust-or-review-qu
+ arterly-tax-wage-report | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-north-carolina-q3-2027-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20271031
+DTEND;VALUE=DATE:20271101
+SUMMARY:North Carolina: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Due Apr 30\, Jul 31\, Oct 31\, Jan 31. | Authority: Direct fetch of 
+ North Carolina's own unemployment insurance agency site/handbook/code this 
+ session | Source: https://www.des.nc.gov/employers/file-adjust-or-review-qu
+ arterly-tax-wage-report | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-north-carolina-q3-2028-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20281031
+DTEND;VALUE=DATE:20281101
+SUMMARY:North Carolina: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Due Apr 30\, Jul 31\, Oct 31\, Jan 31. | Authority: Direct fetch of 
+ North Carolina's own unemployment insurance agency site/handbook/code this 
+ session | Source: https://www.des.nc.gov/employers/file-adjust-or-review-qu
+ arterly-tax-wage-report | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-north-carolina-q3-2029-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20291031
+DTEND;VALUE=DATE:20291101
+SUMMARY:North Carolina: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Due Apr 30\, Jul 31\, Oct 31\, Jan 31. | Authority: Direct fetch of 
+ North Carolina's own unemployment insurance agency site/handbook/code this 
+ session | Source: https://www.des.nc.gov/employers/file-adjust-or-review-qu
+ arterly-tax-wage-report | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-north-carolina-q3-2030-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20301031
+DTEND;VALUE=DATE:20301101
+SUMMARY:North Carolina: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Due Apr 30\, Jul 31\, Oct 31\, Jan 31. | Authority: Direct fetch of 
+ North Carolina's own unemployment insurance agency site/handbook/code this 
+ session | Source: https://www.des.nc.gov/employers/file-adjust-or-review-qu
+ arterly-tax-wage-report | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-north-carolina-q3-2031-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20311031
+DTEND;VALUE=DATE:20311101
+SUMMARY:North Carolina: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Due Apr 30\, Jul 31\, Oct 31\, Jan 31. | Authority: Direct fetch of 
+ North Carolina's own unemployment insurance agency site/handbook/code this 
+ session | Source: https://www.des.nc.gov/employers/file-adjust-or-review-qu
+ arterly-tax-wage-report | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-north-carolina-q3-2032-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20321031
+DTEND;VALUE=DATE:20321101
+SUMMARY:North Carolina: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Due Apr 30\, Jul 31\, Oct 31\, Jan 31. | Authority: Direct fetch of 
+ North Carolina's own unemployment insurance agency site/handbook/code this 
+ session | Source: https://www.des.nc.gov/employers/file-adjust-or-review-qu
+ arterly-tax-wage-report | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-north-carolina-q4-2025-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250131
+DTEND;VALUE=DATE:20250201
+SUMMARY:North Carolina: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Due Apr 30\, Jul 31\, Oct 31\, Jan 31. | Authority: Direct fetch of 
+ North Carolina's own unemployment insurance agency site/handbook/code this 
+ session | Source: https://www.des.nc.gov/employers/file-adjust-or-review-qu
+ arterly-tax-wage-report | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-north-carolina-q4-2026-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:North Carolina: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Due Apr 30\, Jul 31\, Oct 31\, Jan 31. | Authority: Direct fetch of 
+ North Carolina's own unemployment insurance agency site/handbook/code this 
+ session | Source: https://www.des.nc.gov/employers/file-adjust-or-review-qu
+ arterly-tax-wage-report | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-north-carolina-q4-2027-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:North Carolina: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Due Apr 30\, Jul 31\, Oct 31\, Jan 31. | Authority: Direct fetch of 
+ North Carolina's own unemployment insurance agency site/handbook/code this 
+ session | Source: https://www.des.nc.gov/employers/file-adjust-or-review-qu
+ arterly-tax-wage-report | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-north-carolina-q4-2028-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280131
+DTEND;VALUE=DATE:20280201
+SUMMARY:North Carolina: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Due Apr 30\, Jul 31\, Oct 31\, Jan 31. | Authority: Direct fetch of 
+ North Carolina's own unemployment insurance agency site/handbook/code this 
+ session | Source: https://www.des.nc.gov/employers/file-adjust-or-review-qu
+ arterly-tax-wage-report | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-north-carolina-q4-2029-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290131
+DTEND;VALUE=DATE:20290201
+SUMMARY:North Carolina: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Due Apr 30\, Jul 31\, Oct 31\, Jan 31. | Authority: Direct fetch of 
+ North Carolina's own unemployment insurance agency site/handbook/code this 
+ session | Source: https://www.des.nc.gov/employers/file-adjust-or-review-qu
+ arterly-tax-wage-report | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-north-carolina-q4-2030-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300131
+DTEND;VALUE=DATE:20300201
+SUMMARY:North Carolina: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Due Apr 30\, Jul 31\, Oct 31\, Jan 31. | Authority: Direct fetch of 
+ North Carolina's own unemployment insurance agency site/handbook/code this 
+ session | Source: https://www.des.nc.gov/employers/file-adjust-or-review-qu
+ arterly-tax-wage-report | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-north-carolina-q4-2031-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310131
+DTEND;VALUE=DATE:20310201
+SUMMARY:North Carolina: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Due Apr 30\, Jul 31\, Oct 31\, Jan 31. | Authority: Direct fetch of 
+ North Carolina's own unemployment insurance agency site/handbook/code this 
+ session | Source: https://www.des.nc.gov/employers/file-adjust-or-review-qu
+ arterly-tax-wage-report | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-north-carolina-q4-2032-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320131
+DTEND;VALUE=DATE:20320201
+SUMMARY:North Carolina: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Due Apr 30\, Jul 31\, Oct 31\, Jan 31. | Authority: Direct fetch of 
+ North Carolina's own unemployment insurance agency site/handbook/code this 
+ session | Source: https://www.des.nc.gov/employers/file-adjust-or-review-qu
+ arterly-tax-wage-report | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-north-carolina-q1-2025-04-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250422
+SUMMARY:North Carolina: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly filers due the last day
+  of Jan/Apr/Jul/Oct for the preceding 3-month period. | Q1 2026 (Jan-Mar) s
+ ales tax return\, applying North Carolina's quarterly-filer due-date rule: 
+ 20th of the following month\; quarterly filers due the last day of Jan/Apr/
+ Jul/Oct for the preceding 3-month period. This is a representative recurrin
+ g pattern\, not a single annual deadline - actual filing frequency (monthly
+ /quarterly/annual) is assigned per business by the state. | Authority: Dire
+ ct fetch of North Carolina's own tax agency site this session | Source: htt
+ ps://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-filing-r
+ equirements-payment-options/filing-frequency-and-due-dates | This date is c
+ omputed from a recurrence rule and may not reflect a later-announced change
+ \; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-north-carolina-q1-2026-04-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:North Carolina: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly filers due the last day
+  of Jan/Apr/Jul/Oct for the preceding 3-month period. | Q1 2026 (Jan-Mar) s
+ ales tax return\, applying North Carolina's quarterly-filer due-date rule: 
+ 20th of the following month\; quarterly filers due the last day of Jan/Apr/
+ Jul/Oct for the preceding 3-month period. This is a representative recurrin
+ g pattern\, not a single annual deadline - actual filing frequency (monthly
+ /quarterly/annual) is assigned per business by the state. | Authority: Dire
+ ct fetch of North Carolina's own tax agency site this session | Source: htt
+ ps://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-filing-r
+ equirements-payment-options/filing-frequency-and-due-dates | This date is c
+ omputed from a recurrence rule and may not reflect a later-announced change
+ \; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-north-carolina-q1-2027-04-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:North Carolina: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly filers due the last day
+  of Jan/Apr/Jul/Oct for the preceding 3-month period. | Q1 2026 (Jan-Mar) s
+ ales tax return\, applying North Carolina's quarterly-filer due-date rule: 
+ 20th of the following month\; quarterly filers due the last day of Jan/Apr/
+ Jul/Oct for the preceding 3-month period. This is a representative recurrin
+ g pattern\, not a single annual deadline - actual filing frequency (monthly
+ /quarterly/annual) is assigned per business by the state. | Authority: Dire
+ ct fetch of North Carolina's own tax agency site this session | Source: htt
+ ps://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-filing-r
+ equirements-payment-options/filing-frequency-and-due-dates | This date is c
+ omputed from a recurrence rule and may not reflect a later-announced change
+ \; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-north-carolina-q1-2028-04-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280420
+DTEND;VALUE=DATE:20280421
+SUMMARY:North Carolina: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly filers due the last day
+  of Jan/Apr/Jul/Oct for the preceding 3-month period. | Q1 2026 (Jan-Mar) s
+ ales tax return\, applying North Carolina's quarterly-filer due-date rule: 
+ 20th of the following month\; quarterly filers due the last day of Jan/Apr/
+ Jul/Oct for the preceding 3-month period. This is a representative recurrin
+ g pattern\, not a single annual deadline - actual filing frequency (monthly
+ /quarterly/annual) is assigned per business by the state. | Authority: Dire
+ ct fetch of North Carolina's own tax agency site this session | Source: htt
+ ps://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-filing-r
+ equirements-payment-options/filing-frequency-and-due-dates | This date is c
+ omputed from a recurrence rule and may not reflect a later-announced change
+ \; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-north-carolina-q1-2029-04-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290420
+DTEND;VALUE=DATE:20290421
+SUMMARY:North Carolina: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly filers due the last day
+  of Jan/Apr/Jul/Oct for the preceding 3-month period. | Q1 2026 (Jan-Mar) s
+ ales tax return\, applying North Carolina's quarterly-filer due-date rule: 
+ 20th of the following month\; quarterly filers due the last day of Jan/Apr/
+ Jul/Oct for the preceding 3-month period. This is a representative recurrin
+ g pattern\, not a single annual deadline - actual filing frequency (monthly
+ /quarterly/annual) is assigned per business by the state. | Authority: Dire
+ ct fetch of North Carolina's own tax agency site this session | Source: htt
+ ps://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-filing-r
+ equirements-payment-options/filing-frequency-and-due-dates | This date is c
+ omputed from a recurrence rule and may not reflect a later-announced change
+ \; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-north-carolina-q1-2030-04-22@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300422
+DTEND;VALUE=DATE:20300423
+SUMMARY:North Carolina: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly filers due the last day
+  of Jan/Apr/Jul/Oct for the preceding 3-month period. | Q1 2026 (Jan-Mar) s
+ ales tax return\, applying North Carolina's quarterly-filer due-date rule: 
+ 20th of the following month\; quarterly filers due the last day of Jan/Apr/
+ Jul/Oct for the preceding 3-month period. This is a representative recurrin
+ g pattern\, not a single annual deadline - actual filing frequency (monthly
+ /quarterly/annual) is assigned per business by the state. | Authority: Dire
+ ct fetch of North Carolina's own tax agency site this session | Source: htt
+ ps://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-filing-r
+ equirements-payment-options/filing-frequency-and-due-dates | This date is c
+ omputed from a recurrence rule and may not reflect a later-announced change
+ \; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-north-carolina-q1-2031-04-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310421
+DTEND;VALUE=DATE:20310422
+SUMMARY:North Carolina: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly filers due the last day
+  of Jan/Apr/Jul/Oct for the preceding 3-month period. | Q1 2026 (Jan-Mar) s
+ ales tax return\, applying North Carolina's quarterly-filer due-date rule: 
+ 20th of the following month\; quarterly filers due the last day of Jan/Apr/
+ Jul/Oct for the preceding 3-month period. This is a representative recurrin
+ g pattern\, not a single annual deadline - actual filing frequency (monthly
+ /quarterly/annual) is assigned per business by the state. | Authority: Dire
+ ct fetch of North Carolina's own tax agency site this session | Source: htt
+ ps://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-filing-r
+ equirements-payment-options/filing-frequency-and-due-dates | This date is c
+ omputed from a recurrence rule and may not reflect a later-announced change
+ \; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-north-carolina-q1-2032-04-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320420
+DTEND;VALUE=DATE:20320421
+SUMMARY:North Carolina: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly filers due the last day
+  of Jan/Apr/Jul/Oct for the preceding 3-month period. | Q1 2026 (Jan-Mar) s
+ ales tax return\, applying North Carolina's quarterly-filer due-date rule: 
+ 20th of the following month\; quarterly filers due the last day of Jan/Apr/
+ Jul/Oct for the preceding 3-month period. This is a representative recurrin
+ g pattern\, not a single annual deadline - actual filing frequency (monthly
+ /quarterly/annual) is assigned per business by the state. | Authority: Dire
+ ct fetch of North Carolina's own tax agency site this session | Source: htt
+ ps://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-filing-r
+ equirements-payment-options/filing-frequency-and-due-dates | This date is c
+ omputed from a recurrence rule and may not reflect a later-announced change
+ \; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-north-carolina-q2-2025-07-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250722
+SUMMARY:North Carolina: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly filers due the last day
+  of Jan/Apr/Jul/Oct for the preceding 3-month period. | Q2 2026 (Apr-Jun) s
+ ales tax return\, applying North Carolina's quarterly-filer due-date rule: 
+ 20th of the following month\; quarterly filers due the last day of Jan/Apr/
+ Jul/Oct for the preceding 3-month period. This is a representative recurrin
+ g pattern\, not a single annual deadline - actual filing frequency (monthly
+ /quarterly/annual) is assigned per business by the state. | Authority: Dire
+ ct fetch of North Carolina's own tax agency site this session | Source: htt
+ ps://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-filing-r
+ equirements-payment-options/filing-frequency-and-due-dates | This date is c
+ omputed from a recurrence rule and may not reflect a later-announced change
+ \; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-north-carolina-q2-2026-07-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+SUMMARY:North Carolina: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly filers due the last day
+  of Jan/Apr/Jul/Oct for the preceding 3-month period. | Q2 2026 (Apr-Jun) s
+ ales tax return\, applying North Carolina's quarterly-filer due-date rule: 
+ 20th of the following month\; quarterly filers due the last day of Jan/Apr/
+ Jul/Oct for the preceding 3-month period. This is a representative recurrin
+ g pattern\, not a single annual deadline - actual filing frequency (monthly
+ /quarterly/annual) is assigned per business by the state. | Authority: Dire
+ ct fetch of North Carolina's own tax agency site this session | Source: htt
+ ps://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-filing-r
+ equirements-payment-options/filing-frequency-and-due-dates | This date is c
+ omputed from a recurrence rule and may not reflect a later-announced change
+ \; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-north-carolina-q2-2027-07-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:North Carolina: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly filers due the last day
+  of Jan/Apr/Jul/Oct for the preceding 3-month period. | Q2 2026 (Apr-Jun) s
+ ales tax return\, applying North Carolina's quarterly-filer due-date rule: 
+ 20th of the following month\; quarterly filers due the last day of Jan/Apr/
+ Jul/Oct for the preceding 3-month period. This is a representative recurrin
+ g pattern\, not a single annual deadline - actual filing frequency (monthly
+ /quarterly/annual) is assigned per business by the state. | Authority: Dire
+ ct fetch of North Carolina's own tax agency site this session | Source: htt
+ ps://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-filing-r
+ equirements-payment-options/filing-frequency-and-due-dates | This date is c
+ omputed from a recurrence rule and may not reflect a later-announced change
+ \; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-north-carolina-q2-2028-07-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:North Carolina: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly filers due the last day
+  of Jan/Apr/Jul/Oct for the preceding 3-month period. | Q2 2026 (Apr-Jun) s
+ ales tax return\, applying North Carolina's quarterly-filer due-date rule: 
+ 20th of the following month\; quarterly filers due the last day of Jan/Apr/
+ Jul/Oct for the preceding 3-month period. This is a representative recurrin
+ g pattern\, not a single annual deadline - actual filing frequency (monthly
+ /quarterly/annual) is assigned per business by the state. | Authority: Dire
+ ct fetch of North Carolina's own tax agency site this session | Source: htt
+ ps://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-filing-r
+ equirements-payment-options/filing-frequency-and-due-dates | This date is c
+ omputed from a recurrence rule and may not reflect a later-announced change
+ \; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-north-carolina-q2-2029-07-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290720
+DTEND;VALUE=DATE:20290721
+SUMMARY:North Carolina: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly filers due the last day
+  of Jan/Apr/Jul/Oct for the preceding 3-month period. | Q2 2026 (Apr-Jun) s
+ ales tax return\, applying North Carolina's quarterly-filer due-date rule: 
+ 20th of the following month\; quarterly filers due the last day of Jan/Apr/
+ Jul/Oct for the preceding 3-month period. This is a representative recurrin
+ g pattern\, not a single annual deadline - actual filing frequency (monthly
+ /quarterly/annual) is assigned per business by the state. | Authority: Dire
+ ct fetch of North Carolina's own tax agency site this session | Source: htt
+ ps://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-filing-r
+ equirements-payment-options/filing-frequency-and-due-dates | This date is c
+ omputed from a recurrence rule and may not reflect a later-announced change
+ \; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-north-carolina-q2-2030-07-22@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300722
+DTEND;VALUE=DATE:20300723
+SUMMARY:North Carolina: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly filers due the last day
+  of Jan/Apr/Jul/Oct for the preceding 3-month period. | Q2 2026 (Apr-Jun) s
+ ales tax return\, applying North Carolina's quarterly-filer due-date rule: 
+ 20th of the following month\; quarterly filers due the last day of Jan/Apr/
+ Jul/Oct for the preceding 3-month period. This is a representative recurrin
+ g pattern\, not a single annual deadline - actual filing frequency (monthly
+ /quarterly/annual) is assigned per business by the state. | Authority: Dire
+ ct fetch of North Carolina's own tax agency site this session | Source: htt
+ ps://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-filing-r
+ equirements-payment-options/filing-frequency-and-due-dates | This date is c
+ omputed from a recurrence rule and may not reflect a later-announced change
+ \; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-north-carolina-q2-2031-07-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310721
+DTEND;VALUE=DATE:20310722
+SUMMARY:North Carolina: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly filers due the last day
+  of Jan/Apr/Jul/Oct for the preceding 3-month period. | Q2 2026 (Apr-Jun) s
+ ales tax return\, applying North Carolina's quarterly-filer due-date rule: 
+ 20th of the following month\; quarterly filers due the last day of Jan/Apr/
+ Jul/Oct for the preceding 3-month period. This is a representative recurrin
+ g pattern\, not a single annual deadline - actual filing frequency (monthly
+ /quarterly/annual) is assigned per business by the state. | Authority: Dire
+ ct fetch of North Carolina's own tax agency site this session | Source: htt
+ ps://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-filing-r
+ equirements-payment-options/filing-frequency-and-due-dates | This date is c
+ omputed from a recurrence rule and may not reflect a later-announced change
+ \; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-north-carolina-q2-2032-07-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320720
+DTEND;VALUE=DATE:20320721
+SUMMARY:North Carolina: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly filers due the last day
+  of Jan/Apr/Jul/Oct for the preceding 3-month period. | Q2 2026 (Apr-Jun) s
+ ales tax return\, applying North Carolina's quarterly-filer due-date rule: 
+ 20th of the following month\; quarterly filers due the last day of Jan/Apr/
+ Jul/Oct for the preceding 3-month period. This is a representative recurrin
+ g pattern\, not a single annual deadline - actual filing frequency (monthly
+ /quarterly/annual) is assigned per business by the state. | Authority: Dire
+ ct fetch of North Carolina's own tax agency site this session | Source: htt
+ ps://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-filing-r
+ equirements-payment-options/filing-frequency-and-due-dates | This date is c
+ omputed from a recurrence rule and may not reflect a later-announced change
+ \; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-north-carolina-q3-2025-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20251020
+DTEND;VALUE=DATE:20251021
+SUMMARY:North Carolina: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly filers due the last day
+  of Jan/Apr/Jul/Oct for the preceding 3-month period. | Q3 2026 (Jul-Sep) s
+ ales tax return\, applying North Carolina's quarterly-filer due-date rule: 
+ 20th of the following month\; quarterly filers due the last day of Jan/Apr/
+ Jul/Oct for the preceding 3-month period. This is a representative recurrin
+ g pattern\, not a single annual deadline - actual filing frequency (monthly
+ /quarterly/annual) is assigned per business by the state. | Authority: Dire
+ ct fetch of North Carolina's own tax agency site this session | Source: htt
+ ps://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-filing-r
+ equirements-payment-options/filing-frequency-and-due-dates | This date is c
+ omputed from a recurrence rule and may not reflect a later-announced change
+ \; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-north-carolina-q3-2026-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:North Carolina: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly filers due the last day
+  of Jan/Apr/Jul/Oct for the preceding 3-month period. | Q3 2026 (Jul-Sep) s
+ ales tax return\, applying North Carolina's quarterly-filer due-date rule: 
+ 20th of the following month\; quarterly filers due the last day of Jan/Apr/
+ Jul/Oct for the preceding 3-month period. This is a representative recurrin
+ g pattern\, not a single annual deadline - actual filing frequency (monthly
+ /quarterly/annual) is assigned per business by the state. | Authority: Dire
+ ct fetch of North Carolina's own tax agency site this session | Source: htt
+ ps://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-filing-r
+ equirements-payment-options/filing-frequency-and-due-dates | This date is c
+ omputed from a recurrence rule and may not reflect a later-announced change
+ \; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-north-carolina-q3-2027-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20271020
+DTEND;VALUE=DATE:20271021
+SUMMARY:North Carolina: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly filers due the last day
+  of Jan/Apr/Jul/Oct for the preceding 3-month period. | Q3 2026 (Jul-Sep) s
+ ales tax return\, applying North Carolina's quarterly-filer due-date rule: 
+ 20th of the following month\; quarterly filers due the last day of Jan/Apr/
+ Jul/Oct for the preceding 3-month period. This is a representative recurrin
+ g pattern\, not a single annual deadline - actual filing frequency (monthly
+ /quarterly/annual) is assigned per business by the state. | Authority: Dire
+ ct fetch of North Carolina's own tax agency site this session | Source: htt
+ ps://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-filing-r
+ equirements-payment-options/filing-frequency-and-due-dates | This date is c
+ omputed from a recurrence rule and may not reflect a later-announced change
+ \; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-north-carolina-q3-2028-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20281020
+DTEND;VALUE=DATE:20281021
+SUMMARY:North Carolina: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly filers due the last day
+  of Jan/Apr/Jul/Oct for the preceding 3-month period. | Q3 2026 (Jul-Sep) s
+ ales tax return\, applying North Carolina's quarterly-filer due-date rule: 
+ 20th of the following month\; quarterly filers due the last day of Jan/Apr/
+ Jul/Oct for the preceding 3-month period. This is a representative recurrin
+ g pattern\, not a single annual deadline - actual filing frequency (monthly
+ /quarterly/annual) is assigned per business by the state. | Authority: Dire
+ ct fetch of North Carolina's own tax agency site this session | Source: htt
+ ps://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-filing-r
+ equirements-payment-options/filing-frequency-and-due-dates | This date is c
+ omputed from a recurrence rule and may not reflect a later-announced change
+ \; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-north-carolina-q3-2029-10-22@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20291022
+DTEND;VALUE=DATE:20291023
+SUMMARY:North Carolina: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly filers due the last day
+  of Jan/Apr/Jul/Oct for the preceding 3-month period. | Q3 2026 (Jul-Sep) s
+ ales tax return\, applying North Carolina's quarterly-filer due-date rule: 
+ 20th of the following month\; quarterly filers due the last day of Jan/Apr/
+ Jul/Oct for the preceding 3-month period. This is a representative recurrin
+ g pattern\, not a single annual deadline - actual filing frequency (monthly
+ /quarterly/annual) is assigned per business by the state. | Authority: Dire
+ ct fetch of North Carolina's own tax agency site this session | Source: htt
+ ps://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-filing-r
+ equirements-payment-options/filing-frequency-and-due-dates | This date is c
+ omputed from a recurrence rule and may not reflect a later-announced change
+ \; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-north-carolina-q3-2030-10-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20301021
+DTEND;VALUE=DATE:20301022
+SUMMARY:North Carolina: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly filers due the last day
+  of Jan/Apr/Jul/Oct for the preceding 3-month period. | Q3 2026 (Jul-Sep) s
+ ales tax return\, applying North Carolina's quarterly-filer due-date rule: 
+ 20th of the following month\; quarterly filers due the last day of Jan/Apr/
+ Jul/Oct for the preceding 3-month period. This is a representative recurrin
+ g pattern\, not a single annual deadline - actual filing frequency (monthly
+ /quarterly/annual) is assigned per business by the state. | Authority: Dire
+ ct fetch of North Carolina's own tax agency site this session | Source: htt
+ ps://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-filing-r
+ equirements-payment-options/filing-frequency-and-due-dates | This date is c
+ omputed from a recurrence rule and may not reflect a later-announced change
+ \; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-north-carolina-q3-2031-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20311020
+DTEND;VALUE=DATE:20311021
+SUMMARY:North Carolina: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly filers due the last day
+  of Jan/Apr/Jul/Oct for the preceding 3-month period. | Q3 2026 (Jul-Sep) s
+ ales tax return\, applying North Carolina's quarterly-filer due-date rule: 
+ 20th of the following month\; quarterly filers due the last day of Jan/Apr/
+ Jul/Oct for the preceding 3-month period. This is a representative recurrin
+ g pattern\, not a single annual deadline - actual filing frequency (monthly
+ /quarterly/annual) is assigned per business by the state. | Authority: Dire
+ ct fetch of North Carolina's own tax agency site this session | Source: htt
+ ps://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-filing-r
+ equirements-payment-options/filing-frequency-and-due-dates | This date is c
+ omputed from a recurrence rule and may not reflect a later-announced change
+ \; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-north-carolina-q3-2032-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20321020
+DTEND;VALUE=DATE:20321021
+SUMMARY:North Carolina: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly filers due the last day
+  of Jan/Apr/Jul/Oct for the preceding 3-month period. | Q3 2026 (Jul-Sep) s
+ ales tax return\, applying North Carolina's quarterly-filer due-date rule: 
+ 20th of the following month\; quarterly filers due the last day of Jan/Apr/
+ Jul/Oct for the preceding 3-month period. This is a representative recurrin
+ g pattern\, not a single annual deadline - actual filing frequency (monthly
+ /quarterly/annual) is assigned per business by the state. | Authority: Dire
+ ct fetch of North Carolina's own tax agency site this session | Source: htt
+ ps://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-filing-r
+ equirements-payment-options/filing-frequency-and-due-dates | This date is c
+ omputed from a recurrence rule and may not reflect a later-announced change
+ \; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-north-carolina-q4-2025-01-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250121
+DTEND;VALUE=DATE:20250122
+SUMMARY:North Carolina: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly filers due the last day
+  of Jan/Apr/Jul/Oct for the preceding 3-month period. | Q4 2026 (Oct-Dec) s
+ ales tax return\, applying North Carolina's quarterly-filer due-date rule: 
+ 20th of the following month\; quarterly filers due the last day of Jan/Apr/
+ Jul/Oct for the preceding 3-month period. This is a representative recurrin
+ g pattern\, not a single annual deadline - actual filing frequency (monthly
+ /quarterly/annual) is assigned per business by the state. | Authority: Dire
+ ct fetch of North Carolina's own tax agency site this session | Source: htt
+ ps://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-filing-r
+ equirements-payment-options/filing-frequency-and-due-dates | This date is c
+ omputed from a recurrence rule and may not reflect a later-announced change
+ \; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-north-carolina-q4-2026-01-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260120
+DTEND;VALUE=DATE:20260121
+SUMMARY:North Carolina: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly filers due the last day
+  of Jan/Apr/Jul/Oct for the preceding 3-month period. | Q4 2026 (Oct-Dec) s
+ ales tax return\, applying North Carolina's quarterly-filer due-date rule: 
+ 20th of the following month\; quarterly filers due the last day of Jan/Apr/
+ Jul/Oct for the preceding 3-month period. This is a representative recurrin
+ g pattern\, not a single annual deadline - actual filing frequency (monthly
+ /quarterly/annual) is assigned per business by the state. | Authority: Dire
+ ct fetch of North Carolina's own tax agency site this session | Source: htt
+ ps://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-filing-r
+ equirements-payment-options/filing-frequency-and-due-dates | This date is c
+ omputed from a recurrence rule and may not reflect a later-announced change
+ \; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-north-carolina-q4-2027-01-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:North Carolina: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly filers due the last day
+  of Jan/Apr/Jul/Oct for the preceding 3-month period. | Q4 2026 (Oct-Dec) s
+ ales tax return\, applying North Carolina's quarterly-filer due-date rule: 
+ 20th of the following month\; quarterly filers due the last day of Jan/Apr/
+ Jul/Oct for the preceding 3-month period. This is a representative recurrin
+ g pattern\, not a single annual deadline - actual filing frequency (monthly
+ /quarterly/annual) is assigned per business by the state. | Authority: Dire
+ ct fetch of North Carolina's own tax agency site this session | Source: htt
+ ps://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-filing-r
+ equirements-payment-options/filing-frequency-and-due-dates | This date is c
+ omputed from a recurrence rule and may not reflect a later-announced change
+ \; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-north-carolina-q4-2028-01-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280120
+DTEND;VALUE=DATE:20280121
+SUMMARY:North Carolina: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly filers due the last day
+  of Jan/Apr/Jul/Oct for the preceding 3-month period. | Q4 2026 (Oct-Dec) s
+ ales tax return\, applying North Carolina's quarterly-filer due-date rule: 
+ 20th of the following month\; quarterly filers due the last day of Jan/Apr/
+ Jul/Oct for the preceding 3-month period. This is a representative recurrin
+ g pattern\, not a single annual deadline - actual filing frequency (monthly
+ /quarterly/annual) is assigned per business by the state. | Authority: Dire
+ ct fetch of North Carolina's own tax agency site this session | Source: htt
+ ps://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-filing-r
+ equirements-payment-options/filing-frequency-and-due-dates | This date is c
+ omputed from a recurrence rule and may not reflect a later-announced change
+ \; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-north-carolina-q4-2029-01-22@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290122
+DTEND;VALUE=DATE:20290123
+SUMMARY:North Carolina: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly filers due the last day
+  of Jan/Apr/Jul/Oct for the preceding 3-month period. | Q4 2026 (Oct-Dec) s
+ ales tax return\, applying North Carolina's quarterly-filer due-date rule: 
+ 20th of the following month\; quarterly filers due the last day of Jan/Apr/
+ Jul/Oct for the preceding 3-month period. This is a representative recurrin
+ g pattern\, not a single annual deadline - actual filing frequency (monthly
+ /quarterly/annual) is assigned per business by the state. | Authority: Dire
+ ct fetch of North Carolina's own tax agency site this session | Source: htt
+ ps://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-filing-r
+ equirements-payment-options/filing-frequency-and-due-dates | This date is c
+ omputed from a recurrence rule and may not reflect a later-announced change
+ \; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-north-carolina-q4-2030-01-22@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300122
+DTEND;VALUE=DATE:20300123
+SUMMARY:North Carolina: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly filers due the last day
+  of Jan/Apr/Jul/Oct for the preceding 3-month period. | Q4 2026 (Oct-Dec) s
+ ales tax return\, applying North Carolina's quarterly-filer due-date rule: 
+ 20th of the following month\; quarterly filers due the last day of Jan/Apr/
+ Jul/Oct for the preceding 3-month period. This is a representative recurrin
+ g pattern\, not a single annual deadline - actual filing frequency (monthly
+ /quarterly/annual) is assigned per business by the state. | Authority: Dire
+ ct fetch of North Carolina's own tax agency site this session | Source: htt
+ ps://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-filing-r
+ equirements-payment-options/filing-frequency-and-due-dates | This date is c
+ omputed from a recurrence rule and may not reflect a later-announced change
+ \; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-north-carolina-q4-2031-01-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310121
+DTEND;VALUE=DATE:20310122
+SUMMARY:North Carolina: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly filers due the last day
+  of Jan/Apr/Jul/Oct for the preceding 3-month period. | Q4 2026 (Oct-Dec) s
+ ales tax return\, applying North Carolina's quarterly-filer due-date rule: 
+ 20th of the following month\; quarterly filers due the last day of Jan/Apr/
+ Jul/Oct for the preceding 3-month period. This is a representative recurrin
+ g pattern\, not a single annual deadline - actual filing frequency (monthly
+ /quarterly/annual) is assigned per business by the state. | Authority: Dire
+ ct fetch of North Carolina's own tax agency site this session | Source: htt
+ ps://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-filing-r
+ equirements-payment-options/filing-frequency-and-due-dates | This date is c
+ omputed from a recurrence rule and may not reflect a later-announced change
+ \; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-north-carolina-q4-2032-01-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320120
+DTEND;VALUE=DATE:20320121
+SUMMARY:North Carolina: State sales & use tax return due
+DESCRIPTION:20th of the following month\; quarterly filers due the last day
+  of Jan/Apr/Jul/Oct for the preceding 3-month period. | Q4 2026 (Oct-Dec) s
+ ales tax return\, applying North Carolina's quarterly-filer due-date rule: 
+ 20th of the following month\; quarterly filers due the last day of Jan/Apr/
+ Jul/Oct for the preceding 3-month period. This is a representative recurrin
+ g pattern\, not a single annual deadline - actual filing frequency (monthly
+ /quarterly/annual) is assigned per business by the state. | Authority: Dire
+ ct fetch of North Carolina's own tax agency site this session | Source: htt
+ ps://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-filing-r
+ equirements-payment-options/filing-frequency-and-due-dates | This date is c
+ omputed from a recurrence rule and may not reflect a later-announced change
+ \; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

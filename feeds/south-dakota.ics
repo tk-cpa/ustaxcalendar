@@ -1,0 +1,1067 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tk.cpa//US Tax Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:US Tax Calendar - South Dakota
+X-WR-CALDESC:Recurring US tax filing deadlines from ustaxcalendar.com (a tk
+ .cpa resource). Reference only\, not tax advice.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:state-sui-south-dakota-q1-2025-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250430
+DTEND;VALUE=DATE:20250501
+SUMMARY:South Dakota: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Q1 Apr 30\, Q2 Jul 31\, Q3 Oct 31\, Q4 Jan 31. | Authority: Direct f
+ etch of South Dakota's own unemployment insurance agency site/handbook/code
+  this session | Source: https://dlr.sd.gov/ra/businesses/wage_reporting.asp
+ x | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-south-dakota-q1-2026-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:South Dakota: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Q1 Apr 30\, Q2 Jul 31\, Q3 Oct 31\, Q4 Jan 31. | Authority: Direct f
+ etch of South Dakota's own unemployment insurance agency site/handbook/code
+  this session | Source: https://dlr.sd.gov/ra/businesses/wage_reporting.asp
+ x | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-south-dakota-q1-2027-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:South Dakota: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Q1 Apr 30\, Q2 Jul 31\, Q3 Oct 31\, Q4 Jan 31. | Authority: Direct f
+ etch of South Dakota's own unemployment insurance agency site/handbook/code
+  this session | Source: https://dlr.sd.gov/ra/businesses/wage_reporting.asp
+ x | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-south-dakota-q1-2028-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280430
+DTEND;VALUE=DATE:20280501
+SUMMARY:South Dakota: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Q1 Apr 30\, Q2 Jul 31\, Q3 Oct 31\, Q4 Jan 31. | Authority: Direct f
+ etch of South Dakota's own unemployment insurance agency site/handbook/code
+  this session | Source: https://dlr.sd.gov/ra/businesses/wage_reporting.asp
+ x | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-south-dakota-q1-2029-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290430
+DTEND;VALUE=DATE:20290501
+SUMMARY:South Dakota: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Q1 Apr 30\, Q2 Jul 31\, Q3 Oct 31\, Q4 Jan 31. | Authority: Direct f
+ etch of South Dakota's own unemployment insurance agency site/handbook/code
+  this session | Source: https://dlr.sd.gov/ra/businesses/wage_reporting.asp
+ x | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-south-dakota-q1-2030-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300430
+DTEND;VALUE=DATE:20300501
+SUMMARY:South Dakota: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Q1 Apr 30\, Q2 Jul 31\, Q3 Oct 31\, Q4 Jan 31. | Authority: Direct f
+ etch of South Dakota's own unemployment insurance agency site/handbook/code
+  this session | Source: https://dlr.sd.gov/ra/businesses/wage_reporting.asp
+ x | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-south-dakota-q1-2031-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310430
+DTEND;VALUE=DATE:20310501
+SUMMARY:South Dakota: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Q1 Apr 30\, Q2 Jul 31\, Q3 Oct 31\, Q4 Jan 31. | Authority: Direct f
+ etch of South Dakota's own unemployment insurance agency site/handbook/code
+  this session | Source: https://dlr.sd.gov/ra/businesses/wage_reporting.asp
+ x | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-south-dakota-q1-2032-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320430
+DTEND;VALUE=DATE:20320501
+SUMMARY:South Dakota: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Q1 Apr 30\, Q2 Jul 31\, Q3 Oct 31\, Q4 Jan 31. | Authority: Direct f
+ etch of South Dakota's own unemployment insurance agency site/handbook/code
+  this session | Source: https://dlr.sd.gov/ra/businesses/wage_reporting.asp
+ x | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-south-dakota-q2-2025-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250731
+DTEND;VALUE=DATE:20250801
+SUMMARY:South Dakota: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Q1 Apr 30\, Q2 Jul 31\, Q3 Oct 31\, Q4 Jan 31. | Authority: Direct f
+ etch of South Dakota's own unemployment insurance agency site/handbook/code
+  this session | Source: https://dlr.sd.gov/ra/businesses/wage_reporting.asp
+ x | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-south-dakota-q2-2026-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:South Dakota: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Q1 Apr 30\, Q2 Jul 31\, Q3 Oct 31\, Q4 Jan 31. | Authority: Direct f
+ etch of South Dakota's own unemployment insurance agency site/handbook/code
+  this session | Source: https://dlr.sd.gov/ra/businesses/wage_reporting.asp
+ x | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-south-dakota-q2-2027-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:South Dakota: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Q1 Apr 30\, Q2 Jul 31\, Q3 Oct 31\, Q4 Jan 31. | Authority: Direct f
+ etch of South Dakota's own unemployment insurance agency site/handbook/code
+  this session | Source: https://dlr.sd.gov/ra/businesses/wage_reporting.asp
+ x | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-south-dakota-q2-2028-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280731
+DTEND;VALUE=DATE:20280801
+SUMMARY:South Dakota: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Q1 Apr 30\, Q2 Jul 31\, Q3 Oct 31\, Q4 Jan 31. | Authority: Direct f
+ etch of South Dakota's own unemployment insurance agency site/handbook/code
+  this session | Source: https://dlr.sd.gov/ra/businesses/wage_reporting.asp
+ x | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-south-dakota-q2-2029-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290731
+DTEND;VALUE=DATE:20290801
+SUMMARY:South Dakota: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Q1 Apr 30\, Q2 Jul 31\, Q3 Oct 31\, Q4 Jan 31. | Authority: Direct f
+ etch of South Dakota's own unemployment insurance agency site/handbook/code
+  this session | Source: https://dlr.sd.gov/ra/businesses/wage_reporting.asp
+ x | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-south-dakota-q2-2030-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300731
+DTEND;VALUE=DATE:20300801
+SUMMARY:South Dakota: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Q1 Apr 30\, Q2 Jul 31\, Q3 Oct 31\, Q4 Jan 31. | Authority: Direct f
+ etch of South Dakota's own unemployment insurance agency site/handbook/code
+  this session | Source: https://dlr.sd.gov/ra/businesses/wage_reporting.asp
+ x | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-south-dakota-q2-2031-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310731
+DTEND;VALUE=DATE:20310801
+SUMMARY:South Dakota: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Q1 Apr 30\, Q2 Jul 31\, Q3 Oct 31\, Q4 Jan 31. | Authority: Direct f
+ etch of South Dakota's own unemployment insurance agency site/handbook/code
+  this session | Source: https://dlr.sd.gov/ra/businesses/wage_reporting.asp
+ x | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-south-dakota-q2-2032-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320731
+DTEND;VALUE=DATE:20320801
+SUMMARY:South Dakota: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Q1 Apr 30\, Q2 Jul 31\, Q3 Oct 31\, Q4 Jan 31. | Authority: Direct f
+ etch of South Dakota's own unemployment insurance agency site/handbook/code
+  this session | Source: https://dlr.sd.gov/ra/businesses/wage_reporting.asp
+ x | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-south-dakota-q3-2025-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20251031
+DTEND;VALUE=DATE:20251101
+SUMMARY:South Dakota: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Q1 Apr 30\, Q2 Jul 31\, Q3 Oct 31\, Q4 Jan 31. | Authority: Direct f
+ etch of South Dakota's own unemployment insurance agency site/handbook/code
+  this session | Source: https://dlr.sd.gov/ra/businesses/wage_reporting.asp
+ x | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-south-dakota-q3-2026-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:South Dakota: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Q1 Apr 30\, Q2 Jul 31\, Q3 Oct 31\, Q4 Jan 31. | Authority: Direct f
+ etch of South Dakota's own unemployment insurance agency site/handbook/code
+  this session | Source: https://dlr.sd.gov/ra/businesses/wage_reporting.asp
+ x | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-south-dakota-q3-2027-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20271031
+DTEND;VALUE=DATE:20271101
+SUMMARY:South Dakota: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Q1 Apr 30\, Q2 Jul 31\, Q3 Oct 31\, Q4 Jan 31. | Authority: Direct f
+ etch of South Dakota's own unemployment insurance agency site/handbook/code
+  this session | Source: https://dlr.sd.gov/ra/businesses/wage_reporting.asp
+ x | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-south-dakota-q3-2028-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20281031
+DTEND;VALUE=DATE:20281101
+SUMMARY:South Dakota: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Q1 Apr 30\, Q2 Jul 31\, Q3 Oct 31\, Q4 Jan 31. | Authority: Direct f
+ etch of South Dakota's own unemployment insurance agency site/handbook/code
+  this session | Source: https://dlr.sd.gov/ra/businesses/wage_reporting.asp
+ x | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-south-dakota-q3-2029-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20291031
+DTEND;VALUE=DATE:20291101
+SUMMARY:South Dakota: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Q1 Apr 30\, Q2 Jul 31\, Q3 Oct 31\, Q4 Jan 31. | Authority: Direct f
+ etch of South Dakota's own unemployment insurance agency site/handbook/code
+  this session | Source: https://dlr.sd.gov/ra/businesses/wage_reporting.asp
+ x | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-south-dakota-q3-2030-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20301031
+DTEND;VALUE=DATE:20301101
+SUMMARY:South Dakota: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Q1 Apr 30\, Q2 Jul 31\, Q3 Oct 31\, Q4 Jan 31. | Authority: Direct f
+ etch of South Dakota's own unemployment insurance agency site/handbook/code
+  this session | Source: https://dlr.sd.gov/ra/businesses/wage_reporting.asp
+ x | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-south-dakota-q3-2031-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20311031
+DTEND;VALUE=DATE:20311101
+SUMMARY:South Dakota: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Q1 Apr 30\, Q2 Jul 31\, Q3 Oct 31\, Q4 Jan 31. | Authority: Direct f
+ etch of South Dakota's own unemployment insurance agency site/handbook/code
+  this session | Source: https://dlr.sd.gov/ra/businesses/wage_reporting.asp
+ x | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-south-dakota-q3-2032-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20321031
+DTEND;VALUE=DATE:20321101
+SUMMARY:South Dakota: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Q1 Apr 30\, Q2 Jul 31\, Q3 Oct 31\, Q4 Jan 31. | Authority: Direct f
+ etch of South Dakota's own unemployment insurance agency site/handbook/code
+  this session | Source: https://dlr.sd.gov/ra/businesses/wage_reporting.asp
+ x | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-south-dakota-q4-2025-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250131
+DTEND;VALUE=DATE:20250201
+SUMMARY:South Dakota: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Q1 Apr 30\, Q2 Jul 31\, Q3 Oct 31\, Q4 Jan 31. | Authority: Direct f
+ etch of South Dakota's own unemployment insurance agency site/handbook/code
+  this session | Source: https://dlr.sd.gov/ra/businesses/wage_reporting.asp
+ x | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-south-dakota-q4-2026-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:South Dakota: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Q1 Apr 30\, Q2 Jul 31\, Q3 Oct 31\, Q4 Jan 31. | Authority: Direct f
+ etch of South Dakota's own unemployment insurance agency site/handbook/code
+  this session | Source: https://dlr.sd.gov/ra/businesses/wage_reporting.asp
+ x | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-south-dakota-q4-2027-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:South Dakota: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Q1 Apr 30\, Q2 Jul 31\, Q3 Oct 31\, Q4 Jan 31. | Authority: Direct f
+ etch of South Dakota's own unemployment insurance agency site/handbook/code
+  this session | Source: https://dlr.sd.gov/ra/businesses/wage_reporting.asp
+ x | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-south-dakota-q4-2028-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280131
+DTEND;VALUE=DATE:20280201
+SUMMARY:South Dakota: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Q1 Apr 30\, Q2 Jul 31\, Q3 Oct 31\, Q4 Jan 31. | Authority: Direct f
+ etch of South Dakota's own unemployment insurance agency site/handbook/code
+  this session | Source: https://dlr.sd.gov/ra/businesses/wage_reporting.asp
+ x | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-south-dakota-q4-2029-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290131
+DTEND;VALUE=DATE:20290201
+SUMMARY:South Dakota: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Q1 Apr 30\, Q2 Jul 31\, Q3 Oct 31\, Q4 Jan 31. | Authority: Direct f
+ etch of South Dakota's own unemployment insurance agency site/handbook/code
+  this session | Source: https://dlr.sd.gov/ra/businesses/wage_reporting.asp
+ x | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-south-dakota-q4-2030-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300131
+DTEND;VALUE=DATE:20300201
+SUMMARY:South Dakota: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Q1 Apr 30\, Q2 Jul 31\, Q3 Oct 31\, Q4 Jan 31. | Authority: Direct f
+ etch of South Dakota's own unemployment insurance agency site/handbook/code
+  this session | Source: https://dlr.sd.gov/ra/businesses/wage_reporting.asp
+ x | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-south-dakota-q4-2031-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310131
+DTEND;VALUE=DATE:20310201
+SUMMARY:South Dakota: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Q1 Apr 30\, Q2 Jul 31\, Q3 Oct 31\, Q4 Jan 31. | Authority: Direct f
+ etch of South Dakota's own unemployment insurance agency site/handbook/code
+  this session | Source: https://dlr.sd.gov/ra/businesses/wage_reporting.asp
+ x | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-south-dakota-q4-2032-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320131
+DTEND;VALUE=DATE:20320201
+SUMMARY:South Dakota: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Q1 Apr 30\, Q2 Jul 31\, Q3 Oct 31\, Q4 Jan 31. | Authority: Direct f
+ etch of South Dakota's own unemployment insurance agency site/handbook/code
+  this session | Source: https://dlr.sd.gov/ra/businesses/wage_reporting.asp
+ x | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-south-dakota-q1-2025-04-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250422
+SUMMARY:South Dakota: State sales & use tax return due
+DESCRIPTION:Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electr
+ onic and paper returns are both due the 20th of the month following the rep
+ orting period. | Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: e
+ lectronic and paper returns are both due the 20th of the month following th
+ e reporting period. This is a representative recurring pattern\, not a sing
+ le annual deadline. | Authority: Direct fetch of South Dakota DOR's January
+  2026 Sales and Use Tax Guide PDF this session. | Source: https://dor.sd.go
+ v/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-south-dakota-q1-2026-04-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:South Dakota: State sales & use tax return due
+DESCRIPTION:Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electr
+ onic and paper returns are both due the 20th of the month following the rep
+ orting period. | Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: e
+ lectronic and paper returns are both due the 20th of the month following th
+ e reporting period. This is a representative recurring pattern\, not a sing
+ le annual deadline. | Authority: Direct fetch of South Dakota DOR's January
+  2026 Sales and Use Tax Guide PDF this session. | Source: https://dor.sd.go
+ v/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-south-dakota-q1-2027-04-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:South Dakota: State sales & use tax return due
+DESCRIPTION:Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electr
+ onic and paper returns are both due the 20th of the month following the rep
+ orting period. | Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: e
+ lectronic and paper returns are both due the 20th of the month following th
+ e reporting period. This is a representative recurring pattern\, not a sing
+ le annual deadline. | Authority: Direct fetch of South Dakota DOR's January
+  2026 Sales and Use Tax Guide PDF this session. | Source: https://dor.sd.go
+ v/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-south-dakota-q1-2028-04-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280420
+DTEND;VALUE=DATE:20280421
+SUMMARY:South Dakota: State sales & use tax return due
+DESCRIPTION:Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electr
+ onic and paper returns are both due the 20th of the month following the rep
+ orting period. | Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: e
+ lectronic and paper returns are both due the 20th of the month following th
+ e reporting period. This is a representative recurring pattern\, not a sing
+ le annual deadline. | Authority: Direct fetch of South Dakota DOR's January
+  2026 Sales and Use Tax Guide PDF this session. | Source: https://dor.sd.go
+ v/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-south-dakota-q1-2029-04-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290420
+DTEND;VALUE=DATE:20290421
+SUMMARY:South Dakota: State sales & use tax return due
+DESCRIPTION:Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electr
+ onic and paper returns are both due the 20th of the month following the rep
+ orting period. | Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: e
+ lectronic and paper returns are both due the 20th of the month following th
+ e reporting period. This is a representative recurring pattern\, not a sing
+ le annual deadline. | Authority: Direct fetch of South Dakota DOR's January
+  2026 Sales and Use Tax Guide PDF this session. | Source: https://dor.sd.go
+ v/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-south-dakota-q1-2030-04-22@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300422
+DTEND;VALUE=DATE:20300423
+SUMMARY:South Dakota: State sales & use tax return due
+DESCRIPTION:Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electr
+ onic and paper returns are both due the 20th of the month following the rep
+ orting period. | Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: e
+ lectronic and paper returns are both due the 20th of the month following th
+ e reporting period. This is a representative recurring pattern\, not a sing
+ le annual deadline. | Authority: Direct fetch of South Dakota DOR's January
+  2026 Sales and Use Tax Guide PDF this session. | Source: https://dor.sd.go
+ v/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-south-dakota-q1-2031-04-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310421
+DTEND;VALUE=DATE:20310422
+SUMMARY:South Dakota: State sales & use tax return due
+DESCRIPTION:Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electr
+ onic and paper returns are both due the 20th of the month following the rep
+ orting period. | Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: e
+ lectronic and paper returns are both due the 20th of the month following th
+ e reporting period. This is a representative recurring pattern\, not a sing
+ le annual deadline. | Authority: Direct fetch of South Dakota DOR's January
+  2026 Sales and Use Tax Guide PDF this session. | Source: https://dor.sd.go
+ v/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-south-dakota-q1-2032-04-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320420
+DTEND;VALUE=DATE:20320421
+SUMMARY:South Dakota: State sales & use tax return due
+DESCRIPTION:Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electr
+ onic and paper returns are both due the 20th of the month following the rep
+ orting period. | Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: e
+ lectronic and paper returns are both due the 20th of the month following th
+ e reporting period. This is a representative recurring pattern\, not a sing
+ le annual deadline. | Authority: Direct fetch of South Dakota DOR's January
+  2026 Sales and Use Tax Guide PDF this session. | Source: https://dor.sd.go
+ v/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-south-dakota-q2-2025-07-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250722
+SUMMARY:South Dakota: State sales & use tax return due
+DESCRIPTION:Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electr
+ onic and paper returns are both due the 20th of the month following the rep
+ orting period. | Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: e
+ lectronic and paper returns are both due the 20th of the month following th
+ e reporting period. This is a representative recurring pattern\, not a sing
+ le annual deadline. | Authority: Direct fetch of South Dakota DOR's January
+  2026 Sales and Use Tax Guide PDF this session. | Source: https://dor.sd.go
+ v/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-south-dakota-q2-2026-07-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+SUMMARY:South Dakota: State sales & use tax return due
+DESCRIPTION:Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electr
+ onic and paper returns are both due the 20th of the month following the rep
+ orting period. | Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: e
+ lectronic and paper returns are both due the 20th of the month following th
+ e reporting period. This is a representative recurring pattern\, not a sing
+ le annual deadline. | Authority: Direct fetch of South Dakota DOR's January
+  2026 Sales and Use Tax Guide PDF this session. | Source: https://dor.sd.go
+ v/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-south-dakota-q2-2027-07-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:South Dakota: State sales & use tax return due
+DESCRIPTION:Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electr
+ onic and paper returns are both due the 20th of the month following the rep
+ orting period. | Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: e
+ lectronic and paper returns are both due the 20th of the month following th
+ e reporting period. This is a representative recurring pattern\, not a sing
+ le annual deadline. | Authority: Direct fetch of South Dakota DOR's January
+  2026 Sales and Use Tax Guide PDF this session. | Source: https://dor.sd.go
+ v/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-south-dakota-q2-2028-07-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:South Dakota: State sales & use tax return due
+DESCRIPTION:Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electr
+ onic and paper returns are both due the 20th of the month following the rep
+ orting period. | Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: e
+ lectronic and paper returns are both due the 20th of the month following th
+ e reporting period. This is a representative recurring pattern\, not a sing
+ le annual deadline. | Authority: Direct fetch of South Dakota DOR's January
+  2026 Sales and Use Tax Guide PDF this session. | Source: https://dor.sd.go
+ v/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-south-dakota-q2-2029-07-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290720
+DTEND;VALUE=DATE:20290721
+SUMMARY:South Dakota: State sales & use tax return due
+DESCRIPTION:Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electr
+ onic and paper returns are both due the 20th of the month following the rep
+ orting period. | Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: e
+ lectronic and paper returns are both due the 20th of the month following th
+ e reporting period. This is a representative recurring pattern\, not a sing
+ le annual deadline. | Authority: Direct fetch of South Dakota DOR's January
+  2026 Sales and Use Tax Guide PDF this session. | Source: https://dor.sd.go
+ v/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-south-dakota-q2-2030-07-22@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300722
+DTEND;VALUE=DATE:20300723
+SUMMARY:South Dakota: State sales & use tax return due
+DESCRIPTION:Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electr
+ onic and paper returns are both due the 20th of the month following the rep
+ orting period. | Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: e
+ lectronic and paper returns are both due the 20th of the month following th
+ e reporting period. This is a representative recurring pattern\, not a sing
+ le annual deadline. | Authority: Direct fetch of South Dakota DOR's January
+  2026 Sales and Use Tax Guide PDF this session. | Source: https://dor.sd.go
+ v/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-south-dakota-q2-2031-07-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310721
+DTEND;VALUE=DATE:20310722
+SUMMARY:South Dakota: State sales & use tax return due
+DESCRIPTION:Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electr
+ onic and paper returns are both due the 20th of the month following the rep
+ orting period. | Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: e
+ lectronic and paper returns are both due the 20th of the month following th
+ e reporting period. This is a representative recurring pattern\, not a sing
+ le annual deadline. | Authority: Direct fetch of South Dakota DOR's January
+  2026 Sales and Use Tax Guide PDF this session. | Source: https://dor.sd.go
+ v/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-south-dakota-q2-2032-07-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320720
+DTEND;VALUE=DATE:20320721
+SUMMARY:South Dakota: State sales & use tax return due
+DESCRIPTION:Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electr
+ onic and paper returns are both due the 20th of the month following the rep
+ orting period. | Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: e
+ lectronic and paper returns are both due the 20th of the month following th
+ e reporting period. This is a representative recurring pattern\, not a sing
+ le annual deadline. | Authority: Direct fetch of South Dakota DOR's January
+  2026 Sales and Use Tax Guide PDF this session. | Source: https://dor.sd.go
+ v/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-south-dakota-q3-2025-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20251020
+DTEND;VALUE=DATE:20251021
+SUMMARY:South Dakota: State sales & use tax return due
+DESCRIPTION:Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electr
+ onic and paper returns are both due the 20th of the month following the rep
+ orting period. | Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: e
+ lectronic and paper returns are both due the 20th of the month following th
+ e reporting period. This is a representative recurring pattern\, not a sing
+ le annual deadline. | Authority: Direct fetch of South Dakota DOR's January
+  2026 Sales and Use Tax Guide PDF this session. | Source: https://dor.sd.go
+ v/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-south-dakota-q3-2026-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:South Dakota: State sales & use tax return due
+DESCRIPTION:Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electr
+ onic and paper returns are both due the 20th of the month following the rep
+ orting period. | Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: e
+ lectronic and paper returns are both due the 20th of the month following th
+ e reporting period. This is a representative recurring pattern\, not a sing
+ le annual deadline. | Authority: Direct fetch of South Dakota DOR's January
+  2026 Sales and Use Tax Guide PDF this session. | Source: https://dor.sd.go
+ v/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-south-dakota-q3-2027-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20271020
+DTEND;VALUE=DATE:20271021
+SUMMARY:South Dakota: State sales & use tax return due
+DESCRIPTION:Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electr
+ onic and paper returns are both due the 20th of the month following the rep
+ orting period. | Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: e
+ lectronic and paper returns are both due the 20th of the month following th
+ e reporting period. This is a representative recurring pattern\, not a sing
+ le annual deadline. | Authority: Direct fetch of South Dakota DOR's January
+  2026 Sales and Use Tax Guide PDF this session. | Source: https://dor.sd.go
+ v/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-south-dakota-q3-2028-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20281020
+DTEND;VALUE=DATE:20281021
+SUMMARY:South Dakota: State sales & use tax return due
+DESCRIPTION:Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electr
+ onic and paper returns are both due the 20th of the month following the rep
+ orting period. | Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: e
+ lectronic and paper returns are both due the 20th of the month following th
+ e reporting period. This is a representative recurring pattern\, not a sing
+ le annual deadline. | Authority: Direct fetch of South Dakota DOR's January
+  2026 Sales and Use Tax Guide PDF this session. | Source: https://dor.sd.go
+ v/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-south-dakota-q3-2029-10-22@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20291022
+DTEND;VALUE=DATE:20291023
+SUMMARY:South Dakota: State sales & use tax return due
+DESCRIPTION:Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electr
+ onic and paper returns are both due the 20th of the month following the rep
+ orting period. | Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: e
+ lectronic and paper returns are both due the 20th of the month following th
+ e reporting period. This is a representative recurring pattern\, not a sing
+ le annual deadline. | Authority: Direct fetch of South Dakota DOR's January
+  2026 Sales and Use Tax Guide PDF this session. | Source: https://dor.sd.go
+ v/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-south-dakota-q3-2030-10-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20301021
+DTEND;VALUE=DATE:20301022
+SUMMARY:South Dakota: State sales & use tax return due
+DESCRIPTION:Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electr
+ onic and paper returns are both due the 20th of the month following the rep
+ orting period. | Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: e
+ lectronic and paper returns are both due the 20th of the month following th
+ e reporting period. This is a representative recurring pattern\, not a sing
+ le annual deadline. | Authority: Direct fetch of South Dakota DOR's January
+  2026 Sales and Use Tax Guide PDF this session. | Source: https://dor.sd.go
+ v/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-south-dakota-q3-2031-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20311020
+DTEND;VALUE=DATE:20311021
+SUMMARY:South Dakota: State sales & use tax return due
+DESCRIPTION:Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electr
+ onic and paper returns are both due the 20th of the month following the rep
+ orting period. | Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: e
+ lectronic and paper returns are both due the 20th of the month following th
+ e reporting period. This is a representative recurring pattern\, not a sing
+ le annual deadline. | Authority: Direct fetch of South Dakota DOR's January
+  2026 Sales and Use Tax Guide PDF this session. | Source: https://dor.sd.go
+ v/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-south-dakota-q3-2032-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20321020
+DTEND;VALUE=DATE:20321021
+SUMMARY:South Dakota: State sales & use tax return due
+DESCRIPTION:Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electr
+ onic and paper returns are both due the 20th of the month following the rep
+ orting period. | Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: e
+ lectronic and paper returns are both due the 20th of the month following th
+ e reporting period. This is a representative recurring pattern\, not a sing
+ le annual deadline. | Authority: Direct fetch of South Dakota DOR's January
+  2026 Sales and Use Tax Guide PDF this session. | Source: https://dor.sd.go
+ v/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-south-dakota-q4-2025-01-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250121
+DTEND;VALUE=DATE:20250122
+SUMMARY:South Dakota: State sales & use tax return due
+DESCRIPTION:Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electr
+ onic and paper returns are both due the 20th of the month following the rep
+ orting period. | Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: e
+ lectronic and paper returns are both due the 20th of the month following th
+ e reporting period. This is a representative recurring pattern\, not a sing
+ le annual deadline. | Authority: Direct fetch of South Dakota DOR's January
+  2026 Sales and Use Tax Guide PDF this session. | Source: https://dor.sd.go
+ v/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-south-dakota-q4-2026-01-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260120
+DTEND;VALUE=DATE:20260121
+SUMMARY:South Dakota: State sales & use tax return due
+DESCRIPTION:Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electr
+ onic and paper returns are both due the 20th of the month following the rep
+ orting period. | Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: e
+ lectronic and paper returns are both due the 20th of the month following th
+ e reporting period. This is a representative recurring pattern\, not a sing
+ le annual deadline. | Authority: Direct fetch of South Dakota DOR's January
+  2026 Sales and Use Tax Guide PDF this session. | Source: https://dor.sd.go
+ v/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-south-dakota-q4-2027-01-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:South Dakota: State sales & use tax return due
+DESCRIPTION:Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electr
+ onic and paper returns are both due the 20th of the month following the rep
+ orting period. | Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: e
+ lectronic and paper returns are both due the 20th of the month following th
+ e reporting period. This is a representative recurring pattern\, not a sing
+ le annual deadline. | Authority: Direct fetch of South Dakota DOR's January
+  2026 Sales and Use Tax Guide PDF this session. | Source: https://dor.sd.go
+ v/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-south-dakota-q4-2028-01-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280120
+DTEND;VALUE=DATE:20280121
+SUMMARY:South Dakota: State sales & use tax return due
+DESCRIPTION:Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electr
+ onic and paper returns are both due the 20th of the month following the rep
+ orting period. | Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: e
+ lectronic and paper returns are both due the 20th of the month following th
+ e reporting period. This is a representative recurring pattern\, not a sing
+ le annual deadline. | Authority: Direct fetch of South Dakota DOR's January
+  2026 Sales and Use Tax Guide PDF this session. | Source: https://dor.sd.go
+ v/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-south-dakota-q4-2029-01-22@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290122
+DTEND;VALUE=DATE:20290123
+SUMMARY:South Dakota: State sales & use tax return due
+DESCRIPTION:Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electr
+ onic and paper returns are both due the 20th of the month following the rep
+ orting period. | Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: e
+ lectronic and paper returns are both due the 20th of the month following th
+ e reporting period. This is a representative recurring pattern\, not a sing
+ le annual deadline. | Authority: Direct fetch of South Dakota DOR's January
+  2026 Sales and Use Tax Guide PDF this session. | Source: https://dor.sd.go
+ v/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-south-dakota-q4-2030-01-22@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300122
+DTEND;VALUE=DATE:20300123
+SUMMARY:South Dakota: State sales & use tax return due
+DESCRIPTION:Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electr
+ onic and paper returns are both due the 20th of the month following the rep
+ orting period. | Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: e
+ lectronic and paper returns are both due the 20th of the month following th
+ e reporting period. This is a representative recurring pattern\, not a sing
+ le annual deadline. | Authority: Direct fetch of South Dakota DOR's January
+  2026 Sales and Use Tax Guide PDF this session. | Source: https://dor.sd.go
+ v/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-south-dakota-q4-2031-01-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310121
+DTEND;VALUE=DATE:20310122
+SUMMARY:South Dakota: State sales & use tax return due
+DESCRIPTION:Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electr
+ onic and paper returns are both due the 20th of the month following the rep
+ orting period. | Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: e
+ lectronic and paper returns are both due the 20th of the month following th
+ e reporting period. This is a representative recurring pattern\, not a sing
+ le annual deadline. | Authority: Direct fetch of South Dakota DOR's January
+  2026 Sales and Use Tax Guide PDF this session. | Source: https://dor.sd.go
+ v/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-south-dakota-q4-2032-01-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320120
+DTEND;VALUE=DATE:20320121
+SUMMARY:South Dakota: State sales & use tax return due
+DESCRIPTION:Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electr
+ onic and paper returns are both due the 20th of the month following the rep
+ orting period. | Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: e
+ lectronic and paper returns are both due the 20th of the month following th
+ e reporting period. This is a representative recurring pattern\, not a sing
+ le annual deadline. | Authority: Direct fetch of South Dakota DOR's January
+  2026 Sales and Use Tax Guide PDF this session. | Source: https://dor.sd.go
+ v/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

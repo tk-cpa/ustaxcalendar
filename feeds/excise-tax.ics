@@ -1,0 +1,2299 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tk.cpa//US Tax Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:US Tax Calendar - Excise Tax
+X-WR-CALDESC:Recurring US tax filing deadlines from ustaxcalendar.com (a tk
+ .cpa resource). Reference only\, not tax advice.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:fed-2290-01-2025-09-02@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250902
+DTEND;VALUE=DATE:20250903
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in July 20
+ 26 | Form 2290 for a vehicle first used on a public highway during July 202
+ 6 is due 2026-08-31\, per the IRS Instructions for Form 2290's month-of-fir
+ st-use filing table for the July 2026 - June 2027 tax period. If a due date
+  falls on a weekend or legal holiday\, the return is due the next business 
+ day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027 tax
+  period filing table): "file by the last day of the month following the mon
+ th of first use." | Source: https://www.irs.gov/instructions/i2290 | This d
+ ate is computed from a recurrence rule and may not reflect a later-announce
+ d change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-01-2026-08-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in July 20
+ 26 | Form 2290 for a vehicle first used on a public highway during July 202
+ 6 is due 2026-08-31\, per the IRS Instructions for Form 2290's month-of-fir
+ st-use filing table for the July 2026 - June 2027 tax period. If a due date
+  falls on a weekend or legal holiday\, the return is due the next business 
+ day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027 tax
+  period filing table): "file by the last day of the month following the mon
+ th of first use." | Source: https://www.irs.gov/instructions/i2290 | This d
+ ate is computed from a recurrence rule and may not reflect a later-announce
+ d change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-01-2027-08-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in July 20
+ 26 | Form 2290 for a vehicle first used on a public highway during July 202
+ 6 is due 2026-08-31\, per the IRS Instructions for Form 2290's month-of-fir
+ st-use filing table for the July 2026 - June 2027 tax period. If a due date
+  falls on a weekend or legal holiday\, the return is due the next business 
+ day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027 tax
+  period filing table): "file by the last day of the month following the mon
+ th of first use." | Source: https://www.irs.gov/instructions/i2290 | This d
+ ate is computed from a recurrence rule and may not reflect a later-announce
+ d change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-01-2028-08-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280831
+DTEND;VALUE=DATE:20280901
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in July 20
+ 26 | Form 2290 for a vehicle first used on a public highway during July 202
+ 6 is due 2026-08-31\, per the IRS Instructions for Form 2290's month-of-fir
+ st-use filing table for the July 2026 - June 2027 tax period. If a due date
+  falls on a weekend or legal holiday\, the return is due the next business 
+ day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027 tax
+  period filing table): "file by the last day of the month following the mon
+ th of first use." | Source: https://www.irs.gov/instructions/i2290 | This d
+ ate is computed from a recurrence rule and may not reflect a later-announce
+ d change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-01-2029-08-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290831
+DTEND;VALUE=DATE:20290901
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in July 20
+ 26 | Form 2290 for a vehicle first used on a public highway during July 202
+ 6 is due 2026-08-31\, per the IRS Instructions for Form 2290's month-of-fir
+ st-use filing table for the July 2026 - June 2027 tax period. If a due date
+  falls on a weekend or legal holiday\, the return is due the next business 
+ day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027 tax
+  period filing table): "file by the last day of the month following the mon
+ th of first use." | Source: https://www.irs.gov/instructions/i2290 | This d
+ ate is computed from a recurrence rule and may not reflect a later-announce
+ d change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-01-2030-09-03@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300903
+DTEND;VALUE=DATE:20300904
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in July 20
+ 26 | Form 2290 for a vehicle first used on a public highway during July 202
+ 6 is due 2026-08-31\, per the IRS Instructions for Form 2290's month-of-fir
+ st-use filing table for the July 2026 - June 2027 tax period. If a due date
+  falls on a weekend or legal holiday\, the return is due the next business 
+ day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027 tax
+  period filing table): "file by the last day of the month following the mon
+ th of first use." | Source: https://www.irs.gov/instructions/i2290 | This d
+ ate is computed from a recurrence rule and may not reflect a later-announce
+ d change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-01-2031-09-02@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310902
+DTEND;VALUE=DATE:20310903
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in July 20
+ 26 | Form 2290 for a vehicle first used on a public highway during July 202
+ 6 is due 2026-08-31\, per the IRS Instructions for Form 2290's month-of-fir
+ st-use filing table for the July 2026 - June 2027 tax period. If a due date
+  falls on a weekend or legal holiday\, the return is due the next business 
+ day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027 tax
+  period filing table): "file by the last day of the month following the mon
+ th of first use." | Source: https://www.irs.gov/instructions/i2290 | This d
+ ate is computed from a recurrence rule and may not reflect a later-announce
+ d change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-01-2032-08-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320831
+DTEND;VALUE=DATE:20320901
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in July 20
+ 26 | Form 2290 for a vehicle first used on a public highway during July 202
+ 6 is due 2026-08-31\, per the IRS Instructions for Form 2290's month-of-fir
+ st-use filing table for the July 2026 - June 2027 tax period. If a due date
+  falls on a weekend or legal holiday\, the return is due the next business 
+ day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027 tax
+  period filing table): "file by the last day of the month following the mon
+ th of first use." | Source: https://www.irs.gov/instructions/i2290 | This d
+ ate is computed from a recurrence rule and may not reflect a later-announce
+ d change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-02-2025-09-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250930
+DTEND;VALUE=DATE:20251001
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in August 
+ 2026 | Form 2290 for a vehicle first used on a public highway during August
+  2026 is due 2026-09-30\, per the IRS Instructions for Form 2290's month-of
+ -first-use filing table for the July 2026 - June 2027 tax period. If a due 
+ date falls on a weekend or legal holiday\, the return is due the next busin
+ ess day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027
+  tax period filing table): "file by the last day of the month following the
+  month of first use." | Source: https://www.irs.gov/instructions/i2290 | Th
+ is date is computed from a recurrence rule and may not reflect a later-anno
+ unced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-02-2026-09-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in August 
+ 2026 | Form 2290 for a vehicle first used on a public highway during August
+  2026 is due 2026-09-30\, per the IRS Instructions for Form 2290's month-of
+ -first-use filing table for the July 2026 - June 2027 tax period. If a due 
+ date falls on a weekend or legal holiday\, the return is due the next busin
+ ess day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027
+  tax period filing table): "file by the last day of the month following the
+  month of first use." | Source: https://www.irs.gov/instructions/i2290 | Th
+ is date is computed from a recurrence rule and may not reflect a later-anno
+ unced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-02-2027-09-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270930
+DTEND;VALUE=DATE:20271001
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in August 
+ 2026 | Form 2290 for a vehicle first used on a public highway during August
+  2026 is due 2026-09-30\, per the IRS Instructions for Form 2290's month-of
+ -first-use filing table for the July 2026 - June 2027 tax period. If a due 
+ date falls on a weekend or legal holiday\, the return is due the next busin
+ ess day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027
+  tax period filing table): "file by the last day of the month following the
+  month of first use." | Source: https://www.irs.gov/instructions/i2290 | Th
+ is date is computed from a recurrence rule and may not reflect a later-anno
+ unced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-02-2028-10-02@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20281002
+DTEND;VALUE=DATE:20281003
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in August 
+ 2026 | Form 2290 for a vehicle first used on a public highway during August
+  2026 is due 2026-09-30\, per the IRS Instructions for Form 2290's month-of
+ -first-use filing table for the July 2026 - June 2027 tax period. If a due 
+ date falls on a weekend or legal holiday\, the return is due the next busin
+ ess day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027
+  tax period filing table): "file by the last day of the month following the
+  month of first use." | Source: https://www.irs.gov/instructions/i2290 | Th
+ is date is computed from a recurrence rule and may not reflect a later-anno
+ unced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-02-2029-10-01@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20291001
+DTEND;VALUE=DATE:20291002
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in August 
+ 2026 | Form 2290 for a vehicle first used on a public highway during August
+  2026 is due 2026-09-30\, per the IRS Instructions for Form 2290's month-of
+ -first-use filing table for the July 2026 - June 2027 tax period. If a due 
+ date falls on a weekend or legal holiday\, the return is due the next busin
+ ess day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027
+  tax period filing table): "file by the last day of the month following the
+  month of first use." | Source: https://www.irs.gov/instructions/i2290 | Th
+ is date is computed from a recurrence rule and may not reflect a later-anno
+ unced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-02-2030-09-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300930
+DTEND;VALUE=DATE:20301001
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in August 
+ 2026 | Form 2290 for a vehicle first used on a public highway during August
+  2026 is due 2026-09-30\, per the IRS Instructions for Form 2290's month-of
+ -first-use filing table for the July 2026 - June 2027 tax period. If a due 
+ date falls on a weekend or legal holiday\, the return is due the next busin
+ ess day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027
+  tax period filing table): "file by the last day of the month following the
+  month of first use." | Source: https://www.irs.gov/instructions/i2290 | Th
+ is date is computed from a recurrence rule and may not reflect a later-anno
+ unced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-02-2031-09-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310930
+DTEND;VALUE=DATE:20311001
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in August 
+ 2026 | Form 2290 for a vehicle first used on a public highway during August
+  2026 is due 2026-09-30\, per the IRS Instructions for Form 2290's month-of
+ -first-use filing table for the July 2026 - June 2027 tax period. If a due 
+ date falls on a weekend or legal holiday\, the return is due the next busin
+ ess day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027
+  tax period filing table): "file by the last day of the month following the
+  month of first use." | Source: https://www.irs.gov/instructions/i2290 | Th
+ is date is computed from a recurrence rule and may not reflect a later-anno
+ unced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-02-2032-09-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320930
+DTEND;VALUE=DATE:20321001
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in August 
+ 2026 | Form 2290 for a vehicle first used on a public highway during August
+  2026 is due 2026-09-30\, per the IRS Instructions for Form 2290's month-of
+ -first-use filing table for the July 2026 - June 2027 tax period. If a due 
+ date falls on a weekend or legal holiday\, the return is due the next busin
+ ess day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027
+  tax period filing table): "file by the last day of the month following the
+  month of first use." | Source: https://www.irs.gov/instructions/i2290 | Th
+ is date is computed from a recurrence rule and may not reflect a later-anno
+ unced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-03-2025-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20251031
+DTEND;VALUE=DATE:20251101
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in Septemb
+ er 2026 | Form 2290 for a vehicle first used on a public highway during Sep
+ tember 2026 is due 2026-11-02\, per the IRS Instructions for Form 2290's mo
+ nth-of-first-use filing table for the July 2026 - June 2027 tax period. If 
+ a due date falls on a weekend or legal holiday\, the return is due the next
+  business day. | Authority: IRS Instructions for Form 2290 (July 2026 - Jun
+ e 2027 tax period filing table): "file by the last day of the month followi
+ ng the month of first use." | Source: https://www.irs.gov/instructions/i229
+ 0 | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-03-2026-11-02@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in Septemb
+ er 2026 | Form 2290 for a vehicle first used on a public highway during Sep
+ tember 2026 is due 2026-11-02\, per the IRS Instructions for Form 2290's mo
+ nth-of-first-use filing table for the July 2026 - June 2027 tax period. If 
+ a due date falls on a weekend or legal holiday\, the return is due the next
+  business day. | Authority: IRS Instructions for Form 2290 (July 2026 - Jun
+ e 2027 tax period filing table): "file by the last day of the month followi
+ ng the month of first use." | Source: https://www.irs.gov/instructions/i229
+ 0 | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-03-2027-11-01@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271102
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in Septemb
+ er 2026 | Form 2290 for a vehicle first used on a public highway during Sep
+ tember 2026 is due 2026-11-02\, per the IRS Instructions for Form 2290's mo
+ nth-of-first-use filing table for the July 2026 - June 2027 tax period. If 
+ a due date falls on a weekend or legal holiday\, the return is due the next
+  business day. | Authority: IRS Instructions for Form 2290 (July 2026 - Jun
+ e 2027 tax period filing table): "file by the last day of the month followi
+ ng the month of first use." | Source: https://www.irs.gov/instructions/i229
+ 0 | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-03-2028-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20281031
+DTEND;VALUE=DATE:20281101
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in Septemb
+ er 2026 | Form 2290 for a vehicle first used on a public highway during Sep
+ tember 2026 is due 2026-11-02\, per the IRS Instructions for Form 2290's mo
+ nth-of-first-use filing table for the July 2026 - June 2027 tax period. If 
+ a due date falls on a weekend or legal holiday\, the return is due the next
+  business day. | Authority: IRS Instructions for Form 2290 (July 2026 - Jun
+ e 2027 tax period filing table): "file by the last day of the month followi
+ ng the month of first use." | Source: https://www.irs.gov/instructions/i229
+ 0 | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-03-2029-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20291031
+DTEND;VALUE=DATE:20291101
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in Septemb
+ er 2026 | Form 2290 for a vehicle first used on a public highway during Sep
+ tember 2026 is due 2026-11-02\, per the IRS Instructions for Form 2290's mo
+ nth-of-first-use filing table for the July 2026 - June 2027 tax period. If 
+ a due date falls on a weekend or legal holiday\, the return is due the next
+  business day. | Authority: IRS Instructions for Form 2290 (July 2026 - Jun
+ e 2027 tax period filing table): "file by the last day of the month followi
+ ng the month of first use." | Source: https://www.irs.gov/instructions/i229
+ 0 | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-03-2030-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20301031
+DTEND;VALUE=DATE:20301101
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in Septemb
+ er 2026 | Form 2290 for a vehicle first used on a public highway during Sep
+ tember 2026 is due 2026-11-02\, per the IRS Instructions for Form 2290's mo
+ nth-of-first-use filing table for the July 2026 - June 2027 tax period. If 
+ a due date falls on a weekend or legal holiday\, the return is due the next
+  business day. | Authority: IRS Instructions for Form 2290 (July 2026 - Jun
+ e 2027 tax period filing table): "file by the last day of the month followi
+ ng the month of first use." | Source: https://www.irs.gov/instructions/i229
+ 0 | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-03-2031-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20311031
+DTEND;VALUE=DATE:20311101
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in Septemb
+ er 2026 | Form 2290 for a vehicle first used on a public highway during Sep
+ tember 2026 is due 2026-11-02\, per the IRS Instructions for Form 2290's mo
+ nth-of-first-use filing table for the July 2026 - June 2027 tax period. If 
+ a due date falls on a weekend or legal holiday\, the return is due the next
+  business day. | Authority: IRS Instructions for Form 2290 (July 2026 - Jun
+ e 2027 tax period filing table): "file by the last day of the month followi
+ ng the month of first use." | Source: https://www.irs.gov/instructions/i229
+ 0 | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-03-2032-11-01@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20321101
+DTEND;VALUE=DATE:20321102
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in Septemb
+ er 2026 | Form 2290 for a vehicle first used on a public highway during Sep
+ tember 2026 is due 2026-11-02\, per the IRS Instructions for Form 2290's mo
+ nth-of-first-use filing table for the July 2026 - June 2027 tax period. If 
+ a due date falls on a weekend or legal holiday\, the return is due the next
+  business day. | Authority: IRS Instructions for Form 2290 (July 2026 - Jun
+ e 2027 tax period filing table): "file by the last day of the month followi
+ ng the month of first use." | Source: https://www.irs.gov/instructions/i229
+ 0 | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-04-2025-12-01@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20251201
+DTEND;VALUE=DATE:20251202
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in October
+  2026 | Form 2290 for a vehicle first used on a public highway during Octob
+ er 2026 is due 2026-11-30\, per the IRS Instructions for Form 2290's month-
+ of-first-use filing table for the July 2026 - June 2027 tax period. If a du
+ e date falls on a weekend or legal holiday\, the return is due the next bus
+ iness day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 20
+ 27 tax period filing table): "file by the last day of the month following t
+ he month of first use." | Source: https://www.irs.gov/instructions/i2290 | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-04-2026-11-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in October
+  2026 | Form 2290 for a vehicle first used on a public highway during Octob
+ er 2026 is due 2026-11-30\, per the IRS Instructions for Form 2290's month-
+ of-first-use filing table for the July 2026 - June 2027 tax period. If a du
+ e date falls on a weekend or legal holiday\, the return is due the next bus
+ iness day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 20
+ 27 tax period filing table): "file by the last day of the month following t
+ he month of first use." | Source: https://www.irs.gov/instructions/i2290 | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-04-2027-11-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20271130
+DTEND;VALUE=DATE:20271201
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in October
+  2026 | Form 2290 for a vehicle first used on a public highway during Octob
+ er 2026 is due 2026-11-30\, per the IRS Instructions for Form 2290's month-
+ of-first-use filing table for the July 2026 - June 2027 tax period. If a du
+ e date falls on a weekend or legal holiday\, the return is due the next bus
+ iness day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 20
+ 27 tax period filing table): "file by the last day of the month following t
+ he month of first use." | Source: https://www.irs.gov/instructions/i2290 | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-04-2028-11-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20281130
+DTEND;VALUE=DATE:20281201
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in October
+  2026 | Form 2290 for a vehicle first used on a public highway during Octob
+ er 2026 is due 2026-11-30\, per the IRS Instructions for Form 2290's month-
+ of-first-use filing table for the July 2026 - June 2027 tax period. If a du
+ e date falls on a weekend or legal holiday\, the return is due the next bus
+ iness day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 20
+ 27 tax period filing table): "file by the last day of the month following t
+ he month of first use." | Source: https://www.irs.gov/instructions/i2290 | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-04-2029-11-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20291130
+DTEND;VALUE=DATE:20291201
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in October
+  2026 | Form 2290 for a vehicle first used on a public highway during Octob
+ er 2026 is due 2026-11-30\, per the IRS Instructions for Form 2290's month-
+ of-first-use filing table for the July 2026 - June 2027 tax period. If a du
+ e date falls on a weekend or legal holiday\, the return is due the next bus
+ iness day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 20
+ 27 tax period filing table): "file by the last day of the month following t
+ he month of first use." | Source: https://www.irs.gov/instructions/i2290 | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-04-2030-12-02@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20301202
+DTEND;VALUE=DATE:20301203
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in October
+  2026 | Form 2290 for a vehicle first used on a public highway during Octob
+ er 2026 is due 2026-11-30\, per the IRS Instructions for Form 2290's month-
+ of-first-use filing table for the July 2026 - June 2027 tax period. If a du
+ e date falls on a weekend or legal holiday\, the return is due the next bus
+ iness day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 20
+ 27 tax period filing table): "file by the last day of the month following t
+ he month of first use." | Source: https://www.irs.gov/instructions/i2290 | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-04-2031-12-01@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20311201
+DTEND;VALUE=DATE:20311202
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in October
+  2026 | Form 2290 for a vehicle first used on a public highway during Octob
+ er 2026 is due 2026-11-30\, per the IRS Instructions for Form 2290's month-
+ of-first-use filing table for the July 2026 - June 2027 tax period. If a du
+ e date falls on a weekend or legal holiday\, the return is due the next bus
+ iness day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 20
+ 27 tax period filing table): "file by the last day of the month following t
+ he month of first use." | Source: https://www.irs.gov/instructions/i2290 | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-04-2032-11-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20321130
+DTEND;VALUE=DATE:20321201
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in October
+  2026 | Form 2290 for a vehicle first used on a public highway during Octob
+ er 2026 is due 2026-11-30\, per the IRS Instructions for Form 2290's month-
+ of-first-use filing table for the July 2026 - June 2027 tax period. If a du
+ e date falls on a weekend or legal holiday\, the return is due the next bus
+ iness day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 20
+ 27 tax period filing table): "file by the last day of the month following t
+ he month of first use." | Source: https://www.irs.gov/instructions/i2290 | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-05-2025-12-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in Novembe
+ r 2026 | Form 2290 for a vehicle first used on a public highway during Nove
+ mber 2026 is due 2026-12-31\, per the IRS Instructions for Form 2290's mont
+ h-of-first-use filing table for the July 2026 - June 2027 tax period. If a 
+ due date falls on a weekend or legal holiday\, the return is due the next b
+ usiness day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 
+ 2027 tax period filing table): "file by the last day of the month following
+  the month of first use." | Source: https://www.irs.gov/instructions/i2290 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-05-2026-12-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in Novembe
+ r 2026 | Form 2290 for a vehicle first used on a public highway during Nove
+ mber 2026 is due 2026-12-31\, per the IRS Instructions for Form 2290's mont
+ h-of-first-use filing table for the July 2026 - June 2027 tax period. If a 
+ due date falls on a weekend or legal holiday\, the return is due the next b
+ usiness day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 
+ 2027 tax period filing table): "file by the last day of the month following
+  the month of first use." | Source: https://www.irs.gov/instructions/i2290 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-05-2027-12-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in Novembe
+ r 2026 | Form 2290 for a vehicle first used on a public highway during Nove
+ mber 2026 is due 2026-12-31\, per the IRS Instructions for Form 2290's mont
+ h-of-first-use filing table for the July 2026 - June 2027 tax period. If a 
+ due date falls on a weekend or legal holiday\, the return is due the next b
+ usiness day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 
+ 2027 tax period filing table): "file by the last day of the month following
+  the month of first use." | Source: https://www.irs.gov/instructions/i2290 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-05-2029-01-02@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290102
+DTEND;VALUE=DATE:20290103
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in Novembe
+ r 2026 | Form 2290 for a vehicle first used on a public highway during Nove
+ mber 2026 is due 2026-12-31\, per the IRS Instructions for Form 2290's mont
+ h-of-first-use filing table for the July 2026 - June 2027 tax period. If a 
+ due date falls on a weekend or legal holiday\, the return is due the next b
+ usiness day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 
+ 2027 tax period filing table): "file by the last day of the month following
+  the month of first use." | Source: https://www.irs.gov/instructions/i2290 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-05-2029-12-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20291231
+DTEND;VALUE=DATE:20300101
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in Novembe
+ r 2026 | Form 2290 for a vehicle first used on a public highway during Nove
+ mber 2026 is due 2026-12-31\, per the IRS Instructions for Form 2290's mont
+ h-of-first-use filing table for the July 2026 - June 2027 tax period. If a 
+ due date falls on a weekend or legal holiday\, the return is due the next b
+ usiness day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 
+ 2027 tax period filing table): "file by the last day of the month following
+  the month of first use." | Source: https://www.irs.gov/instructions/i2290 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-05-2030-12-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20301231
+DTEND;VALUE=DATE:20310101
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in Novembe
+ r 2026 | Form 2290 for a vehicle first used on a public highway during Nove
+ mber 2026 is due 2026-12-31\, per the IRS Instructions for Form 2290's mont
+ h-of-first-use filing table for the July 2026 - June 2027 tax period. If a 
+ due date falls on a weekend or legal holiday\, the return is due the next b
+ usiness day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 
+ 2027 tax period filing table): "file by the last day of the month following
+  the month of first use." | Source: https://www.irs.gov/instructions/i2290 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-05-2031-12-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20311231
+DTEND;VALUE=DATE:20320101
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in Novembe
+ r 2026 | Form 2290 for a vehicle first used on a public highway during Nove
+ mber 2026 is due 2026-12-31\, per the IRS Instructions for Form 2290's mont
+ h-of-first-use filing table for the July 2026 - June 2027 tax period. If a 
+ due date falls on a weekend or legal holiday\, the return is due the next b
+ usiness day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 
+ 2027 tax period filing table): "file by the last day of the month following
+  the month of first use." | Source: https://www.irs.gov/instructions/i2290 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-05-2032-12-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20321231
+DTEND;VALUE=DATE:20330101
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in Novembe
+ r 2026 | Form 2290 for a vehicle first used on a public highway during Nove
+ mber 2026 is due 2026-12-31\, per the IRS Instructions for Form 2290's mont
+ h-of-first-use filing table for the July 2026 - June 2027 tax period. If a 
+ due date falls on a weekend or legal holiday\, the return is due the next b
+ usiness day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 
+ 2027 tax period filing table): "file by the last day of the month following
+  the month of first use." | Source: https://www.irs.gov/instructions/i2290 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-06-2025-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250131
+DTEND;VALUE=DATE:20250201
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in Decembe
+ r 2026 | Form 2290 for a vehicle first used on a public highway during Dece
+ mber 2026 is due 2027-02-01\, per the IRS Instructions for Form 2290's mont
+ h-of-first-use filing table for the July 2026 - June 2027 tax period. If a 
+ due date falls on a weekend or legal holiday\, the return is due the next b
+ usiness day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 
+ 2027 tax period filing table): "file by the last day of the month following
+  the month of first use." | Source: https://www.irs.gov/instructions/i2290 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-06-2026-02-02@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260203
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in Decembe
+ r 2026 | Form 2290 for a vehicle first used on a public highway during Dece
+ mber 2026 is due 2027-02-01\, per the IRS Instructions for Form 2290's mont
+ h-of-first-use filing table for the July 2026 - June 2027 tax period. If a 
+ due date falls on a weekend or legal holiday\, the return is due the next b
+ usiness day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 
+ 2027 tax period filing table): "file by the last day of the month following
+  the month of first use." | Source: https://www.irs.gov/instructions/i2290 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-06-2027-02-01@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in Decembe
+ r 2026 | Form 2290 for a vehicle first used on a public highway during Dece
+ mber 2026 is due 2027-02-01\, per the IRS Instructions for Form 2290's mont
+ h-of-first-use filing table for the July 2026 - June 2027 tax period. If a 
+ due date falls on a weekend or legal holiday\, the return is due the next b
+ usiness day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 
+ 2027 tax period filing table): "file by the last day of the month following
+  the month of first use." | Source: https://www.irs.gov/instructions/i2290 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-06-2028-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280131
+DTEND;VALUE=DATE:20280201
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in Decembe
+ r 2026 | Form 2290 for a vehicle first used on a public highway during Dece
+ mber 2026 is due 2027-02-01\, per the IRS Instructions for Form 2290's mont
+ h-of-first-use filing table for the July 2026 - June 2027 tax period. If a 
+ due date falls on a weekend or legal holiday\, the return is due the next b
+ usiness day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 
+ 2027 tax period filing table): "file by the last day of the month following
+  the month of first use." | Source: https://www.irs.gov/instructions/i2290 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-06-2029-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290131
+DTEND;VALUE=DATE:20290201
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in Decembe
+ r 2026 | Form 2290 for a vehicle first used on a public highway during Dece
+ mber 2026 is due 2027-02-01\, per the IRS Instructions for Form 2290's mont
+ h-of-first-use filing table for the July 2026 - June 2027 tax period. If a 
+ due date falls on a weekend or legal holiday\, the return is due the next b
+ usiness day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 
+ 2027 tax period filing table): "file by the last day of the month following
+  the month of first use." | Source: https://www.irs.gov/instructions/i2290 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-06-2030-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300131
+DTEND;VALUE=DATE:20300201
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in Decembe
+ r 2026 | Form 2290 for a vehicle first used on a public highway during Dece
+ mber 2026 is due 2027-02-01\, per the IRS Instructions for Form 2290's mont
+ h-of-first-use filing table for the July 2026 - June 2027 tax period. If a 
+ due date falls on a weekend or legal holiday\, the return is due the next b
+ usiness day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 
+ 2027 tax period filing table): "file by the last day of the month following
+  the month of first use." | Source: https://www.irs.gov/instructions/i2290 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-06-2031-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310131
+DTEND;VALUE=DATE:20310201
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in Decembe
+ r 2026 | Form 2290 for a vehicle first used on a public highway during Dece
+ mber 2026 is due 2027-02-01\, per the IRS Instructions for Form 2290's mont
+ h-of-first-use filing table for the July 2026 - June 2027 tax period. If a 
+ due date falls on a weekend or legal holiday\, the return is due the next b
+ usiness day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 
+ 2027 tax period filing table): "file by the last day of the month following
+  the month of first use." | Source: https://www.irs.gov/instructions/i2290 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-06-2032-02-02@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320202
+DTEND;VALUE=DATE:20320203
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in Decembe
+ r 2026 | Form 2290 for a vehicle first used on a public highway during Dece
+ mber 2026 is due 2027-02-01\, per the IRS Instructions for Form 2290's mont
+ h-of-first-use filing table for the July 2026 - June 2027 tax period. If a 
+ due date falls on a weekend or legal holiday\, the return is due the next b
+ usiness day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 
+ 2027 tax period filing table): "file by the last day of the month following
+  the month of first use." | Source: https://www.irs.gov/instructions/i2290 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-07-2025-02-28@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250228
+DTEND;VALUE=DATE:20250301
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in January
+  2027 | Form 2290 for a vehicle first used on a public highway during Janua
+ ry 2027 is due 2027-03-01\, per the IRS Instructions for Form 2290's month-
+ of-first-use filing table for the July 2026 - June 2027 tax period. If a du
+ e date falls on a weekend or legal holiday\, the return is due the next bus
+ iness day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 20
+ 27 tax period filing table): "file by the last day of the month following t
+ he month of first use." | Source: https://www.irs.gov/instructions/i2290 | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-07-2026-03-02@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260303
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in January
+  2027 | Form 2290 for a vehicle first used on a public highway during Janua
+ ry 2027 is due 2027-03-01\, per the IRS Instructions for Form 2290's month-
+ of-first-use filing table for the July 2026 - June 2027 tax period. If a du
+ e date falls on a weekend or legal holiday\, the return is due the next bus
+ iness day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 20
+ 27 tax period filing table): "file by the last day of the month following t
+ he month of first use." | Source: https://www.irs.gov/instructions/i2290 | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-07-2027-03-01@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in January
+  2027 | Form 2290 for a vehicle first used on a public highway during Janua
+ ry 2027 is due 2027-03-01\, per the IRS Instructions for Form 2290's month-
+ of-first-use filing table for the July 2026 - June 2027 tax period. If a du
+ e date falls on a weekend or legal holiday\, the return is due the next bus
+ iness day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 20
+ 27 tax period filing table): "file by the last day of the month following t
+ he month of first use." | Source: https://www.irs.gov/instructions/i2290 | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-07-2028-02-29@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280229
+DTEND;VALUE=DATE:20280301
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in January
+  2027 | Form 2290 for a vehicle first used on a public highway during Janua
+ ry 2027 is due 2027-03-01\, per the IRS Instructions for Form 2290's month-
+ of-first-use filing table for the July 2026 - June 2027 tax period. If a du
+ e date falls on a weekend or legal holiday\, the return is due the next bus
+ iness day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 20
+ 27 tax period filing table): "file by the last day of the month following t
+ he month of first use." | Source: https://www.irs.gov/instructions/i2290 | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-07-2029-02-28@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290228
+DTEND;VALUE=DATE:20290301
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in January
+  2027 | Form 2290 for a vehicle first used on a public highway during Janua
+ ry 2027 is due 2027-03-01\, per the IRS Instructions for Form 2290's month-
+ of-first-use filing table for the July 2026 - June 2027 tax period. If a du
+ e date falls on a weekend or legal holiday\, the return is due the next bus
+ iness day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 20
+ 27 tax period filing table): "file by the last day of the month following t
+ he month of first use." | Source: https://www.irs.gov/instructions/i2290 | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-07-2030-02-28@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300228
+DTEND;VALUE=DATE:20300301
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in January
+  2027 | Form 2290 for a vehicle first used on a public highway during Janua
+ ry 2027 is due 2027-03-01\, per the IRS Instructions for Form 2290's month-
+ of-first-use filing table for the July 2026 - June 2027 tax period. If a du
+ e date falls on a weekend or legal holiday\, the return is due the next bus
+ iness day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 20
+ 27 tax period filing table): "file by the last day of the month following t
+ he month of first use." | Source: https://www.irs.gov/instructions/i2290 | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-07-2031-02-28@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310228
+DTEND;VALUE=DATE:20310301
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in January
+  2027 | Form 2290 for a vehicle first used on a public highway during Janua
+ ry 2027 is due 2027-03-01\, per the IRS Instructions for Form 2290's month-
+ of-first-use filing table for the July 2026 - June 2027 tax period. If a du
+ e date falls on a weekend or legal holiday\, the return is due the next bus
+ iness day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 20
+ 27 tax period filing table): "file by the last day of the month following t
+ he month of first use." | Source: https://www.irs.gov/instructions/i2290 | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-07-2032-03-01@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320301
+DTEND;VALUE=DATE:20320302
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in January
+  2027 | Form 2290 for a vehicle first used on a public highway during Janua
+ ry 2027 is due 2027-03-01\, per the IRS Instructions for Form 2290's month-
+ of-first-use filing table for the July 2026 - June 2027 tax period. If a du
+ e date falls on a weekend or legal holiday\, the return is due the next bus
+ iness day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 20
+ 27 tax period filing table): "file by the last day of the month following t
+ he month of first use." | Source: https://www.irs.gov/instructions/i2290 | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-08-2025-03-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250401
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in Februar
+ y 2027 | Form 2290 for a vehicle first used on a public highway during Febr
+ uary 2027 is due 2027-03-31\, per the IRS Instructions for Form 2290's mont
+ h-of-first-use filing table for the July 2026 - June 2027 tax period. If a 
+ due date falls on a weekend or legal holiday\, the return is due the next b
+ usiness day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 
+ 2027 tax period filing table): "file by the last day of the month following
+  the month of first use." | Source: https://www.irs.gov/instructions/i2290 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-08-2026-03-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260401
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in Februar
+ y 2027 | Form 2290 for a vehicle first used on a public highway during Febr
+ uary 2027 is due 2027-03-31\, per the IRS Instructions for Form 2290's mont
+ h-of-first-use filing table for the July 2026 - June 2027 tax period. If a 
+ due date falls on a weekend or legal holiday\, the return is due the next b
+ usiness day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 
+ 2027 tax period filing table): "file by the last day of the month following
+  the month of first use." | Source: https://www.irs.gov/instructions/i2290 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-08-2027-03-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in Februar
+ y 2027 | Form 2290 for a vehicle first used on a public highway during Febr
+ uary 2027 is due 2027-03-31\, per the IRS Instructions for Form 2290's mont
+ h-of-first-use filing table for the July 2026 - June 2027 tax period. If a 
+ due date falls on a weekend or legal holiday\, the return is due the next b
+ usiness day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 
+ 2027 tax period filing table): "file by the last day of the month following
+  the month of first use." | Source: https://www.irs.gov/instructions/i2290 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-08-2028-03-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280331
+DTEND;VALUE=DATE:20280401
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in Februar
+ y 2027 | Form 2290 for a vehicle first used on a public highway during Febr
+ uary 2027 is due 2027-03-31\, per the IRS Instructions for Form 2290's mont
+ h-of-first-use filing table for the July 2026 - June 2027 tax period. If a 
+ due date falls on a weekend or legal holiday\, the return is due the next b
+ usiness day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 
+ 2027 tax period filing table): "file by the last day of the month following
+  the month of first use." | Source: https://www.irs.gov/instructions/i2290 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-08-2029-04-02@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290402
+DTEND;VALUE=DATE:20290403
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in Februar
+ y 2027 | Form 2290 for a vehicle first used on a public highway during Febr
+ uary 2027 is due 2027-03-31\, per the IRS Instructions for Form 2290's mont
+ h-of-first-use filing table for the July 2026 - June 2027 tax period. If a 
+ due date falls on a weekend or legal holiday\, the return is due the next b
+ usiness day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 
+ 2027 tax period filing table): "file by the last day of the month following
+  the month of first use." | Source: https://www.irs.gov/instructions/i2290 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-08-2030-04-01@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300401
+DTEND;VALUE=DATE:20300402
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in Februar
+ y 2027 | Form 2290 for a vehicle first used on a public highway during Febr
+ uary 2027 is due 2027-03-31\, per the IRS Instructions for Form 2290's mont
+ h-of-first-use filing table for the July 2026 - June 2027 tax period. If a 
+ due date falls on a weekend or legal holiday\, the return is due the next b
+ usiness day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 
+ 2027 tax period filing table): "file by the last day of the month following
+  the month of first use." | Source: https://www.irs.gov/instructions/i2290 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-08-2031-03-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310331
+DTEND;VALUE=DATE:20310401
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in Februar
+ y 2027 | Form 2290 for a vehicle first used on a public highway during Febr
+ uary 2027 is due 2027-03-31\, per the IRS Instructions for Form 2290's mont
+ h-of-first-use filing table for the July 2026 - June 2027 tax period. If a 
+ due date falls on a weekend or legal holiday\, the return is due the next b
+ usiness day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 
+ 2027 tax period filing table): "file by the last day of the month following
+  the month of first use." | Source: https://www.irs.gov/instructions/i2290 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-08-2032-03-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320331
+DTEND;VALUE=DATE:20320401
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in Februar
+ y 2027 | Form 2290 for a vehicle first used on a public highway during Febr
+ uary 2027 is due 2027-03-31\, per the IRS Instructions for Form 2290's mont
+ h-of-first-use filing table for the July 2026 - June 2027 tax period. If a 
+ due date falls on a weekend or legal holiday\, the return is due the next b
+ usiness day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 
+ 2027 tax period filing table): "file by the last day of the month following
+  the month of first use." | Source: https://www.irs.gov/instructions/i2290 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-09-2025-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250430
+DTEND;VALUE=DATE:20250501
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in March 2
+ 027 | Form 2290 for a vehicle first used on a public highway during March 2
+ 027 is due 2027-04-30\, per the IRS Instructions for Form 2290's month-of-f
+ irst-use filing table for the July 2026 - June 2027 tax period. If a due da
+ te falls on a weekend or legal holiday\, the return is due the next busines
+ s day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027 t
+ ax period filing table): "file by the last day of the month following the m
+ onth of first use." | Source: https://www.irs.gov/instructions/i2290 | This
+  date is computed from a recurrence rule and may not reflect a later-announ
+ ced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-09-2026-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in March 2
+ 027 | Form 2290 for a vehicle first used on a public highway during March 2
+ 027 is due 2027-04-30\, per the IRS Instructions for Form 2290's month-of-f
+ irst-use filing table for the July 2026 - June 2027 tax period. If a due da
+ te falls on a weekend or legal holiday\, the return is due the next busines
+ s day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027 t
+ ax period filing table): "file by the last day of the month following the m
+ onth of first use." | Source: https://www.irs.gov/instructions/i2290 | This
+  date is computed from a recurrence rule and may not reflect a later-announ
+ ced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-09-2027-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in March 2
+ 027 | Form 2290 for a vehicle first used on a public highway during March 2
+ 027 is due 2027-04-30\, per the IRS Instructions for Form 2290's month-of-f
+ irst-use filing table for the July 2026 - June 2027 tax period. If a due da
+ te falls on a weekend or legal holiday\, the return is due the next busines
+ s day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027 t
+ ax period filing table): "file by the last day of the month following the m
+ onth of first use." | Source: https://www.irs.gov/instructions/i2290 | This
+  date is computed from a recurrence rule and may not reflect a later-announ
+ ced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-09-2028-05-01@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280501
+DTEND;VALUE=DATE:20280502
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in March 2
+ 027 | Form 2290 for a vehicle first used on a public highway during March 2
+ 027 is due 2027-04-30\, per the IRS Instructions for Form 2290's month-of-f
+ irst-use filing table for the July 2026 - June 2027 tax period. If a due da
+ te falls on a weekend or legal holiday\, the return is due the next busines
+ s day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027 t
+ ax period filing table): "file by the last day of the month following the m
+ onth of first use." | Source: https://www.irs.gov/instructions/i2290 | This
+  date is computed from a recurrence rule and may not reflect a later-announ
+ ced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-09-2029-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290430
+DTEND;VALUE=DATE:20290501
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in March 2
+ 027 | Form 2290 for a vehicle first used on a public highway during March 2
+ 027 is due 2027-04-30\, per the IRS Instructions for Form 2290's month-of-f
+ irst-use filing table for the July 2026 - June 2027 tax period. If a due da
+ te falls on a weekend or legal holiday\, the return is due the next busines
+ s day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027 t
+ ax period filing table): "file by the last day of the month following the m
+ onth of first use." | Source: https://www.irs.gov/instructions/i2290 | This
+  date is computed from a recurrence rule and may not reflect a later-announ
+ ced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-09-2030-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300430
+DTEND;VALUE=DATE:20300501
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in March 2
+ 027 | Form 2290 for a vehicle first used on a public highway during March 2
+ 027 is due 2027-04-30\, per the IRS Instructions for Form 2290's month-of-f
+ irst-use filing table for the July 2026 - June 2027 tax period. If a due da
+ te falls on a weekend or legal holiday\, the return is due the next busines
+ s day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027 t
+ ax period filing table): "file by the last day of the month following the m
+ onth of first use." | Source: https://www.irs.gov/instructions/i2290 | This
+  date is computed from a recurrence rule and may not reflect a later-announ
+ ced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-09-2031-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310430
+DTEND;VALUE=DATE:20310501
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in March 2
+ 027 | Form 2290 for a vehicle first used on a public highway during March 2
+ 027 is due 2027-04-30\, per the IRS Instructions for Form 2290's month-of-f
+ irst-use filing table for the July 2026 - June 2027 tax period. If a due da
+ te falls on a weekend or legal holiday\, the return is due the next busines
+ s day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027 t
+ ax period filing table): "file by the last day of the month following the m
+ onth of first use." | Source: https://www.irs.gov/instructions/i2290 | This
+  date is computed from a recurrence rule and may not reflect a later-announ
+ ced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-09-2032-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320430
+DTEND;VALUE=DATE:20320501
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in March 2
+ 027 | Form 2290 for a vehicle first used on a public highway during March 2
+ 027 is due 2027-04-30\, per the IRS Instructions for Form 2290's month-of-f
+ irst-use filing table for the July 2026 - June 2027 tax period. If a due da
+ te falls on a weekend or legal holiday\, the return is due the next busines
+ s day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027 t
+ ax period filing table): "file by the last day of the month following the m
+ onth of first use." | Source: https://www.irs.gov/instructions/i2290 | This
+  date is computed from a recurrence rule and may not reflect a later-announ
+ ced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-10-2025-06-02@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250603
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in April 2
+ 027 | Form 2290 for a vehicle first used on a public highway during April 2
+ 027 is due 2027-06-01\, per the IRS Instructions for Form 2290's month-of-f
+ irst-use filing table for the July 2026 - June 2027 tax period. If a due da
+ te falls on a weekend or legal holiday\, the return is due the next busines
+ s day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027 t
+ ax period filing table): "file by the last day of the month following the m
+ onth of first use." | Source: https://www.irs.gov/instructions/i2290 | This
+  date is computed from a recurrence rule and may not reflect a later-announ
+ ced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-10-2026-06-01@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in April 2
+ 027 | Form 2290 for a vehicle first used on a public highway during April 2
+ 027 is due 2027-06-01\, per the IRS Instructions for Form 2290's month-of-f
+ irst-use filing table for the July 2026 - June 2027 tax period. If a due da
+ te falls on a weekend or legal holiday\, the return is due the next busines
+ s day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027 t
+ ax period filing table): "file by the last day of the month following the m
+ onth of first use." | Source: https://www.irs.gov/instructions/i2290 | This
+  date is computed from a recurrence rule and may not reflect a later-announ
+ ced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-10-2027-06-01@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in April 2
+ 027 | Form 2290 for a vehicle first used on a public highway during April 2
+ 027 is due 2027-06-01\, per the IRS Instructions for Form 2290's month-of-f
+ irst-use filing table for the July 2026 - June 2027 tax period. If a due da
+ te falls on a weekend or legal holiday\, the return is due the next busines
+ s day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027 t
+ ax period filing table): "file by the last day of the month following the m
+ onth of first use." | Source: https://www.irs.gov/instructions/i2290 | This
+  date is computed from a recurrence rule and may not reflect a later-announ
+ ced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-10-2028-05-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280531
+DTEND;VALUE=DATE:20280601
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in April 2
+ 027 | Form 2290 for a vehicle first used on a public highway during April 2
+ 027 is due 2027-06-01\, per the IRS Instructions for Form 2290's month-of-f
+ irst-use filing table for the July 2026 - June 2027 tax period. If a due da
+ te falls on a weekend or legal holiday\, the return is due the next busines
+ s day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027 t
+ ax period filing table): "file by the last day of the month following the m
+ onth of first use." | Source: https://www.irs.gov/instructions/i2290 | This
+  date is computed from a recurrence rule and may not reflect a later-announ
+ ced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-10-2029-05-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290531
+DTEND;VALUE=DATE:20290601
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in April 2
+ 027 | Form 2290 for a vehicle first used on a public highway during April 2
+ 027 is due 2027-06-01\, per the IRS Instructions for Form 2290's month-of-f
+ irst-use filing table for the July 2026 - June 2027 tax period. If a due da
+ te falls on a weekend or legal holiday\, the return is due the next busines
+ s day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027 t
+ ax period filing table): "file by the last day of the month following the m
+ onth of first use." | Source: https://www.irs.gov/instructions/i2290 | This
+  date is computed from a recurrence rule and may not reflect a later-announ
+ ced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-10-2030-05-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300531
+DTEND;VALUE=DATE:20300601
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in April 2
+ 027 | Form 2290 for a vehicle first used on a public highway during April 2
+ 027 is due 2027-06-01\, per the IRS Instructions for Form 2290's month-of-f
+ irst-use filing table for the July 2026 - June 2027 tax period. If a due da
+ te falls on a weekend or legal holiday\, the return is due the next busines
+ s day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027 t
+ ax period filing table): "file by the last day of the month following the m
+ onth of first use." | Source: https://www.irs.gov/instructions/i2290 | This
+  date is computed from a recurrence rule and may not reflect a later-announ
+ ced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-10-2031-06-02@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310602
+DTEND;VALUE=DATE:20310603
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in April 2
+ 027 | Form 2290 for a vehicle first used on a public highway during April 2
+ 027 is due 2027-06-01\, per the IRS Instructions for Form 2290's month-of-f
+ irst-use filing table for the July 2026 - June 2027 tax period. If a due da
+ te falls on a weekend or legal holiday\, the return is due the next busines
+ s day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027 t
+ ax period filing table): "file by the last day of the month following the m
+ onth of first use." | Source: https://www.irs.gov/instructions/i2290 | This
+  date is computed from a recurrence rule and may not reflect a later-announ
+ ced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-10-2032-06-01@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320601
+DTEND;VALUE=DATE:20320602
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in April 2
+ 027 | Form 2290 for a vehicle first used on a public highway during April 2
+ 027 is due 2027-06-01\, per the IRS Instructions for Form 2290's month-of-f
+ irst-use filing table for the July 2026 - June 2027 tax period. If a due da
+ te falls on a weekend or legal holiday\, the return is due the next busines
+ s day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027 t
+ ax period filing table): "file by the last day of the month following the m
+ onth of first use." | Source: https://www.irs.gov/instructions/i2290 | This
+  date is computed from a recurrence rule and may not reflect a later-announ
+ ced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-11-2025-06-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250701
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in May 202
+ 7 | Form 2290 for a vehicle first used on a public highway during May 2027 
+ is due 2027-06-30\, per the IRS Instructions for Form 2290's month-of-first
+ -use filing table for the July 2026 - June 2027 tax period. If a due date f
+ alls on a weekend or legal holiday\, the return is due the next business da
+ y. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027 tax p
+ eriod filing table): "file by the last day of the month following the month
+  of first use." | Source: https://www.irs.gov/instructions/i2290 | This dat
+ e is computed from a recurrence rule and may not reflect a later-announced 
+ change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-11-2026-06-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in May 202
+ 7 | Form 2290 for a vehicle first used on a public highway during May 2027 
+ is due 2027-06-30\, per the IRS Instructions for Form 2290's month-of-first
+ -use filing table for the July 2026 - June 2027 tax period. If a due date f
+ alls on a weekend or legal holiday\, the return is due the next business da
+ y. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027 tax p
+ eriod filing table): "file by the last day of the month following the month
+  of first use." | Source: https://www.irs.gov/instructions/i2290 | This dat
+ e is computed from a recurrence rule and may not reflect a later-announced 
+ change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-11-2027-06-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in May 202
+ 7 | Form 2290 for a vehicle first used on a public highway during May 2027 
+ is due 2027-06-30\, per the IRS Instructions for Form 2290's month-of-first
+ -use filing table for the July 2026 - June 2027 tax period. If a due date f
+ alls on a weekend or legal holiday\, the return is due the next business da
+ y. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027 tax p
+ eriod filing table): "file by the last day of the month following the month
+  of first use." | Source: https://www.irs.gov/instructions/i2290 | This dat
+ e is computed from a recurrence rule and may not reflect a later-announced 
+ change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-11-2028-06-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280630
+DTEND;VALUE=DATE:20280701
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in May 202
+ 7 | Form 2290 for a vehicle first used on a public highway during May 2027 
+ is due 2027-06-30\, per the IRS Instructions for Form 2290's month-of-first
+ -use filing table for the July 2026 - June 2027 tax period. If a due date f
+ alls on a weekend or legal holiday\, the return is due the next business da
+ y. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027 tax p
+ eriod filing table): "file by the last day of the month following the month
+  of first use." | Source: https://www.irs.gov/instructions/i2290 | This dat
+ e is computed from a recurrence rule and may not reflect a later-announced 
+ change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-11-2029-07-02@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290702
+DTEND;VALUE=DATE:20290703
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in May 202
+ 7 | Form 2290 for a vehicle first used on a public highway during May 2027 
+ is due 2027-06-30\, per the IRS Instructions for Form 2290's month-of-first
+ -use filing table for the July 2026 - June 2027 tax period. If a due date f
+ alls on a weekend or legal holiday\, the return is due the next business da
+ y. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027 tax p
+ eriod filing table): "file by the last day of the month following the month
+  of first use." | Source: https://www.irs.gov/instructions/i2290 | This dat
+ e is computed from a recurrence rule and may not reflect a later-announced 
+ change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-11-2030-07-01@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300701
+DTEND;VALUE=DATE:20300702
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in May 202
+ 7 | Form 2290 for a vehicle first used on a public highway during May 2027 
+ is due 2027-06-30\, per the IRS Instructions for Form 2290's month-of-first
+ -use filing table for the July 2026 - June 2027 tax period. If a due date f
+ alls on a weekend or legal holiday\, the return is due the next business da
+ y. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027 tax p
+ eriod filing table): "file by the last day of the month following the month
+  of first use." | Source: https://www.irs.gov/instructions/i2290 | This dat
+ e is computed from a recurrence rule and may not reflect a later-announced 
+ change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-11-2031-06-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310630
+DTEND;VALUE=DATE:20310701
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in May 202
+ 7 | Form 2290 for a vehicle first used on a public highway during May 2027 
+ is due 2027-06-30\, per the IRS Instructions for Form 2290's month-of-first
+ -use filing table for the July 2026 - June 2027 tax period. If a due date f
+ alls on a weekend or legal holiday\, the return is due the next business da
+ y. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027 tax p
+ eriod filing table): "file by the last day of the month following the month
+  of first use." | Source: https://www.irs.gov/instructions/i2290 | This dat
+ e is computed from a recurrence rule and may not reflect a later-announced 
+ change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-11-2032-06-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320630
+DTEND;VALUE=DATE:20320701
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in May 202
+ 7 | Form 2290 for a vehicle first used on a public highway during May 2027 
+ is due 2027-06-30\, per the IRS Instructions for Form 2290's month-of-first
+ -use filing table for the July 2026 - June 2027 tax period. If a due date f
+ alls on a weekend or legal holiday\, the return is due the next business da
+ y. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027 tax p
+ eriod filing table): "file by the last day of the month following the month
+  of first use." | Source: https://www.irs.gov/instructions/i2290 | This dat
+ e is computed from a recurrence rule and may not reflect a later-announced 
+ change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-12-2025-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250731
+DTEND;VALUE=DATE:20250801
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in June 20
+ 27 | Form 2290 for a vehicle first used on a public highway during June 202
+ 7 is due 2027-08-02\, per the IRS Instructions for Form 2290's month-of-fir
+ st-use filing table for the July 2026 - June 2027 tax period. If a due date
+  falls on a weekend or legal holiday\, the return is due the next business 
+ day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027 tax
+  period filing table): "file by the last day of the month following the mon
+ th of first use." | Source: https://www.irs.gov/instructions/i2290 | This d
+ ate is computed from a recurrence rule and may not reflect a later-announce
+ d change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-12-2026-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in June 20
+ 27 | Form 2290 for a vehicle first used on a public highway during June 202
+ 7 is due 2027-08-02\, per the IRS Instructions for Form 2290's month-of-fir
+ st-use filing table for the July 2026 - June 2027 tax period. If a due date
+  falls on a weekend or legal holiday\, the return is due the next business 
+ day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027 tax
+  period filing table): "file by the last day of the month following the mon
+ th of first use." | Source: https://www.irs.gov/instructions/i2290 | This d
+ ate is computed from a recurrence rule and may not reflect a later-announce
+ d change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-12-2027-08-02@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in June 20
+ 27 | Form 2290 for a vehicle first used on a public highway during June 202
+ 7 is due 2027-08-02\, per the IRS Instructions for Form 2290's month-of-fir
+ st-use filing table for the July 2026 - June 2027 tax period. If a due date
+  falls on a weekend or legal holiday\, the return is due the next business 
+ day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027 tax
+  period filing table): "file by the last day of the month following the mon
+ th of first use." | Source: https://www.irs.gov/instructions/i2290 | This d
+ ate is computed from a recurrence rule and may not reflect a later-announce
+ d change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-12-2028-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280731
+DTEND;VALUE=DATE:20280801
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in June 20
+ 27 | Form 2290 for a vehicle first used on a public highway during June 202
+ 7 is due 2027-08-02\, per the IRS Instructions for Form 2290's month-of-fir
+ st-use filing table for the July 2026 - June 2027 tax period. If a due date
+  falls on a weekend or legal holiday\, the return is due the next business 
+ day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027 tax
+  period filing table): "file by the last day of the month following the mon
+ th of first use." | Source: https://www.irs.gov/instructions/i2290 | This d
+ ate is computed from a recurrence rule and may not reflect a later-announce
+ d change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-12-2029-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290731
+DTEND;VALUE=DATE:20290801
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in June 20
+ 27 | Form 2290 for a vehicle first used on a public highway during June 202
+ 7 is due 2027-08-02\, per the IRS Instructions for Form 2290's month-of-fir
+ st-use filing table for the July 2026 - June 2027 tax period. If a due date
+  falls on a weekend or legal holiday\, the return is due the next business 
+ day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027 tax
+  period filing table): "file by the last day of the month following the mon
+ th of first use." | Source: https://www.irs.gov/instructions/i2290 | This d
+ ate is computed from a recurrence rule and may not reflect a later-announce
+ d change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-12-2030-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300731
+DTEND;VALUE=DATE:20300801
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in June 20
+ 27 | Form 2290 for a vehicle first used on a public highway during June 202
+ 7 is due 2027-08-02\, per the IRS Instructions for Form 2290's month-of-fir
+ st-use filing table for the July 2026 - June 2027 tax period. If a due date
+  falls on a weekend or legal holiday\, the return is due the next business 
+ day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027 tax
+  period filing table): "file by the last day of the month following the mon
+ th of first use." | Source: https://www.irs.gov/instructions/i2290 | This d
+ ate is computed from a recurrence rule and may not reflect a later-announce
+ d change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-12-2031-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310731
+DTEND;VALUE=DATE:20310801
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in June 20
+ 27 | Form 2290 for a vehicle first used on a public highway during June 202
+ 7 is due 2027-08-02\, per the IRS Instructions for Form 2290's month-of-fir
+ st-use filing table for the July 2026 - June 2027 tax period. If a due date
+  falls on a weekend or legal holiday\, the return is due the next business 
+ day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027 tax
+  period filing table): "file by the last day of the month following the mon
+ th of first use." | Source: https://www.irs.gov/instructions/i2290 | This d
+ ate is computed from a recurrence rule and may not reflect a later-announce
+ d change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-12-2032-08-02@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320802
+DTEND;VALUE=DATE:20320803
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Due by the last day of the month following first use in June 20
+ 27 | Form 2290 for a vehicle first used on a public highway during June 202
+ 7 is due 2027-08-02\, per the IRS Instructions for Form 2290's month-of-fir
+ st-use filing table for the July 2026 - June 2027 tax period. If a due date
+  falls on a weekend or legal holiday\, the return is due the next business 
+ day. | Authority: IRS Instructions for Form 2290 (July 2026 - June 2027 tax
+  period filing table): "file by the last day of the month following the mon
+ th of first use." | Source: https://www.irs.gov/instructions/i2290 | This d
+ ate is computed from a recurrence rule and may not reflect a later-announce
+ d change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-720-q1-2025-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250430
+DTEND;VALUE=DATE:20250501
+SUMMARY:Federal: 720 (Q1) due
+DESCRIPTION:Quarterly return\, last day of month following quarter end | Fi
+ le Form 720 for the first quarter of 2026 and pay the tax due. | Authority:
+  IRS Pub. 509 (2026)\, Excise Tax Calendar\, April 30 | Source: https://www
+ .irs.gov/pub/irs-pdf/p509.pdf | This date is computed from a recurrence rul
+ e and may not reflect a later-announced change\; confirm against the cited 
+ source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-720-q1-2026-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:Federal: 720 (Q1) due
+DESCRIPTION:Quarterly return\, last day of month following quarter end | Fi
+ le Form 720 for the first quarter of 2026 and pay the tax due. | Authority:
+  IRS Pub. 509 (2026)\, Excise Tax Calendar\, April 30 | Source: https://www
+ .irs.gov/pub/irs-pdf/p509.pdf | This date is computed from a recurrence rul
+ e and may not reflect a later-announced change\; confirm against the cited 
+ source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-720-q1-2027-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:Federal: 720 (Q1) due
+DESCRIPTION:Quarterly return\, last day of month following quarter end | Fi
+ le Form 720 for the first quarter of 2026 and pay the tax due. | Authority:
+  IRS Pub. 509 (2026)\, Excise Tax Calendar\, April 30 | Source: https://www
+ .irs.gov/pub/irs-pdf/p509.pdf | This date is computed from a recurrence rul
+ e and may not reflect a later-announced change\; confirm against the cited 
+ source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-720-q1-2028-05-01@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280501
+DTEND;VALUE=DATE:20280502
+SUMMARY:Federal: 720 (Q1) due
+DESCRIPTION:Quarterly return\, last day of month following quarter end | Fi
+ le Form 720 for the first quarter of 2026 and pay the tax due. | Authority:
+  IRS Pub. 509 (2026)\, Excise Tax Calendar\, April 30 | Source: https://www
+ .irs.gov/pub/irs-pdf/p509.pdf | This date is computed from a recurrence rul
+ e and may not reflect a later-announced change\; confirm against the cited 
+ source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-720-q1-2029-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290430
+DTEND;VALUE=DATE:20290501
+SUMMARY:Federal: 720 (Q1) due
+DESCRIPTION:Quarterly return\, last day of month following quarter end | Fi
+ le Form 720 for the first quarter of 2026 and pay the tax due. | Authority:
+  IRS Pub. 509 (2026)\, Excise Tax Calendar\, April 30 | Source: https://www
+ .irs.gov/pub/irs-pdf/p509.pdf | This date is computed from a recurrence rul
+ e and may not reflect a later-announced change\; confirm against the cited 
+ source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-720-q1-2030-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300430
+DTEND;VALUE=DATE:20300501
+SUMMARY:Federal: 720 (Q1) due
+DESCRIPTION:Quarterly return\, last day of month following quarter end | Fi
+ le Form 720 for the first quarter of 2026 and pay the tax due. | Authority:
+  IRS Pub. 509 (2026)\, Excise Tax Calendar\, April 30 | Source: https://www
+ .irs.gov/pub/irs-pdf/p509.pdf | This date is computed from a recurrence rul
+ e and may not reflect a later-announced change\; confirm against the cited 
+ source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-720-q1-2031-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310430
+DTEND;VALUE=DATE:20310501
+SUMMARY:Federal: 720 (Q1) due
+DESCRIPTION:Quarterly return\, last day of month following quarter end | Fi
+ le Form 720 for the first quarter of 2026 and pay the tax due. | Authority:
+  IRS Pub. 509 (2026)\, Excise Tax Calendar\, April 30 | Source: https://www
+ .irs.gov/pub/irs-pdf/p509.pdf | This date is computed from a recurrence rul
+ e and may not reflect a later-announced change\; confirm against the cited 
+ source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-720-q1-2032-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320430
+DTEND;VALUE=DATE:20320501
+SUMMARY:Federal: 720 (Q1) due
+DESCRIPTION:Quarterly return\, last day of month following quarter end | Fi
+ le Form 720 for the first quarter of 2026 and pay the tax due. | Authority:
+  IRS Pub. 509 (2026)\, Excise Tax Calendar\, April 30 | Source: https://www
+ .irs.gov/pub/irs-pdf/p509.pdf | This date is computed from a recurrence rul
+ e and may not reflect a later-announced change\; confirm against the cited 
+ source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-720-q2-2025-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250731
+DTEND;VALUE=DATE:20250801
+SUMMARY:Federal: 720 (Q2) due
+DESCRIPTION:Quarterly return\, last day of month following quarter end | Fi
+ le Form 720 for the second quarter of 2026 and pay the tax due. | Authority
+ : IRS Pub. 509 (2026)\, Excise Tax Calendar\, July 31 | Source: https://www
+ .irs.gov/pub/irs-pdf/p509.pdf | This date is computed from a recurrence rul
+ e and may not reflect a later-announced change\; confirm against the cited 
+ source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-720-q2-2026-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Federal: 720 (Q2) due
+DESCRIPTION:Quarterly return\, last day of month following quarter end | Fi
+ le Form 720 for the second quarter of 2026 and pay the tax due. | Authority
+ : IRS Pub. 509 (2026)\, Excise Tax Calendar\, July 31 | Source: https://www
+ .irs.gov/pub/irs-pdf/p509.pdf | This date is computed from a recurrence rul
+ e and may not reflect a later-announced change\; confirm against the cited 
+ source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-720-q2-2027-08-02@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+SUMMARY:Federal: 720 (Q2) due
+DESCRIPTION:Quarterly return\, last day of month following quarter end | Fi
+ le Form 720 for the second quarter of 2026 and pay the tax due. | Authority
+ : IRS Pub. 509 (2026)\, Excise Tax Calendar\, July 31 | Source: https://www
+ .irs.gov/pub/irs-pdf/p509.pdf | This date is computed from a recurrence rul
+ e and may not reflect a later-announced change\; confirm against the cited 
+ source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-720-q2-2028-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280731
+DTEND;VALUE=DATE:20280801
+SUMMARY:Federal: 720 (Q2) due
+DESCRIPTION:Quarterly return\, last day of month following quarter end | Fi
+ le Form 720 for the second quarter of 2026 and pay the tax due. | Authority
+ : IRS Pub. 509 (2026)\, Excise Tax Calendar\, July 31 | Source: https://www
+ .irs.gov/pub/irs-pdf/p509.pdf | This date is computed from a recurrence rul
+ e and may not reflect a later-announced change\; confirm against the cited 
+ source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-720-q2-2029-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290731
+DTEND;VALUE=DATE:20290801
+SUMMARY:Federal: 720 (Q2) due
+DESCRIPTION:Quarterly return\, last day of month following quarter end | Fi
+ le Form 720 for the second quarter of 2026 and pay the tax due. | Authority
+ : IRS Pub. 509 (2026)\, Excise Tax Calendar\, July 31 | Source: https://www
+ .irs.gov/pub/irs-pdf/p509.pdf | This date is computed from a recurrence rul
+ e and may not reflect a later-announced change\; confirm against the cited 
+ source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-720-q2-2030-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300731
+DTEND;VALUE=DATE:20300801
+SUMMARY:Federal: 720 (Q2) due
+DESCRIPTION:Quarterly return\, last day of month following quarter end | Fi
+ le Form 720 for the second quarter of 2026 and pay the tax due. | Authority
+ : IRS Pub. 509 (2026)\, Excise Tax Calendar\, July 31 | Source: https://www
+ .irs.gov/pub/irs-pdf/p509.pdf | This date is computed from a recurrence rul
+ e and may not reflect a later-announced change\; confirm against the cited 
+ source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-720-q2-2031-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310731
+DTEND;VALUE=DATE:20310801
+SUMMARY:Federal: 720 (Q2) due
+DESCRIPTION:Quarterly return\, last day of month following quarter end | Fi
+ le Form 720 for the second quarter of 2026 and pay the tax due. | Authority
+ : IRS Pub. 509 (2026)\, Excise Tax Calendar\, July 31 | Source: https://www
+ .irs.gov/pub/irs-pdf/p509.pdf | This date is computed from a recurrence rul
+ e and may not reflect a later-announced change\; confirm against the cited 
+ source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-720-q2-2032-08-02@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320802
+DTEND;VALUE=DATE:20320803
+SUMMARY:Federal: 720 (Q2) due
+DESCRIPTION:Quarterly return\, last day of month following quarter end | Fi
+ le Form 720 for the second quarter of 2026 and pay the tax due. | Authority
+ : IRS Pub. 509 (2026)\, Excise Tax Calendar\, July 31 | Source: https://www
+ .irs.gov/pub/irs-pdf/p509.pdf | This date is computed from a recurrence rul
+ e and may not reflect a later-announced change\; confirm against the cited 
+ source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-720-q3-2025-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20251031
+DTEND;VALUE=DATE:20251101
+SUMMARY:Federal: 720 (Q3) due
+DESCRIPTION:Quarterly return\, last day of month following quarter end Corr
+ ection (recurrence-engine rebuild session): this entry's date_2026 was stor
+ ed as October 31\, 2026\, a Saturday\, inconsistent with the same form's Q4
+  entry (and with the well-established IRS next-business-day rule\, Pub. 509
+ \, which every other federal quarterly deadline in this data set already co
+ rrectly reflects). Corrected to the properly shifted November 2\, 2026 (Mon
+ day). | File Form 720 for the third quarter of 2026 and pay the tax due. (Q
+ 4 2026 lands in January 2027\, outside this calendar's current 2026 scope.)
+  Correction (recurrence-engine rebuild session): this entry's date_2026 was
+  stored as October 31\, 2026\, a Saturday\, inconsistent with the same form
+ 's Q4 entry (and with the well-established IRS next-business-day rule\, Pub
+ . 509\, which every other federal quarterly deadline in this data set alrea
+ dy correctly reflects). Corrected to the properly shifted November 2\, 2026
+  (Monday). | Authority: IRS Pub. 509 (2026)\, Excise Tax Calendar\, October
+  31 | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date is compu
+ ted from a recurrence rule and may not reflect a later-announced change\; c
+ onfirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-720-q3-2026-11-02@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Federal: 720 (Q3) due
+DESCRIPTION:Quarterly return\, last day of month following quarter end Corr
+ ection (recurrence-engine rebuild session): this entry's date_2026 was stor
+ ed as October 31\, 2026\, a Saturday\, inconsistent with the same form's Q4
+  entry (and with the well-established IRS next-business-day rule\, Pub. 509
+ \, which every other federal quarterly deadline in this data set already co
+ rrectly reflects). Corrected to the properly shifted November 2\, 2026 (Mon
+ day). | File Form 720 for the third quarter of 2026 and pay the tax due. (Q
+ 4 2026 lands in January 2027\, outside this calendar's current 2026 scope.)
+  Correction (recurrence-engine rebuild session): this entry's date_2026 was
+  stored as October 31\, 2026\, a Saturday\, inconsistent with the same form
+ 's Q4 entry (and with the well-established IRS next-business-day rule\, Pub
+ . 509\, which every other federal quarterly deadline in this data set alrea
+ dy correctly reflects). Corrected to the properly shifted November 2\, 2026
+  (Monday). | Authority: IRS Pub. 509 (2026)\, Excise Tax Calendar\, October
+  31 | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date is compu
+ ted from a recurrence rule and may not reflect a later-announced change\; c
+ onfirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-720-q3-2027-11-01@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271102
+SUMMARY:Federal: 720 (Q3) due
+DESCRIPTION:Quarterly return\, last day of month following quarter end Corr
+ ection (recurrence-engine rebuild session): this entry's date_2026 was stor
+ ed as October 31\, 2026\, a Saturday\, inconsistent with the same form's Q4
+  entry (and with the well-established IRS next-business-day rule\, Pub. 509
+ \, which every other federal quarterly deadline in this data set already co
+ rrectly reflects). Corrected to the properly shifted November 2\, 2026 (Mon
+ day). | File Form 720 for the third quarter of 2026 and pay the tax due. (Q
+ 4 2026 lands in January 2027\, outside this calendar's current 2026 scope.)
+  Correction (recurrence-engine rebuild session): this entry's date_2026 was
+  stored as October 31\, 2026\, a Saturday\, inconsistent with the same form
+ 's Q4 entry (and with the well-established IRS next-business-day rule\, Pub
+ . 509\, which every other federal quarterly deadline in this data set alrea
+ dy correctly reflects). Corrected to the properly shifted November 2\, 2026
+  (Monday). | Authority: IRS Pub. 509 (2026)\, Excise Tax Calendar\, October
+  31 | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date is compu
+ ted from a recurrence rule and may not reflect a later-announced change\; c
+ onfirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-720-q3-2028-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20281031
+DTEND;VALUE=DATE:20281101
+SUMMARY:Federal: 720 (Q3) due
+DESCRIPTION:Quarterly return\, last day of month following quarter end Corr
+ ection (recurrence-engine rebuild session): this entry's date_2026 was stor
+ ed as October 31\, 2026\, a Saturday\, inconsistent with the same form's Q4
+  entry (and with the well-established IRS next-business-day rule\, Pub. 509
+ \, which every other federal quarterly deadline in this data set already co
+ rrectly reflects). Corrected to the properly shifted November 2\, 2026 (Mon
+ day). | File Form 720 for the third quarter of 2026 and pay the tax due. (Q
+ 4 2026 lands in January 2027\, outside this calendar's current 2026 scope.)
+  Correction (recurrence-engine rebuild session): this entry's date_2026 was
+  stored as October 31\, 2026\, a Saturday\, inconsistent with the same form
+ 's Q4 entry (and with the well-established IRS next-business-day rule\, Pub
+ . 509\, which every other federal quarterly deadline in this data set alrea
+ dy correctly reflects). Corrected to the properly shifted November 2\, 2026
+  (Monday). | Authority: IRS Pub. 509 (2026)\, Excise Tax Calendar\, October
+  31 | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date is compu
+ ted from a recurrence rule and may not reflect a later-announced change\; c
+ onfirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-720-q3-2029-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20291031
+DTEND;VALUE=DATE:20291101
+SUMMARY:Federal: 720 (Q3) due
+DESCRIPTION:Quarterly return\, last day of month following quarter end Corr
+ ection (recurrence-engine rebuild session): this entry's date_2026 was stor
+ ed as October 31\, 2026\, a Saturday\, inconsistent with the same form's Q4
+  entry (and with the well-established IRS next-business-day rule\, Pub. 509
+ \, which every other federal quarterly deadline in this data set already co
+ rrectly reflects). Corrected to the properly shifted November 2\, 2026 (Mon
+ day). | File Form 720 for the third quarter of 2026 and pay the tax due. (Q
+ 4 2026 lands in January 2027\, outside this calendar's current 2026 scope.)
+  Correction (recurrence-engine rebuild session): this entry's date_2026 was
+  stored as October 31\, 2026\, a Saturday\, inconsistent with the same form
+ 's Q4 entry (and with the well-established IRS next-business-day rule\, Pub
+ . 509\, which every other federal quarterly deadline in this data set alrea
+ dy correctly reflects). Corrected to the properly shifted November 2\, 2026
+  (Monday). | Authority: IRS Pub. 509 (2026)\, Excise Tax Calendar\, October
+  31 | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date is compu
+ ted from a recurrence rule and may not reflect a later-announced change\; c
+ onfirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-720-q3-2030-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20301031
+DTEND;VALUE=DATE:20301101
+SUMMARY:Federal: 720 (Q3) due
+DESCRIPTION:Quarterly return\, last day of month following quarter end Corr
+ ection (recurrence-engine rebuild session): this entry's date_2026 was stor
+ ed as October 31\, 2026\, a Saturday\, inconsistent with the same form's Q4
+  entry (and with the well-established IRS next-business-day rule\, Pub. 509
+ \, which every other federal quarterly deadline in this data set already co
+ rrectly reflects). Corrected to the properly shifted November 2\, 2026 (Mon
+ day). | File Form 720 for the third quarter of 2026 and pay the tax due. (Q
+ 4 2026 lands in January 2027\, outside this calendar's current 2026 scope.)
+  Correction (recurrence-engine rebuild session): this entry's date_2026 was
+  stored as October 31\, 2026\, a Saturday\, inconsistent with the same form
+ 's Q4 entry (and with the well-established IRS next-business-day rule\, Pub
+ . 509\, which every other federal quarterly deadline in this data set alrea
+ dy correctly reflects). Corrected to the properly shifted November 2\, 2026
+  (Monday). | Authority: IRS Pub. 509 (2026)\, Excise Tax Calendar\, October
+  31 | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date is compu
+ ted from a recurrence rule and may not reflect a later-announced change\; c
+ onfirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-720-q3-2031-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20311031
+DTEND;VALUE=DATE:20311101
+SUMMARY:Federal: 720 (Q3) due
+DESCRIPTION:Quarterly return\, last day of month following quarter end Corr
+ ection (recurrence-engine rebuild session): this entry's date_2026 was stor
+ ed as October 31\, 2026\, a Saturday\, inconsistent with the same form's Q4
+  entry (and with the well-established IRS next-business-day rule\, Pub. 509
+ \, which every other federal quarterly deadline in this data set already co
+ rrectly reflects). Corrected to the properly shifted November 2\, 2026 (Mon
+ day). | File Form 720 for the third quarter of 2026 and pay the tax due. (Q
+ 4 2026 lands in January 2027\, outside this calendar's current 2026 scope.)
+  Correction (recurrence-engine rebuild session): this entry's date_2026 was
+  stored as October 31\, 2026\, a Saturday\, inconsistent with the same form
+ 's Q4 entry (and with the well-established IRS next-business-day rule\, Pub
+ . 509\, which every other federal quarterly deadline in this data set alrea
+ dy correctly reflects). Corrected to the properly shifted November 2\, 2026
+  (Monday). | Authority: IRS Pub. 509 (2026)\, Excise Tax Calendar\, October
+  31 | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date is compu
+ ted from a recurrence rule and may not reflect a later-announced change\; c
+ onfirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-720-q3-2032-11-01@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20321101
+DTEND;VALUE=DATE:20321102
+SUMMARY:Federal: 720 (Q3) due
+DESCRIPTION:Quarterly return\, last day of month following quarter end Corr
+ ection (recurrence-engine rebuild session): this entry's date_2026 was stor
+ ed as October 31\, 2026\, a Saturday\, inconsistent with the same form's Q4
+  entry (and with the well-established IRS next-business-day rule\, Pub. 509
+ \, which every other federal quarterly deadline in this data set already co
+ rrectly reflects). Corrected to the properly shifted November 2\, 2026 (Mon
+ day). | File Form 720 for the third quarter of 2026 and pay the tax due. (Q
+ 4 2026 lands in January 2027\, outside this calendar's current 2026 scope.)
+  Correction (recurrence-engine rebuild session): this entry's date_2026 was
+  stored as October 31\, 2026\, a Saturday\, inconsistent with the same form
+ 's Q4 entry (and with the well-established IRS next-business-day rule\, Pub
+ . 509\, which every other federal quarterly deadline in this data set alrea
+ dy correctly reflects). Corrected to the properly shifted November 2\, 2026
+  (Monday). | Authority: IRS Pub. 509 (2026)\, Excise Tax Calendar\, October
+  31 | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date is compu
+ ted from a recurrence rule and may not reflect a later-announced change\; c
+ onfirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-2025-09-02@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250902
+DTEND;VALUE=DATE:20250903
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Standard annual filing for vehicles first used in July (the sta
+ rt of the tax period) | File Form 2290 and pay the tax for vehicles first u
+ sed on the road in July 2026 (the standard full tax-period case). Vehicles 
+ first used in other months follow their own last-day-of-following-month due
+  date under Pub. 509's monthly table\, not yet fully built into this calend
+ ar. | Authority: IRS Pub. 509 (2026)\, Excise Tax Calendar (Instructions fo
+ r Form 2290) | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-2026-08-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Standard annual filing for vehicles first used in July (the sta
+ rt of the tax period) | File Form 2290 and pay the tax for vehicles first u
+ sed on the road in July 2026 (the standard full tax-period case). Vehicles 
+ first used in other months follow their own last-day-of-following-month due
+  date under Pub. 509's monthly table\, not yet fully built into this calend
+ ar. | Authority: IRS Pub. 509 (2026)\, Excise Tax Calendar (Instructions fo
+ r Form 2290) | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-2027-08-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Standard annual filing for vehicles first used in July (the sta
+ rt of the tax period) | File Form 2290 and pay the tax for vehicles first u
+ sed on the road in July 2026 (the standard full tax-period case). Vehicles 
+ first used in other months follow their own last-day-of-following-month due
+  date under Pub. 509's monthly table\, not yet fully built into this calend
+ ar. | Authority: IRS Pub. 509 (2026)\, Excise Tax Calendar (Instructions fo
+ r Form 2290) | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-2028-08-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280831
+DTEND;VALUE=DATE:20280901
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Standard annual filing for vehicles first used in July (the sta
+ rt of the tax period) | File Form 2290 and pay the tax for vehicles first u
+ sed on the road in July 2026 (the standard full tax-period case). Vehicles 
+ first used in other months follow their own last-day-of-following-month due
+  date under Pub. 509's monthly table\, not yet fully built into this calend
+ ar. | Authority: IRS Pub. 509 (2026)\, Excise Tax Calendar (Instructions fo
+ r Form 2290) | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-2029-08-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290831
+DTEND;VALUE=DATE:20290901
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Standard annual filing for vehicles first used in July (the sta
+ rt of the tax period) | File Form 2290 and pay the tax for vehicles first u
+ sed on the road in July 2026 (the standard full tax-period case). Vehicles 
+ first used in other months follow their own last-day-of-following-month due
+  date under Pub. 509's monthly table\, not yet fully built into this calend
+ ar. | Authority: IRS Pub. 509 (2026)\, Excise Tax Calendar (Instructions fo
+ r Form 2290) | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-2030-09-03@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300903
+DTEND;VALUE=DATE:20300904
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Standard annual filing for vehicles first used in July (the sta
+ rt of the tax period) | File Form 2290 and pay the tax for vehicles first u
+ sed on the road in July 2026 (the standard full tax-period case). Vehicles 
+ first used in other months follow their own last-day-of-following-month due
+  date under Pub. 509's monthly table\, not yet fully built into this calend
+ ar. | Authority: IRS Pub. 509 (2026)\, Excise Tax Calendar (Instructions fo
+ r Form 2290) | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-2031-09-02@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310902
+DTEND;VALUE=DATE:20310903
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Standard annual filing for vehicles first used in July (the sta
+ rt of the tax period) | File Form 2290 and pay the tax for vehicles first u
+ sed on the road in July 2026 (the standard full tax-period case). Vehicles 
+ first used in other months follow their own last-day-of-following-month due
+  date under Pub. 509's monthly table\, not yet fully built into this calend
+ ar. | Authority: IRS Pub. 509 (2026)\, Excise Tax Calendar (Instructions fo
+ r Form 2290) | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-2290-2032-08-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320831
+DTEND;VALUE=DATE:20320901
+SUMMARY:Federal: 2290 due
+DESCRIPTION:Standard annual filing for vehicles first used in July (the sta
+ rt of the tax period) | File Form 2290 and pay the tax for vehicles first u
+ sed on the road in July 2026 (the standard full tax-period case). Vehicles 
+ first used in other months follow their own last-day-of-following-month due
+  date under Pub. 509's monthly table\, not yet fully built into this calend
+ ar. | Authority: IRS Pub. 509 (2026)\, Excise Tax Calendar (Instructions fo
+ r Form 2290) | Source: https://www.irs.gov/pub/irs-pdf/p509.pdf | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

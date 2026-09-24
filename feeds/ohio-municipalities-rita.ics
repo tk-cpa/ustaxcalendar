@@ -1,0 +1,139 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tk.cpa//US Tax Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:US Tax Calendar - Ohio Municipalities (RITA)
+X-WR-CALDESC:Recurring US tax filing deadlines from ustaxcalendar.com (a tk
+ .cpa resource). Reference only\, not tax advice.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:city-ohio-rita-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:Ohio Municipalities (RITA): RITA Form 37 due
+DESCRIPTION:Annual return for the prior calendar year | File the 2025 RITA 
+ Form 37 by April 15\, 2026 (postmark deadline for paper filers)\, covering 
+ individual income tax for RITA member municipalities across Ohio. | Authori
+ ty: Direct fetch of the 2025 Form 37 Instructions PDF from ritaohio.com thi
+ s session | Source: https://www.ritaohio.com/Media/703126/2025%20FORM%2037%
+ 20INSTRUCTIONS.pdf | This date is computed from a recurrence rule and may n
+ ot reflect a later-announced change\; confirm against the cited source befo
+ re relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-ohio-rita-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:Ohio Municipalities (RITA): RITA Form 37 due
+DESCRIPTION:Annual return for the prior calendar year | File the 2025 RITA 
+ Form 37 by April 15\, 2026 (postmark deadline for paper filers)\, covering 
+ individual income tax for RITA member municipalities across Ohio. | Authori
+ ty: Direct fetch of the 2025 Form 37 Instructions PDF from ritaohio.com thi
+ s session | Source: https://www.ritaohio.com/Media/703126/2025%20FORM%2037%
+ 20INSTRUCTIONS.pdf | This date is computed from a recurrence rule and may n
+ ot reflect a later-announced change\; confirm against the cited source befo
+ re relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-ohio-rita-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Ohio Municipalities (RITA): RITA Form 37 due
+DESCRIPTION:Annual return for the prior calendar year | File the 2025 RITA 
+ Form 37 by April 15\, 2026 (postmark deadline for paper filers)\, covering 
+ individual income tax for RITA member municipalities across Ohio. | Authori
+ ty: Direct fetch of the 2025 Form 37 Instructions PDF from ritaohio.com thi
+ s session | Source: https://www.ritaohio.com/Media/703126/2025%20FORM%2037%
+ 20INSTRUCTIONS.pdf | This date is computed from a recurrence rule and may n
+ ot reflect a later-announced change\; confirm against the cited source befo
+ re relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-ohio-rita-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Ohio Municipalities (RITA): RITA Form 37 due
+DESCRIPTION:Annual return for the prior calendar year | File the 2025 RITA 
+ Form 37 by April 15\, 2026 (postmark deadline for paper filers)\, covering 
+ individual income tax for RITA member municipalities across Ohio. | Authori
+ ty: Direct fetch of the 2025 Form 37 Instructions PDF from ritaohio.com thi
+ s session | Source: https://www.ritaohio.com/Media/703126/2025%20FORM%2037%
+ 20INSTRUCTIONS.pdf | This date is computed from a recurrence rule and may n
+ ot reflect a later-announced change\; confirm against the cited source befo
+ re relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-ohio-rita-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:Ohio Municipalities (RITA): RITA Form 37 due
+DESCRIPTION:Annual return for the prior calendar year | File the 2025 RITA 
+ Form 37 by April 15\, 2026 (postmark deadline for paper filers)\, covering 
+ individual income tax for RITA member municipalities across Ohio. | Authori
+ ty: Direct fetch of the 2025 Form 37 Instructions PDF from ritaohio.com thi
+ s session | Source: https://www.ritaohio.com/Media/703126/2025%20FORM%2037%
+ 20INSTRUCTIONS.pdf | This date is computed from a recurrence rule and may n
+ ot reflect a later-announced change\; confirm against the cited source befo
+ re relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-ohio-rita-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:Ohio Municipalities (RITA): RITA Form 37 due
+DESCRIPTION:Annual return for the prior calendar year | File the 2025 RITA 
+ Form 37 by April 15\, 2026 (postmark deadline for paper filers)\, covering 
+ individual income tax for RITA member municipalities across Ohio. | Authori
+ ty: Direct fetch of the 2025 Form 37 Instructions PDF from ritaohio.com thi
+ s session | Source: https://www.ritaohio.com/Media/703126/2025%20FORM%2037%
+ 20INSTRUCTIONS.pdf | This date is computed from a recurrence rule and may n
+ ot reflect a later-announced change\; confirm against the cited source befo
+ re relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-ohio-rita-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:Ohio Municipalities (RITA): RITA Form 37 due
+DESCRIPTION:Annual return for the prior calendar year | File the 2025 RITA 
+ Form 37 by April 15\, 2026 (postmark deadline for paper filers)\, covering 
+ individual income tax for RITA member municipalities across Ohio. | Authori
+ ty: Direct fetch of the 2025 Form 37 Instructions PDF from ritaohio.com thi
+ s session | Source: https://www.ritaohio.com/Media/703126/2025%20FORM%2037%
+ 20INSTRUCTIONS.pdf | This date is computed from a recurrence rule and may n
+ ot reflect a later-announced change\; confirm against the cited source befo
+ re relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-ohio-rita-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:Ohio Municipalities (RITA): RITA Form 37 due
+DESCRIPTION:Annual return for the prior calendar year | File the 2025 RITA 
+ Form 37 by April 15\, 2026 (postmark deadline for paper filers)\, covering 
+ individual income tax for RITA member municipalities across Ohio. | Authori
+ ty: Direct fetch of the 2025 Form 37 Instructions PDF from ritaohio.com thi
+ s session | Source: https://www.ritaohio.com/Media/703126/2025%20FORM%2037%
+ 20INSTRUCTIONS.pdf | This date is computed from a recurrence rule and may n
+ ot reflect a later-announced change\; confirm against the cited source befo
+ re relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

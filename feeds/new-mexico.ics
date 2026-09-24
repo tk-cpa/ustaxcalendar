@@ -1,0 +1,2259 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tk.cpa//US Tax Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:US Tax Calendar - New Mexico
+X-WR-CALDESC:Recurring US tax filing deadlines from ustaxcalendar.com (a tk
+ .cpa resource). Reference only\, not tax advice.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:state-corp-new-mexico-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:New Mexico: State corporate income/franchise tax return due
+DESCRIPTION:Due 15th day of 4th month after year end\; New Mexico automatic
+ ally honors a federal 6-month extension with no separate state application 
+ needed. | Due 15th day of 4th month after year end\; New Mexico automatical
+ ly honors a federal 6-month extension with no separate state application ne
+ eded. | Authority: Direct fetch of New Mexico's own tax agency site/publica
+ tion this session | Source: https://www.tax.newmexico.gov/businesses/corpor
+ ate-income-franchise-tax-overview/filing-requirements/ | This date is compu
+ ted from a recurrence rule and may not reflect a later-announced change\; c
+ onfirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-new-mexico-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:New Mexico: State corporate income/franchise tax return due
+DESCRIPTION:Due 15th day of 4th month after year end\; New Mexico automatic
+ ally honors a federal 6-month extension with no separate state application 
+ needed. | Due 15th day of 4th month after year end\; New Mexico automatical
+ ly honors a federal 6-month extension with no separate state application ne
+ eded. | Authority: Direct fetch of New Mexico's own tax agency site/publica
+ tion this session | Source: https://www.tax.newmexico.gov/businesses/corpor
+ ate-income-franchise-tax-overview/filing-requirements/ | This date is compu
+ ted from a recurrence rule and may not reflect a later-announced change\; c
+ onfirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-new-mexico-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:New Mexico: State corporate income/franchise tax return due
+DESCRIPTION:Due 15th day of 4th month after year end\; New Mexico automatic
+ ally honors a federal 6-month extension with no separate state application 
+ needed. | Due 15th day of 4th month after year end\; New Mexico automatical
+ ly honors a federal 6-month extension with no separate state application ne
+ eded. | Authority: Direct fetch of New Mexico's own tax agency site/publica
+ tion this session | Source: https://www.tax.newmexico.gov/businesses/corpor
+ ate-income-franchise-tax-overview/filing-requirements/ | This date is compu
+ ted from a recurrence rule and may not reflect a later-announced change\; c
+ onfirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-new-mexico-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:New Mexico: State corporate income/franchise tax return due
+DESCRIPTION:Due 15th day of 4th month after year end\; New Mexico automatic
+ ally honors a federal 6-month extension with no separate state application 
+ needed. | Due 15th day of 4th month after year end\; New Mexico automatical
+ ly honors a federal 6-month extension with no separate state application ne
+ eded. | Authority: Direct fetch of New Mexico's own tax agency site/publica
+ tion this session | Source: https://www.tax.newmexico.gov/businesses/corpor
+ ate-income-franchise-tax-overview/filing-requirements/ | This date is compu
+ ted from a recurrence rule and may not reflect a later-announced change\; c
+ onfirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-new-mexico-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:New Mexico: State corporate income/franchise tax return due
+DESCRIPTION:Due 15th day of 4th month after year end\; New Mexico automatic
+ ally honors a federal 6-month extension with no separate state application 
+ needed. | Due 15th day of 4th month after year end\; New Mexico automatical
+ ly honors a federal 6-month extension with no separate state application ne
+ eded. | Authority: Direct fetch of New Mexico's own tax agency site/publica
+ tion this session | Source: https://www.tax.newmexico.gov/businesses/corpor
+ ate-income-franchise-tax-overview/filing-requirements/ | This date is compu
+ ted from a recurrence rule and may not reflect a later-announced change\; c
+ onfirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-new-mexico-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:New Mexico: State corporate income/franchise tax return due
+DESCRIPTION:Due 15th day of 4th month after year end\; New Mexico automatic
+ ally honors a federal 6-month extension with no separate state application 
+ needed. | Due 15th day of 4th month after year end\; New Mexico automatical
+ ly honors a federal 6-month extension with no separate state application ne
+ eded. | Authority: Direct fetch of New Mexico's own tax agency site/publica
+ tion this session | Source: https://www.tax.newmexico.gov/businesses/corpor
+ ate-income-franchise-tax-overview/filing-requirements/ | This date is compu
+ ted from a recurrence rule and may not reflect a later-announced change\; c
+ onfirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-new-mexico-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:New Mexico: State corporate income/franchise tax return due
+DESCRIPTION:Due 15th day of 4th month after year end\; New Mexico automatic
+ ally honors a federal 6-month extension with no separate state application 
+ needed. | Due 15th day of 4th month after year end\; New Mexico automatical
+ ly honors a federal 6-month extension with no separate state application ne
+ eded. | Authority: Direct fetch of New Mexico's own tax agency site/publica
+ tion this session | Source: https://www.tax.newmexico.gov/businesses/corpor
+ ate-income-franchise-tax-overview/filing-requirements/ | This date is compu
+ ted from a recurrence rule and may not reflect a later-announced change\; c
+ onfirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-new-mexico-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:New Mexico: State corporate income/franchise tax return due
+DESCRIPTION:Due 15th day of 4th month after year end\; New Mexico automatic
+ ally honors a federal 6-month extension with no separate state application 
+ needed. | Due 15th day of 4th month after year end\; New Mexico automatical
+ ly honors a federal 6-month extension with no separate state application ne
+ eded. | Authority: Direct fetch of New Mexico's own tax agency site/publica
+ tion this session | Source: https://www.tax.newmexico.gov/businesses/corpor
+ ate-income-franchise-tax-overview/filing-requirements/ | This date is compu
+ ted from a recurrence rule and may not reflect a later-announced change\; c
+ onfirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-mexico-q1-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:New Mexico: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q1 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of New Mexico's own tax agency site/instr
+ uctions this session | Source: https://www.tax.newmexico.gov/individuals/fi
+ le-your-taxes-overview/estimated-payments/ | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-mexico-q1-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:New Mexico: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q1 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of New Mexico's own tax agency site/instr
+ uctions this session | Source: https://www.tax.newmexico.gov/individuals/fi
+ le-your-taxes-overview/estimated-payments/ | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-mexico-q1-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:New Mexico: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q1 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of New Mexico's own tax agency site/instr
+ uctions this session | Source: https://www.tax.newmexico.gov/individuals/fi
+ le-your-taxes-overview/estimated-payments/ | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-mexico-q1-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:New Mexico: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q1 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of New Mexico's own tax agency site/instr
+ uctions this session | Source: https://www.tax.newmexico.gov/individuals/fi
+ le-your-taxes-overview/estimated-payments/ | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-mexico-q1-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:New Mexico: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q1 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of New Mexico's own tax agency site/instr
+ uctions this session | Source: https://www.tax.newmexico.gov/individuals/fi
+ le-your-taxes-overview/estimated-payments/ | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-mexico-q1-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:New Mexico: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q1 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of New Mexico's own tax agency site/instr
+ uctions this session | Source: https://www.tax.newmexico.gov/individuals/fi
+ le-your-taxes-overview/estimated-payments/ | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-mexico-q1-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:New Mexico: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q1 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of New Mexico's own tax agency site/instr
+ uctions this session | Source: https://www.tax.newmexico.gov/individuals/fi
+ le-your-taxes-overview/estimated-payments/ | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-mexico-q1-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:New Mexico: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q1 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of New Mexico's own tax agency site/instr
+ uctions this session | Source: https://www.tax.newmexico.gov/individuals/fi
+ le-your-taxes-overview/estimated-payments/ | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-mexico-q2-2025-06-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250617
+SUMMARY:New Mexico: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q2 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of New Mexico's own tax agency site/instr
+ uctions this session | Source: https://www.tax.newmexico.gov/individuals/fi
+ le-your-taxes-overview/estimated-payments/ | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-mexico-q2-2026-06-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:New Mexico: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q2 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of New Mexico's own tax agency site/instr
+ uctions this session | Source: https://www.tax.newmexico.gov/individuals/fi
+ le-your-taxes-overview/estimated-payments/ | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-mexico-q2-2027-06-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:New Mexico: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q2 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of New Mexico's own tax agency site/instr
+ uctions this session | Source: https://www.tax.newmexico.gov/individuals/fi
+ le-your-taxes-overview/estimated-payments/ | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-mexico-q2-2028-06-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280615
+DTEND;VALUE=DATE:20280616
+SUMMARY:New Mexico: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q2 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of New Mexico's own tax agency site/instr
+ uctions this session | Source: https://www.tax.newmexico.gov/individuals/fi
+ le-your-taxes-overview/estimated-payments/ | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-mexico-q2-2029-06-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290615
+DTEND;VALUE=DATE:20290616
+SUMMARY:New Mexico: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q2 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of New Mexico's own tax agency site/instr
+ uctions this session | Source: https://www.tax.newmexico.gov/individuals/fi
+ le-your-taxes-overview/estimated-payments/ | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-mexico-q2-2030-06-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300617
+DTEND;VALUE=DATE:20300618
+SUMMARY:New Mexico: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q2 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of New Mexico's own tax agency site/instr
+ uctions this session | Source: https://www.tax.newmexico.gov/individuals/fi
+ le-your-taxes-overview/estimated-payments/ | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-mexico-q2-2031-06-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310616
+DTEND;VALUE=DATE:20310617
+SUMMARY:New Mexico: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q2 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of New Mexico's own tax agency site/instr
+ uctions this session | Source: https://www.tax.newmexico.gov/individuals/fi
+ le-your-taxes-overview/estimated-payments/ | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-mexico-q2-2032-06-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320615
+DTEND;VALUE=DATE:20320616
+SUMMARY:New Mexico: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q2 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of New Mexico's own tax agency site/instr
+ uctions this session | Source: https://www.tax.newmexico.gov/individuals/fi
+ le-your-taxes-overview/estimated-payments/ | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-mexico-q3-2025-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20250916
+SUMMARY:New Mexico: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q3 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of New Mexico's own tax agency site/instr
+ uctions this session | Source: https://www.tax.newmexico.gov/individuals/fi
+ le-your-taxes-overview/estimated-payments/ | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-mexico-q3-2026-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:New Mexico: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q3 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of New Mexico's own tax agency site/instr
+ uctions this session | Source: https://www.tax.newmexico.gov/individuals/fi
+ le-your-taxes-overview/estimated-payments/ | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-mexico-q3-2027-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:New Mexico: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q3 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of New Mexico's own tax agency site/instr
+ uctions this session | Source: https://www.tax.newmexico.gov/individuals/fi
+ le-your-taxes-overview/estimated-payments/ | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-mexico-q3-2028-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280915
+DTEND;VALUE=DATE:20280916
+SUMMARY:New Mexico: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q3 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of New Mexico's own tax agency site/instr
+ uctions this session | Source: https://www.tax.newmexico.gov/individuals/fi
+ le-your-taxes-overview/estimated-payments/ | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-mexico-q3-2029-09-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290917
+DTEND;VALUE=DATE:20290918
+SUMMARY:New Mexico: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q3 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of New Mexico's own tax agency site/instr
+ uctions this session | Source: https://www.tax.newmexico.gov/individuals/fi
+ le-your-taxes-overview/estimated-payments/ | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-mexico-q3-2030-09-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300916
+DTEND;VALUE=DATE:20300917
+SUMMARY:New Mexico: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q3 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of New Mexico's own tax agency site/instr
+ uctions this session | Source: https://www.tax.newmexico.gov/individuals/fi
+ le-your-taxes-overview/estimated-payments/ | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-mexico-q3-2031-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310915
+DTEND;VALUE=DATE:20310916
+SUMMARY:New Mexico: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q3 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of New Mexico's own tax agency site/instr
+ uctions this session | Source: https://www.tax.newmexico.gov/individuals/fi
+ le-your-taxes-overview/estimated-payments/ | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-mexico-q3-2032-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320915
+DTEND;VALUE=DATE:20320916
+SUMMARY:New Mexico: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q3 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of New Mexico's own tax agency site/instr
+ uctions this session | Source: https://www.tax.newmexico.gov/individuals/fi
+ le-your-taxes-overview/estimated-payments/ | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-mexico-q4-2025-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250115
+DTEND;VALUE=DATE:20250116
+SUMMARY:New Mexico: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q4 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of New Mexico's own tax agency site/instr
+ uctions this session | Source: https://www.tax.newmexico.gov/individuals/fi
+ le-your-taxes-overview/estimated-payments/ | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-mexico-q4-2026-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260116
+SUMMARY:New Mexico: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q4 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of New Mexico's own tax agency site/instr
+ uctions this session | Source: https://www.tax.newmexico.gov/individuals/fi
+ le-your-taxes-overview/estimated-payments/ | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-mexico-q4-2027-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:New Mexico: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q4 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of New Mexico's own tax agency site/instr
+ uctions this session | Source: https://www.tax.newmexico.gov/individuals/fi
+ le-your-taxes-overview/estimated-payments/ | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-mexico-q4-2028-01-18@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280118
+DTEND;VALUE=DATE:20280119
+SUMMARY:New Mexico: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q4 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of New Mexico's own tax agency site/instr
+ uctions this session | Source: https://www.tax.newmexico.gov/individuals/fi
+ le-your-taxes-overview/estimated-payments/ | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-mexico-q4-2029-01-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290116
+DTEND;VALUE=DATE:20290117
+SUMMARY:New Mexico: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q4 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of New Mexico's own tax agency site/instr
+ uctions this session | Source: https://www.tax.newmexico.gov/individuals/fi
+ le-your-taxes-overview/estimated-payments/ | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-mexico-q4-2030-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300115
+DTEND;VALUE=DATE:20300116
+SUMMARY:New Mexico: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q4 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of New Mexico's own tax agency site/instr
+ uctions this session | Source: https://www.tax.newmexico.gov/individuals/fi
+ le-your-taxes-overview/estimated-payments/ | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-mexico-q4-2031-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310115
+DTEND;VALUE=DATE:20310116
+SUMMARY:New Mexico: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q4 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of New Mexico's own tax agency site/instr
+ uctions this session | Source: https://www.tax.newmexico.gov/individuals/fi
+ le-your-taxes-overview/estimated-payments/ | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-mexico-q4-2032-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320115
+DTEND;VALUE=DATE:20320116
+SUMMARY:New Mexico: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, June 15\, September 15\, January 15. | Q4 2026 state
+  individual estimated tax payment. April 15\, June 15\, September 15\, Janu
+ ary 15. | Authority: Direct fetch of New Mexico's own tax agency site/instr
+ uctions this session | Source: https://www.tax.newmexico.gov/individuals/fi
+ le-your-taxes-overview/estimated-payments/ | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-nm-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:New Mexico: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Automatic-extension date not confirmed 
+ this session. | Authority: Direct fetch of https://www.tax.newmexico.gov/wp
+ -content/uploads/2026/03/20260315_Reminder-Income-tax-returns-due-April-15.
+ pdf this session | Source: https://www.tax.newmexico.gov/wp-content/uploads
+ /2026/03/20260315_Reminder-Income-tax-returns-due-April-15.pdf | This date 
+ is computed from a recurrence rule and may not reflect a later-announced ch
+ ange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-nm-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:New Mexico: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Automatic-extension date not confirmed 
+ this session. | Authority: Direct fetch of https://www.tax.newmexico.gov/wp
+ -content/uploads/2026/03/20260315_Reminder-Income-tax-returns-due-April-15.
+ pdf this session | Source: https://www.tax.newmexico.gov/wp-content/uploads
+ /2026/03/20260315_Reminder-Income-tax-returns-due-April-15.pdf | This date 
+ is computed from a recurrence rule and may not reflect a later-announced ch
+ ange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-nm-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:New Mexico: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Automatic-extension date not confirmed 
+ this session. | Authority: Direct fetch of https://www.tax.newmexico.gov/wp
+ -content/uploads/2026/03/20260315_Reminder-Income-tax-returns-due-April-15.
+ pdf this session | Source: https://www.tax.newmexico.gov/wp-content/uploads
+ /2026/03/20260315_Reminder-Income-tax-returns-due-April-15.pdf | This date 
+ is computed from a recurrence rule and may not reflect a later-announced ch
+ ange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-nm-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:New Mexico: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Automatic-extension date not confirmed 
+ this session. | Authority: Direct fetch of https://www.tax.newmexico.gov/wp
+ -content/uploads/2026/03/20260315_Reminder-Income-tax-returns-due-April-15.
+ pdf this session | Source: https://www.tax.newmexico.gov/wp-content/uploads
+ /2026/03/20260315_Reminder-Income-tax-returns-due-April-15.pdf | This date 
+ is computed from a recurrence rule and may not reflect a later-announced ch
+ ange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-nm-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:New Mexico: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Automatic-extension date not confirmed 
+ this session. | Authority: Direct fetch of https://www.tax.newmexico.gov/wp
+ -content/uploads/2026/03/20260315_Reminder-Income-tax-returns-due-April-15.
+ pdf this session | Source: https://www.tax.newmexico.gov/wp-content/uploads
+ /2026/03/20260315_Reminder-Income-tax-returns-due-April-15.pdf | This date 
+ is computed from a recurrence rule and may not reflect a later-announced ch
+ ange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-nm-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:New Mexico: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Automatic-extension date not confirmed 
+ this session. | Authority: Direct fetch of https://www.tax.newmexico.gov/wp
+ -content/uploads/2026/03/20260315_Reminder-Income-tax-returns-due-April-15.
+ pdf this session | Source: https://www.tax.newmexico.gov/wp-content/uploads
+ /2026/03/20260315_Reminder-Income-tax-returns-due-April-15.pdf | This date 
+ is computed from a recurrence rule and may not reflect a later-announced ch
+ ange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-nm-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:New Mexico: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Automatic-extension date not confirmed 
+ this session. | Authority: Direct fetch of https://www.tax.newmexico.gov/wp
+ -content/uploads/2026/03/20260315_Reminder-Income-tax-returns-due-April-15.
+ pdf this session | Source: https://www.tax.newmexico.gov/wp-content/uploads
+ /2026/03/20260315_Reminder-Income-tax-returns-due-April-15.pdf | This date 
+ is computed from a recurrence rule and may not reflect a later-announced ch
+ ange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-nm-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:New Mexico: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Automatic-extension date not confirmed 
+ this session. | Authority: Direct fetch of https://www.tax.newmexico.gov/wp
+ -content/uploads/2026/03/20260315_Reminder-Income-tax-returns-due-April-15.
+ pdf this session | Source: https://www.tax.newmexico.gov/wp-content/uploads
+ /2026/03/20260315_Reminder-Income-tax-returns-due-April-15.pdf | This date 
+ is computed from a recurrence rule and may not reflect a later-announced ch
+ ange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-new-mexico-2025-03-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250318
+SUMMARY:New Mexico: PTE due
+DESCRIPTION:New Mexico's pass-through entity return due date matches the fe
+ deral due date for the entity type (March 15 for a calendar-year partnershi
+ p/S-corp). New Mexico's "PTE" return is itself the state's elective entity-
+ level tax return. Correction (this rebuild session): the cited source state
+ s the general rule (15th day of the 3rd month) without addressing the 2026-
+ specific weekend interaction - March 15\, 2026 is a Sunday. Consistent with
+  every other state in this data set that explicitly confirms a weekend-shif
+ t policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, Or
+ egon all confirm shifting to March 16\, 2026)\, and with the near-universal
+  US government-deadline convention of shifting to the next business day\, t
+ his entry's date_2026 was corrected from an unshifted March 15\, 2026 to Ma
+ rch 16\, 2026. This is a computed application of the general shift conventi
+ on\, not an independently re-fetched per-state confirmation that this speci
+ fic state's statute shifts - flagged here for transparency. | New Mexico's 
+ pass-through entity return due date matches the federal due date for the en
+ tity type (March 15 for a calendar-year partnership/S-corp). New Mexico's "
+ PTE" return is itself the state's elective entity-level tax return. Follows
+  the federal extended due date - no separate New Mexico extension form requ
+ ired for the base filing deadline. Correction (this rebuild session): the c
+ ited source states the general rule (15th day of the 3rd month) without add
+ ressing the 2026-specific weekend interaction - March 15\, 2026 is a Sunday
+ . Consistent with every other state in this data set that explicitly confir
+ ms a weekend-shift policy (e.g. Massachusetts\, New York\, Vermont\, Delawa
+ re\, Montana\, Oregon all confirm shifting to March 16\, 2026)\, and with t
+ he near-universal US government-deadline convention of shifting to the next
+  business day\, this entry's date_2026 was corrected from an unshifted Marc
+ h 15\, 2026 to March 16\, 2026. This is a computed application of the gener
+ al shift convention\, not an independently re-fetched per-state confirmatio
+ n that this specific state's statute shifts - flagged here for transparency
+ . | Authority: New Mexico Taxation and Revenue Department\, direct fetch th
+ is session: "on or before the due date of your federal return for the tax y
+ ear." | Source: https://www.tax.newmexico.gov/businesses/corporate-income-f
+ ranchise-tax-overview/pass-through-entity/ | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-new-mexico-2026-03-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260317
+SUMMARY:New Mexico: PTE due
+DESCRIPTION:New Mexico's pass-through entity return due date matches the fe
+ deral due date for the entity type (March 15 for a calendar-year partnershi
+ p/S-corp). New Mexico's "PTE" return is itself the state's elective entity-
+ level tax return. Correction (this rebuild session): the cited source state
+ s the general rule (15th day of the 3rd month) without addressing the 2026-
+ specific weekend interaction - March 15\, 2026 is a Sunday. Consistent with
+  every other state in this data set that explicitly confirms a weekend-shif
+ t policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, Or
+ egon all confirm shifting to March 16\, 2026)\, and with the near-universal
+  US government-deadline convention of shifting to the next business day\, t
+ his entry's date_2026 was corrected from an unshifted March 15\, 2026 to Ma
+ rch 16\, 2026. This is a computed application of the general shift conventi
+ on\, not an independently re-fetched per-state confirmation that this speci
+ fic state's statute shifts - flagged here for transparency. | New Mexico's 
+ pass-through entity return due date matches the federal due date for the en
+ tity type (March 15 for a calendar-year partnership/S-corp). New Mexico's "
+ PTE" return is itself the state's elective entity-level tax return. Follows
+  the federal extended due date - no separate New Mexico extension form requ
+ ired for the base filing deadline. Correction (this rebuild session): the c
+ ited source states the general rule (15th day of the 3rd month) without add
+ ressing the 2026-specific weekend interaction - March 15\, 2026 is a Sunday
+ . Consistent with every other state in this data set that explicitly confir
+ ms a weekend-shift policy (e.g. Massachusetts\, New York\, Vermont\, Delawa
+ re\, Montana\, Oregon all confirm shifting to March 16\, 2026)\, and with t
+ he near-universal US government-deadline convention of shifting to the next
+  business day\, this entry's date_2026 was corrected from an unshifted Marc
+ h 15\, 2026 to March 16\, 2026. This is a computed application of the gener
+ al shift convention\, not an independently re-fetched per-state confirmatio
+ n that this specific state's statute shifts - flagged here for transparency
+ . | Authority: New Mexico Taxation and Revenue Department\, direct fetch th
+ is session: "on or before the due date of your federal return for the tax y
+ ear." | Source: https://www.tax.newmexico.gov/businesses/corporate-income-f
+ ranchise-tax-overview/pass-through-entity/ | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-new-mexico-2027-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:New Mexico: PTE due
+DESCRIPTION:New Mexico's pass-through entity return due date matches the fe
+ deral due date for the entity type (March 15 for a calendar-year partnershi
+ p/S-corp). New Mexico's "PTE" return is itself the state's elective entity-
+ level tax return. Correction (this rebuild session): the cited source state
+ s the general rule (15th day of the 3rd month) without addressing the 2026-
+ specific weekend interaction - March 15\, 2026 is a Sunday. Consistent with
+  every other state in this data set that explicitly confirms a weekend-shif
+ t policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, Or
+ egon all confirm shifting to March 16\, 2026)\, and with the near-universal
+  US government-deadline convention of shifting to the next business day\, t
+ his entry's date_2026 was corrected from an unshifted March 15\, 2026 to Ma
+ rch 16\, 2026. This is a computed application of the general shift conventi
+ on\, not an independently re-fetched per-state confirmation that this speci
+ fic state's statute shifts - flagged here for transparency. | New Mexico's 
+ pass-through entity return due date matches the federal due date for the en
+ tity type (March 15 for a calendar-year partnership/S-corp). New Mexico's "
+ PTE" return is itself the state's elective entity-level tax return. Follows
+  the federal extended due date - no separate New Mexico extension form requ
+ ired for the base filing deadline. Correction (this rebuild session): the c
+ ited source states the general rule (15th day of the 3rd month) without add
+ ressing the 2026-specific weekend interaction - March 15\, 2026 is a Sunday
+ . Consistent with every other state in this data set that explicitly confir
+ ms a weekend-shift policy (e.g. Massachusetts\, New York\, Vermont\, Delawa
+ re\, Montana\, Oregon all confirm shifting to March 16\, 2026)\, and with t
+ he near-universal US government-deadline convention of shifting to the next
+  business day\, this entry's date_2026 was corrected from an unshifted Marc
+ h 15\, 2026 to March 16\, 2026. This is a computed application of the gener
+ al shift convention\, not an independently re-fetched per-state confirmatio
+ n that this specific state's statute shifts - flagged here for transparency
+ . | Authority: New Mexico Taxation and Revenue Department\, direct fetch th
+ is session: "on or before the due date of your federal return for the tax y
+ ear." | Source: https://www.tax.newmexico.gov/businesses/corporate-income-f
+ ranchise-tax-overview/pass-through-entity/ | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-new-mexico-2028-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280315
+DTEND;VALUE=DATE:20280316
+SUMMARY:New Mexico: PTE due
+DESCRIPTION:New Mexico's pass-through entity return due date matches the fe
+ deral due date for the entity type (March 15 for a calendar-year partnershi
+ p/S-corp). New Mexico's "PTE" return is itself the state's elective entity-
+ level tax return. Correction (this rebuild session): the cited source state
+ s the general rule (15th day of the 3rd month) without addressing the 2026-
+ specific weekend interaction - March 15\, 2026 is a Sunday. Consistent with
+  every other state in this data set that explicitly confirms a weekend-shif
+ t policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, Or
+ egon all confirm shifting to March 16\, 2026)\, and with the near-universal
+  US government-deadline convention of shifting to the next business day\, t
+ his entry's date_2026 was corrected from an unshifted March 15\, 2026 to Ma
+ rch 16\, 2026. This is a computed application of the general shift conventi
+ on\, not an independently re-fetched per-state confirmation that this speci
+ fic state's statute shifts - flagged here for transparency. | New Mexico's 
+ pass-through entity return due date matches the federal due date for the en
+ tity type (March 15 for a calendar-year partnership/S-corp). New Mexico's "
+ PTE" return is itself the state's elective entity-level tax return. Follows
+  the federal extended due date - no separate New Mexico extension form requ
+ ired for the base filing deadline. Correction (this rebuild session): the c
+ ited source states the general rule (15th day of the 3rd month) without add
+ ressing the 2026-specific weekend interaction - March 15\, 2026 is a Sunday
+ . Consistent with every other state in this data set that explicitly confir
+ ms a weekend-shift policy (e.g. Massachusetts\, New York\, Vermont\, Delawa
+ re\, Montana\, Oregon all confirm shifting to March 16\, 2026)\, and with t
+ he near-universal US government-deadline convention of shifting to the next
+  business day\, this entry's date_2026 was corrected from an unshifted Marc
+ h 15\, 2026 to March 16\, 2026. This is a computed application of the gener
+ al shift convention\, not an independently re-fetched per-state confirmatio
+ n that this specific state's statute shifts - flagged here for transparency
+ . | Authority: New Mexico Taxation and Revenue Department\, direct fetch th
+ is session: "on or before the due date of your federal return for the tax y
+ ear." | Source: https://www.tax.newmexico.gov/businesses/corporate-income-f
+ ranchise-tax-overview/pass-through-entity/ | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-new-mexico-2029-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290315
+DTEND;VALUE=DATE:20290316
+SUMMARY:New Mexico: PTE due
+DESCRIPTION:New Mexico's pass-through entity return due date matches the fe
+ deral due date for the entity type (March 15 for a calendar-year partnershi
+ p/S-corp). New Mexico's "PTE" return is itself the state's elective entity-
+ level tax return. Correction (this rebuild session): the cited source state
+ s the general rule (15th day of the 3rd month) without addressing the 2026-
+ specific weekend interaction - March 15\, 2026 is a Sunday. Consistent with
+  every other state in this data set that explicitly confirms a weekend-shif
+ t policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, Or
+ egon all confirm shifting to March 16\, 2026)\, and with the near-universal
+  US government-deadline convention of shifting to the next business day\, t
+ his entry's date_2026 was corrected from an unshifted March 15\, 2026 to Ma
+ rch 16\, 2026. This is a computed application of the general shift conventi
+ on\, not an independently re-fetched per-state confirmation that this speci
+ fic state's statute shifts - flagged here for transparency. | New Mexico's 
+ pass-through entity return due date matches the federal due date for the en
+ tity type (March 15 for a calendar-year partnership/S-corp). New Mexico's "
+ PTE" return is itself the state's elective entity-level tax return. Follows
+  the federal extended due date - no separate New Mexico extension form requ
+ ired for the base filing deadline. Correction (this rebuild session): the c
+ ited source states the general rule (15th day of the 3rd month) without add
+ ressing the 2026-specific weekend interaction - March 15\, 2026 is a Sunday
+ . Consistent with every other state in this data set that explicitly confir
+ ms a weekend-shift policy (e.g. Massachusetts\, New York\, Vermont\, Delawa
+ re\, Montana\, Oregon all confirm shifting to March 16\, 2026)\, and with t
+ he near-universal US government-deadline convention of shifting to the next
+  business day\, this entry's date_2026 was corrected from an unshifted Marc
+ h 15\, 2026 to March 16\, 2026. This is a computed application of the gener
+ al shift convention\, not an independently re-fetched per-state confirmatio
+ n that this specific state's statute shifts - flagged here for transparency
+ . | Authority: New Mexico Taxation and Revenue Department\, direct fetch th
+ is session: "on or before the due date of your federal return for the tax y
+ ear." | Source: https://www.tax.newmexico.gov/businesses/corporate-income-f
+ ranchise-tax-overview/pass-through-entity/ | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-new-mexico-2030-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300315
+DTEND;VALUE=DATE:20300316
+SUMMARY:New Mexico: PTE due
+DESCRIPTION:New Mexico's pass-through entity return due date matches the fe
+ deral due date for the entity type (March 15 for a calendar-year partnershi
+ p/S-corp). New Mexico's "PTE" return is itself the state's elective entity-
+ level tax return. Correction (this rebuild session): the cited source state
+ s the general rule (15th day of the 3rd month) without addressing the 2026-
+ specific weekend interaction - March 15\, 2026 is a Sunday. Consistent with
+  every other state in this data set that explicitly confirms a weekend-shif
+ t policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, Or
+ egon all confirm shifting to March 16\, 2026)\, and with the near-universal
+  US government-deadline convention of shifting to the next business day\, t
+ his entry's date_2026 was corrected from an unshifted March 15\, 2026 to Ma
+ rch 16\, 2026. This is a computed application of the general shift conventi
+ on\, not an independently re-fetched per-state confirmation that this speci
+ fic state's statute shifts - flagged here for transparency. | New Mexico's 
+ pass-through entity return due date matches the federal due date for the en
+ tity type (March 15 for a calendar-year partnership/S-corp). New Mexico's "
+ PTE" return is itself the state's elective entity-level tax return. Follows
+  the federal extended due date - no separate New Mexico extension form requ
+ ired for the base filing deadline. Correction (this rebuild session): the c
+ ited source states the general rule (15th day of the 3rd month) without add
+ ressing the 2026-specific weekend interaction - March 15\, 2026 is a Sunday
+ . Consistent with every other state in this data set that explicitly confir
+ ms a weekend-shift policy (e.g. Massachusetts\, New York\, Vermont\, Delawa
+ re\, Montana\, Oregon all confirm shifting to March 16\, 2026)\, and with t
+ he near-universal US government-deadline convention of shifting to the next
+  business day\, this entry's date_2026 was corrected from an unshifted Marc
+ h 15\, 2026 to March 16\, 2026. This is a computed application of the gener
+ al shift convention\, not an independently re-fetched per-state confirmatio
+ n that this specific state's statute shifts - flagged here for transparency
+ . | Authority: New Mexico Taxation and Revenue Department\, direct fetch th
+ is session: "on or before the due date of your federal return for the tax y
+ ear." | Source: https://www.tax.newmexico.gov/businesses/corporate-income-f
+ ranchise-tax-overview/pass-through-entity/ | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-new-mexico-2031-03-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310317
+DTEND;VALUE=DATE:20310318
+SUMMARY:New Mexico: PTE due
+DESCRIPTION:New Mexico's pass-through entity return due date matches the fe
+ deral due date for the entity type (March 15 for a calendar-year partnershi
+ p/S-corp). New Mexico's "PTE" return is itself the state's elective entity-
+ level tax return. Correction (this rebuild session): the cited source state
+ s the general rule (15th day of the 3rd month) without addressing the 2026-
+ specific weekend interaction - March 15\, 2026 is a Sunday. Consistent with
+  every other state in this data set that explicitly confirms a weekend-shif
+ t policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, Or
+ egon all confirm shifting to March 16\, 2026)\, and with the near-universal
+  US government-deadline convention of shifting to the next business day\, t
+ his entry's date_2026 was corrected from an unshifted March 15\, 2026 to Ma
+ rch 16\, 2026. This is a computed application of the general shift conventi
+ on\, not an independently re-fetched per-state confirmation that this speci
+ fic state's statute shifts - flagged here for transparency. | New Mexico's 
+ pass-through entity return due date matches the federal due date for the en
+ tity type (March 15 for a calendar-year partnership/S-corp). New Mexico's "
+ PTE" return is itself the state's elective entity-level tax return. Follows
+  the federal extended due date - no separate New Mexico extension form requ
+ ired for the base filing deadline. Correction (this rebuild session): the c
+ ited source states the general rule (15th day of the 3rd month) without add
+ ressing the 2026-specific weekend interaction - March 15\, 2026 is a Sunday
+ . Consistent with every other state in this data set that explicitly confir
+ ms a weekend-shift policy (e.g. Massachusetts\, New York\, Vermont\, Delawa
+ re\, Montana\, Oregon all confirm shifting to March 16\, 2026)\, and with t
+ he near-universal US government-deadline convention of shifting to the next
+  business day\, this entry's date_2026 was corrected from an unshifted Marc
+ h 15\, 2026 to March 16\, 2026. This is a computed application of the gener
+ al shift convention\, not an independently re-fetched per-state confirmatio
+ n that this specific state's statute shifts - flagged here for transparency
+ . | Authority: New Mexico Taxation and Revenue Department\, direct fetch th
+ is session: "on or before the due date of your federal return for the tax y
+ ear." | Source: https://www.tax.newmexico.gov/businesses/corporate-income-f
+ ranchise-tax-overview/pass-through-entity/ | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-new-mexico-2032-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320315
+DTEND;VALUE=DATE:20320316
+SUMMARY:New Mexico: PTE due
+DESCRIPTION:New Mexico's pass-through entity return due date matches the fe
+ deral due date for the entity type (March 15 for a calendar-year partnershi
+ p/S-corp). New Mexico's "PTE" return is itself the state's elective entity-
+ level tax return. Correction (this rebuild session): the cited source state
+ s the general rule (15th day of the 3rd month) without addressing the 2026-
+ specific weekend interaction - March 15\, 2026 is a Sunday. Consistent with
+  every other state in this data set that explicitly confirms a weekend-shif
+ t policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, Or
+ egon all confirm shifting to March 16\, 2026)\, and with the near-universal
+  US government-deadline convention of shifting to the next business day\, t
+ his entry's date_2026 was corrected from an unshifted March 15\, 2026 to Ma
+ rch 16\, 2026. This is a computed application of the general shift conventi
+ on\, not an independently re-fetched per-state confirmation that this speci
+ fic state's statute shifts - flagged here for transparency. | New Mexico's 
+ pass-through entity return due date matches the federal due date for the en
+ tity type (March 15 for a calendar-year partnership/S-corp). New Mexico's "
+ PTE" return is itself the state's elective entity-level tax return. Follows
+  the federal extended due date - no separate New Mexico extension form requ
+ ired for the base filing deadline. Correction (this rebuild session): the c
+ ited source states the general rule (15th day of the 3rd month) without add
+ ressing the 2026-specific weekend interaction - March 15\, 2026 is a Sunday
+ . Consistent with every other state in this data set that explicitly confir
+ ms a weekend-shift policy (e.g. Massachusetts\, New York\, Vermont\, Delawa
+ re\, Montana\, Oregon all confirm shifting to March 16\, 2026)\, and with t
+ he near-universal US government-deadline convention of shifting to the next
+  business day\, this entry's date_2026 was corrected from an unshifted Marc
+ h 15\, 2026 to March 16\, 2026. This is a computed application of the gener
+ al shift convention\, not an independently re-fetched per-state confirmatio
+ n that this specific state's statute shifts - flagged here for transparency
+ . | Authority: New Mexico Taxation and Revenue Department\, direct fetch th
+ is session: "on or before the due date of your federal return for the tax y
+ ear." | Source: https://www.tax.newmexico.gov/businesses/corporate-income-f
+ ranchise-tax-overview/pass-through-entity/ | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-mexico-q1-2025-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250430
+DTEND;VALUE=DATE:20250501
+SUMMARY:New Mexico: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Return this report and tax due by the end of the month following the
+  close of the calendar quarter (Form ES-903A). | Authority: Direct fetch of
+  New Mexico's own unemployment insurance agency site/handbook/code this ses
+ sion | Source: https://www.dws.state.nm.us/Portals/0/DM/Business/ES903_AB_E
+ mployers_Quarterly_Wage_Contribution_Report.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-mexico-q1-2026-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:New Mexico: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Return this report and tax due by the end of the month following the
+  close of the calendar quarter (Form ES-903A). | Authority: Direct fetch of
+  New Mexico's own unemployment insurance agency site/handbook/code this ses
+ sion | Source: https://www.dws.state.nm.us/Portals/0/DM/Business/ES903_AB_E
+ mployers_Quarterly_Wage_Contribution_Report.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-mexico-q1-2027-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:New Mexico: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Return this report and tax due by the end of the month following the
+  close of the calendar quarter (Form ES-903A). | Authority: Direct fetch of
+  New Mexico's own unemployment insurance agency site/handbook/code this ses
+ sion | Source: https://www.dws.state.nm.us/Portals/0/DM/Business/ES903_AB_E
+ mployers_Quarterly_Wage_Contribution_Report.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-mexico-q1-2028-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280430
+DTEND;VALUE=DATE:20280501
+SUMMARY:New Mexico: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Return this report and tax due by the end of the month following the
+  close of the calendar quarter (Form ES-903A). | Authority: Direct fetch of
+  New Mexico's own unemployment insurance agency site/handbook/code this ses
+ sion | Source: https://www.dws.state.nm.us/Portals/0/DM/Business/ES903_AB_E
+ mployers_Quarterly_Wage_Contribution_Report.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-mexico-q1-2029-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290430
+DTEND;VALUE=DATE:20290501
+SUMMARY:New Mexico: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Return this report and tax due by the end of the month following the
+  close of the calendar quarter (Form ES-903A). | Authority: Direct fetch of
+  New Mexico's own unemployment insurance agency site/handbook/code this ses
+ sion | Source: https://www.dws.state.nm.us/Portals/0/DM/Business/ES903_AB_E
+ mployers_Quarterly_Wage_Contribution_Report.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-mexico-q1-2030-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300430
+DTEND;VALUE=DATE:20300501
+SUMMARY:New Mexico: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Return this report and tax due by the end of the month following the
+  close of the calendar quarter (Form ES-903A). | Authority: Direct fetch of
+  New Mexico's own unemployment insurance agency site/handbook/code this ses
+ sion | Source: https://www.dws.state.nm.us/Portals/0/DM/Business/ES903_AB_E
+ mployers_Quarterly_Wage_Contribution_Report.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-mexico-q1-2031-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310430
+DTEND;VALUE=DATE:20310501
+SUMMARY:New Mexico: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Return this report and tax due by the end of the month following the
+  close of the calendar quarter (Form ES-903A). | Authority: Direct fetch of
+  New Mexico's own unemployment insurance agency site/handbook/code this ses
+ sion | Source: https://www.dws.state.nm.us/Portals/0/DM/Business/ES903_AB_E
+ mployers_Quarterly_Wage_Contribution_Report.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-mexico-q1-2032-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320430
+DTEND;VALUE=DATE:20320501
+SUMMARY:New Mexico: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Return this report and tax due by the end of the month following the
+  close of the calendar quarter (Form ES-903A). | Authority: Direct fetch of
+  New Mexico's own unemployment insurance agency site/handbook/code this ses
+ sion | Source: https://www.dws.state.nm.us/Portals/0/DM/Business/ES903_AB_E
+ mployers_Quarterly_Wage_Contribution_Report.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-mexico-q2-2025-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250731
+DTEND;VALUE=DATE:20250801
+SUMMARY:New Mexico: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Return this report and tax due by the end of the month following the
+  close of the calendar quarter (Form ES-903A). | Authority: Direct fetch of
+  New Mexico's own unemployment insurance agency site/handbook/code this ses
+ sion | Source: https://www.dws.state.nm.us/Portals/0/DM/Business/ES903_AB_E
+ mployers_Quarterly_Wage_Contribution_Report.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-mexico-q2-2026-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:New Mexico: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Return this report and tax due by the end of the month following the
+  close of the calendar quarter (Form ES-903A). | Authority: Direct fetch of
+  New Mexico's own unemployment insurance agency site/handbook/code this ses
+ sion | Source: https://www.dws.state.nm.us/Portals/0/DM/Business/ES903_AB_E
+ mployers_Quarterly_Wage_Contribution_Report.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-mexico-q2-2027-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:New Mexico: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Return this report and tax due by the end of the month following the
+  close of the calendar quarter (Form ES-903A). | Authority: Direct fetch of
+  New Mexico's own unemployment insurance agency site/handbook/code this ses
+ sion | Source: https://www.dws.state.nm.us/Portals/0/DM/Business/ES903_AB_E
+ mployers_Quarterly_Wage_Contribution_Report.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-mexico-q2-2028-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280731
+DTEND;VALUE=DATE:20280801
+SUMMARY:New Mexico: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Return this report and tax due by the end of the month following the
+  close of the calendar quarter (Form ES-903A). | Authority: Direct fetch of
+  New Mexico's own unemployment insurance agency site/handbook/code this ses
+ sion | Source: https://www.dws.state.nm.us/Portals/0/DM/Business/ES903_AB_E
+ mployers_Quarterly_Wage_Contribution_Report.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-mexico-q2-2029-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290731
+DTEND;VALUE=DATE:20290801
+SUMMARY:New Mexico: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Return this report and tax due by the end of the month following the
+  close of the calendar quarter (Form ES-903A). | Authority: Direct fetch of
+  New Mexico's own unemployment insurance agency site/handbook/code this ses
+ sion | Source: https://www.dws.state.nm.us/Portals/0/DM/Business/ES903_AB_E
+ mployers_Quarterly_Wage_Contribution_Report.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-mexico-q2-2030-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300731
+DTEND;VALUE=DATE:20300801
+SUMMARY:New Mexico: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Return this report and tax due by the end of the month following the
+  close of the calendar quarter (Form ES-903A). | Authority: Direct fetch of
+  New Mexico's own unemployment insurance agency site/handbook/code this ses
+ sion | Source: https://www.dws.state.nm.us/Portals/0/DM/Business/ES903_AB_E
+ mployers_Quarterly_Wage_Contribution_Report.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-mexico-q2-2031-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310731
+DTEND;VALUE=DATE:20310801
+SUMMARY:New Mexico: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Return this report and tax due by the end of the month following the
+  close of the calendar quarter (Form ES-903A). | Authority: Direct fetch of
+  New Mexico's own unemployment insurance agency site/handbook/code this ses
+ sion | Source: https://www.dws.state.nm.us/Portals/0/DM/Business/ES903_AB_E
+ mployers_Quarterly_Wage_Contribution_Report.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-mexico-q2-2032-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320731
+DTEND;VALUE=DATE:20320801
+SUMMARY:New Mexico: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Return this report and tax due by the end of the month following the
+  close of the calendar quarter (Form ES-903A). | Authority: Direct fetch of
+  New Mexico's own unemployment insurance agency site/handbook/code this ses
+ sion | Source: https://www.dws.state.nm.us/Portals/0/DM/Business/ES903_AB_E
+ mployers_Quarterly_Wage_Contribution_Report.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-mexico-q3-2025-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20251031
+DTEND;VALUE=DATE:20251101
+SUMMARY:New Mexico: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Return this report and tax due by the end of the month following the
+  close of the calendar quarter (Form ES-903A). | Authority: Direct fetch of
+  New Mexico's own unemployment insurance agency site/handbook/code this ses
+ sion | Source: https://www.dws.state.nm.us/Portals/0/DM/Business/ES903_AB_E
+ mployers_Quarterly_Wage_Contribution_Report.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-mexico-q3-2026-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:New Mexico: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Return this report and tax due by the end of the month following the
+  close of the calendar quarter (Form ES-903A). | Authority: Direct fetch of
+  New Mexico's own unemployment insurance agency site/handbook/code this ses
+ sion | Source: https://www.dws.state.nm.us/Portals/0/DM/Business/ES903_AB_E
+ mployers_Quarterly_Wage_Contribution_Report.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-mexico-q3-2027-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20271031
+DTEND;VALUE=DATE:20271101
+SUMMARY:New Mexico: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Return this report and tax due by the end of the month following the
+  close of the calendar quarter (Form ES-903A). | Authority: Direct fetch of
+  New Mexico's own unemployment insurance agency site/handbook/code this ses
+ sion | Source: https://www.dws.state.nm.us/Portals/0/DM/Business/ES903_AB_E
+ mployers_Quarterly_Wage_Contribution_Report.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-mexico-q3-2028-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20281031
+DTEND;VALUE=DATE:20281101
+SUMMARY:New Mexico: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Return this report and tax due by the end of the month following the
+  close of the calendar quarter (Form ES-903A). | Authority: Direct fetch of
+  New Mexico's own unemployment insurance agency site/handbook/code this ses
+ sion | Source: https://www.dws.state.nm.us/Portals/0/DM/Business/ES903_AB_E
+ mployers_Quarterly_Wage_Contribution_Report.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-mexico-q3-2029-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20291031
+DTEND;VALUE=DATE:20291101
+SUMMARY:New Mexico: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Return this report and tax due by the end of the month following the
+  close of the calendar quarter (Form ES-903A). | Authority: Direct fetch of
+  New Mexico's own unemployment insurance agency site/handbook/code this ses
+ sion | Source: https://www.dws.state.nm.us/Portals/0/DM/Business/ES903_AB_E
+ mployers_Quarterly_Wage_Contribution_Report.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-mexico-q3-2030-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20301031
+DTEND;VALUE=DATE:20301101
+SUMMARY:New Mexico: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Return this report and tax due by the end of the month following the
+  close of the calendar quarter (Form ES-903A). | Authority: Direct fetch of
+  New Mexico's own unemployment insurance agency site/handbook/code this ses
+ sion | Source: https://www.dws.state.nm.us/Portals/0/DM/Business/ES903_AB_E
+ mployers_Quarterly_Wage_Contribution_Report.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-mexico-q3-2031-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20311031
+DTEND;VALUE=DATE:20311101
+SUMMARY:New Mexico: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Return this report and tax due by the end of the month following the
+  close of the calendar quarter (Form ES-903A). | Authority: Direct fetch of
+  New Mexico's own unemployment insurance agency site/handbook/code this ses
+ sion | Source: https://www.dws.state.nm.us/Portals/0/DM/Business/ES903_AB_E
+ mployers_Quarterly_Wage_Contribution_Report.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-mexico-q3-2032-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20321031
+DTEND;VALUE=DATE:20321101
+SUMMARY:New Mexico: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Return this report and tax due by the end of the month following the
+  close of the calendar quarter (Form ES-903A). | Authority: Direct fetch of
+  New Mexico's own unemployment insurance agency site/handbook/code this ses
+ sion | Source: https://www.dws.state.nm.us/Portals/0/DM/Business/ES903_AB_E
+ mployers_Quarterly_Wage_Contribution_Report.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-mexico-q4-2025-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250131
+DTEND;VALUE=DATE:20250201
+SUMMARY:New Mexico: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Return this report and tax due by the end of the month following the
+  close of the calendar quarter (Form ES-903A). | Authority: Direct fetch of
+  New Mexico's own unemployment insurance agency site/handbook/code this ses
+ sion | Source: https://www.dws.state.nm.us/Portals/0/DM/Business/ES903_AB_E
+ mployers_Quarterly_Wage_Contribution_Report.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-mexico-q4-2026-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:New Mexico: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Return this report and tax due by the end of the month following the
+  close of the calendar quarter (Form ES-903A). | Authority: Direct fetch of
+  New Mexico's own unemployment insurance agency site/handbook/code this ses
+ sion | Source: https://www.dws.state.nm.us/Portals/0/DM/Business/ES903_AB_E
+ mployers_Quarterly_Wage_Contribution_Report.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-mexico-q4-2027-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:New Mexico: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Return this report and tax due by the end of the month following the
+  close of the calendar quarter (Form ES-903A). | Authority: Direct fetch of
+  New Mexico's own unemployment insurance agency site/handbook/code this ses
+ sion | Source: https://www.dws.state.nm.us/Portals/0/DM/Business/ES903_AB_E
+ mployers_Quarterly_Wage_Contribution_Report.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-mexico-q4-2028-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280131
+DTEND;VALUE=DATE:20280201
+SUMMARY:New Mexico: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Return this report and tax due by the end of the month following the
+  close of the calendar quarter (Form ES-903A). | Authority: Direct fetch of
+  New Mexico's own unemployment insurance agency site/handbook/code this ses
+ sion | Source: https://www.dws.state.nm.us/Portals/0/DM/Business/ES903_AB_E
+ mployers_Quarterly_Wage_Contribution_Report.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-mexico-q4-2029-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290131
+DTEND;VALUE=DATE:20290201
+SUMMARY:New Mexico: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Return this report and tax due by the end of the month following the
+  close of the calendar quarter (Form ES-903A). | Authority: Direct fetch of
+  New Mexico's own unemployment insurance agency site/handbook/code this ses
+ sion | Source: https://www.dws.state.nm.us/Portals/0/DM/Business/ES903_AB_E
+ mployers_Quarterly_Wage_Contribution_Report.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-mexico-q4-2030-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300131
+DTEND;VALUE=DATE:20300201
+SUMMARY:New Mexico: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Return this report and tax due by the end of the month following the
+  close of the calendar quarter (Form ES-903A). | Authority: Direct fetch of
+  New Mexico's own unemployment insurance agency site/handbook/code this ses
+ sion | Source: https://www.dws.state.nm.us/Portals/0/DM/Business/ES903_AB_E
+ mployers_Quarterly_Wage_Contribution_Report.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-mexico-q4-2031-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310131
+DTEND;VALUE=DATE:20310201
+SUMMARY:New Mexico: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Return this report and tax due by the end of the month following the
+  close of the calendar quarter (Form ES-903A). | Authority: Direct fetch of
+  New Mexico's own unemployment insurance agency site/handbook/code this ses
+ sion | Source: https://www.dws.state.nm.us/Portals/0/DM/Business/ES903_AB_E
+ mployers_Quarterly_Wage_Contribution_Report.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-mexico-q4-2032-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320131
+DTEND;VALUE=DATE:20320201
+SUMMARY:New Mexico: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Return this report and tax due by the end of the month following the
+  close of the calendar quarter (Form ES-903A). | Authority: Direct fetch of
+  New Mexico's own unemployment insurance agency site/handbook/code this ses
+ sion | Source: https://www.dws.state.nm.us/Portals/0/DM/Business/ES903_AB_E
+ mployers_Quarterly_Wage_Contribution_Report.pdf | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-mexico-q1-2025-04-25@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250425
+DTEND;VALUE=DATE:20250426
+SUMMARY:New Mexico: State sales & use tax return due
+DESCRIPTION:Gross Receipts Tax (functions as sales tax) due 25th of month f
+ ollowing the reporting period\; also semiannual (July 25 / January 25). | Q
+ 1 2026 (Jan-Mar) sales tax return\, applying New Mexico's quarterly-filer d
+ ue-date rule: Gross Receipts Tax (functions as sales tax) due 25th of month
+  following the reporting period\; also semiannual (July 25 / January 25). T
+ his is a representative recurring pattern\, not a single annual deadline - 
+ actual filing frequency (monthly/quarterly/annual) is assigned per business
+  by the state. | Authority: Direct fetch of New Mexico's own tax agency sit
+ e this session | Source: https://realfile.tax.newmexico.gov/trd-41413ins.pd
+ f | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-mexico-q1-2026-04-25@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+SUMMARY:New Mexico: State sales & use tax return due
+DESCRIPTION:Gross Receipts Tax (functions as sales tax) due 25th of month f
+ ollowing the reporting period\; also semiannual (July 25 / January 25). | Q
+ 1 2026 (Jan-Mar) sales tax return\, applying New Mexico's quarterly-filer d
+ ue-date rule: Gross Receipts Tax (functions as sales tax) due 25th of month
+  following the reporting period\; also semiannual (July 25 / January 25). T
+ his is a representative recurring pattern\, not a single annual deadline - 
+ actual filing frequency (monthly/quarterly/annual) is assigned per business
+  by the state. | Authority: Direct fetch of New Mexico's own tax agency sit
+ e this session | Source: https://realfile.tax.newmexico.gov/trd-41413ins.pd
+ f | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-mexico-q1-2027-04-25@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:New Mexico: State sales & use tax return due
+DESCRIPTION:Gross Receipts Tax (functions as sales tax) due 25th of month f
+ ollowing the reporting period\; also semiannual (July 25 / January 25). | Q
+ 1 2026 (Jan-Mar) sales tax return\, applying New Mexico's quarterly-filer d
+ ue-date rule: Gross Receipts Tax (functions as sales tax) due 25th of month
+  following the reporting period\; also semiannual (July 25 / January 25). T
+ his is a representative recurring pattern\, not a single annual deadline - 
+ actual filing frequency (monthly/quarterly/annual) is assigned per business
+  by the state. | Authority: Direct fetch of New Mexico's own tax agency sit
+ e this session | Source: https://realfile.tax.newmexico.gov/trd-41413ins.pd
+ f | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-mexico-q1-2028-04-25@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280425
+DTEND;VALUE=DATE:20280426
+SUMMARY:New Mexico: State sales & use tax return due
+DESCRIPTION:Gross Receipts Tax (functions as sales tax) due 25th of month f
+ ollowing the reporting period\; also semiannual (July 25 / January 25). | Q
+ 1 2026 (Jan-Mar) sales tax return\, applying New Mexico's quarterly-filer d
+ ue-date rule: Gross Receipts Tax (functions as sales tax) due 25th of month
+  following the reporting period\; also semiannual (July 25 / January 25). T
+ his is a representative recurring pattern\, not a single annual deadline - 
+ actual filing frequency (monthly/quarterly/annual) is assigned per business
+  by the state. | Authority: Direct fetch of New Mexico's own tax agency sit
+ e this session | Source: https://realfile.tax.newmexico.gov/trd-41413ins.pd
+ f | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-mexico-q1-2029-04-25@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290425
+DTEND;VALUE=DATE:20290426
+SUMMARY:New Mexico: State sales & use tax return due
+DESCRIPTION:Gross Receipts Tax (functions as sales tax) due 25th of month f
+ ollowing the reporting period\; also semiannual (July 25 / January 25). | Q
+ 1 2026 (Jan-Mar) sales tax return\, applying New Mexico's quarterly-filer d
+ ue-date rule: Gross Receipts Tax (functions as sales tax) due 25th of month
+  following the reporting period\; also semiannual (July 25 / January 25). T
+ his is a representative recurring pattern\, not a single annual deadline - 
+ actual filing frequency (monthly/quarterly/annual) is assigned per business
+  by the state. | Authority: Direct fetch of New Mexico's own tax agency sit
+ e this session | Source: https://realfile.tax.newmexico.gov/trd-41413ins.pd
+ f | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-mexico-q1-2030-04-25@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300425
+DTEND;VALUE=DATE:20300426
+SUMMARY:New Mexico: State sales & use tax return due
+DESCRIPTION:Gross Receipts Tax (functions as sales tax) due 25th of month f
+ ollowing the reporting period\; also semiannual (July 25 / January 25). | Q
+ 1 2026 (Jan-Mar) sales tax return\, applying New Mexico's quarterly-filer d
+ ue-date rule: Gross Receipts Tax (functions as sales tax) due 25th of month
+  following the reporting period\; also semiannual (July 25 / January 25). T
+ his is a representative recurring pattern\, not a single annual deadline - 
+ actual filing frequency (monthly/quarterly/annual) is assigned per business
+  by the state. | Authority: Direct fetch of New Mexico's own tax agency sit
+ e this session | Source: https://realfile.tax.newmexico.gov/trd-41413ins.pd
+ f | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-mexico-q1-2031-04-25@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310425
+DTEND;VALUE=DATE:20310426
+SUMMARY:New Mexico: State sales & use tax return due
+DESCRIPTION:Gross Receipts Tax (functions as sales tax) due 25th of month f
+ ollowing the reporting period\; also semiannual (July 25 / January 25). | Q
+ 1 2026 (Jan-Mar) sales tax return\, applying New Mexico's quarterly-filer d
+ ue-date rule: Gross Receipts Tax (functions as sales tax) due 25th of month
+  following the reporting period\; also semiannual (July 25 / January 25). T
+ his is a representative recurring pattern\, not a single annual deadline - 
+ actual filing frequency (monthly/quarterly/annual) is assigned per business
+  by the state. | Authority: Direct fetch of New Mexico's own tax agency sit
+ e this session | Source: https://realfile.tax.newmexico.gov/trd-41413ins.pd
+ f | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-mexico-q1-2032-04-25@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320425
+DTEND;VALUE=DATE:20320426
+SUMMARY:New Mexico: State sales & use tax return due
+DESCRIPTION:Gross Receipts Tax (functions as sales tax) due 25th of month f
+ ollowing the reporting period\; also semiannual (July 25 / January 25). | Q
+ 1 2026 (Jan-Mar) sales tax return\, applying New Mexico's quarterly-filer d
+ ue-date rule: Gross Receipts Tax (functions as sales tax) due 25th of month
+  following the reporting period\; also semiannual (July 25 / January 25). T
+ his is a representative recurring pattern\, not a single annual deadline - 
+ actual filing frequency (monthly/quarterly/annual) is assigned per business
+  by the state. | Authority: Direct fetch of New Mexico's own tax agency sit
+ e this session | Source: https://realfile.tax.newmexico.gov/trd-41413ins.pd
+ f | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-mexico-q2-2025-07-25@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250725
+DTEND;VALUE=DATE:20250726
+SUMMARY:New Mexico: State sales & use tax return due
+DESCRIPTION:Gross Receipts Tax (functions as sales tax) due 25th of month f
+ ollowing the reporting period\; also semiannual (July 25 / January 25). | Q
+ 2 2026 (Apr-Jun) sales tax return\, applying New Mexico's quarterly-filer d
+ ue-date rule: Gross Receipts Tax (functions as sales tax) due 25th of month
+  following the reporting period\; also semiannual (July 25 / January 25). T
+ his is a representative recurring pattern\, not a single annual deadline - 
+ actual filing frequency (monthly/quarterly/annual) is assigned per business
+  by the state. | Authority: Direct fetch of New Mexico's own tax agency sit
+ e this session | Source: https://realfile.tax.newmexico.gov/trd-41413ins.pd
+ f | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-mexico-q2-2026-07-25@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:New Mexico: State sales & use tax return due
+DESCRIPTION:Gross Receipts Tax (functions as sales tax) due 25th of month f
+ ollowing the reporting period\; also semiannual (July 25 / January 25). | Q
+ 2 2026 (Apr-Jun) sales tax return\, applying New Mexico's quarterly-filer d
+ ue-date rule: Gross Receipts Tax (functions as sales tax) due 25th of month
+  following the reporting period\; also semiannual (July 25 / January 25). T
+ his is a representative recurring pattern\, not a single annual deadline - 
+ actual filing frequency (monthly/quarterly/annual) is assigned per business
+  by the state. | Authority: Direct fetch of New Mexico's own tax agency sit
+ e this session | Source: https://realfile.tax.newmexico.gov/trd-41413ins.pd
+ f | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-mexico-q2-2027-07-25@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:New Mexico: State sales & use tax return due
+DESCRIPTION:Gross Receipts Tax (functions as sales tax) due 25th of month f
+ ollowing the reporting period\; also semiannual (July 25 / January 25). | Q
+ 2 2026 (Apr-Jun) sales tax return\, applying New Mexico's quarterly-filer d
+ ue-date rule: Gross Receipts Tax (functions as sales tax) due 25th of month
+  following the reporting period\; also semiannual (July 25 / January 25). T
+ his is a representative recurring pattern\, not a single annual deadline - 
+ actual filing frequency (monthly/quarterly/annual) is assigned per business
+  by the state. | Authority: Direct fetch of New Mexico's own tax agency sit
+ e this session | Source: https://realfile.tax.newmexico.gov/trd-41413ins.pd
+ f | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-mexico-q2-2028-07-25@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280725
+DTEND;VALUE=DATE:20280726
+SUMMARY:New Mexico: State sales & use tax return due
+DESCRIPTION:Gross Receipts Tax (functions as sales tax) due 25th of month f
+ ollowing the reporting period\; also semiannual (July 25 / January 25). | Q
+ 2 2026 (Apr-Jun) sales tax return\, applying New Mexico's quarterly-filer d
+ ue-date rule: Gross Receipts Tax (functions as sales tax) due 25th of month
+  following the reporting period\; also semiannual (July 25 / January 25). T
+ his is a representative recurring pattern\, not a single annual deadline - 
+ actual filing frequency (monthly/quarterly/annual) is assigned per business
+  by the state. | Authority: Direct fetch of New Mexico's own tax agency sit
+ e this session | Source: https://realfile.tax.newmexico.gov/trd-41413ins.pd
+ f | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-mexico-q2-2029-07-25@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290725
+DTEND;VALUE=DATE:20290726
+SUMMARY:New Mexico: State sales & use tax return due
+DESCRIPTION:Gross Receipts Tax (functions as sales tax) due 25th of month f
+ ollowing the reporting period\; also semiannual (July 25 / January 25). | Q
+ 2 2026 (Apr-Jun) sales tax return\, applying New Mexico's quarterly-filer d
+ ue-date rule: Gross Receipts Tax (functions as sales tax) due 25th of month
+  following the reporting period\; also semiannual (July 25 / January 25). T
+ his is a representative recurring pattern\, not a single annual deadline - 
+ actual filing frequency (monthly/quarterly/annual) is assigned per business
+  by the state. | Authority: Direct fetch of New Mexico's own tax agency sit
+ e this session | Source: https://realfile.tax.newmexico.gov/trd-41413ins.pd
+ f | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-mexico-q2-2030-07-25@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300725
+DTEND;VALUE=DATE:20300726
+SUMMARY:New Mexico: State sales & use tax return due
+DESCRIPTION:Gross Receipts Tax (functions as sales tax) due 25th of month f
+ ollowing the reporting period\; also semiannual (July 25 / January 25). | Q
+ 2 2026 (Apr-Jun) sales tax return\, applying New Mexico's quarterly-filer d
+ ue-date rule: Gross Receipts Tax (functions as sales tax) due 25th of month
+  following the reporting period\; also semiannual (July 25 / January 25). T
+ his is a representative recurring pattern\, not a single annual deadline - 
+ actual filing frequency (monthly/quarterly/annual) is assigned per business
+  by the state. | Authority: Direct fetch of New Mexico's own tax agency sit
+ e this session | Source: https://realfile.tax.newmexico.gov/trd-41413ins.pd
+ f | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-mexico-q2-2031-07-25@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310725
+DTEND;VALUE=DATE:20310726
+SUMMARY:New Mexico: State sales & use tax return due
+DESCRIPTION:Gross Receipts Tax (functions as sales tax) due 25th of month f
+ ollowing the reporting period\; also semiannual (July 25 / January 25). | Q
+ 2 2026 (Apr-Jun) sales tax return\, applying New Mexico's quarterly-filer d
+ ue-date rule: Gross Receipts Tax (functions as sales tax) due 25th of month
+  following the reporting period\; also semiannual (July 25 / January 25). T
+ his is a representative recurring pattern\, not a single annual deadline - 
+ actual filing frequency (monthly/quarterly/annual) is assigned per business
+  by the state. | Authority: Direct fetch of New Mexico's own tax agency sit
+ e this session | Source: https://realfile.tax.newmexico.gov/trd-41413ins.pd
+ f | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-mexico-q2-2032-07-25@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320725
+DTEND;VALUE=DATE:20320726
+SUMMARY:New Mexico: State sales & use tax return due
+DESCRIPTION:Gross Receipts Tax (functions as sales tax) due 25th of month f
+ ollowing the reporting period\; also semiannual (July 25 / January 25). | Q
+ 2 2026 (Apr-Jun) sales tax return\, applying New Mexico's quarterly-filer d
+ ue-date rule: Gross Receipts Tax (functions as sales tax) due 25th of month
+  following the reporting period\; also semiannual (July 25 / January 25). T
+ his is a representative recurring pattern\, not a single annual deadline - 
+ actual filing frequency (monthly/quarterly/annual) is assigned per business
+  by the state. | Authority: Direct fetch of New Mexico's own tax agency sit
+ e this session | Source: https://realfile.tax.newmexico.gov/trd-41413ins.pd
+ f | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-mexico-q3-2025-10-25@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20251025
+DTEND;VALUE=DATE:20251026
+SUMMARY:New Mexico: State sales & use tax return due
+DESCRIPTION:Gross Receipts Tax (functions as sales tax) due 25th of month f
+ ollowing the reporting period\; also semiannual (July 25 / January 25). | Q
+ 3 2026 (Jul-Sep) sales tax return\, applying New Mexico's quarterly-filer d
+ ue-date rule: Gross Receipts Tax (functions as sales tax) due 25th of month
+  following the reporting period\; also semiannual (July 25 / January 25). T
+ his is a representative recurring pattern\, not a single annual deadline - 
+ actual filing frequency (monthly/quarterly/annual) is assigned per business
+  by the state. | Authority: Direct fetch of New Mexico's own tax agency sit
+ e this session | Source: https://realfile.tax.newmexico.gov/trd-41413ins.pd
+ f | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-mexico-q3-2026-10-25@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:New Mexico: State sales & use tax return due
+DESCRIPTION:Gross Receipts Tax (functions as sales tax) due 25th of month f
+ ollowing the reporting period\; also semiannual (July 25 / January 25). | Q
+ 3 2026 (Jul-Sep) sales tax return\, applying New Mexico's quarterly-filer d
+ ue-date rule: Gross Receipts Tax (functions as sales tax) due 25th of month
+  following the reporting period\; also semiannual (July 25 / January 25). T
+ his is a representative recurring pattern\, not a single annual deadline - 
+ actual filing frequency (monthly/quarterly/annual) is assigned per business
+  by the state. | Authority: Direct fetch of New Mexico's own tax agency sit
+ e this session | Source: https://realfile.tax.newmexico.gov/trd-41413ins.pd
+ f | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-mexico-q3-2027-10-25@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20271025
+DTEND;VALUE=DATE:20271026
+SUMMARY:New Mexico: State sales & use tax return due
+DESCRIPTION:Gross Receipts Tax (functions as sales tax) due 25th of month f
+ ollowing the reporting period\; also semiannual (July 25 / January 25). | Q
+ 3 2026 (Jul-Sep) sales tax return\, applying New Mexico's quarterly-filer d
+ ue-date rule: Gross Receipts Tax (functions as sales tax) due 25th of month
+  following the reporting period\; also semiannual (July 25 / January 25). T
+ his is a representative recurring pattern\, not a single annual deadline - 
+ actual filing frequency (monthly/quarterly/annual) is assigned per business
+  by the state. | Authority: Direct fetch of New Mexico's own tax agency sit
+ e this session | Source: https://realfile.tax.newmexico.gov/trd-41413ins.pd
+ f | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-mexico-q3-2028-10-25@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20281025
+DTEND;VALUE=DATE:20281026
+SUMMARY:New Mexico: State sales & use tax return due
+DESCRIPTION:Gross Receipts Tax (functions as sales tax) due 25th of month f
+ ollowing the reporting period\; also semiannual (July 25 / January 25). | Q
+ 3 2026 (Jul-Sep) sales tax return\, applying New Mexico's quarterly-filer d
+ ue-date rule: Gross Receipts Tax (functions as sales tax) due 25th of month
+  following the reporting period\; also semiannual (July 25 / January 25). T
+ his is a representative recurring pattern\, not a single annual deadline - 
+ actual filing frequency (monthly/quarterly/annual) is assigned per business
+  by the state. | Authority: Direct fetch of New Mexico's own tax agency sit
+ e this session | Source: https://realfile.tax.newmexico.gov/trd-41413ins.pd
+ f | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-mexico-q3-2029-10-25@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20291025
+DTEND;VALUE=DATE:20291026
+SUMMARY:New Mexico: State sales & use tax return due
+DESCRIPTION:Gross Receipts Tax (functions as sales tax) due 25th of month f
+ ollowing the reporting period\; also semiannual (July 25 / January 25). | Q
+ 3 2026 (Jul-Sep) sales tax return\, applying New Mexico's quarterly-filer d
+ ue-date rule: Gross Receipts Tax (functions as sales tax) due 25th of month
+  following the reporting period\; also semiannual (July 25 / January 25). T
+ his is a representative recurring pattern\, not a single annual deadline - 
+ actual filing frequency (monthly/quarterly/annual) is assigned per business
+  by the state. | Authority: Direct fetch of New Mexico's own tax agency sit
+ e this session | Source: https://realfile.tax.newmexico.gov/trd-41413ins.pd
+ f | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-mexico-q3-2030-10-25@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20301025
+DTEND;VALUE=DATE:20301026
+SUMMARY:New Mexico: State sales & use tax return due
+DESCRIPTION:Gross Receipts Tax (functions as sales tax) due 25th of month f
+ ollowing the reporting period\; also semiannual (July 25 / January 25). | Q
+ 3 2026 (Jul-Sep) sales tax return\, applying New Mexico's quarterly-filer d
+ ue-date rule: Gross Receipts Tax (functions as sales tax) due 25th of month
+  following the reporting period\; also semiannual (July 25 / January 25). T
+ his is a representative recurring pattern\, not a single annual deadline - 
+ actual filing frequency (monthly/quarterly/annual) is assigned per business
+  by the state. | Authority: Direct fetch of New Mexico's own tax agency sit
+ e this session | Source: https://realfile.tax.newmexico.gov/trd-41413ins.pd
+ f | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-mexico-q3-2031-10-25@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20311025
+DTEND;VALUE=DATE:20311026
+SUMMARY:New Mexico: State sales & use tax return due
+DESCRIPTION:Gross Receipts Tax (functions as sales tax) due 25th of month f
+ ollowing the reporting period\; also semiannual (July 25 / January 25). | Q
+ 3 2026 (Jul-Sep) sales tax return\, applying New Mexico's quarterly-filer d
+ ue-date rule: Gross Receipts Tax (functions as sales tax) due 25th of month
+  following the reporting period\; also semiannual (July 25 / January 25). T
+ his is a representative recurring pattern\, not a single annual deadline - 
+ actual filing frequency (monthly/quarterly/annual) is assigned per business
+  by the state. | Authority: Direct fetch of New Mexico's own tax agency sit
+ e this session | Source: https://realfile.tax.newmexico.gov/trd-41413ins.pd
+ f | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-mexico-q3-2032-10-25@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20321025
+DTEND;VALUE=DATE:20321026
+SUMMARY:New Mexico: State sales & use tax return due
+DESCRIPTION:Gross Receipts Tax (functions as sales tax) due 25th of month f
+ ollowing the reporting period\; also semiannual (July 25 / January 25). | Q
+ 3 2026 (Jul-Sep) sales tax return\, applying New Mexico's quarterly-filer d
+ ue-date rule: Gross Receipts Tax (functions as sales tax) due 25th of month
+  following the reporting period\; also semiannual (July 25 / January 25). T
+ his is a representative recurring pattern\, not a single annual deadline - 
+ actual filing frequency (monthly/quarterly/annual) is assigned per business
+  by the state. | Authority: Direct fetch of New Mexico's own tax agency sit
+ e this session | Source: https://realfile.tax.newmexico.gov/trd-41413ins.pd
+ f | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-mexico-q4-2025-01-25@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250125
+DTEND;VALUE=DATE:20250126
+SUMMARY:New Mexico: State sales & use tax return due
+DESCRIPTION:Gross Receipts Tax (functions as sales tax) due 25th of month f
+ ollowing the reporting period\; also semiannual (July 25 / January 25). | Q
+ 4 2026 (Oct-Dec) sales tax return\, applying New Mexico's quarterly-filer d
+ ue-date rule: Gross Receipts Tax (functions as sales tax) due 25th of month
+  following the reporting period\; also semiannual (July 25 / January 25). T
+ his is a representative recurring pattern\, not a single annual deadline - 
+ actual filing frequency (monthly/quarterly/annual) is assigned per business
+  by the state. | Authority: Direct fetch of New Mexico's own tax agency sit
+ e this session | Source: https://realfile.tax.newmexico.gov/trd-41413ins.pd
+ f | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-mexico-q4-2026-01-25@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:New Mexico: State sales & use tax return due
+DESCRIPTION:Gross Receipts Tax (functions as sales tax) due 25th of month f
+ ollowing the reporting period\; also semiannual (July 25 / January 25). | Q
+ 4 2026 (Oct-Dec) sales tax return\, applying New Mexico's quarterly-filer d
+ ue-date rule: Gross Receipts Tax (functions as sales tax) due 25th of month
+  following the reporting period\; also semiannual (July 25 / January 25). T
+ his is a representative recurring pattern\, not a single annual deadline - 
+ actual filing frequency (monthly/quarterly/annual) is assigned per business
+  by the state. | Authority: Direct fetch of New Mexico's own tax agency sit
+ e this session | Source: https://realfile.tax.newmexico.gov/trd-41413ins.pd
+ f | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-mexico-q4-2027-01-25@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+SUMMARY:New Mexico: State sales & use tax return due
+DESCRIPTION:Gross Receipts Tax (functions as sales tax) due 25th of month f
+ ollowing the reporting period\; also semiannual (July 25 / January 25). | Q
+ 4 2026 (Oct-Dec) sales tax return\, applying New Mexico's quarterly-filer d
+ ue-date rule: Gross Receipts Tax (functions as sales tax) due 25th of month
+  following the reporting period\; also semiannual (July 25 / January 25). T
+ his is a representative recurring pattern\, not a single annual deadline - 
+ actual filing frequency (monthly/quarterly/annual) is assigned per business
+  by the state. | Authority: Direct fetch of New Mexico's own tax agency sit
+ e this session | Source: https://realfile.tax.newmexico.gov/trd-41413ins.pd
+ f | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-mexico-q4-2028-01-25@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280125
+DTEND;VALUE=DATE:20280126
+SUMMARY:New Mexico: State sales & use tax return due
+DESCRIPTION:Gross Receipts Tax (functions as sales tax) due 25th of month f
+ ollowing the reporting period\; also semiannual (July 25 / January 25). | Q
+ 4 2026 (Oct-Dec) sales tax return\, applying New Mexico's quarterly-filer d
+ ue-date rule: Gross Receipts Tax (functions as sales tax) due 25th of month
+  following the reporting period\; also semiannual (July 25 / January 25). T
+ his is a representative recurring pattern\, not a single annual deadline - 
+ actual filing frequency (monthly/quarterly/annual) is assigned per business
+  by the state. | Authority: Direct fetch of New Mexico's own tax agency sit
+ e this session | Source: https://realfile.tax.newmexico.gov/trd-41413ins.pd
+ f | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-mexico-q4-2029-01-25@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290125
+DTEND;VALUE=DATE:20290126
+SUMMARY:New Mexico: State sales & use tax return due
+DESCRIPTION:Gross Receipts Tax (functions as sales tax) due 25th of month f
+ ollowing the reporting period\; also semiannual (July 25 / January 25). | Q
+ 4 2026 (Oct-Dec) sales tax return\, applying New Mexico's quarterly-filer d
+ ue-date rule: Gross Receipts Tax (functions as sales tax) due 25th of month
+  following the reporting period\; also semiannual (July 25 / January 25). T
+ his is a representative recurring pattern\, not a single annual deadline - 
+ actual filing frequency (monthly/quarterly/annual) is assigned per business
+  by the state. | Authority: Direct fetch of New Mexico's own tax agency sit
+ e this session | Source: https://realfile.tax.newmexico.gov/trd-41413ins.pd
+ f | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-mexico-q4-2030-01-25@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300125
+DTEND;VALUE=DATE:20300126
+SUMMARY:New Mexico: State sales & use tax return due
+DESCRIPTION:Gross Receipts Tax (functions as sales tax) due 25th of month f
+ ollowing the reporting period\; also semiannual (July 25 / January 25). | Q
+ 4 2026 (Oct-Dec) sales tax return\, applying New Mexico's quarterly-filer d
+ ue-date rule: Gross Receipts Tax (functions as sales tax) due 25th of month
+  following the reporting period\; also semiannual (July 25 / January 25). T
+ his is a representative recurring pattern\, not a single annual deadline - 
+ actual filing frequency (monthly/quarterly/annual) is assigned per business
+  by the state. | Authority: Direct fetch of New Mexico's own tax agency sit
+ e this session | Source: https://realfile.tax.newmexico.gov/trd-41413ins.pd
+ f | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-mexico-q4-2031-01-25@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310125
+DTEND;VALUE=DATE:20310126
+SUMMARY:New Mexico: State sales & use tax return due
+DESCRIPTION:Gross Receipts Tax (functions as sales tax) due 25th of month f
+ ollowing the reporting period\; also semiannual (July 25 / January 25). | Q
+ 4 2026 (Oct-Dec) sales tax return\, applying New Mexico's quarterly-filer d
+ ue-date rule: Gross Receipts Tax (functions as sales tax) due 25th of month
+  following the reporting period\; also semiannual (July 25 / January 25). T
+ his is a representative recurring pattern\, not a single annual deadline - 
+ actual filing frequency (monthly/quarterly/annual) is assigned per business
+  by the state. | Authority: Direct fetch of New Mexico's own tax agency sit
+ e this session | Source: https://realfile.tax.newmexico.gov/trd-41413ins.pd
+ f | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-mexico-q4-2032-01-25@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320125
+DTEND;VALUE=DATE:20320126
+SUMMARY:New Mexico: State sales & use tax return due
+DESCRIPTION:Gross Receipts Tax (functions as sales tax) due 25th of month f
+ ollowing the reporting period\; also semiannual (July 25 / January 25). | Q
+ 4 2026 (Oct-Dec) sales tax return\, applying New Mexico's quarterly-filer d
+ ue-date rule: Gross Receipts Tax (functions as sales tax) due 25th of month
+  following the reporting period\; also semiannual (July 25 / January 25). T
+ his is a representative recurring pattern\, not a single annual deadline - 
+ actual filing frequency (monthly/quarterly/annual) is assigned per business
+  by the state. | Authority: Direct fetch of New Mexico's own tax agency sit
+ e this session | Source: https://realfile.tax.newmexico.gov/trd-41413ins.pd
+ f | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

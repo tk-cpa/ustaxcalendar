@@ -1,0 +1,1099 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tk.cpa//US Tax Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:US Tax Calendar - New Hampshire
+X-WR-CALDESC:Recurring US tax filing deadlines from ustaxcalendar.com (a tk
+ .cpa resource). Reference only\, not tax advice.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:state-corp-new-hampshire-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:New Hampshire: State corporate income/franchise tax return due
+DESCRIPTION:Business Profits Tax return due 15th day of 4th month after the
+  tax period end (April 15 for calendar-year filers)\; the automatic extensi
+ on length was not stated on the FAQ page fetched\, so no extended date is g
+ iven. | Business Profits Tax return due 15th day of 4th month after the tax
+  period end (April 15 for calendar-year filers)\; the automatic extension l
+ ength was not stated on the FAQ page fetched\, so no extended date is given
+ . | Authority: Direct fetch of New Hampshire's own tax agency site/publicat
+ ion this session | Source: https://www.revenue.nh.gov/resource-center/frequ
+ ently-asked-questions/business-profits-tax | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-new-hampshire-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:New Hampshire: State corporate income/franchise tax return due
+DESCRIPTION:Business Profits Tax return due 15th day of 4th month after the
+  tax period end (April 15 for calendar-year filers)\; the automatic extensi
+ on length was not stated on the FAQ page fetched\, so no extended date is g
+ iven. | Business Profits Tax return due 15th day of 4th month after the tax
+  period end (April 15 for calendar-year filers)\; the automatic extension l
+ ength was not stated on the FAQ page fetched\, so no extended date is given
+ . | Authority: Direct fetch of New Hampshire's own tax agency site/publicat
+ ion this session | Source: https://www.revenue.nh.gov/resource-center/frequ
+ ently-asked-questions/business-profits-tax | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-new-hampshire-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:New Hampshire: State corporate income/franchise tax return due
+DESCRIPTION:Business Profits Tax return due 15th day of 4th month after the
+  tax period end (April 15 for calendar-year filers)\; the automatic extensi
+ on length was not stated on the FAQ page fetched\, so no extended date is g
+ iven. | Business Profits Tax return due 15th day of 4th month after the tax
+  period end (April 15 for calendar-year filers)\; the automatic extension l
+ ength was not stated on the FAQ page fetched\, so no extended date is given
+ . | Authority: Direct fetch of New Hampshire's own tax agency site/publicat
+ ion this session | Source: https://www.revenue.nh.gov/resource-center/frequ
+ ently-asked-questions/business-profits-tax | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-new-hampshire-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:New Hampshire: State corporate income/franchise tax return due
+DESCRIPTION:Business Profits Tax return due 15th day of 4th month after the
+  tax period end (April 15 for calendar-year filers)\; the automatic extensi
+ on length was not stated on the FAQ page fetched\, so no extended date is g
+ iven. | Business Profits Tax return due 15th day of 4th month after the tax
+  period end (April 15 for calendar-year filers)\; the automatic extension l
+ ength was not stated on the FAQ page fetched\, so no extended date is given
+ . | Authority: Direct fetch of New Hampshire's own tax agency site/publicat
+ ion this session | Source: https://www.revenue.nh.gov/resource-center/frequ
+ ently-asked-questions/business-profits-tax | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-new-hampshire-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:New Hampshire: State corporate income/franchise tax return due
+DESCRIPTION:Business Profits Tax return due 15th day of 4th month after the
+  tax period end (April 15 for calendar-year filers)\; the automatic extensi
+ on length was not stated on the FAQ page fetched\, so no extended date is g
+ iven. | Business Profits Tax return due 15th day of 4th month after the tax
+  period end (April 15 for calendar-year filers)\; the automatic extension l
+ ength was not stated on the FAQ page fetched\, so no extended date is given
+ . | Authority: Direct fetch of New Hampshire's own tax agency site/publicat
+ ion this session | Source: https://www.revenue.nh.gov/resource-center/frequ
+ ently-asked-questions/business-profits-tax | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-new-hampshire-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:New Hampshire: State corporate income/franchise tax return due
+DESCRIPTION:Business Profits Tax return due 15th day of 4th month after the
+  tax period end (April 15 for calendar-year filers)\; the automatic extensi
+ on length was not stated on the FAQ page fetched\, so no extended date is g
+ iven. | Business Profits Tax return due 15th day of 4th month after the tax
+  period end (April 15 for calendar-year filers)\; the automatic extension l
+ ength was not stated on the FAQ page fetched\, so no extended date is given
+ . | Authority: Direct fetch of New Hampshire's own tax agency site/publicat
+ ion this session | Source: https://www.revenue.nh.gov/resource-center/frequ
+ ently-asked-questions/business-profits-tax | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-new-hampshire-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:New Hampshire: State corporate income/franchise tax return due
+DESCRIPTION:Business Profits Tax return due 15th day of 4th month after the
+  tax period end (April 15 for calendar-year filers)\; the automatic extensi
+ on length was not stated on the FAQ page fetched\, so no extended date is g
+ iven. | Business Profits Tax return due 15th day of 4th month after the tax
+  period end (April 15 for calendar-year filers)\; the automatic extension l
+ ength was not stated on the FAQ page fetched\, so no extended date is given
+ . | Authority: Direct fetch of New Hampshire's own tax agency site/publicat
+ ion this session | Source: https://www.revenue.nh.gov/resource-center/frequ
+ ently-asked-questions/business-profits-tax | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-new-hampshire-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:New Hampshire: State corporate income/franchise tax return due
+DESCRIPTION:Business Profits Tax return due 15th day of 4th month after the
+  tax period end (April 15 for calendar-year filers)\; the automatic extensi
+ on length was not stated on the FAQ page fetched\, so no extended date is g
+ iven. | Business Profits Tax return due 15th day of 4th month after the tax
+  period end (April 15 for calendar-year filers)\; the automatic extension l
+ ength was not stated on the FAQ page fetched\, so no extended date is given
+ . | Authority: Direct fetch of New Hampshire's own tax agency site/publicat
+ ion this session | Source: https://www.revenue.nh.gov/resource-center/frequ
+ ently-asked-questions/business-profits-tax | This date is computed from a r
+ ecurrence rule and may not reflect a later-announced change\; confirm again
+ st the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-new-hampshire-2025-03-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250318
+SUMMARY:New Hampshire: BT-Summary due
+DESCRIPTION:New Hampshire partnership returns due the 15th day of the 3rd m
+ onth after year-end\; S-corporations are treated the same as C corporations
+  (15th day of the 4th month\, April 15) for Business Profits Tax purposes. 
+ NH has no income tax on wages/pass-through income itself - BPT/BET apply at
+  the entity level. Correction (this rebuild session): the cited source stat
+ es the general rule (15th day of the 3rd month) without addressing the 2026
+ -specific weekend interaction - March 15\, 2026 is a Sunday. Consistent wit
+ h every other state in this data set that explicitly confirms a weekend-shi
+ ft policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, O
+ regon all confirm shifting to March 16\, 2026)\, and with the near-universa
+ l US government-deadline convention of shifting to the next business day\, 
+ this entry's date_2026 was corrected from an unshifted March 15\, 2026 to M
+ arch 16\, 2026. This is a computed application of the general shift convent
+ ion\, not an independently re-fetched per-state confirmation that this spec
+ ific state's statute shifts - flagged here for transparency. | New Hampshir
+ e partnership returns due the 15th day of the 3rd month after year-end\; S-
+ corporations are treated the same as C corporations (15th day of the 4th mo
+ nth\, April 15) for Business Profits Tax purposes. NH has no income tax on 
+ wages/pass-through income itself - BPT/BET apply at the entity level. File 
+ Form BT-EXT for a 7-month extension (partnerships due March 15\; S-corps tr
+ eated as C-corps\, due April 15). Correction (this rebuild session): the ci
+ ted source states the general rule (15th day of the 3rd month) without addr
+ essing the 2026-specific weekend interaction - March 15\, 2026 is a Sunday.
+  Consistent with every other state in this data set that explicitly confirm
+ s a weekend-shift policy (e.g. Massachusetts\, New York\, Vermont\, Delawar
+ e\, Montana\, Oregon all confirm shifting to March 16\, 2026)\, and with th
+ e near-universal US government-deadline convention of shifting to the next 
+ business day\, this entry's date_2026 was corrected from an unshifted March
+  15\, 2026 to March 16\, 2026. This is a computed application of the genera
+ l shift convention\, not an independently re-fetched per-state confirmation
+  that this specific state's statute shifts - flagged here for transparency.
+  | Authority: New Hampshire DRA FAQ\, direct fetch this session: "partnersh
+ ip returns are due on the 15th day of the 3rd month following the end of th
+ e taxable period" and "Sub-S corporations are treated the same as C Corpora
+ tions." The 7-month BT-EXT extension length is confirmed via a Cornell LII 
+ mirror of NH Admin. Code Rev 2411.02 (NH's own revenue.nh.gov PDF returned 
+ 403 on every direct fetch attempt this session) rather than a live revenue.
+ nh.gov page. | Source: https://www.revenue.nh.gov/resource-center/frequentl
+ y-asked-questions/business-profits-tax | This date is computed from a recur
+ rence rule and may not reflect a later-announced change\; confirm against t
+ he cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-new-hampshire-2026-03-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260317
+SUMMARY:New Hampshire: BT-Summary due
+DESCRIPTION:New Hampshire partnership returns due the 15th day of the 3rd m
+ onth after year-end\; S-corporations are treated the same as C corporations
+  (15th day of the 4th month\, April 15) for Business Profits Tax purposes. 
+ NH has no income tax on wages/pass-through income itself - BPT/BET apply at
+  the entity level. Correction (this rebuild session): the cited source stat
+ es the general rule (15th day of the 3rd month) without addressing the 2026
+ -specific weekend interaction - March 15\, 2026 is a Sunday. Consistent wit
+ h every other state in this data set that explicitly confirms a weekend-shi
+ ft policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, O
+ regon all confirm shifting to March 16\, 2026)\, and with the near-universa
+ l US government-deadline convention of shifting to the next business day\, 
+ this entry's date_2026 was corrected from an unshifted March 15\, 2026 to M
+ arch 16\, 2026. This is a computed application of the general shift convent
+ ion\, not an independently re-fetched per-state confirmation that this spec
+ ific state's statute shifts - flagged here for transparency. | New Hampshir
+ e partnership returns due the 15th day of the 3rd month after year-end\; S-
+ corporations are treated the same as C corporations (15th day of the 4th mo
+ nth\, April 15) for Business Profits Tax purposes. NH has no income tax on 
+ wages/pass-through income itself - BPT/BET apply at the entity level. File 
+ Form BT-EXT for a 7-month extension (partnerships due March 15\; S-corps tr
+ eated as C-corps\, due April 15). Correction (this rebuild session): the ci
+ ted source states the general rule (15th day of the 3rd month) without addr
+ essing the 2026-specific weekend interaction - March 15\, 2026 is a Sunday.
+  Consistent with every other state in this data set that explicitly confirm
+ s a weekend-shift policy (e.g. Massachusetts\, New York\, Vermont\, Delawar
+ e\, Montana\, Oregon all confirm shifting to March 16\, 2026)\, and with th
+ e near-universal US government-deadline convention of shifting to the next 
+ business day\, this entry's date_2026 was corrected from an unshifted March
+  15\, 2026 to March 16\, 2026. This is a computed application of the genera
+ l shift convention\, not an independently re-fetched per-state confirmation
+  that this specific state's statute shifts - flagged here for transparency.
+  | Authority: New Hampshire DRA FAQ\, direct fetch this session: "partnersh
+ ip returns are due on the 15th day of the 3rd month following the end of th
+ e taxable period" and "Sub-S corporations are treated the same as C Corpora
+ tions." The 7-month BT-EXT extension length is confirmed via a Cornell LII 
+ mirror of NH Admin. Code Rev 2411.02 (NH's own revenue.nh.gov PDF returned 
+ 403 on every direct fetch attempt this session) rather than a live revenue.
+ nh.gov page. | Source: https://www.revenue.nh.gov/resource-center/frequentl
+ y-asked-questions/business-profits-tax | This date is computed from a recur
+ rence rule and may not reflect a later-announced change\; confirm against t
+ he cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-new-hampshire-2027-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:New Hampshire: BT-Summary due
+DESCRIPTION:New Hampshire partnership returns due the 15th day of the 3rd m
+ onth after year-end\; S-corporations are treated the same as C corporations
+  (15th day of the 4th month\, April 15) for Business Profits Tax purposes. 
+ NH has no income tax on wages/pass-through income itself - BPT/BET apply at
+  the entity level. Correction (this rebuild session): the cited source stat
+ es the general rule (15th day of the 3rd month) without addressing the 2026
+ -specific weekend interaction - March 15\, 2026 is a Sunday. Consistent wit
+ h every other state in this data set that explicitly confirms a weekend-shi
+ ft policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, O
+ regon all confirm shifting to March 16\, 2026)\, and with the near-universa
+ l US government-deadline convention of shifting to the next business day\, 
+ this entry's date_2026 was corrected from an unshifted March 15\, 2026 to M
+ arch 16\, 2026. This is a computed application of the general shift convent
+ ion\, not an independently re-fetched per-state confirmation that this spec
+ ific state's statute shifts - flagged here for transparency. | New Hampshir
+ e partnership returns due the 15th day of the 3rd month after year-end\; S-
+ corporations are treated the same as C corporations (15th day of the 4th mo
+ nth\, April 15) for Business Profits Tax purposes. NH has no income tax on 
+ wages/pass-through income itself - BPT/BET apply at the entity level. File 
+ Form BT-EXT for a 7-month extension (partnerships due March 15\; S-corps tr
+ eated as C-corps\, due April 15). Correction (this rebuild session): the ci
+ ted source states the general rule (15th day of the 3rd month) without addr
+ essing the 2026-specific weekend interaction - March 15\, 2026 is a Sunday.
+  Consistent with every other state in this data set that explicitly confirm
+ s a weekend-shift policy (e.g. Massachusetts\, New York\, Vermont\, Delawar
+ e\, Montana\, Oregon all confirm shifting to March 16\, 2026)\, and with th
+ e near-universal US government-deadline convention of shifting to the next 
+ business day\, this entry's date_2026 was corrected from an unshifted March
+  15\, 2026 to March 16\, 2026. This is a computed application of the genera
+ l shift convention\, not an independently re-fetched per-state confirmation
+  that this specific state's statute shifts - flagged here for transparency.
+  | Authority: New Hampshire DRA FAQ\, direct fetch this session: "partnersh
+ ip returns are due on the 15th day of the 3rd month following the end of th
+ e taxable period" and "Sub-S corporations are treated the same as C Corpora
+ tions." The 7-month BT-EXT extension length is confirmed via a Cornell LII 
+ mirror of NH Admin. Code Rev 2411.02 (NH's own revenue.nh.gov PDF returned 
+ 403 on every direct fetch attempt this session) rather than a live revenue.
+ nh.gov page. | Source: https://www.revenue.nh.gov/resource-center/frequentl
+ y-asked-questions/business-profits-tax | This date is computed from a recur
+ rence rule and may not reflect a later-announced change\; confirm against t
+ he cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-new-hampshire-2028-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280315
+DTEND;VALUE=DATE:20280316
+SUMMARY:New Hampshire: BT-Summary due
+DESCRIPTION:New Hampshire partnership returns due the 15th day of the 3rd m
+ onth after year-end\; S-corporations are treated the same as C corporations
+  (15th day of the 4th month\, April 15) for Business Profits Tax purposes. 
+ NH has no income tax on wages/pass-through income itself - BPT/BET apply at
+  the entity level. Correction (this rebuild session): the cited source stat
+ es the general rule (15th day of the 3rd month) without addressing the 2026
+ -specific weekend interaction - March 15\, 2026 is a Sunday. Consistent wit
+ h every other state in this data set that explicitly confirms a weekend-shi
+ ft policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, O
+ regon all confirm shifting to March 16\, 2026)\, and with the near-universa
+ l US government-deadline convention of shifting to the next business day\, 
+ this entry's date_2026 was corrected from an unshifted March 15\, 2026 to M
+ arch 16\, 2026. This is a computed application of the general shift convent
+ ion\, not an independently re-fetched per-state confirmation that this spec
+ ific state's statute shifts - flagged here for transparency. | New Hampshir
+ e partnership returns due the 15th day of the 3rd month after year-end\; S-
+ corporations are treated the same as C corporations (15th day of the 4th mo
+ nth\, April 15) for Business Profits Tax purposes. NH has no income tax on 
+ wages/pass-through income itself - BPT/BET apply at the entity level. File 
+ Form BT-EXT for a 7-month extension (partnerships due March 15\; S-corps tr
+ eated as C-corps\, due April 15). Correction (this rebuild session): the ci
+ ted source states the general rule (15th day of the 3rd month) without addr
+ essing the 2026-specific weekend interaction - March 15\, 2026 is a Sunday.
+  Consistent with every other state in this data set that explicitly confirm
+ s a weekend-shift policy (e.g. Massachusetts\, New York\, Vermont\, Delawar
+ e\, Montana\, Oregon all confirm shifting to March 16\, 2026)\, and with th
+ e near-universal US government-deadline convention of shifting to the next 
+ business day\, this entry's date_2026 was corrected from an unshifted March
+  15\, 2026 to March 16\, 2026. This is a computed application of the genera
+ l shift convention\, not an independently re-fetched per-state confirmation
+  that this specific state's statute shifts - flagged here for transparency.
+  | Authority: New Hampshire DRA FAQ\, direct fetch this session: "partnersh
+ ip returns are due on the 15th day of the 3rd month following the end of th
+ e taxable period" and "Sub-S corporations are treated the same as C Corpora
+ tions." The 7-month BT-EXT extension length is confirmed via a Cornell LII 
+ mirror of NH Admin. Code Rev 2411.02 (NH's own revenue.nh.gov PDF returned 
+ 403 on every direct fetch attempt this session) rather than a live revenue.
+ nh.gov page. | Source: https://www.revenue.nh.gov/resource-center/frequentl
+ y-asked-questions/business-profits-tax | This date is computed from a recur
+ rence rule and may not reflect a later-announced change\; confirm against t
+ he cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-new-hampshire-2029-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290315
+DTEND;VALUE=DATE:20290316
+SUMMARY:New Hampshire: BT-Summary due
+DESCRIPTION:New Hampshire partnership returns due the 15th day of the 3rd m
+ onth after year-end\; S-corporations are treated the same as C corporations
+  (15th day of the 4th month\, April 15) for Business Profits Tax purposes. 
+ NH has no income tax on wages/pass-through income itself - BPT/BET apply at
+  the entity level. Correction (this rebuild session): the cited source stat
+ es the general rule (15th day of the 3rd month) without addressing the 2026
+ -specific weekend interaction - March 15\, 2026 is a Sunday. Consistent wit
+ h every other state in this data set that explicitly confirms a weekend-shi
+ ft policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, O
+ regon all confirm shifting to March 16\, 2026)\, and with the near-universa
+ l US government-deadline convention of shifting to the next business day\, 
+ this entry's date_2026 was corrected from an unshifted March 15\, 2026 to M
+ arch 16\, 2026. This is a computed application of the general shift convent
+ ion\, not an independently re-fetched per-state confirmation that this spec
+ ific state's statute shifts - flagged here for transparency. | New Hampshir
+ e partnership returns due the 15th day of the 3rd month after year-end\; S-
+ corporations are treated the same as C corporations (15th day of the 4th mo
+ nth\, April 15) for Business Profits Tax purposes. NH has no income tax on 
+ wages/pass-through income itself - BPT/BET apply at the entity level. File 
+ Form BT-EXT for a 7-month extension (partnerships due March 15\; S-corps tr
+ eated as C-corps\, due April 15). Correction (this rebuild session): the ci
+ ted source states the general rule (15th day of the 3rd month) without addr
+ essing the 2026-specific weekend interaction - March 15\, 2026 is a Sunday.
+  Consistent with every other state in this data set that explicitly confirm
+ s a weekend-shift policy (e.g. Massachusetts\, New York\, Vermont\, Delawar
+ e\, Montana\, Oregon all confirm shifting to March 16\, 2026)\, and with th
+ e near-universal US government-deadline convention of shifting to the next 
+ business day\, this entry's date_2026 was corrected from an unshifted March
+  15\, 2026 to March 16\, 2026. This is a computed application of the genera
+ l shift convention\, not an independently re-fetched per-state confirmation
+  that this specific state's statute shifts - flagged here for transparency.
+  | Authority: New Hampshire DRA FAQ\, direct fetch this session: "partnersh
+ ip returns are due on the 15th day of the 3rd month following the end of th
+ e taxable period" and "Sub-S corporations are treated the same as C Corpora
+ tions." The 7-month BT-EXT extension length is confirmed via a Cornell LII 
+ mirror of NH Admin. Code Rev 2411.02 (NH's own revenue.nh.gov PDF returned 
+ 403 on every direct fetch attempt this session) rather than a live revenue.
+ nh.gov page. | Source: https://www.revenue.nh.gov/resource-center/frequentl
+ y-asked-questions/business-profits-tax | This date is computed from a recur
+ rence rule and may not reflect a later-announced change\; confirm against t
+ he cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-new-hampshire-2030-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300315
+DTEND;VALUE=DATE:20300316
+SUMMARY:New Hampshire: BT-Summary due
+DESCRIPTION:New Hampshire partnership returns due the 15th day of the 3rd m
+ onth after year-end\; S-corporations are treated the same as C corporations
+  (15th day of the 4th month\, April 15) for Business Profits Tax purposes. 
+ NH has no income tax on wages/pass-through income itself - BPT/BET apply at
+  the entity level. Correction (this rebuild session): the cited source stat
+ es the general rule (15th day of the 3rd month) without addressing the 2026
+ -specific weekend interaction - March 15\, 2026 is a Sunday. Consistent wit
+ h every other state in this data set that explicitly confirms a weekend-shi
+ ft policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, O
+ regon all confirm shifting to March 16\, 2026)\, and with the near-universa
+ l US government-deadline convention of shifting to the next business day\, 
+ this entry's date_2026 was corrected from an unshifted March 15\, 2026 to M
+ arch 16\, 2026. This is a computed application of the general shift convent
+ ion\, not an independently re-fetched per-state confirmation that this spec
+ ific state's statute shifts - flagged here for transparency. | New Hampshir
+ e partnership returns due the 15th day of the 3rd month after year-end\; S-
+ corporations are treated the same as C corporations (15th day of the 4th mo
+ nth\, April 15) for Business Profits Tax purposes. NH has no income tax on 
+ wages/pass-through income itself - BPT/BET apply at the entity level. File 
+ Form BT-EXT for a 7-month extension (partnerships due March 15\; S-corps tr
+ eated as C-corps\, due April 15). Correction (this rebuild session): the ci
+ ted source states the general rule (15th day of the 3rd month) without addr
+ essing the 2026-specific weekend interaction - March 15\, 2026 is a Sunday.
+  Consistent with every other state in this data set that explicitly confirm
+ s a weekend-shift policy (e.g. Massachusetts\, New York\, Vermont\, Delawar
+ e\, Montana\, Oregon all confirm shifting to March 16\, 2026)\, and with th
+ e near-universal US government-deadline convention of shifting to the next 
+ business day\, this entry's date_2026 was corrected from an unshifted March
+  15\, 2026 to March 16\, 2026. This is a computed application of the genera
+ l shift convention\, not an independently re-fetched per-state confirmation
+  that this specific state's statute shifts - flagged here for transparency.
+  | Authority: New Hampshire DRA FAQ\, direct fetch this session: "partnersh
+ ip returns are due on the 15th day of the 3rd month following the end of th
+ e taxable period" and "Sub-S corporations are treated the same as C Corpora
+ tions." The 7-month BT-EXT extension length is confirmed via a Cornell LII 
+ mirror of NH Admin. Code Rev 2411.02 (NH's own revenue.nh.gov PDF returned 
+ 403 on every direct fetch attempt this session) rather than a live revenue.
+ nh.gov page. | Source: https://www.revenue.nh.gov/resource-center/frequentl
+ y-asked-questions/business-profits-tax | This date is computed from a recur
+ rence rule and may not reflect a later-announced change\; confirm against t
+ he cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-new-hampshire-2031-03-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310317
+DTEND;VALUE=DATE:20310318
+SUMMARY:New Hampshire: BT-Summary due
+DESCRIPTION:New Hampshire partnership returns due the 15th day of the 3rd m
+ onth after year-end\; S-corporations are treated the same as C corporations
+  (15th day of the 4th month\, April 15) for Business Profits Tax purposes. 
+ NH has no income tax on wages/pass-through income itself - BPT/BET apply at
+  the entity level. Correction (this rebuild session): the cited source stat
+ es the general rule (15th day of the 3rd month) without addressing the 2026
+ -specific weekend interaction - March 15\, 2026 is a Sunday. Consistent wit
+ h every other state in this data set that explicitly confirms a weekend-shi
+ ft policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, O
+ regon all confirm shifting to March 16\, 2026)\, and with the near-universa
+ l US government-deadline convention of shifting to the next business day\, 
+ this entry's date_2026 was corrected from an unshifted March 15\, 2026 to M
+ arch 16\, 2026. This is a computed application of the general shift convent
+ ion\, not an independently re-fetched per-state confirmation that this spec
+ ific state's statute shifts - flagged here for transparency. | New Hampshir
+ e partnership returns due the 15th day of the 3rd month after year-end\; S-
+ corporations are treated the same as C corporations (15th day of the 4th mo
+ nth\, April 15) for Business Profits Tax purposes. NH has no income tax on 
+ wages/pass-through income itself - BPT/BET apply at the entity level. File 
+ Form BT-EXT for a 7-month extension (partnerships due March 15\; S-corps tr
+ eated as C-corps\, due April 15). Correction (this rebuild session): the ci
+ ted source states the general rule (15th day of the 3rd month) without addr
+ essing the 2026-specific weekend interaction - March 15\, 2026 is a Sunday.
+  Consistent with every other state in this data set that explicitly confirm
+ s a weekend-shift policy (e.g. Massachusetts\, New York\, Vermont\, Delawar
+ e\, Montana\, Oregon all confirm shifting to March 16\, 2026)\, and with th
+ e near-universal US government-deadline convention of shifting to the next 
+ business day\, this entry's date_2026 was corrected from an unshifted March
+  15\, 2026 to March 16\, 2026. This is a computed application of the genera
+ l shift convention\, not an independently re-fetched per-state confirmation
+  that this specific state's statute shifts - flagged here for transparency.
+  | Authority: New Hampshire DRA FAQ\, direct fetch this session: "partnersh
+ ip returns are due on the 15th day of the 3rd month following the end of th
+ e taxable period" and "Sub-S corporations are treated the same as C Corpora
+ tions." The 7-month BT-EXT extension length is confirmed via a Cornell LII 
+ mirror of NH Admin. Code Rev 2411.02 (NH's own revenue.nh.gov PDF returned 
+ 403 on every direct fetch attempt this session) rather than a live revenue.
+ nh.gov page. | Source: https://www.revenue.nh.gov/resource-center/frequentl
+ y-asked-questions/business-profits-tax | This date is computed from a recur
+ rence rule and may not reflect a later-announced change\; confirm against t
+ he cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-new-hampshire-2032-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320315
+DTEND;VALUE=DATE:20320316
+SUMMARY:New Hampshire: BT-Summary due
+DESCRIPTION:New Hampshire partnership returns due the 15th day of the 3rd m
+ onth after year-end\; S-corporations are treated the same as C corporations
+  (15th day of the 4th month\, April 15) for Business Profits Tax purposes. 
+ NH has no income tax on wages/pass-through income itself - BPT/BET apply at
+  the entity level. Correction (this rebuild session): the cited source stat
+ es the general rule (15th day of the 3rd month) without addressing the 2026
+ -specific weekend interaction - March 15\, 2026 is a Sunday. Consistent wit
+ h every other state in this data set that explicitly confirms a weekend-shi
+ ft policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, O
+ regon all confirm shifting to March 16\, 2026)\, and with the near-universa
+ l US government-deadline convention of shifting to the next business day\, 
+ this entry's date_2026 was corrected from an unshifted March 15\, 2026 to M
+ arch 16\, 2026. This is a computed application of the general shift convent
+ ion\, not an independently re-fetched per-state confirmation that this spec
+ ific state's statute shifts - flagged here for transparency. | New Hampshir
+ e partnership returns due the 15th day of the 3rd month after year-end\; S-
+ corporations are treated the same as C corporations (15th day of the 4th mo
+ nth\, April 15) for Business Profits Tax purposes. NH has no income tax on 
+ wages/pass-through income itself - BPT/BET apply at the entity level. File 
+ Form BT-EXT for a 7-month extension (partnerships due March 15\; S-corps tr
+ eated as C-corps\, due April 15). Correction (this rebuild session): the ci
+ ted source states the general rule (15th day of the 3rd month) without addr
+ essing the 2026-specific weekend interaction - March 15\, 2026 is a Sunday.
+  Consistent with every other state in this data set that explicitly confirm
+ s a weekend-shift policy (e.g. Massachusetts\, New York\, Vermont\, Delawar
+ e\, Montana\, Oregon all confirm shifting to March 16\, 2026)\, and with th
+ e near-universal US government-deadline convention of shifting to the next 
+ business day\, this entry's date_2026 was corrected from an unshifted March
+  15\, 2026 to March 16\, 2026. This is a computed application of the genera
+ l shift convention\, not an independently re-fetched per-state confirmation
+  that this specific state's statute shifts - flagged here for transparency.
+  | Authority: New Hampshire DRA FAQ\, direct fetch this session: "partnersh
+ ip returns are due on the 15th day of the 3rd month following the end of th
+ e taxable period" and "Sub-S corporations are treated the same as C Corpora
+ tions." The 7-month BT-EXT extension length is confirmed via a Cornell LII 
+ mirror of NH Admin. Code Rev 2411.02 (NH's own revenue.nh.gov PDF returned 
+ 403 on every direct fetch attempt this session) rather than a live revenue.
+ nh.gov page. | Source: https://www.revenue.nh.gov/resource-center/frequentl
+ y-asked-questions/business-profits-tax | This date is computed from a recur
+ rence rule and may not reflect a later-announced change\; confirm against t
+ he cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-hampshire-q1-2025-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250430
+DTEND;VALUE=DATE:20250501
+SUMMARY:New Hampshire: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Contributions of every employer on wages paid during a calendar quar
+ ter shall be due and paid on or before the last day of the month following 
+ the calendar quarter (Emp 304.01(a)). | Authority: Direct fetch of New Hamp
+ shire's own unemployment insurance agency site/handbook/code this session |
+  Source: https://gc.nh.gov/rules/state_agencies/emp100-500.html | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-hampshire-q1-2026-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:New Hampshire: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Contributions of every employer on wages paid during a calendar quar
+ ter shall be due and paid on or before the last day of the month following 
+ the calendar quarter (Emp 304.01(a)). | Authority: Direct fetch of New Hamp
+ shire's own unemployment insurance agency site/handbook/code this session |
+  Source: https://gc.nh.gov/rules/state_agencies/emp100-500.html | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-hampshire-q1-2027-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:New Hampshire: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Contributions of every employer on wages paid during a calendar quar
+ ter shall be due and paid on or before the last day of the month following 
+ the calendar quarter (Emp 304.01(a)). | Authority: Direct fetch of New Hamp
+ shire's own unemployment insurance agency site/handbook/code this session |
+  Source: https://gc.nh.gov/rules/state_agencies/emp100-500.html | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-hampshire-q1-2028-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280430
+DTEND;VALUE=DATE:20280501
+SUMMARY:New Hampshire: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Contributions of every employer on wages paid during a calendar quar
+ ter shall be due and paid on or before the last day of the month following 
+ the calendar quarter (Emp 304.01(a)). | Authority: Direct fetch of New Hamp
+ shire's own unemployment insurance agency site/handbook/code this session |
+  Source: https://gc.nh.gov/rules/state_agencies/emp100-500.html | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-hampshire-q1-2029-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290430
+DTEND;VALUE=DATE:20290501
+SUMMARY:New Hampshire: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Contributions of every employer on wages paid during a calendar quar
+ ter shall be due and paid on or before the last day of the month following 
+ the calendar quarter (Emp 304.01(a)). | Authority: Direct fetch of New Hamp
+ shire's own unemployment insurance agency site/handbook/code this session |
+  Source: https://gc.nh.gov/rules/state_agencies/emp100-500.html | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-hampshire-q1-2030-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300430
+DTEND;VALUE=DATE:20300501
+SUMMARY:New Hampshire: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Contributions of every employer on wages paid during a calendar quar
+ ter shall be due and paid on or before the last day of the month following 
+ the calendar quarter (Emp 304.01(a)). | Authority: Direct fetch of New Hamp
+ shire's own unemployment insurance agency site/handbook/code this session |
+  Source: https://gc.nh.gov/rules/state_agencies/emp100-500.html | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-hampshire-q1-2031-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310430
+DTEND;VALUE=DATE:20310501
+SUMMARY:New Hampshire: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Contributions of every employer on wages paid during a calendar quar
+ ter shall be due and paid on or before the last day of the month following 
+ the calendar quarter (Emp 304.01(a)). | Authority: Direct fetch of New Hamp
+ shire's own unemployment insurance agency site/handbook/code this session |
+  Source: https://gc.nh.gov/rules/state_agencies/emp100-500.html | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-hampshire-q1-2032-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320430
+DTEND;VALUE=DATE:20320501
+SUMMARY:New Hampshire: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Contributions of every employer on wages paid during a calendar quar
+ ter shall be due and paid on or before the last day of the month following 
+ the calendar quarter (Emp 304.01(a)). | Authority: Direct fetch of New Hamp
+ shire's own unemployment insurance agency site/handbook/code this session |
+  Source: https://gc.nh.gov/rules/state_agencies/emp100-500.html | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-hampshire-q2-2025-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250731
+DTEND;VALUE=DATE:20250801
+SUMMARY:New Hampshire: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Contributions of every employer on wages paid during a calendar quar
+ ter shall be due and paid on or before the last day of the month following 
+ the calendar quarter (Emp 304.01(a)). | Authority: Direct fetch of New Hamp
+ shire's own unemployment insurance agency site/handbook/code this session |
+  Source: https://gc.nh.gov/rules/state_agencies/emp100-500.html | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-hampshire-q2-2026-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:New Hampshire: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Contributions of every employer on wages paid during a calendar quar
+ ter shall be due and paid on or before the last day of the month following 
+ the calendar quarter (Emp 304.01(a)). | Authority: Direct fetch of New Hamp
+ shire's own unemployment insurance agency site/handbook/code this session |
+  Source: https://gc.nh.gov/rules/state_agencies/emp100-500.html | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-hampshire-q2-2027-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:New Hampshire: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Contributions of every employer on wages paid during a calendar quar
+ ter shall be due and paid on or before the last day of the month following 
+ the calendar quarter (Emp 304.01(a)). | Authority: Direct fetch of New Hamp
+ shire's own unemployment insurance agency site/handbook/code this session |
+  Source: https://gc.nh.gov/rules/state_agencies/emp100-500.html | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-hampshire-q2-2028-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280731
+DTEND;VALUE=DATE:20280801
+SUMMARY:New Hampshire: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Contributions of every employer on wages paid during a calendar quar
+ ter shall be due and paid on or before the last day of the month following 
+ the calendar quarter (Emp 304.01(a)). | Authority: Direct fetch of New Hamp
+ shire's own unemployment insurance agency site/handbook/code this session |
+  Source: https://gc.nh.gov/rules/state_agencies/emp100-500.html | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-hampshire-q2-2029-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290731
+DTEND;VALUE=DATE:20290801
+SUMMARY:New Hampshire: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Contributions of every employer on wages paid during a calendar quar
+ ter shall be due and paid on or before the last day of the month following 
+ the calendar quarter (Emp 304.01(a)). | Authority: Direct fetch of New Hamp
+ shire's own unemployment insurance agency site/handbook/code this session |
+  Source: https://gc.nh.gov/rules/state_agencies/emp100-500.html | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-hampshire-q2-2030-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300731
+DTEND;VALUE=DATE:20300801
+SUMMARY:New Hampshire: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Contributions of every employer on wages paid during a calendar quar
+ ter shall be due and paid on or before the last day of the month following 
+ the calendar quarter (Emp 304.01(a)). | Authority: Direct fetch of New Hamp
+ shire's own unemployment insurance agency site/handbook/code this session |
+  Source: https://gc.nh.gov/rules/state_agencies/emp100-500.html | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-hampshire-q2-2031-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310731
+DTEND;VALUE=DATE:20310801
+SUMMARY:New Hampshire: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Contributions of every employer on wages paid during a calendar quar
+ ter shall be due and paid on or before the last day of the month following 
+ the calendar quarter (Emp 304.01(a)). | Authority: Direct fetch of New Hamp
+ shire's own unemployment insurance agency site/handbook/code this session |
+  Source: https://gc.nh.gov/rules/state_agencies/emp100-500.html | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-hampshire-q2-2032-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320731
+DTEND;VALUE=DATE:20320801
+SUMMARY:New Hampshire: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Contributions of every employer on wages paid during a calendar quar
+ ter shall be due and paid on or before the last day of the month following 
+ the calendar quarter (Emp 304.01(a)). | Authority: Direct fetch of New Hamp
+ shire's own unemployment insurance agency site/handbook/code this session |
+  Source: https://gc.nh.gov/rules/state_agencies/emp100-500.html | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-hampshire-q3-2025-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20251031
+DTEND;VALUE=DATE:20251101
+SUMMARY:New Hampshire: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Contributions of every employer on wages paid during a calendar quar
+ ter shall be due and paid on or before the last day of the month following 
+ the calendar quarter (Emp 304.01(a)). | Authority: Direct fetch of New Hamp
+ shire's own unemployment insurance agency site/handbook/code this session |
+  Source: https://gc.nh.gov/rules/state_agencies/emp100-500.html | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-hampshire-q3-2026-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:New Hampshire: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Contributions of every employer on wages paid during a calendar quar
+ ter shall be due and paid on or before the last day of the month following 
+ the calendar quarter (Emp 304.01(a)). | Authority: Direct fetch of New Hamp
+ shire's own unemployment insurance agency site/handbook/code this session |
+  Source: https://gc.nh.gov/rules/state_agencies/emp100-500.html | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-hampshire-q3-2027-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20271031
+DTEND;VALUE=DATE:20271101
+SUMMARY:New Hampshire: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Contributions of every employer on wages paid during a calendar quar
+ ter shall be due and paid on or before the last day of the month following 
+ the calendar quarter (Emp 304.01(a)). | Authority: Direct fetch of New Hamp
+ shire's own unemployment insurance agency site/handbook/code this session |
+  Source: https://gc.nh.gov/rules/state_agencies/emp100-500.html | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-hampshire-q3-2028-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20281031
+DTEND;VALUE=DATE:20281101
+SUMMARY:New Hampshire: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Contributions of every employer on wages paid during a calendar quar
+ ter shall be due and paid on or before the last day of the month following 
+ the calendar quarter (Emp 304.01(a)). | Authority: Direct fetch of New Hamp
+ shire's own unemployment insurance agency site/handbook/code this session |
+  Source: https://gc.nh.gov/rules/state_agencies/emp100-500.html | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-hampshire-q3-2029-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20291031
+DTEND;VALUE=DATE:20291101
+SUMMARY:New Hampshire: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Contributions of every employer on wages paid during a calendar quar
+ ter shall be due and paid on or before the last day of the month following 
+ the calendar quarter (Emp 304.01(a)). | Authority: Direct fetch of New Hamp
+ shire's own unemployment insurance agency site/handbook/code this session |
+  Source: https://gc.nh.gov/rules/state_agencies/emp100-500.html | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-hampshire-q3-2030-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20301031
+DTEND;VALUE=DATE:20301101
+SUMMARY:New Hampshire: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Contributions of every employer on wages paid during a calendar quar
+ ter shall be due and paid on or before the last day of the month following 
+ the calendar quarter (Emp 304.01(a)). | Authority: Direct fetch of New Hamp
+ shire's own unemployment insurance agency site/handbook/code this session |
+  Source: https://gc.nh.gov/rules/state_agencies/emp100-500.html | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-hampshire-q3-2031-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20311031
+DTEND;VALUE=DATE:20311101
+SUMMARY:New Hampshire: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Contributions of every employer on wages paid during a calendar quar
+ ter shall be due and paid on or before the last day of the month following 
+ the calendar quarter (Emp 304.01(a)). | Authority: Direct fetch of New Hamp
+ shire's own unemployment insurance agency site/handbook/code this session |
+  Source: https://gc.nh.gov/rules/state_agencies/emp100-500.html | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-hampshire-q3-2032-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20321031
+DTEND;VALUE=DATE:20321101
+SUMMARY:New Hampshire: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Contributions of every employer on wages paid during a calendar quar
+ ter shall be due and paid on or before the last day of the month following 
+ the calendar quarter (Emp 304.01(a)). | Authority: Direct fetch of New Hamp
+ shire's own unemployment insurance agency site/handbook/code this session |
+  Source: https://gc.nh.gov/rules/state_agencies/emp100-500.html | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-hampshire-q4-2025-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250131
+DTEND;VALUE=DATE:20250201
+SUMMARY:New Hampshire: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Contributions of every employer on wages paid during a calendar quar
+ ter shall be due and paid on or before the last day of the month following 
+ the calendar quarter (Emp 304.01(a)). | Authority: Direct fetch of New Hamp
+ shire's own unemployment insurance agency site/handbook/code this session |
+  Source: https://gc.nh.gov/rules/state_agencies/emp100-500.html | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-hampshire-q4-2026-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:New Hampshire: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Contributions of every employer on wages paid during a calendar quar
+ ter shall be due and paid on or before the last day of the month following 
+ the calendar quarter (Emp 304.01(a)). | Authority: Direct fetch of New Hamp
+ shire's own unemployment insurance agency site/handbook/code this session |
+  Source: https://gc.nh.gov/rules/state_agencies/emp100-500.html | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-hampshire-q4-2027-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:New Hampshire: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Contributions of every employer on wages paid during a calendar quar
+ ter shall be due and paid on or before the last day of the month following 
+ the calendar quarter (Emp 304.01(a)). | Authority: Direct fetch of New Hamp
+ shire's own unemployment insurance agency site/handbook/code this session |
+  Source: https://gc.nh.gov/rules/state_agencies/emp100-500.html | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-hampshire-q4-2028-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280131
+DTEND;VALUE=DATE:20280201
+SUMMARY:New Hampshire: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Contributions of every employer on wages paid during a calendar quar
+ ter shall be due and paid on or before the last day of the month following 
+ the calendar quarter (Emp 304.01(a)). | Authority: Direct fetch of New Hamp
+ shire's own unemployment insurance agency site/handbook/code this session |
+  Source: https://gc.nh.gov/rules/state_agencies/emp100-500.html | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-hampshire-q4-2029-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290131
+DTEND;VALUE=DATE:20290201
+SUMMARY:New Hampshire: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Contributions of every employer on wages paid during a calendar quar
+ ter shall be due and paid on or before the last day of the month following 
+ the calendar quarter (Emp 304.01(a)). | Authority: Direct fetch of New Hamp
+ shire's own unemployment insurance agency site/handbook/code this session |
+  Source: https://gc.nh.gov/rules/state_agencies/emp100-500.html | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-hampshire-q4-2030-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300131
+DTEND;VALUE=DATE:20300201
+SUMMARY:New Hampshire: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Contributions of every employer on wages paid during a calendar quar
+ ter shall be due and paid on or before the last day of the month following 
+ the calendar quarter (Emp 304.01(a)). | Authority: Direct fetch of New Hamp
+ shire's own unemployment insurance agency site/handbook/code this session |
+  Source: https://gc.nh.gov/rules/state_agencies/emp100-500.html | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-hampshire-q4-2031-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310131
+DTEND;VALUE=DATE:20310201
+SUMMARY:New Hampshire: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Contributions of every employer on wages paid during a calendar quar
+ ter shall be due and paid on or before the last day of the month following 
+ the calendar quarter (Emp 304.01(a)). | Authority: Direct fetch of New Hamp
+ shire's own unemployment insurance agency site/handbook/code this session |
+  Source: https://gc.nh.gov/rules/state_agencies/emp100-500.html | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-hampshire-q4-2032-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320131
+DTEND;VALUE=DATE:20320201
+SUMMARY:New Hampshire: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Contributions of every employer on wages paid during a calendar quar
+ ter shall be due and paid on or before the last day of the month following 
+ the calendar quarter (Emp 304.01(a)). | Authority: Direct fetch of New Hamp
+ shire's own unemployment insurance agency site/handbook/code this session |
+  Source: https://gc.nh.gov/rules/state_agencies/emp100-500.html | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

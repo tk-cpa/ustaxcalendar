@@ -1,0 +1,2291 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tk.cpa//US Tax Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:US Tax Calendar - Wisconsin
+X-WR-CALDESC:Recurring US tax filing deadlines from ustaxcalendar.com (a tk
+ .cpa resource). Reference only\, not tax advice.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:state-corp-wisconsin-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:Wisconsin: State corporate income/franchise tax return due
+DESCRIPTION:Due April 15\; without a federal extension\, Wisconsin automati
+ cally grants a 7-month extension (or the original federal due date\, whiche
+ ver is later). If a federal extension is filed\, the Wisconsin due date is 
+ 30 days after the federal extended due date. | Due April 15\; without a fed
+ eral extension\, Wisconsin automatically grants a 7-month extension (or the
+  original federal due date\, whichever is later). If a federal extension is
+  filed\, the Wisconsin due date is 30 days after the federal extended due d
+ ate. | Authority: Direct fetch of Wisconsin's own tax agency site/publicati
+ on this session | Source: https://www.revenue.wi.gov/Pages/FAQS/ise-crpginf
+ o.aspx | This date is computed from a recurrence rule and may not reflect a
+  later-announced change\; confirm against the cited source before relying o
+ n it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-wisconsin-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:Wisconsin: State corporate income/franchise tax return due
+DESCRIPTION:Due April 15\; without a federal extension\, Wisconsin automati
+ cally grants a 7-month extension (or the original federal due date\, whiche
+ ver is later). If a federal extension is filed\, the Wisconsin due date is 
+ 30 days after the federal extended due date. | Due April 15\; without a fed
+ eral extension\, Wisconsin automatically grants a 7-month extension (or the
+  original federal due date\, whichever is later). If a federal extension is
+  filed\, the Wisconsin due date is 30 days after the federal extended due d
+ ate. | Authority: Direct fetch of Wisconsin's own tax agency site/publicati
+ on this session | Source: https://www.revenue.wi.gov/Pages/FAQS/ise-crpginf
+ o.aspx | This date is computed from a recurrence rule and may not reflect a
+  later-announced change\; confirm against the cited source before relying o
+ n it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-wisconsin-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Wisconsin: State corporate income/franchise tax return due
+DESCRIPTION:Due April 15\; without a federal extension\, Wisconsin automati
+ cally grants a 7-month extension (or the original federal due date\, whiche
+ ver is later). If a federal extension is filed\, the Wisconsin due date is 
+ 30 days after the federal extended due date. | Due April 15\; without a fed
+ eral extension\, Wisconsin automatically grants a 7-month extension (or the
+  original federal due date\, whichever is later). If a federal extension is
+  filed\, the Wisconsin due date is 30 days after the federal extended due d
+ ate. | Authority: Direct fetch of Wisconsin's own tax agency site/publicati
+ on this session | Source: https://www.revenue.wi.gov/Pages/FAQS/ise-crpginf
+ o.aspx | This date is computed from a recurrence rule and may not reflect a
+  later-announced change\; confirm against the cited source before relying o
+ n it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-wisconsin-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Wisconsin: State corporate income/franchise tax return due
+DESCRIPTION:Due April 15\; without a federal extension\, Wisconsin automati
+ cally grants a 7-month extension (or the original federal due date\, whiche
+ ver is later). If a federal extension is filed\, the Wisconsin due date is 
+ 30 days after the federal extended due date. | Due April 15\; without a fed
+ eral extension\, Wisconsin automatically grants a 7-month extension (or the
+  original federal due date\, whichever is later). If a federal extension is
+  filed\, the Wisconsin due date is 30 days after the federal extended due d
+ ate. | Authority: Direct fetch of Wisconsin's own tax agency site/publicati
+ on this session | Source: https://www.revenue.wi.gov/Pages/FAQS/ise-crpginf
+ o.aspx | This date is computed from a recurrence rule and may not reflect a
+  later-announced change\; confirm against the cited source before relying o
+ n it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-wisconsin-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:Wisconsin: State corporate income/franchise tax return due
+DESCRIPTION:Due April 15\; without a federal extension\, Wisconsin automati
+ cally grants a 7-month extension (or the original federal due date\, whiche
+ ver is later). If a federal extension is filed\, the Wisconsin due date is 
+ 30 days after the federal extended due date. | Due April 15\; without a fed
+ eral extension\, Wisconsin automatically grants a 7-month extension (or the
+  original federal due date\, whichever is later). If a federal extension is
+  filed\, the Wisconsin due date is 30 days after the federal extended due d
+ ate. | Authority: Direct fetch of Wisconsin's own tax agency site/publicati
+ on this session | Source: https://www.revenue.wi.gov/Pages/FAQS/ise-crpginf
+ o.aspx | This date is computed from a recurrence rule and may not reflect a
+  later-announced change\; confirm against the cited source before relying o
+ n it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-wisconsin-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:Wisconsin: State corporate income/franchise tax return due
+DESCRIPTION:Due April 15\; without a federal extension\, Wisconsin automati
+ cally grants a 7-month extension (or the original federal due date\, whiche
+ ver is later). If a federal extension is filed\, the Wisconsin due date is 
+ 30 days after the federal extended due date. | Due April 15\; without a fed
+ eral extension\, Wisconsin automatically grants a 7-month extension (or the
+  original federal due date\, whichever is later). If a federal extension is
+  filed\, the Wisconsin due date is 30 days after the federal extended due d
+ ate. | Authority: Direct fetch of Wisconsin's own tax agency site/publicati
+ on this session | Source: https://www.revenue.wi.gov/Pages/FAQS/ise-crpginf
+ o.aspx | This date is computed from a recurrence rule and may not reflect a
+  later-announced change\; confirm against the cited source before relying o
+ n it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-wisconsin-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:Wisconsin: State corporate income/franchise tax return due
+DESCRIPTION:Due April 15\; without a federal extension\, Wisconsin automati
+ cally grants a 7-month extension (or the original federal due date\, whiche
+ ver is later). If a federal extension is filed\, the Wisconsin due date is 
+ 30 days after the federal extended due date. | Due April 15\; without a fed
+ eral extension\, Wisconsin automatically grants a 7-month extension (or the
+  original federal due date\, whichever is later). If a federal extension is
+  filed\, the Wisconsin due date is 30 days after the federal extended due d
+ ate. | Authority: Direct fetch of Wisconsin's own tax agency site/publicati
+ on this session | Source: https://www.revenue.wi.gov/Pages/FAQS/ise-crpginf
+ o.aspx | This date is computed from a recurrence rule and may not reflect a
+  later-announced change\; confirm against the cited source before relying o
+ n it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-wisconsin-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:Wisconsin: State corporate income/franchise tax return due
+DESCRIPTION:Due April 15\; without a federal extension\, Wisconsin automati
+ cally grants a 7-month extension (or the original federal due date\, whiche
+ ver is later). If a federal extension is filed\, the Wisconsin due date is 
+ 30 days after the federal extended due date. | Due April 15\; without a fed
+ eral extension\, Wisconsin automatically grants a 7-month extension (or the
+  original federal due date\, whichever is later). If a federal extension is
+  filed\, the Wisconsin due date is 30 days after the federal extended due d
+ ate. | Authority: Direct fetch of Wisconsin's own tax agency site/publicati
+ on this session | Source: https://www.revenue.wi.gov/Pages/FAQS/ise-crpginf
+ o.aspx | This date is computed from a recurrence rule and may not reflect a
+  later-announced change\; confirm against the cited source before relying o
+ n it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-wisconsin-q1-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:Wisconsin: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, 2026\, June 15\, 2026\, September 15\, 2026\, and Ja
+ nuary 15\, 2027. | Q1 2026 state individual estimated tax payment. April 15
+ \, 2026\, June 15\, 2026\, September 15\, 2026\, and January 15\, 2027. | A
+ uthority: Direct fetch of Wisconsin's own tax agency site/instructions this
+  session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-estpay.aspx | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-wisconsin-q1-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:Wisconsin: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, 2026\, June 15\, 2026\, September 15\, 2026\, and Ja
+ nuary 15\, 2027. | Q1 2026 state individual estimated tax payment. April 15
+ \, 2026\, June 15\, 2026\, September 15\, 2026\, and January 15\, 2027. | A
+ uthority: Direct fetch of Wisconsin's own tax agency site/instructions this
+  session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-estpay.aspx | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-wisconsin-q1-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Wisconsin: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, 2026\, June 15\, 2026\, September 15\, 2026\, and Ja
+ nuary 15\, 2027. | Q1 2026 state individual estimated tax payment. April 15
+ \, 2026\, June 15\, 2026\, September 15\, 2026\, and January 15\, 2027. | A
+ uthority: Direct fetch of Wisconsin's own tax agency site/instructions this
+  session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-estpay.aspx | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-wisconsin-q1-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Wisconsin: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, 2026\, June 15\, 2026\, September 15\, 2026\, and Ja
+ nuary 15\, 2027. | Q1 2026 state individual estimated tax payment. April 15
+ \, 2026\, June 15\, 2026\, September 15\, 2026\, and January 15\, 2027. | A
+ uthority: Direct fetch of Wisconsin's own tax agency site/instructions this
+  session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-estpay.aspx | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-wisconsin-q1-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:Wisconsin: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, 2026\, June 15\, 2026\, September 15\, 2026\, and Ja
+ nuary 15\, 2027. | Q1 2026 state individual estimated tax payment. April 15
+ \, 2026\, June 15\, 2026\, September 15\, 2026\, and January 15\, 2027. | A
+ uthority: Direct fetch of Wisconsin's own tax agency site/instructions this
+  session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-estpay.aspx | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-wisconsin-q1-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:Wisconsin: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, 2026\, June 15\, 2026\, September 15\, 2026\, and Ja
+ nuary 15\, 2027. | Q1 2026 state individual estimated tax payment. April 15
+ \, 2026\, June 15\, 2026\, September 15\, 2026\, and January 15\, 2027. | A
+ uthority: Direct fetch of Wisconsin's own tax agency site/instructions this
+  session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-estpay.aspx | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-wisconsin-q1-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:Wisconsin: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, 2026\, June 15\, 2026\, September 15\, 2026\, and Ja
+ nuary 15\, 2027. | Q1 2026 state individual estimated tax payment. April 15
+ \, 2026\, June 15\, 2026\, September 15\, 2026\, and January 15\, 2027. | A
+ uthority: Direct fetch of Wisconsin's own tax agency site/instructions this
+  session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-estpay.aspx | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-wisconsin-q1-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:Wisconsin: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, 2026\, June 15\, 2026\, September 15\, 2026\, and Ja
+ nuary 15\, 2027. | Q1 2026 state individual estimated tax payment. April 15
+ \, 2026\, June 15\, 2026\, September 15\, 2026\, and January 15\, 2027. | A
+ uthority: Direct fetch of Wisconsin's own tax agency site/instructions this
+  session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-estpay.aspx | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-wisconsin-q2-2025-06-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250617
+SUMMARY:Wisconsin: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, 2026\, June 15\, 2026\, September 15\, 2026\, and Ja
+ nuary 15\, 2027. | Q2 2026 state individual estimated tax payment. April 15
+ \, 2026\, June 15\, 2026\, September 15\, 2026\, and January 15\, 2027. | A
+ uthority: Direct fetch of Wisconsin's own tax agency site/instructions this
+  session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-estpay.aspx | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-wisconsin-q2-2026-06-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Wisconsin: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, 2026\, June 15\, 2026\, September 15\, 2026\, and Ja
+ nuary 15\, 2027. | Q2 2026 state individual estimated tax payment. April 15
+ \, 2026\, June 15\, 2026\, September 15\, 2026\, and January 15\, 2027. | A
+ uthority: Direct fetch of Wisconsin's own tax agency site/instructions this
+  session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-estpay.aspx | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-wisconsin-q2-2027-06-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:Wisconsin: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, 2026\, June 15\, 2026\, September 15\, 2026\, and Ja
+ nuary 15\, 2027. | Q2 2026 state individual estimated tax payment. April 15
+ \, 2026\, June 15\, 2026\, September 15\, 2026\, and January 15\, 2027. | A
+ uthority: Direct fetch of Wisconsin's own tax agency site/instructions this
+  session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-estpay.aspx | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-wisconsin-q2-2028-06-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280615
+DTEND;VALUE=DATE:20280616
+SUMMARY:Wisconsin: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, 2026\, June 15\, 2026\, September 15\, 2026\, and Ja
+ nuary 15\, 2027. | Q2 2026 state individual estimated tax payment. April 15
+ \, 2026\, June 15\, 2026\, September 15\, 2026\, and January 15\, 2027. | A
+ uthority: Direct fetch of Wisconsin's own tax agency site/instructions this
+  session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-estpay.aspx | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-wisconsin-q2-2029-06-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290615
+DTEND;VALUE=DATE:20290616
+SUMMARY:Wisconsin: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, 2026\, June 15\, 2026\, September 15\, 2026\, and Ja
+ nuary 15\, 2027. | Q2 2026 state individual estimated tax payment. April 15
+ \, 2026\, June 15\, 2026\, September 15\, 2026\, and January 15\, 2027. | A
+ uthority: Direct fetch of Wisconsin's own tax agency site/instructions this
+  session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-estpay.aspx | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-wisconsin-q2-2030-06-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300617
+DTEND;VALUE=DATE:20300618
+SUMMARY:Wisconsin: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, 2026\, June 15\, 2026\, September 15\, 2026\, and Ja
+ nuary 15\, 2027. | Q2 2026 state individual estimated tax payment. April 15
+ \, 2026\, June 15\, 2026\, September 15\, 2026\, and January 15\, 2027. | A
+ uthority: Direct fetch of Wisconsin's own tax agency site/instructions this
+  session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-estpay.aspx | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-wisconsin-q2-2031-06-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310616
+DTEND;VALUE=DATE:20310617
+SUMMARY:Wisconsin: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, 2026\, June 15\, 2026\, September 15\, 2026\, and Ja
+ nuary 15\, 2027. | Q2 2026 state individual estimated tax payment. April 15
+ \, 2026\, June 15\, 2026\, September 15\, 2026\, and January 15\, 2027. | A
+ uthority: Direct fetch of Wisconsin's own tax agency site/instructions this
+  session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-estpay.aspx | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-wisconsin-q2-2032-06-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320615
+DTEND;VALUE=DATE:20320616
+SUMMARY:Wisconsin: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, 2026\, June 15\, 2026\, September 15\, 2026\, and Ja
+ nuary 15\, 2027. | Q2 2026 state individual estimated tax payment. April 15
+ \, 2026\, June 15\, 2026\, September 15\, 2026\, and January 15\, 2027. | A
+ uthority: Direct fetch of Wisconsin's own tax agency site/instructions this
+  session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-estpay.aspx | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-wisconsin-q3-2025-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20250916
+SUMMARY:Wisconsin: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, 2026\, June 15\, 2026\, September 15\, 2026\, and Ja
+ nuary 15\, 2027. | Q3 2026 state individual estimated tax payment. April 15
+ \, 2026\, June 15\, 2026\, September 15\, 2026\, and January 15\, 2027. | A
+ uthority: Direct fetch of Wisconsin's own tax agency site/instructions this
+  session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-estpay.aspx | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-wisconsin-q3-2026-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Wisconsin: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, 2026\, June 15\, 2026\, September 15\, 2026\, and Ja
+ nuary 15\, 2027. | Q3 2026 state individual estimated tax payment. April 15
+ \, 2026\, June 15\, 2026\, September 15\, 2026\, and January 15\, 2027. | A
+ uthority: Direct fetch of Wisconsin's own tax agency site/instructions this
+  session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-estpay.aspx | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-wisconsin-q3-2027-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:Wisconsin: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, 2026\, June 15\, 2026\, September 15\, 2026\, and Ja
+ nuary 15\, 2027. | Q3 2026 state individual estimated tax payment. April 15
+ \, 2026\, June 15\, 2026\, September 15\, 2026\, and January 15\, 2027. | A
+ uthority: Direct fetch of Wisconsin's own tax agency site/instructions this
+  session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-estpay.aspx | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-wisconsin-q3-2028-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280915
+DTEND;VALUE=DATE:20280916
+SUMMARY:Wisconsin: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, 2026\, June 15\, 2026\, September 15\, 2026\, and Ja
+ nuary 15\, 2027. | Q3 2026 state individual estimated tax payment. April 15
+ \, 2026\, June 15\, 2026\, September 15\, 2026\, and January 15\, 2027. | A
+ uthority: Direct fetch of Wisconsin's own tax agency site/instructions this
+  session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-estpay.aspx | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-wisconsin-q3-2029-09-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290917
+DTEND;VALUE=DATE:20290918
+SUMMARY:Wisconsin: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, 2026\, June 15\, 2026\, September 15\, 2026\, and Ja
+ nuary 15\, 2027. | Q3 2026 state individual estimated tax payment. April 15
+ \, 2026\, June 15\, 2026\, September 15\, 2026\, and January 15\, 2027. | A
+ uthority: Direct fetch of Wisconsin's own tax agency site/instructions this
+  session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-estpay.aspx | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-wisconsin-q3-2030-09-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300916
+DTEND;VALUE=DATE:20300917
+SUMMARY:Wisconsin: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, 2026\, June 15\, 2026\, September 15\, 2026\, and Ja
+ nuary 15\, 2027. | Q3 2026 state individual estimated tax payment. April 15
+ \, 2026\, June 15\, 2026\, September 15\, 2026\, and January 15\, 2027. | A
+ uthority: Direct fetch of Wisconsin's own tax agency site/instructions this
+  session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-estpay.aspx | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-wisconsin-q3-2031-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310915
+DTEND;VALUE=DATE:20310916
+SUMMARY:Wisconsin: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, 2026\, June 15\, 2026\, September 15\, 2026\, and Ja
+ nuary 15\, 2027. | Q3 2026 state individual estimated tax payment. April 15
+ \, 2026\, June 15\, 2026\, September 15\, 2026\, and January 15\, 2027. | A
+ uthority: Direct fetch of Wisconsin's own tax agency site/instructions this
+  session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-estpay.aspx | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-wisconsin-q3-2032-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320915
+DTEND;VALUE=DATE:20320916
+SUMMARY:Wisconsin: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, 2026\, June 15\, 2026\, September 15\, 2026\, and Ja
+ nuary 15\, 2027. | Q3 2026 state individual estimated tax payment. April 15
+ \, 2026\, June 15\, 2026\, September 15\, 2026\, and January 15\, 2027. | A
+ uthority: Direct fetch of Wisconsin's own tax agency site/instructions this
+  session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-estpay.aspx | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-wisconsin-q4-2025-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250115
+DTEND;VALUE=DATE:20250116
+SUMMARY:Wisconsin: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, 2026\, June 15\, 2026\, September 15\, 2026\, and Ja
+ nuary 15\, 2027. | Q4 2026 state individual estimated tax payment. April 15
+ \, 2026\, June 15\, 2026\, September 15\, 2026\, and January 15\, 2027. | A
+ uthority: Direct fetch of Wisconsin's own tax agency site/instructions this
+  session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-estpay.aspx | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-wisconsin-q4-2026-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260116
+SUMMARY:Wisconsin: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, 2026\, June 15\, 2026\, September 15\, 2026\, and Ja
+ nuary 15\, 2027. | Q4 2026 state individual estimated tax payment. April 15
+ \, 2026\, June 15\, 2026\, September 15\, 2026\, and January 15\, 2027. | A
+ uthority: Direct fetch of Wisconsin's own tax agency site/instructions this
+  session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-estpay.aspx | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-wisconsin-q4-2027-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Wisconsin: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, 2026\, June 15\, 2026\, September 15\, 2026\, and Ja
+ nuary 15\, 2027. | Q4 2026 state individual estimated tax payment. April 15
+ \, 2026\, June 15\, 2026\, September 15\, 2026\, and January 15\, 2027. | A
+ uthority: Direct fetch of Wisconsin's own tax agency site/instructions this
+  session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-estpay.aspx | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-wisconsin-q4-2028-01-18@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280118
+DTEND;VALUE=DATE:20280119
+SUMMARY:Wisconsin: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, 2026\, June 15\, 2026\, September 15\, 2026\, and Ja
+ nuary 15\, 2027. | Q4 2026 state individual estimated tax payment. April 15
+ \, 2026\, June 15\, 2026\, September 15\, 2026\, and January 15\, 2027. | A
+ uthority: Direct fetch of Wisconsin's own tax agency site/instructions this
+  session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-estpay.aspx | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-wisconsin-q4-2029-01-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290116
+DTEND;VALUE=DATE:20290117
+SUMMARY:Wisconsin: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, 2026\, June 15\, 2026\, September 15\, 2026\, and Ja
+ nuary 15\, 2027. | Q4 2026 state individual estimated tax payment. April 15
+ \, 2026\, June 15\, 2026\, September 15\, 2026\, and January 15\, 2027. | A
+ uthority: Direct fetch of Wisconsin's own tax agency site/instructions this
+  session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-estpay.aspx | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-wisconsin-q4-2030-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300115
+DTEND;VALUE=DATE:20300116
+SUMMARY:Wisconsin: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, 2026\, June 15\, 2026\, September 15\, 2026\, and Ja
+ nuary 15\, 2027. | Q4 2026 state individual estimated tax payment. April 15
+ \, 2026\, June 15\, 2026\, September 15\, 2026\, and January 15\, 2027. | A
+ uthority: Direct fetch of Wisconsin's own tax agency site/instructions this
+  session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-estpay.aspx | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-wisconsin-q4-2031-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310115
+DTEND;VALUE=DATE:20310116
+SUMMARY:Wisconsin: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, 2026\, June 15\, 2026\, September 15\, 2026\, and Ja
+ nuary 15\, 2027. | Q4 2026 state individual estimated tax payment. April 15
+ \, 2026\, June 15\, 2026\, September 15\, 2026\, and January 15\, 2027. | A
+ uthority: Direct fetch of Wisconsin's own tax agency site/instructions this
+  session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-estpay.aspx | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-wisconsin-q4-2032-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320115
+DTEND;VALUE=DATE:20320116
+SUMMARY:Wisconsin: State individual quarterly estimated tax payment due
+DESCRIPTION:April 15\, 2026\, June 15\, 2026\, September 15\, 2026\, and Ja
+ nuary 15\, 2027. | Q4 2026 state individual estimated tax payment. April 15
+ \, 2026\, June 15\, 2026\, September 15\, 2026\, and January 15\, 2027. | A
+ uthority: Direct fetch of Wisconsin's own tax agency site/instructions this
+  session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-estpay.aspx | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-wi-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:Wisconsin: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. 180-day extension period matching the f
+ ederal extension\; interest still accrues on unpaid tax. | Authority: Direc
+ t fetch of https://www.revenue.wi.gov/Pages/FAQS/pcs-late.aspx this session
+  | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-late.aspx | This date 
+ is computed from a recurrence rule and may not reflect a later-announced ch
+ ange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-wi-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:Wisconsin: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. 180-day extension period matching the f
+ ederal extension\; interest still accrues on unpaid tax. | Authority: Direc
+ t fetch of https://www.revenue.wi.gov/Pages/FAQS/pcs-late.aspx this session
+  | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-late.aspx | This date 
+ is computed from a recurrence rule and may not reflect a later-announced ch
+ ange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-wi-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Wisconsin: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. 180-day extension period matching the f
+ ederal extension\; interest still accrues on unpaid tax. | Authority: Direc
+ t fetch of https://www.revenue.wi.gov/Pages/FAQS/pcs-late.aspx this session
+  | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-late.aspx | This date 
+ is computed from a recurrence rule and may not reflect a later-announced ch
+ ange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-wi-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Wisconsin: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. 180-day extension period matching the f
+ ederal extension\; interest still accrues on unpaid tax. | Authority: Direc
+ t fetch of https://www.revenue.wi.gov/Pages/FAQS/pcs-late.aspx this session
+  | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-late.aspx | This date 
+ is computed from a recurrence rule and may not reflect a later-announced ch
+ ange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-wi-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:Wisconsin: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. 180-day extension period matching the f
+ ederal extension\; interest still accrues on unpaid tax. | Authority: Direc
+ t fetch of https://www.revenue.wi.gov/Pages/FAQS/pcs-late.aspx this session
+  | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-late.aspx | This date 
+ is computed from a recurrence rule and may not reflect a later-announced ch
+ ange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-wi-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:Wisconsin: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. 180-day extension period matching the f
+ ederal extension\; interest still accrues on unpaid tax. | Authority: Direc
+ t fetch of https://www.revenue.wi.gov/Pages/FAQS/pcs-late.aspx this session
+  | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-late.aspx | This date 
+ is computed from a recurrence rule and may not reflect a later-announced ch
+ ange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-wi-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:Wisconsin: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. 180-day extension period matching the f
+ ederal extension\; interest still accrues on unpaid tax. | Authority: Direc
+ t fetch of https://www.revenue.wi.gov/Pages/FAQS/pcs-late.aspx this session
+  | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-late.aspx | This date 
+ is computed from a recurrence rule and may not reflect a later-announced ch
+ ange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-wi-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:Wisconsin: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. 180-day extension period matching the f
+ ederal extension\; interest still accrues on unpaid tax. | Authority: Direc
+ t fetch of https://www.revenue.wi.gov/Pages/FAQS/pcs-late.aspx this session
+  | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-late.aspx | This date 
+ is computed from a recurrence rule and may not reflect a later-announced ch
+ ange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-wisconsin-2025-03-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250318
+SUMMARY:Wisconsin: Form 3 (partnership) / Form 5S (S-corp) due
+DESCRIPTION:Wisconsin partnership return due the 15th day of the 3rd month 
+ after year-end. Correction (this rebuild session): the cited source states 
+ the general rule (15th day of the 3rd month) without addressing the 2026-sp
+ ecific weekend interaction - March 15\, 2026 is a Sunday. Consistent with e
+ very other state in this data set that explicitly confirms a weekend-shift 
+ policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, Oreg
+ on all confirm shifting to March 16\, 2026)\, and with the near-universal U
+ S government-deadline convention of shifting to the next business day\, thi
+ s entry's date_2026 was corrected from an unshifted March 15\, 2026 to Marc
+ h 16\, 2026. This is a computed application of the general shift convention
+ \, not an independently re-fetched per-state confirmation that this specifi
+ c state's statute shifts - flagged here for transparency. | Wisconsin partn
+ ership return due the 15th day of the 3rd month after year-end. Automatic w
+ ith the federal extension - attach a copy to the Wisconsin return\; no sepa
+ rate WI extension form needed for filing (payment still due by the original
+  date). Correction (this rebuild session): the cited source states the gene
+ ral rule (15th day of the 3rd month) without addressing the 2026-specific w
+ eekend interaction - March 15\, 2026 is a Sunday. Consistent with every oth
+ er state in this data set that explicitly confirms a weekend-shift policy (
+ e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, Oregon all c
+ onfirm shifting to March 16\, 2026)\, and with the near-universal US govern
+ ment-deadline convention of shifting to the next business day\, this entry'
+ s date_2026 was corrected from an unshifted March 15\, 2026 to March 16\, 2
+ 026. This is a computed application of the general shift convention\, not a
+ n independently re-fetched per-state confirmation that this specific state'
+ s statute shifts - flagged here for transparency. | Authority: Wisconsin De
+ partment of Revenue\, direct fetch of the current Form 3 instructions PDF t
+ his session: "A partnership must file its return with the department by the
+  15th day of the 3rd month following the close of its taxable year" and "An
+ y extension allowed by the Internal Revenue Service (IRS)... automatically 
+ extends the Wisconsin due date\, if you include a copy of the federal exten
+ sion." (An earlier same-session automated fetch of a DOR FAQ page had misst
+ ated this as "June 15" - that figure was rejected and replaced with this di
+ rectly-quoted instructions PDF text\, which controls.) | Source: https://ww
+ w.revenue.wi.gov/TaxForms2025/2025-Form3-Inst.pdf | This date is computed f
+ rom a recurrence rule and may not reflect a later-announced change\; confir
+ m against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-wisconsin-2026-03-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260317
+SUMMARY:Wisconsin: Form 3 (partnership) / Form 5S (S-corp) due
+DESCRIPTION:Wisconsin partnership return due the 15th day of the 3rd month 
+ after year-end. Correction (this rebuild session): the cited source states 
+ the general rule (15th day of the 3rd month) without addressing the 2026-sp
+ ecific weekend interaction - March 15\, 2026 is a Sunday. Consistent with e
+ very other state in this data set that explicitly confirms a weekend-shift 
+ policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, Oreg
+ on all confirm shifting to March 16\, 2026)\, and with the near-universal U
+ S government-deadline convention of shifting to the next business day\, thi
+ s entry's date_2026 was corrected from an unshifted March 15\, 2026 to Marc
+ h 16\, 2026. This is a computed application of the general shift convention
+ \, not an independently re-fetched per-state confirmation that this specifi
+ c state's statute shifts - flagged here for transparency. | Wisconsin partn
+ ership return due the 15th day of the 3rd month after year-end. Automatic w
+ ith the federal extension - attach a copy to the Wisconsin return\; no sepa
+ rate WI extension form needed for filing (payment still due by the original
+  date). Correction (this rebuild session): the cited source states the gene
+ ral rule (15th day of the 3rd month) without addressing the 2026-specific w
+ eekend interaction - March 15\, 2026 is a Sunday. Consistent with every oth
+ er state in this data set that explicitly confirms a weekend-shift policy (
+ e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, Oregon all c
+ onfirm shifting to March 16\, 2026)\, and with the near-universal US govern
+ ment-deadline convention of shifting to the next business day\, this entry'
+ s date_2026 was corrected from an unshifted March 15\, 2026 to March 16\, 2
+ 026. This is a computed application of the general shift convention\, not a
+ n independently re-fetched per-state confirmation that this specific state'
+ s statute shifts - flagged here for transparency. | Authority: Wisconsin De
+ partment of Revenue\, direct fetch of the current Form 3 instructions PDF t
+ his session: "A partnership must file its return with the department by the
+  15th day of the 3rd month following the close of its taxable year" and "An
+ y extension allowed by the Internal Revenue Service (IRS)... automatically 
+ extends the Wisconsin due date\, if you include a copy of the federal exten
+ sion." (An earlier same-session automated fetch of a DOR FAQ page had misst
+ ated this as "June 15" - that figure was rejected and replaced with this di
+ rectly-quoted instructions PDF text\, which controls.) | Source: https://ww
+ w.revenue.wi.gov/TaxForms2025/2025-Form3-Inst.pdf | This date is computed f
+ rom a recurrence rule and may not reflect a later-announced change\; confir
+ m against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-wisconsin-2027-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:Wisconsin: Form 3 (partnership) / Form 5S (S-corp) due
+DESCRIPTION:Wisconsin partnership return due the 15th day of the 3rd month 
+ after year-end. Correction (this rebuild session): the cited source states 
+ the general rule (15th day of the 3rd month) without addressing the 2026-sp
+ ecific weekend interaction - March 15\, 2026 is a Sunday. Consistent with e
+ very other state in this data set that explicitly confirms a weekend-shift 
+ policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, Oreg
+ on all confirm shifting to March 16\, 2026)\, and with the near-universal U
+ S government-deadline convention of shifting to the next business day\, thi
+ s entry's date_2026 was corrected from an unshifted March 15\, 2026 to Marc
+ h 16\, 2026. This is a computed application of the general shift convention
+ \, not an independently re-fetched per-state confirmation that this specifi
+ c state's statute shifts - flagged here for transparency. | Wisconsin partn
+ ership return due the 15th day of the 3rd month after year-end. Automatic w
+ ith the federal extension - attach a copy to the Wisconsin return\; no sepa
+ rate WI extension form needed for filing (payment still due by the original
+  date). Correction (this rebuild session): the cited source states the gene
+ ral rule (15th day of the 3rd month) without addressing the 2026-specific w
+ eekend interaction - March 15\, 2026 is a Sunday. Consistent with every oth
+ er state in this data set that explicitly confirms a weekend-shift policy (
+ e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, Oregon all c
+ onfirm shifting to March 16\, 2026)\, and with the near-universal US govern
+ ment-deadline convention of shifting to the next business day\, this entry'
+ s date_2026 was corrected from an unshifted March 15\, 2026 to March 16\, 2
+ 026. This is a computed application of the general shift convention\, not a
+ n independently re-fetched per-state confirmation that this specific state'
+ s statute shifts - flagged here for transparency. | Authority: Wisconsin De
+ partment of Revenue\, direct fetch of the current Form 3 instructions PDF t
+ his session: "A partnership must file its return with the department by the
+  15th day of the 3rd month following the close of its taxable year" and "An
+ y extension allowed by the Internal Revenue Service (IRS)... automatically 
+ extends the Wisconsin due date\, if you include a copy of the federal exten
+ sion." (An earlier same-session automated fetch of a DOR FAQ page had misst
+ ated this as "June 15" - that figure was rejected and replaced with this di
+ rectly-quoted instructions PDF text\, which controls.) | Source: https://ww
+ w.revenue.wi.gov/TaxForms2025/2025-Form3-Inst.pdf | This date is computed f
+ rom a recurrence rule and may not reflect a later-announced change\; confir
+ m against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-wisconsin-2028-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280315
+DTEND;VALUE=DATE:20280316
+SUMMARY:Wisconsin: Form 3 (partnership) / Form 5S (S-corp) due
+DESCRIPTION:Wisconsin partnership return due the 15th day of the 3rd month 
+ after year-end. Correction (this rebuild session): the cited source states 
+ the general rule (15th day of the 3rd month) without addressing the 2026-sp
+ ecific weekend interaction - March 15\, 2026 is a Sunday. Consistent with e
+ very other state in this data set that explicitly confirms a weekend-shift 
+ policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, Oreg
+ on all confirm shifting to March 16\, 2026)\, and with the near-universal U
+ S government-deadline convention of shifting to the next business day\, thi
+ s entry's date_2026 was corrected from an unshifted March 15\, 2026 to Marc
+ h 16\, 2026. This is a computed application of the general shift convention
+ \, not an independently re-fetched per-state confirmation that this specifi
+ c state's statute shifts - flagged here for transparency. | Wisconsin partn
+ ership return due the 15th day of the 3rd month after year-end. Automatic w
+ ith the federal extension - attach a copy to the Wisconsin return\; no sepa
+ rate WI extension form needed for filing (payment still due by the original
+  date). Correction (this rebuild session): the cited source states the gene
+ ral rule (15th day of the 3rd month) without addressing the 2026-specific w
+ eekend interaction - March 15\, 2026 is a Sunday. Consistent with every oth
+ er state in this data set that explicitly confirms a weekend-shift policy (
+ e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, Oregon all c
+ onfirm shifting to March 16\, 2026)\, and with the near-universal US govern
+ ment-deadline convention of shifting to the next business day\, this entry'
+ s date_2026 was corrected from an unshifted March 15\, 2026 to March 16\, 2
+ 026. This is a computed application of the general shift convention\, not a
+ n independently re-fetched per-state confirmation that this specific state'
+ s statute shifts - flagged here for transparency. | Authority: Wisconsin De
+ partment of Revenue\, direct fetch of the current Form 3 instructions PDF t
+ his session: "A partnership must file its return with the department by the
+  15th day of the 3rd month following the close of its taxable year" and "An
+ y extension allowed by the Internal Revenue Service (IRS)... automatically 
+ extends the Wisconsin due date\, if you include a copy of the federal exten
+ sion." (An earlier same-session automated fetch of a DOR FAQ page had misst
+ ated this as "June 15" - that figure was rejected and replaced with this di
+ rectly-quoted instructions PDF text\, which controls.) | Source: https://ww
+ w.revenue.wi.gov/TaxForms2025/2025-Form3-Inst.pdf | This date is computed f
+ rom a recurrence rule and may not reflect a later-announced change\; confir
+ m against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-wisconsin-2029-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290315
+DTEND;VALUE=DATE:20290316
+SUMMARY:Wisconsin: Form 3 (partnership) / Form 5S (S-corp) due
+DESCRIPTION:Wisconsin partnership return due the 15th day of the 3rd month 
+ after year-end. Correction (this rebuild session): the cited source states 
+ the general rule (15th day of the 3rd month) without addressing the 2026-sp
+ ecific weekend interaction - March 15\, 2026 is a Sunday. Consistent with e
+ very other state in this data set that explicitly confirms a weekend-shift 
+ policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, Oreg
+ on all confirm shifting to March 16\, 2026)\, and with the near-universal U
+ S government-deadline convention of shifting to the next business day\, thi
+ s entry's date_2026 was corrected from an unshifted March 15\, 2026 to Marc
+ h 16\, 2026. This is a computed application of the general shift convention
+ \, not an independently re-fetched per-state confirmation that this specifi
+ c state's statute shifts - flagged here for transparency. | Wisconsin partn
+ ership return due the 15th day of the 3rd month after year-end. Automatic w
+ ith the federal extension - attach a copy to the Wisconsin return\; no sepa
+ rate WI extension form needed for filing (payment still due by the original
+  date). Correction (this rebuild session): the cited source states the gene
+ ral rule (15th day of the 3rd month) without addressing the 2026-specific w
+ eekend interaction - March 15\, 2026 is a Sunday. Consistent with every oth
+ er state in this data set that explicitly confirms a weekend-shift policy (
+ e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, Oregon all c
+ onfirm shifting to March 16\, 2026)\, and with the near-universal US govern
+ ment-deadline convention of shifting to the next business day\, this entry'
+ s date_2026 was corrected from an unshifted March 15\, 2026 to March 16\, 2
+ 026. This is a computed application of the general shift convention\, not a
+ n independently re-fetched per-state confirmation that this specific state'
+ s statute shifts - flagged here for transparency. | Authority: Wisconsin De
+ partment of Revenue\, direct fetch of the current Form 3 instructions PDF t
+ his session: "A partnership must file its return with the department by the
+  15th day of the 3rd month following the close of its taxable year" and "An
+ y extension allowed by the Internal Revenue Service (IRS)... automatically 
+ extends the Wisconsin due date\, if you include a copy of the federal exten
+ sion." (An earlier same-session automated fetch of a DOR FAQ page had misst
+ ated this as "June 15" - that figure was rejected and replaced with this di
+ rectly-quoted instructions PDF text\, which controls.) | Source: https://ww
+ w.revenue.wi.gov/TaxForms2025/2025-Form3-Inst.pdf | This date is computed f
+ rom a recurrence rule and may not reflect a later-announced change\; confir
+ m against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-wisconsin-2030-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300315
+DTEND;VALUE=DATE:20300316
+SUMMARY:Wisconsin: Form 3 (partnership) / Form 5S (S-corp) due
+DESCRIPTION:Wisconsin partnership return due the 15th day of the 3rd month 
+ after year-end. Correction (this rebuild session): the cited source states 
+ the general rule (15th day of the 3rd month) without addressing the 2026-sp
+ ecific weekend interaction - March 15\, 2026 is a Sunday. Consistent with e
+ very other state in this data set that explicitly confirms a weekend-shift 
+ policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, Oreg
+ on all confirm shifting to March 16\, 2026)\, and with the near-universal U
+ S government-deadline convention of shifting to the next business day\, thi
+ s entry's date_2026 was corrected from an unshifted March 15\, 2026 to Marc
+ h 16\, 2026. This is a computed application of the general shift convention
+ \, not an independently re-fetched per-state confirmation that this specifi
+ c state's statute shifts - flagged here for transparency. | Wisconsin partn
+ ership return due the 15th day of the 3rd month after year-end. Automatic w
+ ith the federal extension - attach a copy to the Wisconsin return\; no sepa
+ rate WI extension form needed for filing (payment still due by the original
+  date). Correction (this rebuild session): the cited source states the gene
+ ral rule (15th day of the 3rd month) without addressing the 2026-specific w
+ eekend interaction - March 15\, 2026 is a Sunday. Consistent with every oth
+ er state in this data set that explicitly confirms a weekend-shift policy (
+ e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, Oregon all c
+ onfirm shifting to March 16\, 2026)\, and with the near-universal US govern
+ ment-deadline convention of shifting to the next business day\, this entry'
+ s date_2026 was corrected from an unshifted March 15\, 2026 to March 16\, 2
+ 026. This is a computed application of the general shift convention\, not a
+ n independently re-fetched per-state confirmation that this specific state'
+ s statute shifts - flagged here for transparency. | Authority: Wisconsin De
+ partment of Revenue\, direct fetch of the current Form 3 instructions PDF t
+ his session: "A partnership must file its return with the department by the
+  15th day of the 3rd month following the close of its taxable year" and "An
+ y extension allowed by the Internal Revenue Service (IRS)... automatically 
+ extends the Wisconsin due date\, if you include a copy of the federal exten
+ sion." (An earlier same-session automated fetch of a DOR FAQ page had misst
+ ated this as "June 15" - that figure was rejected and replaced with this di
+ rectly-quoted instructions PDF text\, which controls.) | Source: https://ww
+ w.revenue.wi.gov/TaxForms2025/2025-Form3-Inst.pdf | This date is computed f
+ rom a recurrence rule and may not reflect a later-announced change\; confir
+ m against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-wisconsin-2031-03-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310317
+DTEND;VALUE=DATE:20310318
+SUMMARY:Wisconsin: Form 3 (partnership) / Form 5S (S-corp) due
+DESCRIPTION:Wisconsin partnership return due the 15th day of the 3rd month 
+ after year-end. Correction (this rebuild session): the cited source states 
+ the general rule (15th day of the 3rd month) without addressing the 2026-sp
+ ecific weekend interaction - March 15\, 2026 is a Sunday. Consistent with e
+ very other state in this data set that explicitly confirms a weekend-shift 
+ policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, Oreg
+ on all confirm shifting to March 16\, 2026)\, and with the near-universal U
+ S government-deadline convention of shifting to the next business day\, thi
+ s entry's date_2026 was corrected from an unshifted March 15\, 2026 to Marc
+ h 16\, 2026. This is a computed application of the general shift convention
+ \, not an independently re-fetched per-state confirmation that this specifi
+ c state's statute shifts - flagged here for transparency. | Wisconsin partn
+ ership return due the 15th day of the 3rd month after year-end. Automatic w
+ ith the federal extension - attach a copy to the Wisconsin return\; no sepa
+ rate WI extension form needed for filing (payment still due by the original
+  date). Correction (this rebuild session): the cited source states the gene
+ ral rule (15th day of the 3rd month) without addressing the 2026-specific w
+ eekend interaction - March 15\, 2026 is a Sunday. Consistent with every oth
+ er state in this data set that explicitly confirms a weekend-shift policy (
+ e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, Oregon all c
+ onfirm shifting to March 16\, 2026)\, and with the near-universal US govern
+ ment-deadline convention of shifting to the next business day\, this entry'
+ s date_2026 was corrected from an unshifted March 15\, 2026 to March 16\, 2
+ 026. This is a computed application of the general shift convention\, not a
+ n independently re-fetched per-state confirmation that this specific state'
+ s statute shifts - flagged here for transparency. | Authority: Wisconsin De
+ partment of Revenue\, direct fetch of the current Form 3 instructions PDF t
+ his session: "A partnership must file its return with the department by the
+  15th day of the 3rd month following the close of its taxable year" and "An
+ y extension allowed by the Internal Revenue Service (IRS)... automatically 
+ extends the Wisconsin due date\, if you include a copy of the federal exten
+ sion." (An earlier same-session automated fetch of a DOR FAQ page had misst
+ ated this as "June 15" - that figure was rejected and replaced with this di
+ rectly-quoted instructions PDF text\, which controls.) | Source: https://ww
+ w.revenue.wi.gov/TaxForms2025/2025-Form3-Inst.pdf | This date is computed f
+ rom a recurrence rule and may not reflect a later-announced change\; confir
+ m against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-wisconsin-2032-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320315
+DTEND;VALUE=DATE:20320316
+SUMMARY:Wisconsin: Form 3 (partnership) / Form 5S (S-corp) due
+DESCRIPTION:Wisconsin partnership return due the 15th day of the 3rd month 
+ after year-end. Correction (this rebuild session): the cited source states 
+ the general rule (15th day of the 3rd month) without addressing the 2026-sp
+ ecific weekend interaction - March 15\, 2026 is a Sunday. Consistent with e
+ very other state in this data set that explicitly confirms a weekend-shift 
+ policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, Oreg
+ on all confirm shifting to March 16\, 2026)\, and with the near-universal U
+ S government-deadline convention of shifting to the next business day\, thi
+ s entry's date_2026 was corrected from an unshifted March 15\, 2026 to Marc
+ h 16\, 2026. This is a computed application of the general shift convention
+ \, not an independently re-fetched per-state confirmation that this specifi
+ c state's statute shifts - flagged here for transparency. | Wisconsin partn
+ ership return due the 15th day of the 3rd month after year-end. Automatic w
+ ith the federal extension - attach a copy to the Wisconsin return\; no sepa
+ rate WI extension form needed for filing (payment still due by the original
+  date). Correction (this rebuild session): the cited source states the gene
+ ral rule (15th day of the 3rd month) without addressing the 2026-specific w
+ eekend interaction - March 15\, 2026 is a Sunday. Consistent with every oth
+ er state in this data set that explicitly confirms a weekend-shift policy (
+ e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, Oregon all c
+ onfirm shifting to March 16\, 2026)\, and with the near-universal US govern
+ ment-deadline convention of shifting to the next business day\, this entry'
+ s date_2026 was corrected from an unshifted March 15\, 2026 to March 16\, 2
+ 026. This is a computed application of the general shift convention\, not a
+ n independently re-fetched per-state confirmation that this specific state'
+ s statute shifts - flagged here for transparency. | Authority: Wisconsin De
+ partment of Revenue\, direct fetch of the current Form 3 instructions PDF t
+ his session: "A partnership must file its return with the department by the
+  15th day of the 3rd month following the close of its taxable year" and "An
+ y extension allowed by the Internal Revenue Service (IRS)... automatically 
+ extends the Wisconsin due date\, if you include a copy of the federal exten
+ sion." (An earlier same-session automated fetch of a DOR FAQ page had misst
+ ated this as "June 15" - that figure was rejected and replaced with this di
+ rectly-quoted instructions PDF text\, which controls.) | Source: https://ww
+ w.revenue.wi.gov/TaxForms2025/2025-Form3-Inst.pdf | This date is computed f
+ rom a recurrence rule and may not reflect a later-announced change\; confir
+ m against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-wisconsin-q1-2025-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250430
+DTEND;VALUE=DATE:20250501
+SUMMARY:Wisconsin: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. 1st quarter (Jan\, Feb\, Mar) due April 30\; 2nd quarter due July 31
+ \; 3rd quarter due October 31\; 4th quarter due January 31. | Authority: Di
+ rect fetch of Wisconsin's own unemployment insurance agency site/handbook/c
+ ode this session | Source: https://dwd.wi.gov/ui201/t4201.htm | This date i
+ s computed from a recurrence rule and may not reflect a later-announced cha
+ nge\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-wisconsin-q1-2026-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:Wisconsin: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. 1st quarter (Jan\, Feb\, Mar) due April 30\; 2nd quarter due July 31
+ \; 3rd quarter due October 31\; 4th quarter due January 31. | Authority: Di
+ rect fetch of Wisconsin's own unemployment insurance agency site/handbook/c
+ ode this session | Source: https://dwd.wi.gov/ui201/t4201.htm | This date i
+ s computed from a recurrence rule and may not reflect a later-announced cha
+ nge\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-wisconsin-q1-2027-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:Wisconsin: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. 1st quarter (Jan\, Feb\, Mar) due April 30\; 2nd quarter due July 31
+ \; 3rd quarter due October 31\; 4th quarter due January 31. | Authority: Di
+ rect fetch of Wisconsin's own unemployment insurance agency site/handbook/c
+ ode this session | Source: https://dwd.wi.gov/ui201/t4201.htm | This date i
+ s computed from a recurrence rule and may not reflect a later-announced cha
+ nge\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-wisconsin-q1-2028-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280430
+DTEND;VALUE=DATE:20280501
+SUMMARY:Wisconsin: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. 1st quarter (Jan\, Feb\, Mar) due April 30\; 2nd quarter due July 31
+ \; 3rd quarter due October 31\; 4th quarter due January 31. | Authority: Di
+ rect fetch of Wisconsin's own unemployment insurance agency site/handbook/c
+ ode this session | Source: https://dwd.wi.gov/ui201/t4201.htm | This date i
+ s computed from a recurrence rule and may not reflect a later-announced cha
+ nge\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-wisconsin-q1-2029-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290430
+DTEND;VALUE=DATE:20290501
+SUMMARY:Wisconsin: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. 1st quarter (Jan\, Feb\, Mar) due April 30\; 2nd quarter due July 31
+ \; 3rd quarter due October 31\; 4th quarter due January 31. | Authority: Di
+ rect fetch of Wisconsin's own unemployment insurance agency site/handbook/c
+ ode this session | Source: https://dwd.wi.gov/ui201/t4201.htm | This date i
+ s computed from a recurrence rule and may not reflect a later-announced cha
+ nge\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-wisconsin-q1-2030-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300430
+DTEND;VALUE=DATE:20300501
+SUMMARY:Wisconsin: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. 1st quarter (Jan\, Feb\, Mar) due April 30\; 2nd quarter due July 31
+ \; 3rd quarter due October 31\; 4th quarter due January 31. | Authority: Di
+ rect fetch of Wisconsin's own unemployment insurance agency site/handbook/c
+ ode this session | Source: https://dwd.wi.gov/ui201/t4201.htm | This date i
+ s computed from a recurrence rule and may not reflect a later-announced cha
+ nge\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-wisconsin-q1-2031-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310430
+DTEND;VALUE=DATE:20310501
+SUMMARY:Wisconsin: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. 1st quarter (Jan\, Feb\, Mar) due April 30\; 2nd quarter due July 31
+ \; 3rd quarter due October 31\; 4th quarter due January 31. | Authority: Di
+ rect fetch of Wisconsin's own unemployment insurance agency site/handbook/c
+ ode this session | Source: https://dwd.wi.gov/ui201/t4201.htm | This date i
+ s computed from a recurrence rule and may not reflect a later-announced cha
+ nge\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-wisconsin-q1-2032-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320430
+DTEND;VALUE=DATE:20320501
+SUMMARY:Wisconsin: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. 1st quarter (Jan\, Feb\, Mar) due April 30\; 2nd quarter due July 31
+ \; 3rd quarter due October 31\; 4th quarter due January 31. | Authority: Di
+ rect fetch of Wisconsin's own unemployment insurance agency site/handbook/c
+ ode this session | Source: https://dwd.wi.gov/ui201/t4201.htm | This date i
+ s computed from a recurrence rule and may not reflect a later-announced cha
+ nge\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-wisconsin-q2-2025-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250731
+DTEND;VALUE=DATE:20250801
+SUMMARY:Wisconsin: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. 1st quarter (Jan\, Feb\, Mar) due April 30\; 2nd quarter due July 31
+ \; 3rd quarter due October 31\; 4th quarter due January 31. | Authority: Di
+ rect fetch of Wisconsin's own unemployment insurance agency site/handbook/c
+ ode this session | Source: https://dwd.wi.gov/ui201/t4201.htm | This date i
+ s computed from a recurrence rule and may not reflect a later-announced cha
+ nge\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-wisconsin-q2-2026-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Wisconsin: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. 1st quarter (Jan\, Feb\, Mar) due April 30\; 2nd quarter due July 31
+ \; 3rd quarter due October 31\; 4th quarter due January 31. | Authority: Di
+ rect fetch of Wisconsin's own unemployment insurance agency site/handbook/c
+ ode this session | Source: https://dwd.wi.gov/ui201/t4201.htm | This date i
+ s computed from a recurrence rule and may not reflect a later-announced cha
+ nge\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-wisconsin-q2-2027-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:Wisconsin: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. 1st quarter (Jan\, Feb\, Mar) due April 30\; 2nd quarter due July 31
+ \; 3rd quarter due October 31\; 4th quarter due January 31. | Authority: Di
+ rect fetch of Wisconsin's own unemployment insurance agency site/handbook/c
+ ode this session | Source: https://dwd.wi.gov/ui201/t4201.htm | This date i
+ s computed from a recurrence rule and may not reflect a later-announced cha
+ nge\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-wisconsin-q2-2028-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280731
+DTEND;VALUE=DATE:20280801
+SUMMARY:Wisconsin: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. 1st quarter (Jan\, Feb\, Mar) due April 30\; 2nd quarter due July 31
+ \; 3rd quarter due October 31\; 4th quarter due January 31. | Authority: Di
+ rect fetch of Wisconsin's own unemployment insurance agency site/handbook/c
+ ode this session | Source: https://dwd.wi.gov/ui201/t4201.htm | This date i
+ s computed from a recurrence rule and may not reflect a later-announced cha
+ nge\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-wisconsin-q2-2029-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290731
+DTEND;VALUE=DATE:20290801
+SUMMARY:Wisconsin: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. 1st quarter (Jan\, Feb\, Mar) due April 30\; 2nd quarter due July 31
+ \; 3rd quarter due October 31\; 4th quarter due January 31. | Authority: Di
+ rect fetch of Wisconsin's own unemployment insurance agency site/handbook/c
+ ode this session | Source: https://dwd.wi.gov/ui201/t4201.htm | This date i
+ s computed from a recurrence rule and may not reflect a later-announced cha
+ nge\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-wisconsin-q2-2030-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300731
+DTEND;VALUE=DATE:20300801
+SUMMARY:Wisconsin: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. 1st quarter (Jan\, Feb\, Mar) due April 30\; 2nd quarter due July 31
+ \; 3rd quarter due October 31\; 4th quarter due January 31. | Authority: Di
+ rect fetch of Wisconsin's own unemployment insurance agency site/handbook/c
+ ode this session | Source: https://dwd.wi.gov/ui201/t4201.htm | This date i
+ s computed from a recurrence rule and may not reflect a later-announced cha
+ nge\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-wisconsin-q2-2031-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310731
+DTEND;VALUE=DATE:20310801
+SUMMARY:Wisconsin: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. 1st quarter (Jan\, Feb\, Mar) due April 30\; 2nd quarter due July 31
+ \; 3rd quarter due October 31\; 4th quarter due January 31. | Authority: Di
+ rect fetch of Wisconsin's own unemployment insurance agency site/handbook/c
+ ode this session | Source: https://dwd.wi.gov/ui201/t4201.htm | This date i
+ s computed from a recurrence rule and may not reflect a later-announced cha
+ nge\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-wisconsin-q2-2032-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320731
+DTEND;VALUE=DATE:20320801
+SUMMARY:Wisconsin: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. 1st quarter (Jan\, Feb\, Mar) due April 30\; 2nd quarter due July 31
+ \; 3rd quarter due October 31\; 4th quarter due January 31. | Authority: Di
+ rect fetch of Wisconsin's own unemployment insurance agency site/handbook/c
+ ode this session | Source: https://dwd.wi.gov/ui201/t4201.htm | This date i
+ s computed from a recurrence rule and may not reflect a later-announced cha
+ nge\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-wisconsin-q3-2025-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20251031
+DTEND;VALUE=DATE:20251101
+SUMMARY:Wisconsin: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. 1st quarter (Jan\, Feb\, Mar) due April 30\; 2nd quarter due July 31
+ \; 3rd quarter due October 31\; 4th quarter due January 31. | Authority: Di
+ rect fetch of Wisconsin's own unemployment insurance agency site/handbook/c
+ ode this session | Source: https://dwd.wi.gov/ui201/t4201.htm | This date i
+ s computed from a recurrence rule and may not reflect a later-announced cha
+ nge\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-wisconsin-q3-2026-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Wisconsin: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. 1st quarter (Jan\, Feb\, Mar) due April 30\; 2nd quarter due July 31
+ \; 3rd quarter due October 31\; 4th quarter due January 31. | Authority: Di
+ rect fetch of Wisconsin's own unemployment insurance agency site/handbook/c
+ ode this session | Source: https://dwd.wi.gov/ui201/t4201.htm | This date i
+ s computed from a recurrence rule and may not reflect a later-announced cha
+ nge\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-wisconsin-q3-2027-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20271031
+DTEND;VALUE=DATE:20271101
+SUMMARY:Wisconsin: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. 1st quarter (Jan\, Feb\, Mar) due April 30\; 2nd quarter due July 31
+ \; 3rd quarter due October 31\; 4th quarter due January 31. | Authority: Di
+ rect fetch of Wisconsin's own unemployment insurance agency site/handbook/c
+ ode this session | Source: https://dwd.wi.gov/ui201/t4201.htm | This date i
+ s computed from a recurrence rule and may not reflect a later-announced cha
+ nge\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-wisconsin-q3-2028-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20281031
+DTEND;VALUE=DATE:20281101
+SUMMARY:Wisconsin: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. 1st quarter (Jan\, Feb\, Mar) due April 30\; 2nd quarter due July 31
+ \; 3rd quarter due October 31\; 4th quarter due January 31. | Authority: Di
+ rect fetch of Wisconsin's own unemployment insurance agency site/handbook/c
+ ode this session | Source: https://dwd.wi.gov/ui201/t4201.htm | This date i
+ s computed from a recurrence rule and may not reflect a later-announced cha
+ nge\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-wisconsin-q3-2029-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20291031
+DTEND;VALUE=DATE:20291101
+SUMMARY:Wisconsin: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. 1st quarter (Jan\, Feb\, Mar) due April 30\; 2nd quarter due July 31
+ \; 3rd quarter due October 31\; 4th quarter due January 31. | Authority: Di
+ rect fetch of Wisconsin's own unemployment insurance agency site/handbook/c
+ ode this session | Source: https://dwd.wi.gov/ui201/t4201.htm | This date i
+ s computed from a recurrence rule and may not reflect a later-announced cha
+ nge\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-wisconsin-q3-2030-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20301031
+DTEND;VALUE=DATE:20301101
+SUMMARY:Wisconsin: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. 1st quarter (Jan\, Feb\, Mar) due April 30\; 2nd quarter due July 31
+ \; 3rd quarter due October 31\; 4th quarter due January 31. | Authority: Di
+ rect fetch of Wisconsin's own unemployment insurance agency site/handbook/c
+ ode this session | Source: https://dwd.wi.gov/ui201/t4201.htm | This date i
+ s computed from a recurrence rule and may not reflect a later-announced cha
+ nge\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-wisconsin-q3-2031-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20311031
+DTEND;VALUE=DATE:20311101
+SUMMARY:Wisconsin: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. 1st quarter (Jan\, Feb\, Mar) due April 30\; 2nd quarter due July 31
+ \; 3rd quarter due October 31\; 4th quarter due January 31. | Authority: Di
+ rect fetch of Wisconsin's own unemployment insurance agency site/handbook/c
+ ode this session | Source: https://dwd.wi.gov/ui201/t4201.htm | This date i
+ s computed from a recurrence rule and may not reflect a later-announced cha
+ nge\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-wisconsin-q3-2032-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20321031
+DTEND;VALUE=DATE:20321101
+SUMMARY:Wisconsin: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. 1st quarter (Jan\, Feb\, Mar) due April 30\; 2nd quarter due July 31
+ \; 3rd quarter due October 31\; 4th quarter due January 31. | Authority: Di
+ rect fetch of Wisconsin's own unemployment insurance agency site/handbook/c
+ ode this session | Source: https://dwd.wi.gov/ui201/t4201.htm | This date i
+ s computed from a recurrence rule and may not reflect a later-announced cha
+ nge\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-wisconsin-q4-2025-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250131
+DTEND;VALUE=DATE:20250201
+SUMMARY:Wisconsin: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. 1st quarter (Jan\, Feb\, Mar) due April 30\; 2nd quarter due July 31
+ \; 3rd quarter due October 31\; 4th quarter due January 31. | Authority: Di
+ rect fetch of Wisconsin's own unemployment insurance agency site/handbook/c
+ ode this session | Source: https://dwd.wi.gov/ui201/t4201.htm | This date i
+ s computed from a recurrence rule and may not reflect a later-announced cha
+ nge\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-wisconsin-q4-2026-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:Wisconsin: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. 1st quarter (Jan\, Feb\, Mar) due April 30\; 2nd quarter due July 31
+ \; 3rd quarter due October 31\; 4th quarter due January 31. | Authority: Di
+ rect fetch of Wisconsin's own unemployment insurance agency site/handbook/c
+ ode this session | Source: https://dwd.wi.gov/ui201/t4201.htm | This date i
+ s computed from a recurrence rule and may not reflect a later-announced cha
+ nge\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-wisconsin-q4-2027-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Wisconsin: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. 1st quarter (Jan\, Feb\, Mar) due April 30\; 2nd quarter due July 31
+ \; 3rd quarter due October 31\; 4th quarter due January 31. | Authority: Di
+ rect fetch of Wisconsin's own unemployment insurance agency site/handbook/c
+ ode this session | Source: https://dwd.wi.gov/ui201/t4201.htm | This date i
+ s computed from a recurrence rule and may not reflect a later-announced cha
+ nge\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-wisconsin-q4-2028-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280131
+DTEND;VALUE=DATE:20280201
+SUMMARY:Wisconsin: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. 1st quarter (Jan\, Feb\, Mar) due April 30\; 2nd quarter due July 31
+ \; 3rd quarter due October 31\; 4th quarter due January 31. | Authority: Di
+ rect fetch of Wisconsin's own unemployment insurance agency site/handbook/c
+ ode this session | Source: https://dwd.wi.gov/ui201/t4201.htm | This date i
+ s computed from a recurrence rule and may not reflect a later-announced cha
+ nge\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-wisconsin-q4-2029-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290131
+DTEND;VALUE=DATE:20290201
+SUMMARY:Wisconsin: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. 1st quarter (Jan\, Feb\, Mar) due April 30\; 2nd quarter due July 31
+ \; 3rd quarter due October 31\; 4th quarter due January 31. | Authority: Di
+ rect fetch of Wisconsin's own unemployment insurance agency site/handbook/c
+ ode this session | Source: https://dwd.wi.gov/ui201/t4201.htm | This date i
+ s computed from a recurrence rule and may not reflect a later-announced cha
+ nge\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-wisconsin-q4-2030-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300131
+DTEND;VALUE=DATE:20300201
+SUMMARY:Wisconsin: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. 1st quarter (Jan\, Feb\, Mar) due April 30\; 2nd quarter due July 31
+ \; 3rd quarter due October 31\; 4th quarter due January 31. | Authority: Di
+ rect fetch of Wisconsin's own unemployment insurance agency site/handbook/c
+ ode this session | Source: https://dwd.wi.gov/ui201/t4201.htm | This date i
+ s computed from a recurrence rule and may not reflect a later-announced cha
+ nge\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-wisconsin-q4-2031-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310131
+DTEND;VALUE=DATE:20310201
+SUMMARY:Wisconsin: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. 1st quarter (Jan\, Feb\, Mar) due April 30\; 2nd quarter due July 31
+ \; 3rd quarter due October 31\; 4th quarter due January 31. | Authority: Di
+ rect fetch of Wisconsin's own unemployment insurance agency site/handbook/c
+ ode this session | Source: https://dwd.wi.gov/ui201/t4201.htm | This date i
+ s computed from a recurrence rule and may not reflect a later-announced cha
+ nge\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-wisconsin-q4-2032-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320131
+DTEND;VALUE=DATE:20320201
+SUMMARY:Wisconsin: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. 1st quarter (Jan\, Feb\, Mar) due April 30\; 2nd quarter due July 31
+ \; 3rd quarter due October 31\; 4th quarter due January 31. | Authority: Di
+ rect fetch of Wisconsin's own unemployment insurance agency site/handbook/c
+ ode this session | Source: https://dwd.wi.gov/ui201/t4201.htm | This date i
+ s computed from a recurrence rule and may not reflect a later-announced cha
+ nge\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-wisconsin-q1-2025-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250430
+DTEND;VALUE=DATE:20250501
+SUMMARY:Wisconsin: State sales & use tax return due
+DESCRIPTION:Last day of the following month for standard filers\; 'early mo
+ nthly' filers use the 20th - this entry uses the standard last-day rule. | 
+ Q1 2026 (Jan-Mar) sales tax return\, applying Wisconsin's quarterly-filer d
+ ue-date rule: Last day of the following month for standard filers\; 'early 
+ monthly' filers use the 20th - this entry uses the standard last-day rule. 
+ This is a representative recurring pattern\, not a single annual deadline -
+  actual filing frequency (monthly/quarterly/annual) is assigned per busines
+ s by the state. | Authority: Direct fetch of Wisconsin's own tax agency sit
+ e this session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-sales.as
+ px | This date is computed from a recurrence rule and may not reflect a lat
+ er-announced change\; confirm against the cited source before relying on it
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-wisconsin-q1-2026-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:Wisconsin: State sales & use tax return due
+DESCRIPTION:Last day of the following month for standard filers\; 'early mo
+ nthly' filers use the 20th - this entry uses the standard last-day rule. | 
+ Q1 2026 (Jan-Mar) sales tax return\, applying Wisconsin's quarterly-filer d
+ ue-date rule: Last day of the following month for standard filers\; 'early 
+ monthly' filers use the 20th - this entry uses the standard last-day rule. 
+ This is a representative recurring pattern\, not a single annual deadline -
+  actual filing frequency (monthly/quarterly/annual) is assigned per busines
+ s by the state. | Authority: Direct fetch of Wisconsin's own tax agency sit
+ e this session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-sales.as
+ px | This date is computed from a recurrence rule and may not reflect a lat
+ er-announced change\; confirm against the cited source before relying on it
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-wisconsin-q1-2027-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:Wisconsin: State sales & use tax return due
+DESCRIPTION:Last day of the following month for standard filers\; 'early mo
+ nthly' filers use the 20th - this entry uses the standard last-day rule. | 
+ Q1 2026 (Jan-Mar) sales tax return\, applying Wisconsin's quarterly-filer d
+ ue-date rule: Last day of the following month for standard filers\; 'early 
+ monthly' filers use the 20th - this entry uses the standard last-day rule. 
+ This is a representative recurring pattern\, not a single annual deadline -
+  actual filing frequency (monthly/quarterly/annual) is assigned per busines
+ s by the state. | Authority: Direct fetch of Wisconsin's own tax agency sit
+ e this session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-sales.as
+ px | This date is computed from a recurrence rule and may not reflect a lat
+ er-announced change\; confirm against the cited source before relying on it
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-wisconsin-q1-2028-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280430
+DTEND;VALUE=DATE:20280501
+SUMMARY:Wisconsin: State sales & use tax return due
+DESCRIPTION:Last day of the following month for standard filers\; 'early mo
+ nthly' filers use the 20th - this entry uses the standard last-day rule. | 
+ Q1 2026 (Jan-Mar) sales tax return\, applying Wisconsin's quarterly-filer d
+ ue-date rule: Last day of the following month for standard filers\; 'early 
+ monthly' filers use the 20th - this entry uses the standard last-day rule. 
+ This is a representative recurring pattern\, not a single annual deadline -
+  actual filing frequency (monthly/quarterly/annual) is assigned per busines
+ s by the state. | Authority: Direct fetch of Wisconsin's own tax agency sit
+ e this session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-sales.as
+ px | This date is computed from a recurrence rule and may not reflect a lat
+ er-announced change\; confirm against the cited source before relying on it
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-wisconsin-q1-2029-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290430
+DTEND;VALUE=DATE:20290501
+SUMMARY:Wisconsin: State sales & use tax return due
+DESCRIPTION:Last day of the following month for standard filers\; 'early mo
+ nthly' filers use the 20th - this entry uses the standard last-day rule. | 
+ Q1 2026 (Jan-Mar) sales tax return\, applying Wisconsin's quarterly-filer d
+ ue-date rule: Last day of the following month for standard filers\; 'early 
+ monthly' filers use the 20th - this entry uses the standard last-day rule. 
+ This is a representative recurring pattern\, not a single annual deadline -
+  actual filing frequency (monthly/quarterly/annual) is assigned per busines
+ s by the state. | Authority: Direct fetch of Wisconsin's own tax agency sit
+ e this session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-sales.as
+ px | This date is computed from a recurrence rule and may not reflect a lat
+ er-announced change\; confirm against the cited source before relying on it
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-wisconsin-q1-2030-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300430
+DTEND;VALUE=DATE:20300501
+SUMMARY:Wisconsin: State sales & use tax return due
+DESCRIPTION:Last day of the following month for standard filers\; 'early mo
+ nthly' filers use the 20th - this entry uses the standard last-day rule. | 
+ Q1 2026 (Jan-Mar) sales tax return\, applying Wisconsin's quarterly-filer d
+ ue-date rule: Last day of the following month for standard filers\; 'early 
+ monthly' filers use the 20th - this entry uses the standard last-day rule. 
+ This is a representative recurring pattern\, not a single annual deadline -
+  actual filing frequency (monthly/quarterly/annual) is assigned per busines
+ s by the state. | Authority: Direct fetch of Wisconsin's own tax agency sit
+ e this session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-sales.as
+ px | This date is computed from a recurrence rule and may not reflect a lat
+ er-announced change\; confirm against the cited source before relying on it
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-wisconsin-q1-2031-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310430
+DTEND;VALUE=DATE:20310501
+SUMMARY:Wisconsin: State sales & use tax return due
+DESCRIPTION:Last day of the following month for standard filers\; 'early mo
+ nthly' filers use the 20th - this entry uses the standard last-day rule. | 
+ Q1 2026 (Jan-Mar) sales tax return\, applying Wisconsin's quarterly-filer d
+ ue-date rule: Last day of the following month for standard filers\; 'early 
+ monthly' filers use the 20th - this entry uses the standard last-day rule. 
+ This is a representative recurring pattern\, not a single annual deadline -
+  actual filing frequency (monthly/quarterly/annual) is assigned per busines
+ s by the state. | Authority: Direct fetch of Wisconsin's own tax agency sit
+ e this session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-sales.as
+ px | This date is computed from a recurrence rule and may not reflect a lat
+ er-announced change\; confirm against the cited source before relying on it
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-wisconsin-q1-2032-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320430
+DTEND;VALUE=DATE:20320501
+SUMMARY:Wisconsin: State sales & use tax return due
+DESCRIPTION:Last day of the following month for standard filers\; 'early mo
+ nthly' filers use the 20th - this entry uses the standard last-day rule. | 
+ Q1 2026 (Jan-Mar) sales tax return\, applying Wisconsin's quarterly-filer d
+ ue-date rule: Last day of the following month for standard filers\; 'early 
+ monthly' filers use the 20th - this entry uses the standard last-day rule. 
+ This is a representative recurring pattern\, not a single annual deadline -
+  actual filing frequency (monthly/quarterly/annual) is assigned per busines
+ s by the state. | Authority: Direct fetch of Wisconsin's own tax agency sit
+ e this session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-sales.as
+ px | This date is computed from a recurrence rule and may not reflect a lat
+ er-announced change\; confirm against the cited source before relying on it
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-wisconsin-q2-2025-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250731
+DTEND;VALUE=DATE:20250801
+SUMMARY:Wisconsin: State sales & use tax return due
+DESCRIPTION:Last day of the following month for standard filers\; 'early mo
+ nthly' filers use the 20th - this entry uses the standard last-day rule. | 
+ Q2 2026 (Apr-Jun) sales tax return\, applying Wisconsin's quarterly-filer d
+ ue-date rule: Last day of the following month for standard filers\; 'early 
+ monthly' filers use the 20th - this entry uses the standard last-day rule. 
+ This is a representative recurring pattern\, not a single annual deadline -
+  actual filing frequency (monthly/quarterly/annual) is assigned per busines
+ s by the state. | Authority: Direct fetch of Wisconsin's own tax agency sit
+ e this session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-sales.as
+ px | This date is computed from a recurrence rule and may not reflect a lat
+ er-announced change\; confirm against the cited source before relying on it
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-wisconsin-q2-2026-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Wisconsin: State sales & use tax return due
+DESCRIPTION:Last day of the following month for standard filers\; 'early mo
+ nthly' filers use the 20th - this entry uses the standard last-day rule. | 
+ Q2 2026 (Apr-Jun) sales tax return\, applying Wisconsin's quarterly-filer d
+ ue-date rule: Last day of the following month for standard filers\; 'early 
+ monthly' filers use the 20th - this entry uses the standard last-day rule. 
+ This is a representative recurring pattern\, not a single annual deadline -
+  actual filing frequency (monthly/quarterly/annual) is assigned per busines
+ s by the state. | Authority: Direct fetch of Wisconsin's own tax agency sit
+ e this session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-sales.as
+ px | This date is computed from a recurrence rule and may not reflect a lat
+ er-announced change\; confirm against the cited source before relying on it
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-wisconsin-q2-2027-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:Wisconsin: State sales & use tax return due
+DESCRIPTION:Last day of the following month for standard filers\; 'early mo
+ nthly' filers use the 20th - this entry uses the standard last-day rule. | 
+ Q2 2026 (Apr-Jun) sales tax return\, applying Wisconsin's quarterly-filer d
+ ue-date rule: Last day of the following month for standard filers\; 'early 
+ monthly' filers use the 20th - this entry uses the standard last-day rule. 
+ This is a representative recurring pattern\, not a single annual deadline -
+  actual filing frequency (monthly/quarterly/annual) is assigned per busines
+ s by the state. | Authority: Direct fetch of Wisconsin's own tax agency sit
+ e this session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-sales.as
+ px | This date is computed from a recurrence rule and may not reflect a lat
+ er-announced change\; confirm against the cited source before relying on it
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-wisconsin-q2-2028-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280731
+DTEND;VALUE=DATE:20280801
+SUMMARY:Wisconsin: State sales & use tax return due
+DESCRIPTION:Last day of the following month for standard filers\; 'early mo
+ nthly' filers use the 20th - this entry uses the standard last-day rule. | 
+ Q2 2026 (Apr-Jun) sales tax return\, applying Wisconsin's quarterly-filer d
+ ue-date rule: Last day of the following month for standard filers\; 'early 
+ monthly' filers use the 20th - this entry uses the standard last-day rule. 
+ This is a representative recurring pattern\, not a single annual deadline -
+  actual filing frequency (monthly/quarterly/annual) is assigned per busines
+ s by the state. | Authority: Direct fetch of Wisconsin's own tax agency sit
+ e this session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-sales.as
+ px | This date is computed from a recurrence rule and may not reflect a lat
+ er-announced change\; confirm against the cited source before relying on it
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-wisconsin-q2-2029-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290731
+DTEND;VALUE=DATE:20290801
+SUMMARY:Wisconsin: State sales & use tax return due
+DESCRIPTION:Last day of the following month for standard filers\; 'early mo
+ nthly' filers use the 20th - this entry uses the standard last-day rule. | 
+ Q2 2026 (Apr-Jun) sales tax return\, applying Wisconsin's quarterly-filer d
+ ue-date rule: Last day of the following month for standard filers\; 'early 
+ monthly' filers use the 20th - this entry uses the standard last-day rule. 
+ This is a representative recurring pattern\, not a single annual deadline -
+  actual filing frequency (monthly/quarterly/annual) is assigned per busines
+ s by the state. | Authority: Direct fetch of Wisconsin's own tax agency sit
+ e this session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-sales.as
+ px | This date is computed from a recurrence rule and may not reflect a lat
+ er-announced change\; confirm against the cited source before relying on it
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-wisconsin-q2-2030-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300731
+DTEND;VALUE=DATE:20300801
+SUMMARY:Wisconsin: State sales & use tax return due
+DESCRIPTION:Last day of the following month for standard filers\; 'early mo
+ nthly' filers use the 20th - this entry uses the standard last-day rule. | 
+ Q2 2026 (Apr-Jun) sales tax return\, applying Wisconsin's quarterly-filer d
+ ue-date rule: Last day of the following month for standard filers\; 'early 
+ monthly' filers use the 20th - this entry uses the standard last-day rule. 
+ This is a representative recurring pattern\, not a single annual deadline -
+  actual filing frequency (monthly/quarterly/annual) is assigned per busines
+ s by the state. | Authority: Direct fetch of Wisconsin's own tax agency sit
+ e this session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-sales.as
+ px | This date is computed from a recurrence rule and may not reflect a lat
+ er-announced change\; confirm against the cited source before relying on it
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-wisconsin-q2-2031-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310731
+DTEND;VALUE=DATE:20310801
+SUMMARY:Wisconsin: State sales & use tax return due
+DESCRIPTION:Last day of the following month for standard filers\; 'early mo
+ nthly' filers use the 20th - this entry uses the standard last-day rule. | 
+ Q2 2026 (Apr-Jun) sales tax return\, applying Wisconsin's quarterly-filer d
+ ue-date rule: Last day of the following month for standard filers\; 'early 
+ monthly' filers use the 20th - this entry uses the standard last-day rule. 
+ This is a representative recurring pattern\, not a single annual deadline -
+  actual filing frequency (monthly/quarterly/annual) is assigned per busines
+ s by the state. | Authority: Direct fetch of Wisconsin's own tax agency sit
+ e this session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-sales.as
+ px | This date is computed from a recurrence rule and may not reflect a lat
+ er-announced change\; confirm against the cited source before relying on it
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-wisconsin-q2-2032-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320731
+DTEND;VALUE=DATE:20320801
+SUMMARY:Wisconsin: State sales & use tax return due
+DESCRIPTION:Last day of the following month for standard filers\; 'early mo
+ nthly' filers use the 20th - this entry uses the standard last-day rule. | 
+ Q2 2026 (Apr-Jun) sales tax return\, applying Wisconsin's quarterly-filer d
+ ue-date rule: Last day of the following month for standard filers\; 'early 
+ monthly' filers use the 20th - this entry uses the standard last-day rule. 
+ This is a representative recurring pattern\, not a single annual deadline -
+  actual filing frequency (monthly/quarterly/annual) is assigned per busines
+ s by the state. | Authority: Direct fetch of Wisconsin's own tax agency sit
+ e this session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-sales.as
+ px | This date is computed from a recurrence rule and may not reflect a lat
+ er-announced change\; confirm against the cited source before relying on it
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-wisconsin-q3-2025-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20251031
+DTEND;VALUE=DATE:20251101
+SUMMARY:Wisconsin: State sales & use tax return due
+DESCRIPTION:Last day of the following month for standard filers\; 'early mo
+ nthly' filers use the 20th - this entry uses the standard last-day rule. | 
+ Q3 2026 (Jul-Sep) sales tax return\, applying Wisconsin's quarterly-filer d
+ ue-date rule: Last day of the following month for standard filers\; 'early 
+ monthly' filers use the 20th - this entry uses the standard last-day rule. 
+ This is a representative recurring pattern\, not a single annual deadline -
+  actual filing frequency (monthly/quarterly/annual) is assigned per busines
+ s by the state. | Authority: Direct fetch of Wisconsin's own tax agency sit
+ e this session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-sales.as
+ px | This date is computed from a recurrence rule and may not reflect a lat
+ er-announced change\; confirm against the cited source before relying on it
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-wisconsin-q3-2026-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Wisconsin: State sales & use tax return due
+DESCRIPTION:Last day of the following month for standard filers\; 'early mo
+ nthly' filers use the 20th - this entry uses the standard last-day rule. | 
+ Q3 2026 (Jul-Sep) sales tax return\, applying Wisconsin's quarterly-filer d
+ ue-date rule: Last day of the following month for standard filers\; 'early 
+ monthly' filers use the 20th - this entry uses the standard last-day rule. 
+ This is a representative recurring pattern\, not a single annual deadline -
+  actual filing frequency (monthly/quarterly/annual) is assigned per busines
+ s by the state. | Authority: Direct fetch of Wisconsin's own tax agency sit
+ e this session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-sales.as
+ px | This date is computed from a recurrence rule and may not reflect a lat
+ er-announced change\; confirm against the cited source before relying on it
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-wisconsin-q3-2027-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20271031
+DTEND;VALUE=DATE:20271101
+SUMMARY:Wisconsin: State sales & use tax return due
+DESCRIPTION:Last day of the following month for standard filers\; 'early mo
+ nthly' filers use the 20th - this entry uses the standard last-day rule. | 
+ Q3 2026 (Jul-Sep) sales tax return\, applying Wisconsin's quarterly-filer d
+ ue-date rule: Last day of the following month for standard filers\; 'early 
+ monthly' filers use the 20th - this entry uses the standard last-day rule. 
+ This is a representative recurring pattern\, not a single annual deadline -
+  actual filing frequency (monthly/quarterly/annual) is assigned per busines
+ s by the state. | Authority: Direct fetch of Wisconsin's own tax agency sit
+ e this session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-sales.as
+ px | This date is computed from a recurrence rule and may not reflect a lat
+ er-announced change\; confirm against the cited source before relying on it
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-wisconsin-q3-2028-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20281031
+DTEND;VALUE=DATE:20281101
+SUMMARY:Wisconsin: State sales & use tax return due
+DESCRIPTION:Last day of the following month for standard filers\; 'early mo
+ nthly' filers use the 20th - this entry uses the standard last-day rule. | 
+ Q3 2026 (Jul-Sep) sales tax return\, applying Wisconsin's quarterly-filer d
+ ue-date rule: Last day of the following month for standard filers\; 'early 
+ monthly' filers use the 20th - this entry uses the standard last-day rule. 
+ This is a representative recurring pattern\, not a single annual deadline -
+  actual filing frequency (monthly/quarterly/annual) is assigned per busines
+ s by the state. | Authority: Direct fetch of Wisconsin's own tax agency sit
+ e this session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-sales.as
+ px | This date is computed from a recurrence rule and may not reflect a lat
+ er-announced change\; confirm against the cited source before relying on it
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-wisconsin-q3-2029-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20291031
+DTEND;VALUE=DATE:20291101
+SUMMARY:Wisconsin: State sales & use tax return due
+DESCRIPTION:Last day of the following month for standard filers\; 'early mo
+ nthly' filers use the 20th - this entry uses the standard last-day rule. | 
+ Q3 2026 (Jul-Sep) sales tax return\, applying Wisconsin's quarterly-filer d
+ ue-date rule: Last day of the following month for standard filers\; 'early 
+ monthly' filers use the 20th - this entry uses the standard last-day rule. 
+ This is a representative recurring pattern\, not a single annual deadline -
+  actual filing frequency (monthly/quarterly/annual) is assigned per busines
+ s by the state. | Authority: Direct fetch of Wisconsin's own tax agency sit
+ e this session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-sales.as
+ px | This date is computed from a recurrence rule and may not reflect a lat
+ er-announced change\; confirm against the cited source before relying on it
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-wisconsin-q3-2030-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20301031
+DTEND;VALUE=DATE:20301101
+SUMMARY:Wisconsin: State sales & use tax return due
+DESCRIPTION:Last day of the following month for standard filers\; 'early mo
+ nthly' filers use the 20th - this entry uses the standard last-day rule. | 
+ Q3 2026 (Jul-Sep) sales tax return\, applying Wisconsin's quarterly-filer d
+ ue-date rule: Last day of the following month for standard filers\; 'early 
+ monthly' filers use the 20th - this entry uses the standard last-day rule. 
+ This is a representative recurring pattern\, not a single annual deadline -
+  actual filing frequency (monthly/quarterly/annual) is assigned per busines
+ s by the state. | Authority: Direct fetch of Wisconsin's own tax agency sit
+ e this session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-sales.as
+ px | This date is computed from a recurrence rule and may not reflect a lat
+ er-announced change\; confirm against the cited source before relying on it
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-wisconsin-q3-2031-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20311031
+DTEND;VALUE=DATE:20311101
+SUMMARY:Wisconsin: State sales & use tax return due
+DESCRIPTION:Last day of the following month for standard filers\; 'early mo
+ nthly' filers use the 20th - this entry uses the standard last-day rule. | 
+ Q3 2026 (Jul-Sep) sales tax return\, applying Wisconsin's quarterly-filer d
+ ue-date rule: Last day of the following month for standard filers\; 'early 
+ monthly' filers use the 20th - this entry uses the standard last-day rule. 
+ This is a representative recurring pattern\, not a single annual deadline -
+  actual filing frequency (monthly/quarterly/annual) is assigned per busines
+ s by the state. | Authority: Direct fetch of Wisconsin's own tax agency sit
+ e this session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-sales.as
+ px | This date is computed from a recurrence rule and may not reflect a lat
+ er-announced change\; confirm against the cited source before relying on it
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-wisconsin-q3-2032-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20321031
+DTEND;VALUE=DATE:20321101
+SUMMARY:Wisconsin: State sales & use tax return due
+DESCRIPTION:Last day of the following month for standard filers\; 'early mo
+ nthly' filers use the 20th - this entry uses the standard last-day rule. | 
+ Q3 2026 (Jul-Sep) sales tax return\, applying Wisconsin's quarterly-filer d
+ ue-date rule: Last day of the following month for standard filers\; 'early 
+ monthly' filers use the 20th - this entry uses the standard last-day rule. 
+ This is a representative recurring pattern\, not a single annual deadline -
+  actual filing frequency (monthly/quarterly/annual) is assigned per busines
+ s by the state. | Authority: Direct fetch of Wisconsin's own tax agency sit
+ e this session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-sales.as
+ px | This date is computed from a recurrence rule and may not reflect a lat
+ er-announced change\; confirm against the cited source before relying on it
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-wisconsin-q4-2025-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250131
+DTEND;VALUE=DATE:20250201
+SUMMARY:Wisconsin: State sales & use tax return due
+DESCRIPTION:Last day of the following month for standard filers\; 'early mo
+ nthly' filers use the 20th - this entry uses the standard last-day rule. | 
+ Q4 2026 (Oct-Dec) sales tax return\, applying Wisconsin's quarterly-filer d
+ ue-date rule: Last day of the following month for standard filers\; 'early 
+ monthly' filers use the 20th - this entry uses the standard last-day rule. 
+ This is a representative recurring pattern\, not a single annual deadline -
+  actual filing frequency (monthly/quarterly/annual) is assigned per busines
+ s by the state. | Authority: Direct fetch of Wisconsin's own tax agency sit
+ e this session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-sales.as
+ px | This date is computed from a recurrence rule and may not reflect a lat
+ er-announced change\; confirm against the cited source before relying on it
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-wisconsin-q4-2026-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:Wisconsin: State sales & use tax return due
+DESCRIPTION:Last day of the following month for standard filers\; 'early mo
+ nthly' filers use the 20th - this entry uses the standard last-day rule. | 
+ Q4 2026 (Oct-Dec) sales tax return\, applying Wisconsin's quarterly-filer d
+ ue-date rule: Last day of the following month for standard filers\; 'early 
+ monthly' filers use the 20th - this entry uses the standard last-day rule. 
+ This is a representative recurring pattern\, not a single annual deadline -
+  actual filing frequency (monthly/quarterly/annual) is assigned per busines
+ s by the state. | Authority: Direct fetch of Wisconsin's own tax agency sit
+ e this session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-sales.as
+ px | This date is computed from a recurrence rule and may not reflect a lat
+ er-announced change\; confirm against the cited source before relying on it
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-wisconsin-q4-2027-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Wisconsin: State sales & use tax return due
+DESCRIPTION:Last day of the following month for standard filers\; 'early mo
+ nthly' filers use the 20th - this entry uses the standard last-day rule. | 
+ Q4 2026 (Oct-Dec) sales tax return\, applying Wisconsin's quarterly-filer d
+ ue-date rule: Last day of the following month for standard filers\; 'early 
+ monthly' filers use the 20th - this entry uses the standard last-day rule. 
+ This is a representative recurring pattern\, not a single annual deadline -
+  actual filing frequency (monthly/quarterly/annual) is assigned per busines
+ s by the state. | Authority: Direct fetch of Wisconsin's own tax agency sit
+ e this session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-sales.as
+ px | This date is computed from a recurrence rule and may not reflect a lat
+ er-announced change\; confirm against the cited source before relying on it
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-wisconsin-q4-2028-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280131
+DTEND;VALUE=DATE:20280201
+SUMMARY:Wisconsin: State sales & use tax return due
+DESCRIPTION:Last day of the following month for standard filers\; 'early mo
+ nthly' filers use the 20th - this entry uses the standard last-day rule. | 
+ Q4 2026 (Oct-Dec) sales tax return\, applying Wisconsin's quarterly-filer d
+ ue-date rule: Last day of the following month for standard filers\; 'early 
+ monthly' filers use the 20th - this entry uses the standard last-day rule. 
+ This is a representative recurring pattern\, not a single annual deadline -
+  actual filing frequency (monthly/quarterly/annual) is assigned per busines
+ s by the state. | Authority: Direct fetch of Wisconsin's own tax agency sit
+ e this session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-sales.as
+ px | This date is computed from a recurrence rule and may not reflect a lat
+ er-announced change\; confirm against the cited source before relying on it
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-wisconsin-q4-2029-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290131
+DTEND;VALUE=DATE:20290201
+SUMMARY:Wisconsin: State sales & use tax return due
+DESCRIPTION:Last day of the following month for standard filers\; 'early mo
+ nthly' filers use the 20th - this entry uses the standard last-day rule. | 
+ Q4 2026 (Oct-Dec) sales tax return\, applying Wisconsin's quarterly-filer d
+ ue-date rule: Last day of the following month for standard filers\; 'early 
+ monthly' filers use the 20th - this entry uses the standard last-day rule. 
+ This is a representative recurring pattern\, not a single annual deadline -
+  actual filing frequency (monthly/quarterly/annual) is assigned per busines
+ s by the state. | Authority: Direct fetch of Wisconsin's own tax agency sit
+ e this session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-sales.as
+ px | This date is computed from a recurrence rule and may not reflect a lat
+ er-announced change\; confirm against the cited source before relying on it
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-wisconsin-q4-2030-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300131
+DTEND;VALUE=DATE:20300201
+SUMMARY:Wisconsin: State sales & use tax return due
+DESCRIPTION:Last day of the following month for standard filers\; 'early mo
+ nthly' filers use the 20th - this entry uses the standard last-day rule. | 
+ Q4 2026 (Oct-Dec) sales tax return\, applying Wisconsin's quarterly-filer d
+ ue-date rule: Last day of the following month for standard filers\; 'early 
+ monthly' filers use the 20th - this entry uses the standard last-day rule. 
+ This is a representative recurring pattern\, not a single annual deadline -
+  actual filing frequency (monthly/quarterly/annual) is assigned per busines
+ s by the state. | Authority: Direct fetch of Wisconsin's own tax agency sit
+ e this session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-sales.as
+ px | This date is computed from a recurrence rule and may not reflect a lat
+ er-announced change\; confirm against the cited source before relying on it
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-wisconsin-q4-2031-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310131
+DTEND;VALUE=DATE:20310201
+SUMMARY:Wisconsin: State sales & use tax return due
+DESCRIPTION:Last day of the following month for standard filers\; 'early mo
+ nthly' filers use the 20th - this entry uses the standard last-day rule. | 
+ Q4 2026 (Oct-Dec) sales tax return\, applying Wisconsin's quarterly-filer d
+ ue-date rule: Last day of the following month for standard filers\; 'early 
+ monthly' filers use the 20th - this entry uses the standard last-day rule. 
+ This is a representative recurring pattern\, not a single annual deadline -
+  actual filing frequency (monthly/quarterly/annual) is assigned per busines
+ s by the state. | Authority: Direct fetch of Wisconsin's own tax agency sit
+ e this session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-sales.as
+ px | This date is computed from a recurrence rule and may not reflect a lat
+ er-announced change\; confirm against the cited source before relying on it
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-wisconsin-q4-2032-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320131
+DTEND;VALUE=DATE:20320201
+SUMMARY:Wisconsin: State sales & use tax return due
+DESCRIPTION:Last day of the following month for standard filers\; 'early mo
+ nthly' filers use the 20th - this entry uses the standard last-day rule. | 
+ Q4 2026 (Oct-Dec) sales tax return\, applying Wisconsin's quarterly-filer d
+ ue-date rule: Last day of the following month for standard filers\; 'early 
+ monthly' filers use the 20th - this entry uses the standard last-day rule. 
+ This is a representative recurring pattern\, not a single annual deadline -
+  actual filing frequency (monthly/quarterly/annual) is assigned per busines
+ s by the state. | Authority: Direct fetch of Wisconsin's own tax agency sit
+ e this session | Source: https://www.revenue.wi.gov/Pages/FAQS/pcs-sales.as
+ px | This date is computed from a recurrence rule and may not reflect a lat
+ er-announced change\; confirm against the cited source before relying on it
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

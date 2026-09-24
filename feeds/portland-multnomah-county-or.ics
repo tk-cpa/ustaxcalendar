@@ -1,0 +1,147 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tk.cpa//US Tax Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:US Tax Calendar - Portland / Multnomah County\, OR
+X-WR-CALDESC:Recurring US tax filing deadlines from ustaxcalendar.com (a tk
+ .cpa resource). Reference only\, not tax advice.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:city-portland-multnomah-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:Portland / Multnomah County\, OR: Form SP due
+DESCRIPTION:15th day of the 4th month after the tax year ends (calendar-yea
+ r filer) | Due April 15\, 2026 for calendar-year 2025 filers\, per Portland
+  City Code 7.02.510 A.2\, Metro Code 7.05.170(a)\, and Multnomah County Cod
+ e section 11.530 A / 12.510(A). The one-month extension referenced on this 
+ page applies to C corporations only\, not individual filers. | Authority: D
+ irect fetch of portland.gov/revenue this session | Source: https://www.port
+ land.gov/revenue/policy-tax-return-due-dates | This date is computed from a
+  recurrence rule and may not reflect a later-announced change\; confirm aga
+ inst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-portland-multnomah-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:Portland / Multnomah County\, OR: Form SP due
+DESCRIPTION:15th day of the 4th month after the tax year ends (calendar-yea
+ r filer) | Due April 15\, 2026 for calendar-year 2025 filers\, per Portland
+  City Code 7.02.510 A.2\, Metro Code 7.05.170(a)\, and Multnomah County Cod
+ e section 11.530 A / 12.510(A). The one-month extension referenced on this 
+ page applies to C corporations only\, not individual filers. | Authority: D
+ irect fetch of portland.gov/revenue this session | Source: https://www.port
+ land.gov/revenue/policy-tax-return-due-dates | This date is computed from a
+  recurrence rule and may not reflect a later-announced change\; confirm aga
+ inst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-portland-multnomah-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Portland / Multnomah County\, OR: Form SP due
+DESCRIPTION:15th day of the 4th month after the tax year ends (calendar-yea
+ r filer) | Due April 15\, 2026 for calendar-year 2025 filers\, per Portland
+  City Code 7.02.510 A.2\, Metro Code 7.05.170(a)\, and Multnomah County Cod
+ e section 11.530 A / 12.510(A). The one-month extension referenced on this 
+ page applies to C corporations only\, not individual filers. | Authority: D
+ irect fetch of portland.gov/revenue this session | Source: https://www.port
+ land.gov/revenue/policy-tax-return-due-dates | This date is computed from a
+  recurrence rule and may not reflect a later-announced change\; confirm aga
+ inst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-portland-multnomah-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Portland / Multnomah County\, OR: Form SP due
+DESCRIPTION:15th day of the 4th month after the tax year ends (calendar-yea
+ r filer) | Due April 15\, 2026 for calendar-year 2025 filers\, per Portland
+  City Code 7.02.510 A.2\, Metro Code 7.05.170(a)\, and Multnomah County Cod
+ e section 11.530 A / 12.510(A). The one-month extension referenced on this 
+ page applies to C corporations only\, not individual filers. | Authority: D
+ irect fetch of portland.gov/revenue this session | Source: https://www.port
+ land.gov/revenue/policy-tax-return-due-dates | This date is computed from a
+  recurrence rule and may not reflect a later-announced change\; confirm aga
+ inst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-portland-multnomah-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:Portland / Multnomah County\, OR: Form SP due
+DESCRIPTION:15th day of the 4th month after the tax year ends (calendar-yea
+ r filer) | Due April 15\, 2026 for calendar-year 2025 filers\, per Portland
+  City Code 7.02.510 A.2\, Metro Code 7.05.170(a)\, and Multnomah County Cod
+ e section 11.530 A / 12.510(A). The one-month extension referenced on this 
+ page applies to C corporations only\, not individual filers. | Authority: D
+ irect fetch of portland.gov/revenue this session | Source: https://www.port
+ land.gov/revenue/policy-tax-return-due-dates | This date is computed from a
+  recurrence rule and may not reflect a later-announced change\; confirm aga
+ inst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-portland-multnomah-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:Portland / Multnomah County\, OR: Form SP due
+DESCRIPTION:15th day of the 4th month after the tax year ends (calendar-yea
+ r filer) | Due April 15\, 2026 for calendar-year 2025 filers\, per Portland
+  City Code 7.02.510 A.2\, Metro Code 7.05.170(a)\, and Multnomah County Cod
+ e section 11.530 A / 12.510(A). The one-month extension referenced on this 
+ page applies to C corporations only\, not individual filers. | Authority: D
+ irect fetch of portland.gov/revenue this session | Source: https://www.port
+ land.gov/revenue/policy-tax-return-due-dates | This date is computed from a
+  recurrence rule and may not reflect a later-announced change\; confirm aga
+ inst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-portland-multnomah-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:Portland / Multnomah County\, OR: Form SP due
+DESCRIPTION:15th day of the 4th month after the tax year ends (calendar-yea
+ r filer) | Due April 15\, 2026 for calendar-year 2025 filers\, per Portland
+  City Code 7.02.510 A.2\, Metro Code 7.05.170(a)\, and Multnomah County Cod
+ e section 11.530 A / 12.510(A). The one-month extension referenced on this 
+ page applies to C corporations only\, not individual filers. | Authority: D
+ irect fetch of portland.gov/revenue this session | Source: https://www.port
+ land.gov/revenue/policy-tax-return-due-dates | This date is computed from a
+  recurrence rule and may not reflect a later-announced change\; confirm aga
+ inst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-portland-multnomah-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:Portland / Multnomah County\, OR: Form SP due
+DESCRIPTION:15th day of the 4th month after the tax year ends (calendar-yea
+ r filer) | Due April 15\, 2026 for calendar-year 2025 filers\, per Portland
+  City Code 7.02.510 A.2\, Metro Code 7.05.170(a)\, and Multnomah County Cod
+ e section 11.530 A / 12.510(A). The one-month extension referenced on this 
+ page applies to C corporations only\, not individual filers. | Authority: D
+ irect fetch of portland.gov/revenue this session | Source: https://www.port
+ land.gov/revenue/policy-tax-return-due-dates | This date is computed from a
+  recurrence rule and may not reflect a later-announced change\; confirm aga
+ inst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

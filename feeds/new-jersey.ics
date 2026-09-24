@@ -1,0 +1,2307 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tk.cpa//US Tax Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:US Tax Calendar - New Jersey
+X-WR-CALDESC:Recurring US tax filing deadlines from ustaxcalendar.com (a tk
+ .cpa resource). Reference only\, not tax advice.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:state-corp-new-jersey-2025-05-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250515
+DTEND;VALUE=DATE:20250516
+SUMMARY:New Jersey: State corporate income/franchise tax return due
+DESCRIPTION:CBT-100 due date is the 15th day of the month following the fed
+ eral corporate return's original due date (May 15 for calendar year\, not t
+ he standard 15th-of-4th-month rule)\; automatic 6-month extension via Form 
+ CBT-200-T conditioned on having paid 90%+ of tax liability by the original 
+ due date. | CBT-100 due date is the 15th day of the month following the fed
+ eral corporate return's original due date (May 15 for calendar year\, not t
+ he standard 15th-of-4th-month rule)\; automatic 6-month extension via Form 
+ CBT-200-T conditioned on having paid 90%+ of tax liability by the original 
+ due date. | Authority: Direct fetch of New Jersey's own tax agency site/pub
+ lication this session | Source: https://www.nj.gov/treasury/taxation/pdf/cu
+ rrent/cbt/cbt100ins.pdf | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-new-jersey-2026-05-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:New Jersey: State corporate income/franchise tax return due
+DESCRIPTION:CBT-100 due date is the 15th day of the month following the fed
+ eral corporate return's original due date (May 15 for calendar year\, not t
+ he standard 15th-of-4th-month rule)\; automatic 6-month extension via Form 
+ CBT-200-T conditioned on having paid 90%+ of tax liability by the original 
+ due date. | CBT-100 due date is the 15th day of the month following the fed
+ eral corporate return's original due date (May 15 for calendar year\, not t
+ he standard 15th-of-4th-month rule)\; automatic 6-month extension via Form 
+ CBT-200-T conditioned on having paid 90%+ of tax liability by the original 
+ due date. | Authority: Direct fetch of New Jersey's own tax agency site/pub
+ lication this session | Source: https://www.nj.gov/treasury/taxation/pdf/cu
+ rrent/cbt/cbt100ins.pdf | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-new-jersey-2027-05-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:New Jersey: State corporate income/franchise tax return due
+DESCRIPTION:CBT-100 due date is the 15th day of the month following the fed
+ eral corporate return's original due date (May 15 for calendar year\, not t
+ he standard 15th-of-4th-month rule)\; automatic 6-month extension via Form 
+ CBT-200-T conditioned on having paid 90%+ of tax liability by the original 
+ due date. | CBT-100 due date is the 15th day of the month following the fed
+ eral corporate return's original due date (May 15 for calendar year\, not t
+ he standard 15th-of-4th-month rule)\; automatic 6-month extension via Form 
+ CBT-200-T conditioned on having paid 90%+ of tax liability by the original 
+ due date. | Authority: Direct fetch of New Jersey's own tax agency site/pub
+ lication this session | Source: https://www.nj.gov/treasury/taxation/pdf/cu
+ rrent/cbt/cbt100ins.pdf | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-new-jersey-2028-05-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280515
+DTEND;VALUE=DATE:20280516
+SUMMARY:New Jersey: State corporate income/franchise tax return due
+DESCRIPTION:CBT-100 due date is the 15th day of the month following the fed
+ eral corporate return's original due date (May 15 for calendar year\, not t
+ he standard 15th-of-4th-month rule)\; automatic 6-month extension via Form 
+ CBT-200-T conditioned on having paid 90%+ of tax liability by the original 
+ due date. | CBT-100 due date is the 15th day of the month following the fed
+ eral corporate return's original due date (May 15 for calendar year\, not t
+ he standard 15th-of-4th-month rule)\; automatic 6-month extension via Form 
+ CBT-200-T conditioned on having paid 90%+ of tax liability by the original 
+ due date. | Authority: Direct fetch of New Jersey's own tax agency site/pub
+ lication this session | Source: https://www.nj.gov/treasury/taxation/pdf/cu
+ rrent/cbt/cbt100ins.pdf | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-new-jersey-2029-05-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290515
+DTEND;VALUE=DATE:20290516
+SUMMARY:New Jersey: State corporate income/franchise tax return due
+DESCRIPTION:CBT-100 due date is the 15th day of the month following the fed
+ eral corporate return's original due date (May 15 for calendar year\, not t
+ he standard 15th-of-4th-month rule)\; automatic 6-month extension via Form 
+ CBT-200-T conditioned on having paid 90%+ of tax liability by the original 
+ due date. | CBT-100 due date is the 15th day of the month following the fed
+ eral corporate return's original due date (May 15 for calendar year\, not t
+ he standard 15th-of-4th-month rule)\; automatic 6-month extension via Form 
+ CBT-200-T conditioned on having paid 90%+ of tax liability by the original 
+ due date. | Authority: Direct fetch of New Jersey's own tax agency site/pub
+ lication this session | Source: https://www.nj.gov/treasury/taxation/pdf/cu
+ rrent/cbt/cbt100ins.pdf | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-new-jersey-2030-05-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300515
+DTEND;VALUE=DATE:20300516
+SUMMARY:New Jersey: State corporate income/franchise tax return due
+DESCRIPTION:CBT-100 due date is the 15th day of the month following the fed
+ eral corporate return's original due date (May 15 for calendar year\, not t
+ he standard 15th-of-4th-month rule)\; automatic 6-month extension via Form 
+ CBT-200-T conditioned on having paid 90%+ of tax liability by the original 
+ due date. | CBT-100 due date is the 15th day of the month following the fed
+ eral corporate return's original due date (May 15 for calendar year\, not t
+ he standard 15th-of-4th-month rule)\; automatic 6-month extension via Form 
+ CBT-200-T conditioned on having paid 90%+ of tax liability by the original 
+ due date. | Authority: Direct fetch of New Jersey's own tax agency site/pub
+ lication this session | Source: https://www.nj.gov/treasury/taxation/pdf/cu
+ rrent/cbt/cbt100ins.pdf | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-new-jersey-2031-05-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310515
+DTEND;VALUE=DATE:20310516
+SUMMARY:New Jersey: State corporate income/franchise tax return due
+DESCRIPTION:CBT-100 due date is the 15th day of the month following the fed
+ eral corporate return's original due date (May 15 for calendar year\, not t
+ he standard 15th-of-4th-month rule)\; automatic 6-month extension via Form 
+ CBT-200-T conditioned on having paid 90%+ of tax liability by the original 
+ due date. | CBT-100 due date is the 15th day of the month following the fed
+ eral corporate return's original due date (May 15 for calendar year\, not t
+ he standard 15th-of-4th-month rule)\; automatic 6-month extension via Form 
+ CBT-200-T conditioned on having paid 90%+ of tax liability by the original 
+ due date. | Authority: Direct fetch of New Jersey's own tax agency site/pub
+ lication this session | Source: https://www.nj.gov/treasury/taxation/pdf/cu
+ rrent/cbt/cbt100ins.pdf | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-new-jersey-2032-05-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320517
+DTEND;VALUE=DATE:20320518
+SUMMARY:New Jersey: State corporate income/franchise tax return due
+DESCRIPTION:CBT-100 due date is the 15th day of the month following the fed
+ eral corporate return's original due date (May 15 for calendar year\, not t
+ he standard 15th-of-4th-month rule)\; automatic 6-month extension via Form 
+ CBT-200-T conditioned on having paid 90%+ of tax liability by the original 
+ due date. | CBT-100 due date is the 15th day of the month following the fed
+ eral corporate return's original due date (May 15 for calendar year\, not t
+ he standard 15th-of-4th-month rule)\; automatic 6-month extension via Form 
+ CBT-200-T conditioned on having paid 90%+ of tax liability by the original 
+ due date. | Authority: Direct fetch of New Jersey's own tax agency site/pub
+ lication this session | Source: https://www.nj.gov/treasury/taxation/pdf/cu
+ rrent/cbt/cbt100ins.pdf | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-jersey-q1-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:New Jersey: State individual quarterly estimated tax payment due
+DESCRIPTION:January 1-April 1 due April 15\; April 2-June 1 due June 16\; J
+ une 2-September 1 due September 15\; September 2-December 31 due January 15
+ . | Q1 2026 state individual estimated tax payment. January 1-April 1 due A
+ pril 15\; April 2-June 1 due June 16\; June 2-September 1 due September 15\
+ ; September 2-December 31 due January 15. | Authority: Direct fetch of New 
+ Jersey's own tax agency site/instructions this session | Source: https://ww
+ w.nj.gov/treasury/taxation/pdf/pubs/tgi-ee/git8.pdf | This date is computed
+  from a recurrence rule and may not reflect a later-announced change\; conf
+ irm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-jersey-q1-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:New Jersey: State individual quarterly estimated tax payment due
+DESCRIPTION:January 1-April 1 due April 15\; April 2-June 1 due June 16\; J
+ une 2-September 1 due September 15\; September 2-December 31 due January 15
+ . | Q1 2026 state individual estimated tax payment. January 1-April 1 due A
+ pril 15\; April 2-June 1 due June 16\; June 2-September 1 due September 15\
+ ; September 2-December 31 due January 15. | Authority: Direct fetch of New 
+ Jersey's own tax agency site/instructions this session | Source: https://ww
+ w.nj.gov/treasury/taxation/pdf/pubs/tgi-ee/git8.pdf | This date is computed
+  from a recurrence rule and may not reflect a later-announced change\; conf
+ irm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-jersey-q1-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:New Jersey: State individual quarterly estimated tax payment due
+DESCRIPTION:January 1-April 1 due April 15\; April 2-June 1 due June 16\; J
+ une 2-September 1 due September 15\; September 2-December 31 due January 15
+ . | Q1 2026 state individual estimated tax payment. January 1-April 1 due A
+ pril 15\; April 2-June 1 due June 16\; June 2-September 1 due September 15\
+ ; September 2-December 31 due January 15. | Authority: Direct fetch of New 
+ Jersey's own tax agency site/instructions this session | Source: https://ww
+ w.nj.gov/treasury/taxation/pdf/pubs/tgi-ee/git8.pdf | This date is computed
+  from a recurrence rule and may not reflect a later-announced change\; conf
+ irm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-jersey-q1-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:New Jersey: State individual quarterly estimated tax payment due
+DESCRIPTION:January 1-April 1 due April 15\; April 2-June 1 due June 16\; J
+ une 2-September 1 due September 15\; September 2-December 31 due January 15
+ . | Q1 2026 state individual estimated tax payment. January 1-April 1 due A
+ pril 15\; April 2-June 1 due June 16\; June 2-September 1 due September 15\
+ ; September 2-December 31 due January 15. | Authority: Direct fetch of New 
+ Jersey's own tax agency site/instructions this session | Source: https://ww
+ w.nj.gov/treasury/taxation/pdf/pubs/tgi-ee/git8.pdf | This date is computed
+  from a recurrence rule and may not reflect a later-announced change\; conf
+ irm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-jersey-q1-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:New Jersey: State individual quarterly estimated tax payment due
+DESCRIPTION:January 1-April 1 due April 15\; April 2-June 1 due June 16\; J
+ une 2-September 1 due September 15\; September 2-December 31 due January 15
+ . | Q1 2026 state individual estimated tax payment. January 1-April 1 due A
+ pril 15\; April 2-June 1 due June 16\; June 2-September 1 due September 15\
+ ; September 2-December 31 due January 15. | Authority: Direct fetch of New 
+ Jersey's own tax agency site/instructions this session | Source: https://ww
+ w.nj.gov/treasury/taxation/pdf/pubs/tgi-ee/git8.pdf | This date is computed
+  from a recurrence rule and may not reflect a later-announced change\; conf
+ irm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-jersey-q1-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:New Jersey: State individual quarterly estimated tax payment due
+DESCRIPTION:January 1-April 1 due April 15\; April 2-June 1 due June 16\; J
+ une 2-September 1 due September 15\; September 2-December 31 due January 15
+ . | Q1 2026 state individual estimated tax payment. January 1-April 1 due A
+ pril 15\; April 2-June 1 due June 16\; June 2-September 1 due September 15\
+ ; September 2-December 31 due January 15. | Authority: Direct fetch of New 
+ Jersey's own tax agency site/instructions this session | Source: https://ww
+ w.nj.gov/treasury/taxation/pdf/pubs/tgi-ee/git8.pdf | This date is computed
+  from a recurrence rule and may not reflect a later-announced change\; conf
+ irm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-jersey-q1-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:New Jersey: State individual quarterly estimated tax payment due
+DESCRIPTION:January 1-April 1 due April 15\; April 2-June 1 due June 16\; J
+ une 2-September 1 due September 15\; September 2-December 31 due January 15
+ . | Q1 2026 state individual estimated tax payment. January 1-April 1 due A
+ pril 15\; April 2-June 1 due June 16\; June 2-September 1 due September 15\
+ ; September 2-December 31 due January 15. | Authority: Direct fetch of New 
+ Jersey's own tax agency site/instructions this session | Source: https://ww
+ w.nj.gov/treasury/taxation/pdf/pubs/tgi-ee/git8.pdf | This date is computed
+  from a recurrence rule and may not reflect a later-announced change\; conf
+ irm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-jersey-q1-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:New Jersey: State individual quarterly estimated tax payment due
+DESCRIPTION:January 1-April 1 due April 15\; April 2-June 1 due June 16\; J
+ une 2-September 1 due September 15\; September 2-December 31 due January 15
+ . | Q1 2026 state individual estimated tax payment. January 1-April 1 due A
+ pril 15\; April 2-June 1 due June 16\; June 2-September 1 due September 15\
+ ; September 2-December 31 due January 15. | Authority: Direct fetch of New 
+ Jersey's own tax agency site/instructions this session | Source: https://ww
+ w.nj.gov/treasury/taxation/pdf/pubs/tgi-ee/git8.pdf | This date is computed
+  from a recurrence rule and may not reflect a later-announced change\; conf
+ irm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-jersey-q2-2025-06-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250617
+SUMMARY:New Jersey: State individual quarterly estimated tax payment due
+DESCRIPTION:January 1-April 1 due April 15\; April 2-June 1 due June 16\; J
+ une 2-September 1 due September 15\; September 2-December 31 due January 15
+ . | Q2 2026 state individual estimated tax payment. January 1-April 1 due A
+ pril 15\; April 2-June 1 due June 16\; June 2-September 1 due September 15\
+ ; September 2-December 31 due January 15. | Authority: Direct fetch of New 
+ Jersey's own tax agency site/instructions this session | Source: https://ww
+ w.nj.gov/treasury/taxation/pdf/pubs/tgi-ee/git8.pdf | This date is computed
+  from a recurrence rule and may not reflect a later-announced change\; conf
+ irm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-jersey-q2-2026-06-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+SUMMARY:New Jersey: State individual quarterly estimated tax payment due
+DESCRIPTION:January 1-April 1 due April 15\; April 2-June 1 due June 16\; J
+ une 2-September 1 due September 15\; September 2-December 31 due January 15
+ . | Q2 2026 state individual estimated tax payment. January 1-April 1 due A
+ pril 15\; April 2-June 1 due June 16\; June 2-September 1 due September 15\
+ ; September 2-December 31 due January 15. | Authority: Direct fetch of New 
+ Jersey's own tax agency site/instructions this session | Source: https://ww
+ w.nj.gov/treasury/taxation/pdf/pubs/tgi-ee/git8.pdf | This date is computed
+  from a recurrence rule and may not reflect a later-announced change\; conf
+ irm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-jersey-q2-2027-06-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270617
+SUMMARY:New Jersey: State individual quarterly estimated tax payment due
+DESCRIPTION:January 1-April 1 due April 15\; April 2-June 1 due June 16\; J
+ une 2-September 1 due September 15\; September 2-December 31 due January 15
+ . | Q2 2026 state individual estimated tax payment. January 1-April 1 due A
+ pril 15\; April 2-June 1 due June 16\; June 2-September 1 due September 15\
+ ; September 2-December 31 due January 15. | Authority: Direct fetch of New 
+ Jersey's own tax agency site/instructions this session | Source: https://ww
+ w.nj.gov/treasury/taxation/pdf/pubs/tgi-ee/git8.pdf | This date is computed
+  from a recurrence rule and may not reflect a later-announced change\; conf
+ irm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-jersey-q2-2028-06-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280616
+DTEND;VALUE=DATE:20280617
+SUMMARY:New Jersey: State individual quarterly estimated tax payment due
+DESCRIPTION:January 1-April 1 due April 15\; April 2-June 1 due June 16\; J
+ une 2-September 1 due September 15\; September 2-December 31 due January 15
+ . | Q2 2026 state individual estimated tax payment. January 1-April 1 due A
+ pril 15\; April 2-June 1 due June 16\; June 2-September 1 due September 15\
+ ; September 2-December 31 due January 15. | Authority: Direct fetch of New 
+ Jersey's own tax agency site/instructions this session | Source: https://ww
+ w.nj.gov/treasury/taxation/pdf/pubs/tgi-ee/git8.pdf | This date is computed
+  from a recurrence rule and may not reflect a later-announced change\; conf
+ irm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-jersey-q2-2029-06-18@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290618
+DTEND;VALUE=DATE:20290619
+SUMMARY:New Jersey: State individual quarterly estimated tax payment due
+DESCRIPTION:January 1-April 1 due April 15\; April 2-June 1 due June 16\; J
+ une 2-September 1 due September 15\; September 2-December 31 due January 15
+ . | Q2 2026 state individual estimated tax payment. January 1-April 1 due A
+ pril 15\; April 2-June 1 due June 16\; June 2-September 1 due September 15\
+ ; September 2-December 31 due January 15. | Authority: Direct fetch of New 
+ Jersey's own tax agency site/instructions this session | Source: https://ww
+ w.nj.gov/treasury/taxation/pdf/pubs/tgi-ee/git8.pdf | This date is computed
+  from a recurrence rule and may not reflect a later-announced change\; conf
+ irm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-jersey-q2-2030-06-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300617
+DTEND;VALUE=DATE:20300618
+SUMMARY:New Jersey: State individual quarterly estimated tax payment due
+DESCRIPTION:January 1-April 1 due April 15\; April 2-June 1 due June 16\; J
+ une 2-September 1 due September 15\; September 2-December 31 due January 15
+ . | Q2 2026 state individual estimated tax payment. January 1-April 1 due A
+ pril 15\; April 2-June 1 due June 16\; June 2-September 1 due September 15\
+ ; September 2-December 31 due January 15. | Authority: Direct fetch of New 
+ Jersey's own tax agency site/instructions this session | Source: https://ww
+ w.nj.gov/treasury/taxation/pdf/pubs/tgi-ee/git8.pdf | This date is computed
+  from a recurrence rule and may not reflect a later-announced change\; conf
+ irm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-jersey-q2-2031-06-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310616
+DTEND;VALUE=DATE:20310617
+SUMMARY:New Jersey: State individual quarterly estimated tax payment due
+DESCRIPTION:January 1-April 1 due April 15\; April 2-June 1 due June 16\; J
+ une 2-September 1 due September 15\; September 2-December 31 due January 15
+ . | Q2 2026 state individual estimated tax payment. January 1-April 1 due A
+ pril 15\; April 2-June 1 due June 16\; June 2-September 1 due September 15\
+ ; September 2-December 31 due January 15. | Authority: Direct fetch of New 
+ Jersey's own tax agency site/instructions this session | Source: https://ww
+ w.nj.gov/treasury/taxation/pdf/pubs/tgi-ee/git8.pdf | This date is computed
+  from a recurrence rule and may not reflect a later-announced change\; conf
+ irm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-jersey-q2-2032-06-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320616
+DTEND;VALUE=DATE:20320617
+SUMMARY:New Jersey: State individual quarterly estimated tax payment due
+DESCRIPTION:January 1-April 1 due April 15\; April 2-June 1 due June 16\; J
+ une 2-September 1 due September 15\; September 2-December 31 due January 15
+ . | Q2 2026 state individual estimated tax payment. January 1-April 1 due A
+ pril 15\; April 2-June 1 due June 16\; June 2-September 1 due September 15\
+ ; September 2-December 31 due January 15. | Authority: Direct fetch of New 
+ Jersey's own tax agency site/instructions this session | Source: https://ww
+ w.nj.gov/treasury/taxation/pdf/pubs/tgi-ee/git8.pdf | This date is computed
+  from a recurrence rule and may not reflect a later-announced change\; conf
+ irm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-jersey-q3-2025-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20250916
+SUMMARY:New Jersey: State individual quarterly estimated tax payment due
+DESCRIPTION:January 1-April 1 due April 15\; April 2-June 1 due June 16\; J
+ une 2-September 1 due September 15\; September 2-December 31 due January 15
+ . | Q3 2026 state individual estimated tax payment. January 1-April 1 due A
+ pril 15\; April 2-June 1 due June 16\; June 2-September 1 due September 15\
+ ; September 2-December 31 due January 15. | Authority: Direct fetch of New 
+ Jersey's own tax agency site/instructions this session | Source: https://ww
+ w.nj.gov/treasury/taxation/pdf/pubs/tgi-ee/git8.pdf | This date is computed
+  from a recurrence rule and may not reflect a later-announced change\; conf
+ irm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-jersey-q3-2026-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:New Jersey: State individual quarterly estimated tax payment due
+DESCRIPTION:January 1-April 1 due April 15\; April 2-June 1 due June 16\; J
+ une 2-September 1 due September 15\; September 2-December 31 due January 15
+ . | Q3 2026 state individual estimated tax payment. January 1-April 1 due A
+ pril 15\; April 2-June 1 due June 16\; June 2-September 1 due September 15\
+ ; September 2-December 31 due January 15. | Authority: Direct fetch of New 
+ Jersey's own tax agency site/instructions this session | Source: https://ww
+ w.nj.gov/treasury/taxation/pdf/pubs/tgi-ee/git8.pdf | This date is computed
+  from a recurrence rule and may not reflect a later-announced change\; conf
+ irm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-jersey-q3-2027-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:New Jersey: State individual quarterly estimated tax payment due
+DESCRIPTION:January 1-April 1 due April 15\; April 2-June 1 due June 16\; J
+ une 2-September 1 due September 15\; September 2-December 31 due January 15
+ . | Q3 2026 state individual estimated tax payment. January 1-April 1 due A
+ pril 15\; April 2-June 1 due June 16\; June 2-September 1 due September 15\
+ ; September 2-December 31 due January 15. | Authority: Direct fetch of New 
+ Jersey's own tax agency site/instructions this session | Source: https://ww
+ w.nj.gov/treasury/taxation/pdf/pubs/tgi-ee/git8.pdf | This date is computed
+  from a recurrence rule and may not reflect a later-announced change\; conf
+ irm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-jersey-q3-2028-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280915
+DTEND;VALUE=DATE:20280916
+SUMMARY:New Jersey: State individual quarterly estimated tax payment due
+DESCRIPTION:January 1-April 1 due April 15\; April 2-June 1 due June 16\; J
+ une 2-September 1 due September 15\; September 2-December 31 due January 15
+ . | Q3 2026 state individual estimated tax payment. January 1-April 1 due A
+ pril 15\; April 2-June 1 due June 16\; June 2-September 1 due September 15\
+ ; September 2-December 31 due January 15. | Authority: Direct fetch of New 
+ Jersey's own tax agency site/instructions this session | Source: https://ww
+ w.nj.gov/treasury/taxation/pdf/pubs/tgi-ee/git8.pdf | This date is computed
+  from a recurrence rule and may not reflect a later-announced change\; conf
+ irm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-jersey-q3-2029-09-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290917
+DTEND;VALUE=DATE:20290918
+SUMMARY:New Jersey: State individual quarterly estimated tax payment due
+DESCRIPTION:January 1-April 1 due April 15\; April 2-June 1 due June 16\; J
+ une 2-September 1 due September 15\; September 2-December 31 due January 15
+ . | Q3 2026 state individual estimated tax payment. January 1-April 1 due A
+ pril 15\; April 2-June 1 due June 16\; June 2-September 1 due September 15\
+ ; September 2-December 31 due January 15. | Authority: Direct fetch of New 
+ Jersey's own tax agency site/instructions this session | Source: https://ww
+ w.nj.gov/treasury/taxation/pdf/pubs/tgi-ee/git8.pdf | This date is computed
+  from a recurrence rule and may not reflect a later-announced change\; conf
+ irm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-jersey-q3-2030-09-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300916
+DTEND;VALUE=DATE:20300917
+SUMMARY:New Jersey: State individual quarterly estimated tax payment due
+DESCRIPTION:January 1-April 1 due April 15\; April 2-June 1 due June 16\; J
+ une 2-September 1 due September 15\; September 2-December 31 due January 15
+ . | Q3 2026 state individual estimated tax payment. January 1-April 1 due A
+ pril 15\; April 2-June 1 due June 16\; June 2-September 1 due September 15\
+ ; September 2-December 31 due January 15. | Authority: Direct fetch of New 
+ Jersey's own tax agency site/instructions this session | Source: https://ww
+ w.nj.gov/treasury/taxation/pdf/pubs/tgi-ee/git8.pdf | This date is computed
+  from a recurrence rule and may not reflect a later-announced change\; conf
+ irm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-jersey-q3-2031-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310915
+DTEND;VALUE=DATE:20310916
+SUMMARY:New Jersey: State individual quarterly estimated tax payment due
+DESCRIPTION:January 1-April 1 due April 15\; April 2-June 1 due June 16\; J
+ une 2-September 1 due September 15\; September 2-December 31 due January 15
+ . | Q3 2026 state individual estimated tax payment. January 1-April 1 due A
+ pril 15\; April 2-June 1 due June 16\; June 2-September 1 due September 15\
+ ; September 2-December 31 due January 15. | Authority: Direct fetch of New 
+ Jersey's own tax agency site/instructions this session | Source: https://ww
+ w.nj.gov/treasury/taxation/pdf/pubs/tgi-ee/git8.pdf | This date is computed
+  from a recurrence rule and may not reflect a later-announced change\; conf
+ irm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-jersey-q3-2032-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320915
+DTEND;VALUE=DATE:20320916
+SUMMARY:New Jersey: State individual quarterly estimated tax payment due
+DESCRIPTION:January 1-April 1 due April 15\; April 2-June 1 due June 16\; J
+ une 2-September 1 due September 15\; September 2-December 31 due January 15
+ . | Q3 2026 state individual estimated tax payment. January 1-April 1 due A
+ pril 15\; April 2-June 1 due June 16\; June 2-September 1 due September 15\
+ ; September 2-December 31 due January 15. | Authority: Direct fetch of New 
+ Jersey's own tax agency site/instructions this session | Source: https://ww
+ w.nj.gov/treasury/taxation/pdf/pubs/tgi-ee/git8.pdf | This date is computed
+  from a recurrence rule and may not reflect a later-announced change\; conf
+ irm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-jersey-q4-2025-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250115
+DTEND;VALUE=DATE:20250116
+SUMMARY:New Jersey: State individual quarterly estimated tax payment due
+DESCRIPTION:January 1-April 1 due April 15\; April 2-June 1 due June 16\; J
+ une 2-September 1 due September 15\; September 2-December 31 due January 15
+ . | Q4 2026 state individual estimated tax payment. January 1-April 1 due A
+ pril 15\; April 2-June 1 due June 16\; June 2-September 1 due September 15\
+ ; September 2-December 31 due January 15. | Authority: Direct fetch of New 
+ Jersey's own tax agency site/instructions this session | Source: https://ww
+ w.nj.gov/treasury/taxation/pdf/pubs/tgi-ee/git8.pdf | This date is computed
+  from a recurrence rule and may not reflect a later-announced change\; conf
+ irm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-jersey-q4-2026-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260116
+SUMMARY:New Jersey: State individual quarterly estimated tax payment due
+DESCRIPTION:January 1-April 1 due April 15\; April 2-June 1 due June 16\; J
+ une 2-September 1 due September 15\; September 2-December 31 due January 15
+ . | Q4 2026 state individual estimated tax payment. January 1-April 1 due A
+ pril 15\; April 2-June 1 due June 16\; June 2-September 1 due September 15\
+ ; September 2-December 31 due January 15. | Authority: Direct fetch of New 
+ Jersey's own tax agency site/instructions this session | Source: https://ww
+ w.nj.gov/treasury/taxation/pdf/pubs/tgi-ee/git8.pdf | This date is computed
+  from a recurrence rule and may not reflect a later-announced change\; conf
+ irm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-jersey-q4-2027-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:New Jersey: State individual quarterly estimated tax payment due
+DESCRIPTION:January 1-April 1 due April 15\; April 2-June 1 due June 16\; J
+ une 2-September 1 due September 15\; September 2-December 31 due January 15
+ . | Q4 2026 state individual estimated tax payment. January 1-April 1 due A
+ pril 15\; April 2-June 1 due June 16\; June 2-September 1 due September 15\
+ ; September 2-December 31 due January 15. | Authority: Direct fetch of New 
+ Jersey's own tax agency site/instructions this session | Source: https://ww
+ w.nj.gov/treasury/taxation/pdf/pubs/tgi-ee/git8.pdf | This date is computed
+  from a recurrence rule and may not reflect a later-announced change\; conf
+ irm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-jersey-q4-2028-01-18@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280118
+DTEND;VALUE=DATE:20280119
+SUMMARY:New Jersey: State individual quarterly estimated tax payment due
+DESCRIPTION:January 1-April 1 due April 15\; April 2-June 1 due June 16\; J
+ une 2-September 1 due September 15\; September 2-December 31 due January 15
+ . | Q4 2026 state individual estimated tax payment. January 1-April 1 due A
+ pril 15\; April 2-June 1 due June 16\; June 2-September 1 due September 15\
+ ; September 2-December 31 due January 15. | Authority: Direct fetch of New 
+ Jersey's own tax agency site/instructions this session | Source: https://ww
+ w.nj.gov/treasury/taxation/pdf/pubs/tgi-ee/git8.pdf | This date is computed
+  from a recurrence rule and may not reflect a later-announced change\; conf
+ irm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-jersey-q4-2029-01-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290116
+DTEND;VALUE=DATE:20290117
+SUMMARY:New Jersey: State individual quarterly estimated tax payment due
+DESCRIPTION:January 1-April 1 due April 15\; April 2-June 1 due June 16\; J
+ une 2-September 1 due September 15\; September 2-December 31 due January 15
+ . | Q4 2026 state individual estimated tax payment. January 1-April 1 due A
+ pril 15\; April 2-June 1 due June 16\; June 2-September 1 due September 15\
+ ; September 2-December 31 due January 15. | Authority: Direct fetch of New 
+ Jersey's own tax agency site/instructions this session | Source: https://ww
+ w.nj.gov/treasury/taxation/pdf/pubs/tgi-ee/git8.pdf | This date is computed
+  from a recurrence rule and may not reflect a later-announced change\; conf
+ irm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-jersey-q4-2030-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300115
+DTEND;VALUE=DATE:20300116
+SUMMARY:New Jersey: State individual quarterly estimated tax payment due
+DESCRIPTION:January 1-April 1 due April 15\; April 2-June 1 due June 16\; J
+ une 2-September 1 due September 15\; September 2-December 31 due January 15
+ . | Q4 2026 state individual estimated tax payment. January 1-April 1 due A
+ pril 15\; April 2-June 1 due June 16\; June 2-September 1 due September 15\
+ ; September 2-December 31 due January 15. | Authority: Direct fetch of New 
+ Jersey's own tax agency site/instructions this session | Source: https://ww
+ w.nj.gov/treasury/taxation/pdf/pubs/tgi-ee/git8.pdf | This date is computed
+  from a recurrence rule and may not reflect a later-announced change\; conf
+ irm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-jersey-q4-2031-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310115
+DTEND;VALUE=DATE:20310116
+SUMMARY:New Jersey: State individual quarterly estimated tax payment due
+DESCRIPTION:January 1-April 1 due April 15\; April 2-June 1 due June 16\; J
+ une 2-September 1 due September 15\; September 2-December 31 due January 15
+ . | Q4 2026 state individual estimated tax payment. January 1-April 1 due A
+ pril 15\; April 2-June 1 due June 16\; June 2-September 1 due September 15\
+ ; September 2-December 31 due January 15. | Authority: Direct fetch of New 
+ Jersey's own tax agency site/instructions this session | Source: https://ww
+ w.nj.gov/treasury/taxation/pdf/pubs/tgi-ee/git8.pdf | This date is computed
+  from a recurrence rule and may not reflect a later-announced change\; conf
+ irm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-new-jersey-q4-2032-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320115
+DTEND;VALUE=DATE:20320116
+SUMMARY:New Jersey: State individual quarterly estimated tax payment due
+DESCRIPTION:January 1-April 1 due April 15\; April 2-June 1 due June 16\; J
+ une 2-September 1 due September 15\; September 2-December 31 due January 15
+ . | Q4 2026 state individual estimated tax payment. January 1-April 1 due A
+ pril 15\; April 2-June 1 due June 16\; June 2-September 1 due September 15\
+ ; September 2-December 31 due January 15. | Authority: Direct fetch of New 
+ Jersey's own tax agency site/instructions this session | Source: https://ww
+ w.nj.gov/treasury/taxation/pdf/pubs/tgi-ee/git8.pdf | This date is computed
+  from a recurrence rule and may not reflect a later-announced change\; conf
+ irm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-nj-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:New Jersey: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. At least 80% of tax owed must be paid b
+ y April 15 to qualify for the extension. | Authority: Direct fetch of https
+ ://www.nj.gov/treasury/unclaimed-property/treasury/taxation/njit17.shtml th
+ is session | Source: https://www.nj.gov/treasury/unclaimed-property/treasur
+ y/taxation/njit17.shtml | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-nj-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:New Jersey: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. At least 80% of tax owed must be paid b
+ y April 15 to qualify for the extension. | Authority: Direct fetch of https
+ ://www.nj.gov/treasury/unclaimed-property/treasury/taxation/njit17.shtml th
+ is session | Source: https://www.nj.gov/treasury/unclaimed-property/treasur
+ y/taxation/njit17.shtml | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-nj-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:New Jersey: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. At least 80% of tax owed must be paid b
+ y April 15 to qualify for the extension. | Authority: Direct fetch of https
+ ://www.nj.gov/treasury/unclaimed-property/treasury/taxation/njit17.shtml th
+ is session | Source: https://www.nj.gov/treasury/unclaimed-property/treasur
+ y/taxation/njit17.shtml | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-nj-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:New Jersey: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. At least 80% of tax owed must be paid b
+ y April 15 to qualify for the extension. | Authority: Direct fetch of https
+ ://www.nj.gov/treasury/unclaimed-property/treasury/taxation/njit17.shtml th
+ is session | Source: https://www.nj.gov/treasury/unclaimed-property/treasur
+ y/taxation/njit17.shtml | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-nj-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:New Jersey: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. At least 80% of tax owed must be paid b
+ y April 15 to qualify for the extension. | Authority: Direct fetch of https
+ ://www.nj.gov/treasury/unclaimed-property/treasury/taxation/njit17.shtml th
+ is session | Source: https://www.nj.gov/treasury/unclaimed-property/treasur
+ y/taxation/njit17.shtml | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-nj-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:New Jersey: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. At least 80% of tax owed must be paid b
+ y April 15 to qualify for the extension. | Authority: Direct fetch of https
+ ://www.nj.gov/treasury/unclaimed-property/treasury/taxation/njit17.shtml th
+ is session | Source: https://www.nj.gov/treasury/unclaimed-property/treasur
+ y/taxation/njit17.shtml | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-nj-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:New Jersey: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. At least 80% of tax owed must be paid b
+ y April 15 to qualify for the extension. | Authority: Direct fetch of https
+ ://www.nj.gov/treasury/unclaimed-property/treasury/taxation/njit17.shtml th
+ is session | Source: https://www.nj.gov/treasury/unclaimed-property/treasur
+ y/taxation/njit17.shtml | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-nj-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:New Jersey: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. At least 80% of tax owed must be paid b
+ y April 15 to qualify for the extension. | Authority: Direct fetch of https
+ ://www.nj.gov/treasury/unclaimed-property/treasury/taxation/njit17.shtml th
+ is session | Source: https://www.nj.gov/treasury/unclaimed-property/treasur
+ y/taxation/njit17.shtml | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-new-jersey-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:New Jersey: NJ-1065 (partnership) / CBT-100S (S-corp) due
+DESCRIPTION:New Jersey partnership return due the 15th day of the 4th month
+  after year-end. NJ's BAIT (Business Alternative Income Tax\, an elective P
+ TE tax) is a separate regime with its own mechanics. | New Jersey partnersh
+ ip return due the 15th day of the 4th month after year-end. NJ's BAIT (Busi
+ ness Alternative Income Tax\, an elective PTE tax) is a separate regime wit
+ h its own mechanics. File Form PART-200-T by the original due date with 80%
+  of the filing fee paid\; not automatic if requirements aren't met. | Autho
+ rity: New Jersey Division of Taxation\, direct fetch this session: "five-mo
+ nth extension of time to file an NJ-1065"\; extension denied if the 80% pay
+ ment requirement is not met or not filed timely. | Source: https://www.nj.g
+ ov/treasury/taxation/pdf/current/part/part200t-cbt206.pdf | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-new-jersey-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:New Jersey: NJ-1065 (partnership) / CBT-100S (S-corp) due
+DESCRIPTION:New Jersey partnership return due the 15th day of the 4th month
+  after year-end. NJ's BAIT (Business Alternative Income Tax\, an elective P
+ TE tax) is a separate regime with its own mechanics. | New Jersey partnersh
+ ip return due the 15th day of the 4th month after year-end. NJ's BAIT (Busi
+ ness Alternative Income Tax\, an elective PTE tax) is a separate regime wit
+ h its own mechanics. File Form PART-200-T by the original due date with 80%
+  of the filing fee paid\; not automatic if requirements aren't met. | Autho
+ rity: New Jersey Division of Taxation\, direct fetch this session: "five-mo
+ nth extension of time to file an NJ-1065"\; extension denied if the 80% pay
+ ment requirement is not met or not filed timely. | Source: https://www.nj.g
+ ov/treasury/taxation/pdf/current/part/part200t-cbt206.pdf | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-new-jersey-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:New Jersey: NJ-1065 (partnership) / CBT-100S (S-corp) due
+DESCRIPTION:New Jersey partnership return due the 15th day of the 4th month
+  after year-end. NJ's BAIT (Business Alternative Income Tax\, an elective P
+ TE tax) is a separate regime with its own mechanics. | New Jersey partnersh
+ ip return due the 15th day of the 4th month after year-end. NJ's BAIT (Busi
+ ness Alternative Income Tax\, an elective PTE tax) is a separate regime wit
+ h its own mechanics. File Form PART-200-T by the original due date with 80%
+  of the filing fee paid\; not automatic if requirements aren't met. | Autho
+ rity: New Jersey Division of Taxation\, direct fetch this session: "five-mo
+ nth extension of time to file an NJ-1065"\; extension denied if the 80% pay
+ ment requirement is not met or not filed timely. | Source: https://www.nj.g
+ ov/treasury/taxation/pdf/current/part/part200t-cbt206.pdf | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-new-jersey-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:New Jersey: NJ-1065 (partnership) / CBT-100S (S-corp) due
+DESCRIPTION:New Jersey partnership return due the 15th day of the 4th month
+  after year-end. NJ's BAIT (Business Alternative Income Tax\, an elective P
+ TE tax) is a separate regime with its own mechanics. | New Jersey partnersh
+ ip return due the 15th day of the 4th month after year-end. NJ's BAIT (Busi
+ ness Alternative Income Tax\, an elective PTE tax) is a separate regime wit
+ h its own mechanics. File Form PART-200-T by the original due date with 80%
+  of the filing fee paid\; not automatic if requirements aren't met. | Autho
+ rity: New Jersey Division of Taxation\, direct fetch this session: "five-mo
+ nth extension of time to file an NJ-1065"\; extension denied if the 80% pay
+ ment requirement is not met or not filed timely. | Source: https://www.nj.g
+ ov/treasury/taxation/pdf/current/part/part200t-cbt206.pdf | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-new-jersey-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:New Jersey: NJ-1065 (partnership) / CBT-100S (S-corp) due
+DESCRIPTION:New Jersey partnership return due the 15th day of the 4th month
+  after year-end. NJ's BAIT (Business Alternative Income Tax\, an elective P
+ TE tax) is a separate regime with its own mechanics. | New Jersey partnersh
+ ip return due the 15th day of the 4th month after year-end. NJ's BAIT (Busi
+ ness Alternative Income Tax\, an elective PTE tax) is a separate regime wit
+ h its own mechanics. File Form PART-200-T by the original due date with 80%
+  of the filing fee paid\; not automatic if requirements aren't met. | Autho
+ rity: New Jersey Division of Taxation\, direct fetch this session: "five-mo
+ nth extension of time to file an NJ-1065"\; extension denied if the 80% pay
+ ment requirement is not met or not filed timely. | Source: https://www.nj.g
+ ov/treasury/taxation/pdf/current/part/part200t-cbt206.pdf | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-new-jersey-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:New Jersey: NJ-1065 (partnership) / CBT-100S (S-corp) due
+DESCRIPTION:New Jersey partnership return due the 15th day of the 4th month
+  after year-end. NJ's BAIT (Business Alternative Income Tax\, an elective P
+ TE tax) is a separate regime with its own mechanics. | New Jersey partnersh
+ ip return due the 15th day of the 4th month after year-end. NJ's BAIT (Busi
+ ness Alternative Income Tax\, an elective PTE tax) is a separate regime wit
+ h its own mechanics. File Form PART-200-T by the original due date with 80%
+  of the filing fee paid\; not automatic if requirements aren't met. | Autho
+ rity: New Jersey Division of Taxation\, direct fetch this session: "five-mo
+ nth extension of time to file an NJ-1065"\; extension denied if the 80% pay
+ ment requirement is not met or not filed timely. | Source: https://www.nj.g
+ ov/treasury/taxation/pdf/current/part/part200t-cbt206.pdf | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-new-jersey-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:New Jersey: NJ-1065 (partnership) / CBT-100S (S-corp) due
+DESCRIPTION:New Jersey partnership return due the 15th day of the 4th month
+  after year-end. NJ's BAIT (Business Alternative Income Tax\, an elective P
+ TE tax) is a separate regime with its own mechanics. | New Jersey partnersh
+ ip return due the 15th day of the 4th month after year-end. NJ's BAIT (Busi
+ ness Alternative Income Tax\, an elective PTE tax) is a separate regime wit
+ h its own mechanics. File Form PART-200-T by the original due date with 80%
+  of the filing fee paid\; not automatic if requirements aren't met. | Autho
+ rity: New Jersey Division of Taxation\, direct fetch this session: "five-mo
+ nth extension of time to file an NJ-1065"\; extension denied if the 80% pay
+ ment requirement is not met or not filed timely. | Source: https://www.nj.g
+ ov/treasury/taxation/pdf/current/part/part200t-cbt206.pdf | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-new-jersey-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:New Jersey: NJ-1065 (partnership) / CBT-100S (S-corp) due
+DESCRIPTION:New Jersey partnership return due the 15th day of the 4th month
+  after year-end. NJ's BAIT (Business Alternative Income Tax\, an elective P
+ TE tax) is a separate regime with its own mechanics. | New Jersey partnersh
+ ip return due the 15th day of the 4th month after year-end. NJ's BAIT (Busi
+ ness Alternative Income Tax\, an elective PTE tax) is a separate regime wit
+ h its own mechanics. File Form PART-200-T by the original due date with 80%
+  of the filing fee paid\; not automatic if requirements aren't met. | Autho
+ rity: New Jersey Division of Taxation\, direct fetch this session: "five-mo
+ nth extension of time to file an NJ-1065"\; extension denied if the 80% pay
+ ment requirement is not met or not filed timely. | Source: https://www.nj.g
+ ov/treasury/taxation/pdf/current/part/part200t-cbt206.pdf | This date is co
+ mputed from a recurrence rule and may not reflect a later-announced change\
+ ; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-jersey-q1-2025-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250430
+DTEND;VALUE=DATE:20250501
+SUMMARY:New Jersey: State unemployment insurance quarterly return due
+DESCRIPTION:30th day of the month following the close of the calendar quart
+ er (deviates from the standard last-day-of-month pattern) | Q1 2026 (Jan-Ma
+ r) state unemployment insurance quarterly report and payment. DEVIATES from
+  the standard pattern: the NJ-927 and WR-30\, and any remittance due\, must
+  be received no later than the 30th day of the month after the close of the
+  quarter (not the last day - differs from the standard pattern in 3 of 4 qu
+ arters since April has 30 days but July/October/January do not). | Authorit
+ y: Direct fetch of New Jersey's own unemployment insurance agency site/hand
+ book/code this session | Source: https://www.nj.gov/labor/ea/employer-servi
+ ces/rate-info/index.shtml | This date is computed from a recurrence rule an
+ d may not reflect a later-announced change\; confirm against the cited sour
+ ce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-jersey-q1-2026-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:New Jersey: State unemployment insurance quarterly return due
+DESCRIPTION:30th day of the month following the close of the calendar quart
+ er (deviates from the standard last-day-of-month pattern) | Q1 2026 (Jan-Ma
+ r) state unemployment insurance quarterly report and payment. DEVIATES from
+  the standard pattern: the NJ-927 and WR-30\, and any remittance due\, must
+  be received no later than the 30th day of the month after the close of the
+  quarter (not the last day - differs from the standard pattern in 3 of 4 qu
+ arters since April has 30 days but July/October/January do not). | Authorit
+ y: Direct fetch of New Jersey's own unemployment insurance agency site/hand
+ book/code this session | Source: https://www.nj.gov/labor/ea/employer-servi
+ ces/rate-info/index.shtml | This date is computed from a recurrence rule an
+ d may not reflect a later-announced change\; confirm against the cited sour
+ ce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-jersey-q1-2027-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:New Jersey: State unemployment insurance quarterly return due
+DESCRIPTION:30th day of the month following the close of the calendar quart
+ er (deviates from the standard last-day-of-month pattern) | Q1 2026 (Jan-Ma
+ r) state unemployment insurance quarterly report and payment. DEVIATES from
+  the standard pattern: the NJ-927 and WR-30\, and any remittance due\, must
+  be received no later than the 30th day of the month after the close of the
+  quarter (not the last day - differs from the standard pattern in 3 of 4 qu
+ arters since April has 30 days but July/October/January do not). | Authorit
+ y: Direct fetch of New Jersey's own unemployment insurance agency site/hand
+ book/code this session | Source: https://www.nj.gov/labor/ea/employer-servi
+ ces/rate-info/index.shtml | This date is computed from a recurrence rule an
+ d may not reflect a later-announced change\; confirm against the cited sour
+ ce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-jersey-q1-2028-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280430
+DTEND;VALUE=DATE:20280501
+SUMMARY:New Jersey: State unemployment insurance quarterly return due
+DESCRIPTION:30th day of the month following the close of the calendar quart
+ er (deviates from the standard last-day-of-month pattern) | Q1 2026 (Jan-Ma
+ r) state unemployment insurance quarterly report and payment. DEVIATES from
+  the standard pattern: the NJ-927 and WR-30\, and any remittance due\, must
+  be received no later than the 30th day of the month after the close of the
+  quarter (not the last day - differs from the standard pattern in 3 of 4 qu
+ arters since April has 30 days but July/October/January do not). | Authorit
+ y: Direct fetch of New Jersey's own unemployment insurance agency site/hand
+ book/code this session | Source: https://www.nj.gov/labor/ea/employer-servi
+ ces/rate-info/index.shtml | This date is computed from a recurrence rule an
+ d may not reflect a later-announced change\; confirm against the cited sour
+ ce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-jersey-q1-2029-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290430
+DTEND;VALUE=DATE:20290501
+SUMMARY:New Jersey: State unemployment insurance quarterly return due
+DESCRIPTION:30th day of the month following the close of the calendar quart
+ er (deviates from the standard last-day-of-month pattern) | Q1 2026 (Jan-Ma
+ r) state unemployment insurance quarterly report and payment. DEVIATES from
+  the standard pattern: the NJ-927 and WR-30\, and any remittance due\, must
+  be received no later than the 30th day of the month after the close of the
+  quarter (not the last day - differs from the standard pattern in 3 of 4 qu
+ arters since April has 30 days but July/October/January do not). | Authorit
+ y: Direct fetch of New Jersey's own unemployment insurance agency site/hand
+ book/code this session | Source: https://www.nj.gov/labor/ea/employer-servi
+ ces/rate-info/index.shtml | This date is computed from a recurrence rule an
+ d may not reflect a later-announced change\; confirm against the cited sour
+ ce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-jersey-q1-2030-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300430
+DTEND;VALUE=DATE:20300501
+SUMMARY:New Jersey: State unemployment insurance quarterly return due
+DESCRIPTION:30th day of the month following the close of the calendar quart
+ er (deviates from the standard last-day-of-month pattern) | Q1 2026 (Jan-Ma
+ r) state unemployment insurance quarterly report and payment. DEVIATES from
+  the standard pattern: the NJ-927 and WR-30\, and any remittance due\, must
+  be received no later than the 30th day of the month after the close of the
+  quarter (not the last day - differs from the standard pattern in 3 of 4 qu
+ arters since April has 30 days but July/October/January do not). | Authorit
+ y: Direct fetch of New Jersey's own unemployment insurance agency site/hand
+ book/code this session | Source: https://www.nj.gov/labor/ea/employer-servi
+ ces/rate-info/index.shtml | This date is computed from a recurrence rule an
+ d may not reflect a later-announced change\; confirm against the cited sour
+ ce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-jersey-q1-2031-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310430
+DTEND;VALUE=DATE:20310501
+SUMMARY:New Jersey: State unemployment insurance quarterly return due
+DESCRIPTION:30th day of the month following the close of the calendar quart
+ er (deviates from the standard last-day-of-month pattern) | Q1 2026 (Jan-Ma
+ r) state unemployment insurance quarterly report and payment. DEVIATES from
+  the standard pattern: the NJ-927 and WR-30\, and any remittance due\, must
+  be received no later than the 30th day of the month after the close of the
+  quarter (not the last day - differs from the standard pattern in 3 of 4 qu
+ arters since April has 30 days but July/October/January do not). | Authorit
+ y: Direct fetch of New Jersey's own unemployment insurance agency site/hand
+ book/code this session | Source: https://www.nj.gov/labor/ea/employer-servi
+ ces/rate-info/index.shtml | This date is computed from a recurrence rule an
+ d may not reflect a later-announced change\; confirm against the cited sour
+ ce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-jersey-q1-2032-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320430
+DTEND;VALUE=DATE:20320501
+SUMMARY:New Jersey: State unemployment insurance quarterly return due
+DESCRIPTION:30th day of the month following the close of the calendar quart
+ er (deviates from the standard last-day-of-month pattern) | Q1 2026 (Jan-Ma
+ r) state unemployment insurance quarterly report and payment. DEVIATES from
+  the standard pattern: the NJ-927 and WR-30\, and any remittance due\, must
+  be received no later than the 30th day of the month after the close of the
+  quarter (not the last day - differs from the standard pattern in 3 of 4 qu
+ arters since April has 30 days but July/October/January do not). | Authorit
+ y: Direct fetch of New Jersey's own unemployment insurance agency site/hand
+ book/code this session | Source: https://www.nj.gov/labor/ea/employer-servi
+ ces/rate-info/index.shtml | This date is computed from a recurrence rule an
+ d may not reflect a later-announced change\; confirm against the cited sour
+ ce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-jersey-q2-2025-07-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250730
+DTEND;VALUE=DATE:20250731
+SUMMARY:New Jersey: State unemployment insurance quarterly return due
+DESCRIPTION:30th day of the month following the close of the calendar quart
+ er (deviates from the standard last-day-of-month pattern) | Q2 2026 (Apr-Ju
+ n) state unemployment insurance quarterly report and payment. DEVIATES from
+  the standard pattern: the NJ-927 and WR-30\, and any remittance due\, must
+  be received no later than the 30th day of the month after the close of the
+  quarter (not the last day - differs from the standard pattern in 3 of 4 qu
+ arters since April has 30 days but July/October/January do not). | Authorit
+ y: Direct fetch of New Jersey's own unemployment insurance agency site/hand
+ book/code this session | Source: https://www.nj.gov/labor/ea/employer-servi
+ ces/rate-info/index.shtml | This date is computed from a recurrence rule an
+ d may not reflect a later-announced change\; confirm against the cited sour
+ ce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-jersey-q2-2026-07-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:New Jersey: State unemployment insurance quarterly return due
+DESCRIPTION:30th day of the month following the close of the calendar quart
+ er (deviates from the standard last-day-of-month pattern) | Q2 2026 (Apr-Ju
+ n) state unemployment insurance quarterly report and payment. DEVIATES from
+  the standard pattern: the NJ-927 and WR-30\, and any remittance due\, must
+  be received no later than the 30th day of the month after the close of the
+  quarter (not the last day - differs from the standard pattern in 3 of 4 qu
+ arters since April has 30 days but July/October/January do not). | Authorit
+ y: Direct fetch of New Jersey's own unemployment insurance agency site/hand
+ book/code this session | Source: https://www.nj.gov/labor/ea/employer-servi
+ ces/rate-info/index.shtml | This date is computed from a recurrence rule an
+ d may not reflect a later-announced change\; confirm against the cited sour
+ ce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-jersey-q2-2027-07-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+SUMMARY:New Jersey: State unemployment insurance quarterly return due
+DESCRIPTION:30th day of the month following the close of the calendar quart
+ er (deviates from the standard last-day-of-month pattern) | Q2 2026 (Apr-Ju
+ n) state unemployment insurance quarterly report and payment. DEVIATES from
+  the standard pattern: the NJ-927 and WR-30\, and any remittance due\, must
+  be received no later than the 30th day of the month after the close of the
+  quarter (not the last day - differs from the standard pattern in 3 of 4 qu
+ arters since April has 30 days but July/October/January do not). | Authorit
+ y: Direct fetch of New Jersey's own unemployment insurance agency site/hand
+ book/code this session | Source: https://www.nj.gov/labor/ea/employer-servi
+ ces/rate-info/index.shtml | This date is computed from a recurrence rule an
+ d may not reflect a later-announced change\; confirm against the cited sour
+ ce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-jersey-q2-2028-07-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280730
+DTEND;VALUE=DATE:20280731
+SUMMARY:New Jersey: State unemployment insurance quarterly return due
+DESCRIPTION:30th day of the month following the close of the calendar quart
+ er (deviates from the standard last-day-of-month pattern) | Q2 2026 (Apr-Ju
+ n) state unemployment insurance quarterly report and payment. DEVIATES from
+  the standard pattern: the NJ-927 and WR-30\, and any remittance due\, must
+  be received no later than the 30th day of the month after the close of the
+  quarter (not the last day - differs from the standard pattern in 3 of 4 qu
+ arters since April has 30 days but July/October/January do not). | Authorit
+ y: Direct fetch of New Jersey's own unemployment insurance agency site/hand
+ book/code this session | Source: https://www.nj.gov/labor/ea/employer-servi
+ ces/rate-info/index.shtml | This date is computed from a recurrence rule an
+ d may not reflect a later-announced change\; confirm against the cited sour
+ ce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-jersey-q2-2029-07-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290730
+DTEND;VALUE=DATE:20290731
+SUMMARY:New Jersey: State unemployment insurance quarterly return due
+DESCRIPTION:30th day of the month following the close of the calendar quart
+ er (deviates from the standard last-day-of-month pattern) | Q2 2026 (Apr-Ju
+ n) state unemployment insurance quarterly report and payment. DEVIATES from
+  the standard pattern: the NJ-927 and WR-30\, and any remittance due\, must
+  be received no later than the 30th day of the month after the close of the
+  quarter (not the last day - differs from the standard pattern in 3 of 4 qu
+ arters since April has 30 days but July/October/January do not). | Authorit
+ y: Direct fetch of New Jersey's own unemployment insurance agency site/hand
+ book/code this session | Source: https://www.nj.gov/labor/ea/employer-servi
+ ces/rate-info/index.shtml | This date is computed from a recurrence rule an
+ d may not reflect a later-announced change\; confirm against the cited sour
+ ce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-jersey-q2-2030-07-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300730
+DTEND;VALUE=DATE:20300731
+SUMMARY:New Jersey: State unemployment insurance quarterly return due
+DESCRIPTION:30th day of the month following the close of the calendar quart
+ er (deviates from the standard last-day-of-month pattern) | Q2 2026 (Apr-Ju
+ n) state unemployment insurance quarterly report and payment. DEVIATES from
+  the standard pattern: the NJ-927 and WR-30\, and any remittance due\, must
+  be received no later than the 30th day of the month after the close of the
+  quarter (not the last day - differs from the standard pattern in 3 of 4 qu
+ arters since April has 30 days but July/October/January do not). | Authorit
+ y: Direct fetch of New Jersey's own unemployment insurance agency site/hand
+ book/code this session | Source: https://www.nj.gov/labor/ea/employer-servi
+ ces/rate-info/index.shtml | This date is computed from a recurrence rule an
+ d may not reflect a later-announced change\; confirm against the cited sour
+ ce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-jersey-q2-2031-07-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310730
+DTEND;VALUE=DATE:20310731
+SUMMARY:New Jersey: State unemployment insurance quarterly return due
+DESCRIPTION:30th day of the month following the close of the calendar quart
+ er (deviates from the standard last-day-of-month pattern) | Q2 2026 (Apr-Ju
+ n) state unemployment insurance quarterly report and payment. DEVIATES from
+  the standard pattern: the NJ-927 and WR-30\, and any remittance due\, must
+  be received no later than the 30th day of the month after the close of the
+  quarter (not the last day - differs from the standard pattern in 3 of 4 qu
+ arters since April has 30 days but July/October/January do not). | Authorit
+ y: Direct fetch of New Jersey's own unemployment insurance agency site/hand
+ book/code this session | Source: https://www.nj.gov/labor/ea/employer-servi
+ ces/rate-info/index.shtml | This date is computed from a recurrence rule an
+ d may not reflect a later-announced change\; confirm against the cited sour
+ ce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-jersey-q2-2032-07-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320730
+DTEND;VALUE=DATE:20320731
+SUMMARY:New Jersey: State unemployment insurance quarterly return due
+DESCRIPTION:30th day of the month following the close of the calendar quart
+ er (deviates from the standard last-day-of-month pattern) | Q2 2026 (Apr-Ju
+ n) state unemployment insurance quarterly report and payment. DEVIATES from
+  the standard pattern: the NJ-927 and WR-30\, and any remittance due\, must
+  be received no later than the 30th day of the month after the close of the
+  quarter (not the last day - differs from the standard pattern in 3 of 4 qu
+ arters since April has 30 days but July/October/January do not). | Authorit
+ y: Direct fetch of New Jersey's own unemployment insurance agency site/hand
+ book/code this session | Source: https://www.nj.gov/labor/ea/employer-servi
+ ces/rate-info/index.shtml | This date is computed from a recurrence rule an
+ d may not reflect a later-announced change\; confirm against the cited sour
+ ce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-jersey-q3-2025-10-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20251030
+DTEND;VALUE=DATE:20251031
+SUMMARY:New Jersey: State unemployment insurance quarterly return due
+DESCRIPTION:30th day of the month following the close of the calendar quart
+ er (deviates from the standard last-day-of-month pattern) | Q3 2026 (Jul-Se
+ p) state unemployment insurance quarterly report and payment. DEVIATES from
+  the standard pattern: the NJ-927 and WR-30\, and any remittance due\, must
+  be received no later than the 30th day of the month after the close of the
+  quarter (not the last day - differs from the standard pattern in 3 of 4 qu
+ arters since April has 30 days but July/October/January do not). | Authorit
+ y: Direct fetch of New Jersey's own unemployment insurance agency site/hand
+ book/code this session | Source: https://www.nj.gov/labor/ea/employer-servi
+ ces/rate-info/index.shtml | This date is computed from a recurrence rule an
+ d may not reflect a later-announced change\; confirm against the cited sour
+ ce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-jersey-q3-2026-10-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:New Jersey: State unemployment insurance quarterly return due
+DESCRIPTION:30th day of the month following the close of the calendar quart
+ er (deviates from the standard last-day-of-month pattern) | Q3 2026 (Jul-Se
+ p) state unemployment insurance quarterly report and payment. DEVIATES from
+  the standard pattern: the NJ-927 and WR-30\, and any remittance due\, must
+  be received no later than the 30th day of the month after the close of the
+  quarter (not the last day - differs from the standard pattern in 3 of 4 qu
+ arters since April has 30 days but July/October/January do not). | Authorit
+ y: Direct fetch of New Jersey's own unemployment insurance agency site/hand
+ book/code this session | Source: https://www.nj.gov/labor/ea/employer-servi
+ ces/rate-info/index.shtml | This date is computed from a recurrence rule an
+ d may not reflect a later-announced change\; confirm against the cited sour
+ ce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-jersey-q3-2027-10-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20271030
+DTEND;VALUE=DATE:20271031
+SUMMARY:New Jersey: State unemployment insurance quarterly return due
+DESCRIPTION:30th day of the month following the close of the calendar quart
+ er (deviates from the standard last-day-of-month pattern) | Q3 2026 (Jul-Se
+ p) state unemployment insurance quarterly report and payment. DEVIATES from
+  the standard pattern: the NJ-927 and WR-30\, and any remittance due\, must
+  be received no later than the 30th day of the month after the close of the
+  quarter (not the last day - differs from the standard pattern in 3 of 4 qu
+ arters since April has 30 days but July/October/January do not). | Authorit
+ y: Direct fetch of New Jersey's own unemployment insurance agency site/hand
+ book/code this session | Source: https://www.nj.gov/labor/ea/employer-servi
+ ces/rate-info/index.shtml | This date is computed from a recurrence rule an
+ d may not reflect a later-announced change\; confirm against the cited sour
+ ce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-jersey-q3-2028-10-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20281030
+DTEND;VALUE=DATE:20281031
+SUMMARY:New Jersey: State unemployment insurance quarterly return due
+DESCRIPTION:30th day of the month following the close of the calendar quart
+ er (deviates from the standard last-day-of-month pattern) | Q3 2026 (Jul-Se
+ p) state unemployment insurance quarterly report and payment. DEVIATES from
+  the standard pattern: the NJ-927 and WR-30\, and any remittance due\, must
+  be received no later than the 30th day of the month after the close of the
+  quarter (not the last day - differs from the standard pattern in 3 of 4 qu
+ arters since April has 30 days but July/October/January do not). | Authorit
+ y: Direct fetch of New Jersey's own unemployment insurance agency site/hand
+ book/code this session | Source: https://www.nj.gov/labor/ea/employer-servi
+ ces/rate-info/index.shtml | This date is computed from a recurrence rule an
+ d may not reflect a later-announced change\; confirm against the cited sour
+ ce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-jersey-q3-2029-10-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20291030
+DTEND;VALUE=DATE:20291031
+SUMMARY:New Jersey: State unemployment insurance quarterly return due
+DESCRIPTION:30th day of the month following the close of the calendar quart
+ er (deviates from the standard last-day-of-month pattern) | Q3 2026 (Jul-Se
+ p) state unemployment insurance quarterly report and payment. DEVIATES from
+  the standard pattern: the NJ-927 and WR-30\, and any remittance due\, must
+  be received no later than the 30th day of the month after the close of the
+  quarter (not the last day - differs from the standard pattern in 3 of 4 qu
+ arters since April has 30 days but July/October/January do not). | Authorit
+ y: Direct fetch of New Jersey's own unemployment insurance agency site/hand
+ book/code this session | Source: https://www.nj.gov/labor/ea/employer-servi
+ ces/rate-info/index.shtml | This date is computed from a recurrence rule an
+ d may not reflect a later-announced change\; confirm against the cited sour
+ ce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-jersey-q3-2030-10-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20301030
+DTEND;VALUE=DATE:20301031
+SUMMARY:New Jersey: State unemployment insurance quarterly return due
+DESCRIPTION:30th day of the month following the close of the calendar quart
+ er (deviates from the standard last-day-of-month pattern) | Q3 2026 (Jul-Se
+ p) state unemployment insurance quarterly report and payment. DEVIATES from
+  the standard pattern: the NJ-927 and WR-30\, and any remittance due\, must
+  be received no later than the 30th day of the month after the close of the
+  quarter (not the last day - differs from the standard pattern in 3 of 4 qu
+ arters since April has 30 days but July/October/January do not). | Authorit
+ y: Direct fetch of New Jersey's own unemployment insurance agency site/hand
+ book/code this session | Source: https://www.nj.gov/labor/ea/employer-servi
+ ces/rate-info/index.shtml | This date is computed from a recurrence rule an
+ d may not reflect a later-announced change\; confirm against the cited sour
+ ce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-jersey-q3-2031-10-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20311030
+DTEND;VALUE=DATE:20311031
+SUMMARY:New Jersey: State unemployment insurance quarterly return due
+DESCRIPTION:30th day of the month following the close of the calendar quart
+ er (deviates from the standard last-day-of-month pattern) | Q3 2026 (Jul-Se
+ p) state unemployment insurance quarterly report and payment. DEVIATES from
+  the standard pattern: the NJ-927 and WR-30\, and any remittance due\, must
+  be received no later than the 30th day of the month after the close of the
+  quarter (not the last day - differs from the standard pattern in 3 of 4 qu
+ arters since April has 30 days but July/October/January do not). | Authorit
+ y: Direct fetch of New Jersey's own unemployment insurance agency site/hand
+ book/code this session | Source: https://www.nj.gov/labor/ea/employer-servi
+ ces/rate-info/index.shtml | This date is computed from a recurrence rule an
+ d may not reflect a later-announced change\; confirm against the cited sour
+ ce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-jersey-q3-2032-10-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20321030
+DTEND;VALUE=DATE:20321031
+SUMMARY:New Jersey: State unemployment insurance quarterly return due
+DESCRIPTION:30th day of the month following the close of the calendar quart
+ er (deviates from the standard last-day-of-month pattern) | Q3 2026 (Jul-Se
+ p) state unemployment insurance quarterly report and payment. DEVIATES from
+  the standard pattern: the NJ-927 and WR-30\, and any remittance due\, must
+  be received no later than the 30th day of the month after the close of the
+  quarter (not the last day - differs from the standard pattern in 3 of 4 qu
+ arters since April has 30 days but July/October/January do not). | Authorit
+ y: Direct fetch of New Jersey's own unemployment insurance agency site/hand
+ book/code this session | Source: https://www.nj.gov/labor/ea/employer-servi
+ ces/rate-info/index.shtml | This date is computed from a recurrence rule an
+ d may not reflect a later-announced change\; confirm against the cited sour
+ ce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-jersey-q4-2025-01-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250130
+DTEND;VALUE=DATE:20250131
+SUMMARY:New Jersey: State unemployment insurance quarterly return due
+DESCRIPTION:30th day of the month following the close of the calendar quart
+ er (deviates from the standard last-day-of-month pattern) | Q4 2026 (Oct-De
+ c) state unemployment insurance quarterly report and payment. DEVIATES from
+  the standard pattern: the NJ-927 and WR-30\, and any remittance due\, must
+  be received no later than the 30th day of the month after the close of the
+  quarter (not the last day - differs from the standard pattern in 3 of 4 qu
+ arters since April has 30 days but July/October/January do not). | Authorit
+ y: Direct fetch of New Jersey's own unemployment insurance agency site/hand
+ book/code this session | Source: https://www.nj.gov/labor/ea/employer-servi
+ ces/rate-info/index.shtml | This date is computed from a recurrence rule an
+ d may not reflect a later-announced change\; confirm against the cited sour
+ ce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-jersey-q4-2026-01-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260130
+DTEND;VALUE=DATE:20260131
+SUMMARY:New Jersey: State unemployment insurance quarterly return due
+DESCRIPTION:30th day of the month following the close of the calendar quart
+ er (deviates from the standard last-day-of-month pattern) | Q4 2026 (Oct-De
+ c) state unemployment insurance quarterly report and payment. DEVIATES from
+  the standard pattern: the NJ-927 and WR-30\, and any remittance due\, must
+  be received no later than the 30th day of the month after the close of the
+  quarter (not the last day - differs from the standard pattern in 3 of 4 qu
+ arters since April has 30 days but July/October/January do not). | Authorit
+ y: Direct fetch of New Jersey's own unemployment insurance agency site/hand
+ book/code this session | Source: https://www.nj.gov/labor/ea/employer-servi
+ ces/rate-info/index.shtml | This date is computed from a recurrence rule an
+ d may not reflect a later-announced change\; confirm against the cited sour
+ ce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-jersey-q4-2027-01-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:New Jersey: State unemployment insurance quarterly return due
+DESCRIPTION:30th day of the month following the close of the calendar quart
+ er (deviates from the standard last-day-of-month pattern) | Q4 2026 (Oct-De
+ c) state unemployment insurance quarterly report and payment. DEVIATES from
+  the standard pattern: the NJ-927 and WR-30\, and any remittance due\, must
+  be received no later than the 30th day of the month after the close of the
+  quarter (not the last day - differs from the standard pattern in 3 of 4 qu
+ arters since April has 30 days but July/October/January do not). | Authorit
+ y: Direct fetch of New Jersey's own unemployment insurance agency site/hand
+ book/code this session | Source: https://www.nj.gov/labor/ea/employer-servi
+ ces/rate-info/index.shtml | This date is computed from a recurrence rule an
+ d may not reflect a later-announced change\; confirm against the cited sour
+ ce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-jersey-q4-2028-01-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280130
+DTEND;VALUE=DATE:20280131
+SUMMARY:New Jersey: State unemployment insurance quarterly return due
+DESCRIPTION:30th day of the month following the close of the calendar quart
+ er (deviates from the standard last-day-of-month pattern) | Q4 2026 (Oct-De
+ c) state unemployment insurance quarterly report and payment. DEVIATES from
+  the standard pattern: the NJ-927 and WR-30\, and any remittance due\, must
+  be received no later than the 30th day of the month after the close of the
+  quarter (not the last day - differs from the standard pattern in 3 of 4 qu
+ arters since April has 30 days but July/October/January do not). | Authorit
+ y: Direct fetch of New Jersey's own unemployment insurance agency site/hand
+ book/code this session | Source: https://www.nj.gov/labor/ea/employer-servi
+ ces/rate-info/index.shtml | This date is computed from a recurrence rule an
+ d may not reflect a later-announced change\; confirm against the cited sour
+ ce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-jersey-q4-2029-01-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290130
+DTEND;VALUE=DATE:20290131
+SUMMARY:New Jersey: State unemployment insurance quarterly return due
+DESCRIPTION:30th day of the month following the close of the calendar quart
+ er (deviates from the standard last-day-of-month pattern) | Q4 2026 (Oct-De
+ c) state unemployment insurance quarterly report and payment. DEVIATES from
+  the standard pattern: the NJ-927 and WR-30\, and any remittance due\, must
+  be received no later than the 30th day of the month after the close of the
+  quarter (not the last day - differs from the standard pattern in 3 of 4 qu
+ arters since April has 30 days but July/October/January do not). | Authorit
+ y: Direct fetch of New Jersey's own unemployment insurance agency site/hand
+ book/code this session | Source: https://www.nj.gov/labor/ea/employer-servi
+ ces/rate-info/index.shtml | This date is computed from a recurrence rule an
+ d may not reflect a later-announced change\; confirm against the cited sour
+ ce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-jersey-q4-2030-01-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300130
+DTEND;VALUE=DATE:20300131
+SUMMARY:New Jersey: State unemployment insurance quarterly return due
+DESCRIPTION:30th day of the month following the close of the calendar quart
+ er (deviates from the standard last-day-of-month pattern) | Q4 2026 (Oct-De
+ c) state unemployment insurance quarterly report and payment. DEVIATES from
+  the standard pattern: the NJ-927 and WR-30\, and any remittance due\, must
+  be received no later than the 30th day of the month after the close of the
+  quarter (not the last day - differs from the standard pattern in 3 of 4 qu
+ arters since April has 30 days but July/October/January do not). | Authorit
+ y: Direct fetch of New Jersey's own unemployment insurance agency site/hand
+ book/code this session | Source: https://www.nj.gov/labor/ea/employer-servi
+ ces/rate-info/index.shtml | This date is computed from a recurrence rule an
+ d may not reflect a later-announced change\; confirm against the cited sour
+ ce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-jersey-q4-2031-01-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310130
+DTEND;VALUE=DATE:20310131
+SUMMARY:New Jersey: State unemployment insurance quarterly return due
+DESCRIPTION:30th day of the month following the close of the calendar quart
+ er (deviates from the standard last-day-of-month pattern) | Q4 2026 (Oct-De
+ c) state unemployment insurance quarterly report and payment. DEVIATES from
+  the standard pattern: the NJ-927 and WR-30\, and any remittance due\, must
+  be received no later than the 30th day of the month after the close of the
+  quarter (not the last day - differs from the standard pattern in 3 of 4 qu
+ arters since April has 30 days but July/October/January do not). | Authorit
+ y: Direct fetch of New Jersey's own unemployment insurance agency site/hand
+ book/code this session | Source: https://www.nj.gov/labor/ea/employer-servi
+ ces/rate-info/index.shtml | This date is computed from a recurrence rule an
+ d may not reflect a later-announced change\; confirm against the cited sour
+ ce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-new-jersey-q4-2032-01-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320130
+DTEND;VALUE=DATE:20320131
+SUMMARY:New Jersey: State unemployment insurance quarterly return due
+DESCRIPTION:30th day of the month following the close of the calendar quart
+ er (deviates from the standard last-day-of-month pattern) | Q4 2026 (Oct-De
+ c) state unemployment insurance quarterly report and payment. DEVIATES from
+  the standard pattern: the NJ-927 and WR-30\, and any remittance due\, must
+  be received no later than the 30th day of the month after the close of the
+  quarter (not the last day - differs from the standard pattern in 3 of 4 qu
+ arters since April has 30 days but July/October/January do not). | Authorit
+ y: Direct fetch of New Jersey's own unemployment insurance agency site/hand
+ book/code this session | Source: https://www.nj.gov/labor/ea/employer-servi
+ ces/rate-info/index.shtml | This date is computed from a recurrence rule an
+ d may not reflect a later-announced change\; confirm against the cited sour
+ ce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-jersey-q1-2025-04-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250422
+SUMMARY:New Jersey: State sales & use tax return due
+DESCRIPTION:Quarterly is the standard filing frequency\, due 20th of month 
+ following the quarter end (larger filers make monthly prepayments in betwee
+ n). | Q1 2026 (Jan-Mar) sales tax return\, applying New Jersey's quarterly-
+ filer due-date rule: Quarterly is the standard filing frequency\, due 20th 
+ of month following the quarter end (larger filers make monthly prepayments 
+ in between). This is a representative recurring pattern\, not a single annu
+ al deadline - actual filing frequency (monthly/quarterly/annual) is assigne
+ d per business by the state. | Authority: Direct fetch of New Jersey's own 
+ tax agency site this session | Source: https://www.nj.gov/treasury/taxation
+ /sales-use-filing.shtml | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-jersey-q1-2026-04-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:New Jersey: State sales & use tax return due
+DESCRIPTION:Quarterly is the standard filing frequency\, due 20th of month 
+ following the quarter end (larger filers make monthly prepayments in betwee
+ n). | Q1 2026 (Jan-Mar) sales tax return\, applying New Jersey's quarterly-
+ filer due-date rule: Quarterly is the standard filing frequency\, due 20th 
+ of month following the quarter end (larger filers make monthly prepayments 
+ in between). This is a representative recurring pattern\, not a single annu
+ al deadline - actual filing frequency (monthly/quarterly/annual) is assigne
+ d per business by the state. | Authority: Direct fetch of New Jersey's own 
+ tax agency site this session | Source: https://www.nj.gov/treasury/taxation
+ /sales-use-filing.shtml | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-jersey-q1-2027-04-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:New Jersey: State sales & use tax return due
+DESCRIPTION:Quarterly is the standard filing frequency\, due 20th of month 
+ following the quarter end (larger filers make monthly prepayments in betwee
+ n). | Q1 2026 (Jan-Mar) sales tax return\, applying New Jersey's quarterly-
+ filer due-date rule: Quarterly is the standard filing frequency\, due 20th 
+ of month following the quarter end (larger filers make monthly prepayments 
+ in between). This is a representative recurring pattern\, not a single annu
+ al deadline - actual filing frequency (monthly/quarterly/annual) is assigne
+ d per business by the state. | Authority: Direct fetch of New Jersey's own 
+ tax agency site this session | Source: https://www.nj.gov/treasury/taxation
+ /sales-use-filing.shtml | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-jersey-q1-2028-04-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280420
+DTEND;VALUE=DATE:20280421
+SUMMARY:New Jersey: State sales & use tax return due
+DESCRIPTION:Quarterly is the standard filing frequency\, due 20th of month 
+ following the quarter end (larger filers make monthly prepayments in betwee
+ n). | Q1 2026 (Jan-Mar) sales tax return\, applying New Jersey's quarterly-
+ filer due-date rule: Quarterly is the standard filing frequency\, due 20th 
+ of month following the quarter end (larger filers make monthly prepayments 
+ in between). This is a representative recurring pattern\, not a single annu
+ al deadline - actual filing frequency (monthly/quarterly/annual) is assigne
+ d per business by the state. | Authority: Direct fetch of New Jersey's own 
+ tax agency site this session | Source: https://www.nj.gov/treasury/taxation
+ /sales-use-filing.shtml | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-jersey-q1-2029-04-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290420
+DTEND;VALUE=DATE:20290421
+SUMMARY:New Jersey: State sales & use tax return due
+DESCRIPTION:Quarterly is the standard filing frequency\, due 20th of month 
+ following the quarter end (larger filers make monthly prepayments in betwee
+ n). | Q1 2026 (Jan-Mar) sales tax return\, applying New Jersey's quarterly-
+ filer due-date rule: Quarterly is the standard filing frequency\, due 20th 
+ of month following the quarter end (larger filers make monthly prepayments 
+ in between). This is a representative recurring pattern\, not a single annu
+ al deadline - actual filing frequency (monthly/quarterly/annual) is assigne
+ d per business by the state. | Authority: Direct fetch of New Jersey's own 
+ tax agency site this session | Source: https://www.nj.gov/treasury/taxation
+ /sales-use-filing.shtml | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-jersey-q1-2030-04-22@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300422
+DTEND;VALUE=DATE:20300423
+SUMMARY:New Jersey: State sales & use tax return due
+DESCRIPTION:Quarterly is the standard filing frequency\, due 20th of month 
+ following the quarter end (larger filers make monthly prepayments in betwee
+ n). | Q1 2026 (Jan-Mar) sales tax return\, applying New Jersey's quarterly-
+ filer due-date rule: Quarterly is the standard filing frequency\, due 20th 
+ of month following the quarter end (larger filers make monthly prepayments 
+ in between). This is a representative recurring pattern\, not a single annu
+ al deadline - actual filing frequency (monthly/quarterly/annual) is assigne
+ d per business by the state. | Authority: Direct fetch of New Jersey's own 
+ tax agency site this session | Source: https://www.nj.gov/treasury/taxation
+ /sales-use-filing.shtml | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-jersey-q1-2031-04-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310421
+DTEND;VALUE=DATE:20310422
+SUMMARY:New Jersey: State sales & use tax return due
+DESCRIPTION:Quarterly is the standard filing frequency\, due 20th of month 
+ following the quarter end (larger filers make monthly prepayments in betwee
+ n). | Q1 2026 (Jan-Mar) sales tax return\, applying New Jersey's quarterly-
+ filer due-date rule: Quarterly is the standard filing frequency\, due 20th 
+ of month following the quarter end (larger filers make monthly prepayments 
+ in between). This is a representative recurring pattern\, not a single annu
+ al deadline - actual filing frequency (monthly/quarterly/annual) is assigne
+ d per business by the state. | Authority: Direct fetch of New Jersey's own 
+ tax agency site this session | Source: https://www.nj.gov/treasury/taxation
+ /sales-use-filing.shtml | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-jersey-q1-2032-04-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320420
+DTEND;VALUE=DATE:20320421
+SUMMARY:New Jersey: State sales & use tax return due
+DESCRIPTION:Quarterly is the standard filing frequency\, due 20th of month 
+ following the quarter end (larger filers make monthly prepayments in betwee
+ n). | Q1 2026 (Jan-Mar) sales tax return\, applying New Jersey's quarterly-
+ filer due-date rule: Quarterly is the standard filing frequency\, due 20th 
+ of month following the quarter end (larger filers make monthly prepayments 
+ in between). This is a representative recurring pattern\, not a single annu
+ al deadline - actual filing frequency (monthly/quarterly/annual) is assigne
+ d per business by the state. | Authority: Direct fetch of New Jersey's own 
+ tax agency site this session | Source: https://www.nj.gov/treasury/taxation
+ /sales-use-filing.shtml | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-jersey-q2-2025-07-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250722
+SUMMARY:New Jersey: State sales & use tax return due
+DESCRIPTION:Quarterly is the standard filing frequency\, due 20th of month 
+ following the quarter end (larger filers make monthly prepayments in betwee
+ n). | Q2 2026 (Apr-Jun) sales tax return\, applying New Jersey's quarterly-
+ filer due-date rule: Quarterly is the standard filing frequency\, due 20th 
+ of month following the quarter end (larger filers make monthly prepayments 
+ in between). This is a representative recurring pattern\, not a single annu
+ al deadline - actual filing frequency (monthly/quarterly/annual) is assigne
+ d per business by the state. | Authority: Direct fetch of New Jersey's own 
+ tax agency site this session | Source: https://www.nj.gov/treasury/taxation
+ /sales-use-filing.shtml | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-jersey-q2-2026-07-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+SUMMARY:New Jersey: State sales & use tax return due
+DESCRIPTION:Quarterly is the standard filing frequency\, due 20th of month 
+ following the quarter end (larger filers make monthly prepayments in betwee
+ n). | Q2 2026 (Apr-Jun) sales tax return\, applying New Jersey's quarterly-
+ filer due-date rule: Quarterly is the standard filing frequency\, due 20th 
+ of month following the quarter end (larger filers make monthly prepayments 
+ in between). This is a representative recurring pattern\, not a single annu
+ al deadline - actual filing frequency (monthly/quarterly/annual) is assigne
+ d per business by the state. | Authority: Direct fetch of New Jersey's own 
+ tax agency site this session | Source: https://www.nj.gov/treasury/taxation
+ /sales-use-filing.shtml | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-jersey-q2-2027-07-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:New Jersey: State sales & use tax return due
+DESCRIPTION:Quarterly is the standard filing frequency\, due 20th of month 
+ following the quarter end (larger filers make monthly prepayments in betwee
+ n). | Q2 2026 (Apr-Jun) sales tax return\, applying New Jersey's quarterly-
+ filer due-date rule: Quarterly is the standard filing frequency\, due 20th 
+ of month following the quarter end (larger filers make monthly prepayments 
+ in between). This is a representative recurring pattern\, not a single annu
+ al deadline - actual filing frequency (monthly/quarterly/annual) is assigne
+ d per business by the state. | Authority: Direct fetch of New Jersey's own 
+ tax agency site this session | Source: https://www.nj.gov/treasury/taxation
+ /sales-use-filing.shtml | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-jersey-q2-2028-07-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:New Jersey: State sales & use tax return due
+DESCRIPTION:Quarterly is the standard filing frequency\, due 20th of month 
+ following the quarter end (larger filers make monthly prepayments in betwee
+ n). | Q2 2026 (Apr-Jun) sales tax return\, applying New Jersey's quarterly-
+ filer due-date rule: Quarterly is the standard filing frequency\, due 20th 
+ of month following the quarter end (larger filers make monthly prepayments 
+ in between). This is a representative recurring pattern\, not a single annu
+ al deadline - actual filing frequency (monthly/quarterly/annual) is assigne
+ d per business by the state. | Authority: Direct fetch of New Jersey's own 
+ tax agency site this session | Source: https://www.nj.gov/treasury/taxation
+ /sales-use-filing.shtml | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-jersey-q2-2029-07-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290720
+DTEND;VALUE=DATE:20290721
+SUMMARY:New Jersey: State sales & use tax return due
+DESCRIPTION:Quarterly is the standard filing frequency\, due 20th of month 
+ following the quarter end (larger filers make monthly prepayments in betwee
+ n). | Q2 2026 (Apr-Jun) sales tax return\, applying New Jersey's quarterly-
+ filer due-date rule: Quarterly is the standard filing frequency\, due 20th 
+ of month following the quarter end (larger filers make monthly prepayments 
+ in between). This is a representative recurring pattern\, not a single annu
+ al deadline - actual filing frequency (monthly/quarterly/annual) is assigne
+ d per business by the state. | Authority: Direct fetch of New Jersey's own 
+ tax agency site this session | Source: https://www.nj.gov/treasury/taxation
+ /sales-use-filing.shtml | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-jersey-q2-2030-07-22@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300722
+DTEND;VALUE=DATE:20300723
+SUMMARY:New Jersey: State sales & use tax return due
+DESCRIPTION:Quarterly is the standard filing frequency\, due 20th of month 
+ following the quarter end (larger filers make monthly prepayments in betwee
+ n). | Q2 2026 (Apr-Jun) sales tax return\, applying New Jersey's quarterly-
+ filer due-date rule: Quarterly is the standard filing frequency\, due 20th 
+ of month following the quarter end (larger filers make monthly prepayments 
+ in between). This is a representative recurring pattern\, not a single annu
+ al deadline - actual filing frequency (monthly/quarterly/annual) is assigne
+ d per business by the state. | Authority: Direct fetch of New Jersey's own 
+ tax agency site this session | Source: https://www.nj.gov/treasury/taxation
+ /sales-use-filing.shtml | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-jersey-q2-2031-07-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310721
+DTEND;VALUE=DATE:20310722
+SUMMARY:New Jersey: State sales & use tax return due
+DESCRIPTION:Quarterly is the standard filing frequency\, due 20th of month 
+ following the quarter end (larger filers make monthly prepayments in betwee
+ n). | Q2 2026 (Apr-Jun) sales tax return\, applying New Jersey's quarterly-
+ filer due-date rule: Quarterly is the standard filing frequency\, due 20th 
+ of month following the quarter end (larger filers make monthly prepayments 
+ in between). This is a representative recurring pattern\, not a single annu
+ al deadline - actual filing frequency (monthly/quarterly/annual) is assigne
+ d per business by the state. | Authority: Direct fetch of New Jersey's own 
+ tax agency site this session | Source: https://www.nj.gov/treasury/taxation
+ /sales-use-filing.shtml | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-jersey-q2-2032-07-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320720
+DTEND;VALUE=DATE:20320721
+SUMMARY:New Jersey: State sales & use tax return due
+DESCRIPTION:Quarterly is the standard filing frequency\, due 20th of month 
+ following the quarter end (larger filers make monthly prepayments in betwee
+ n). | Q2 2026 (Apr-Jun) sales tax return\, applying New Jersey's quarterly-
+ filer due-date rule: Quarterly is the standard filing frequency\, due 20th 
+ of month following the quarter end (larger filers make monthly prepayments 
+ in between). This is a representative recurring pattern\, not a single annu
+ al deadline - actual filing frequency (monthly/quarterly/annual) is assigne
+ d per business by the state. | Authority: Direct fetch of New Jersey's own 
+ tax agency site this session | Source: https://www.nj.gov/treasury/taxation
+ /sales-use-filing.shtml | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-jersey-q3-2025-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20251020
+DTEND;VALUE=DATE:20251021
+SUMMARY:New Jersey: State sales & use tax return due
+DESCRIPTION:Quarterly is the standard filing frequency\, due 20th of month 
+ following the quarter end (larger filers make monthly prepayments in betwee
+ n). | Q3 2026 (Jul-Sep) sales tax return\, applying New Jersey's quarterly-
+ filer due-date rule: Quarterly is the standard filing frequency\, due 20th 
+ of month following the quarter end (larger filers make monthly prepayments 
+ in between). This is a representative recurring pattern\, not a single annu
+ al deadline - actual filing frequency (monthly/quarterly/annual) is assigne
+ d per business by the state. | Authority: Direct fetch of New Jersey's own 
+ tax agency site this session | Source: https://www.nj.gov/treasury/taxation
+ /sales-use-filing.shtml | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-jersey-q3-2026-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:New Jersey: State sales & use tax return due
+DESCRIPTION:Quarterly is the standard filing frequency\, due 20th of month 
+ following the quarter end (larger filers make monthly prepayments in betwee
+ n). | Q3 2026 (Jul-Sep) sales tax return\, applying New Jersey's quarterly-
+ filer due-date rule: Quarterly is the standard filing frequency\, due 20th 
+ of month following the quarter end (larger filers make monthly prepayments 
+ in between). This is a representative recurring pattern\, not a single annu
+ al deadline - actual filing frequency (monthly/quarterly/annual) is assigne
+ d per business by the state. | Authority: Direct fetch of New Jersey's own 
+ tax agency site this session | Source: https://www.nj.gov/treasury/taxation
+ /sales-use-filing.shtml | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-jersey-q3-2027-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20271020
+DTEND;VALUE=DATE:20271021
+SUMMARY:New Jersey: State sales & use tax return due
+DESCRIPTION:Quarterly is the standard filing frequency\, due 20th of month 
+ following the quarter end (larger filers make monthly prepayments in betwee
+ n). | Q3 2026 (Jul-Sep) sales tax return\, applying New Jersey's quarterly-
+ filer due-date rule: Quarterly is the standard filing frequency\, due 20th 
+ of month following the quarter end (larger filers make monthly prepayments 
+ in between). This is a representative recurring pattern\, not a single annu
+ al deadline - actual filing frequency (monthly/quarterly/annual) is assigne
+ d per business by the state. | Authority: Direct fetch of New Jersey's own 
+ tax agency site this session | Source: https://www.nj.gov/treasury/taxation
+ /sales-use-filing.shtml | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-jersey-q3-2028-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20281020
+DTEND;VALUE=DATE:20281021
+SUMMARY:New Jersey: State sales & use tax return due
+DESCRIPTION:Quarterly is the standard filing frequency\, due 20th of month 
+ following the quarter end (larger filers make monthly prepayments in betwee
+ n). | Q3 2026 (Jul-Sep) sales tax return\, applying New Jersey's quarterly-
+ filer due-date rule: Quarterly is the standard filing frequency\, due 20th 
+ of month following the quarter end (larger filers make monthly prepayments 
+ in between). This is a representative recurring pattern\, not a single annu
+ al deadline - actual filing frequency (monthly/quarterly/annual) is assigne
+ d per business by the state. | Authority: Direct fetch of New Jersey's own 
+ tax agency site this session | Source: https://www.nj.gov/treasury/taxation
+ /sales-use-filing.shtml | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-jersey-q3-2029-10-22@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20291022
+DTEND;VALUE=DATE:20291023
+SUMMARY:New Jersey: State sales & use tax return due
+DESCRIPTION:Quarterly is the standard filing frequency\, due 20th of month 
+ following the quarter end (larger filers make monthly prepayments in betwee
+ n). | Q3 2026 (Jul-Sep) sales tax return\, applying New Jersey's quarterly-
+ filer due-date rule: Quarterly is the standard filing frequency\, due 20th 
+ of month following the quarter end (larger filers make monthly prepayments 
+ in between). This is a representative recurring pattern\, not a single annu
+ al deadline - actual filing frequency (monthly/quarterly/annual) is assigne
+ d per business by the state. | Authority: Direct fetch of New Jersey's own 
+ tax agency site this session | Source: https://www.nj.gov/treasury/taxation
+ /sales-use-filing.shtml | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-jersey-q3-2030-10-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20301021
+DTEND;VALUE=DATE:20301022
+SUMMARY:New Jersey: State sales & use tax return due
+DESCRIPTION:Quarterly is the standard filing frequency\, due 20th of month 
+ following the quarter end (larger filers make monthly prepayments in betwee
+ n). | Q3 2026 (Jul-Sep) sales tax return\, applying New Jersey's quarterly-
+ filer due-date rule: Quarterly is the standard filing frequency\, due 20th 
+ of month following the quarter end (larger filers make monthly prepayments 
+ in between). This is a representative recurring pattern\, not a single annu
+ al deadline - actual filing frequency (monthly/quarterly/annual) is assigne
+ d per business by the state. | Authority: Direct fetch of New Jersey's own 
+ tax agency site this session | Source: https://www.nj.gov/treasury/taxation
+ /sales-use-filing.shtml | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-jersey-q3-2031-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20311020
+DTEND;VALUE=DATE:20311021
+SUMMARY:New Jersey: State sales & use tax return due
+DESCRIPTION:Quarterly is the standard filing frequency\, due 20th of month 
+ following the quarter end (larger filers make monthly prepayments in betwee
+ n). | Q3 2026 (Jul-Sep) sales tax return\, applying New Jersey's quarterly-
+ filer due-date rule: Quarterly is the standard filing frequency\, due 20th 
+ of month following the quarter end (larger filers make monthly prepayments 
+ in between). This is a representative recurring pattern\, not a single annu
+ al deadline - actual filing frequency (monthly/quarterly/annual) is assigne
+ d per business by the state. | Authority: Direct fetch of New Jersey's own 
+ tax agency site this session | Source: https://www.nj.gov/treasury/taxation
+ /sales-use-filing.shtml | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-jersey-q3-2032-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20321020
+DTEND;VALUE=DATE:20321021
+SUMMARY:New Jersey: State sales & use tax return due
+DESCRIPTION:Quarterly is the standard filing frequency\, due 20th of month 
+ following the quarter end (larger filers make monthly prepayments in betwee
+ n). | Q3 2026 (Jul-Sep) sales tax return\, applying New Jersey's quarterly-
+ filer due-date rule: Quarterly is the standard filing frequency\, due 20th 
+ of month following the quarter end (larger filers make monthly prepayments 
+ in between). This is a representative recurring pattern\, not a single annu
+ al deadline - actual filing frequency (monthly/quarterly/annual) is assigne
+ d per business by the state. | Authority: Direct fetch of New Jersey's own 
+ tax agency site this session | Source: https://www.nj.gov/treasury/taxation
+ /sales-use-filing.shtml | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-jersey-q4-2025-01-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250121
+DTEND;VALUE=DATE:20250122
+SUMMARY:New Jersey: State sales & use tax return due
+DESCRIPTION:Quarterly is the standard filing frequency\, due 20th of month 
+ following the quarter end (larger filers make monthly prepayments in betwee
+ n). | Q4 2026 (Oct-Dec) sales tax return\, applying New Jersey's quarterly-
+ filer due-date rule: Quarterly is the standard filing frequency\, due 20th 
+ of month following the quarter end (larger filers make monthly prepayments 
+ in between). This is a representative recurring pattern\, not a single annu
+ al deadline - actual filing frequency (monthly/quarterly/annual) is assigne
+ d per business by the state. | Authority: Direct fetch of New Jersey's own 
+ tax agency site this session | Source: https://www.nj.gov/treasury/taxation
+ /sales-use-filing.shtml | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-jersey-q4-2026-01-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260120
+DTEND;VALUE=DATE:20260121
+SUMMARY:New Jersey: State sales & use tax return due
+DESCRIPTION:Quarterly is the standard filing frequency\, due 20th of month 
+ following the quarter end (larger filers make monthly prepayments in betwee
+ n). | Q4 2026 (Oct-Dec) sales tax return\, applying New Jersey's quarterly-
+ filer due-date rule: Quarterly is the standard filing frequency\, due 20th 
+ of month following the quarter end (larger filers make monthly prepayments 
+ in between). This is a representative recurring pattern\, not a single annu
+ al deadline - actual filing frequency (monthly/quarterly/annual) is assigne
+ d per business by the state. | Authority: Direct fetch of New Jersey's own 
+ tax agency site this session | Source: https://www.nj.gov/treasury/taxation
+ /sales-use-filing.shtml | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-jersey-q4-2027-01-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:New Jersey: State sales & use tax return due
+DESCRIPTION:Quarterly is the standard filing frequency\, due 20th of month 
+ following the quarter end (larger filers make monthly prepayments in betwee
+ n). | Q4 2026 (Oct-Dec) sales tax return\, applying New Jersey's quarterly-
+ filer due-date rule: Quarterly is the standard filing frequency\, due 20th 
+ of month following the quarter end (larger filers make monthly prepayments 
+ in between). This is a representative recurring pattern\, not a single annu
+ al deadline - actual filing frequency (monthly/quarterly/annual) is assigne
+ d per business by the state. | Authority: Direct fetch of New Jersey's own 
+ tax agency site this session | Source: https://www.nj.gov/treasury/taxation
+ /sales-use-filing.shtml | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-jersey-q4-2028-01-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280120
+DTEND;VALUE=DATE:20280121
+SUMMARY:New Jersey: State sales & use tax return due
+DESCRIPTION:Quarterly is the standard filing frequency\, due 20th of month 
+ following the quarter end (larger filers make monthly prepayments in betwee
+ n). | Q4 2026 (Oct-Dec) sales tax return\, applying New Jersey's quarterly-
+ filer due-date rule: Quarterly is the standard filing frequency\, due 20th 
+ of month following the quarter end (larger filers make monthly prepayments 
+ in between). This is a representative recurring pattern\, not a single annu
+ al deadline - actual filing frequency (monthly/quarterly/annual) is assigne
+ d per business by the state. | Authority: Direct fetch of New Jersey's own 
+ tax agency site this session | Source: https://www.nj.gov/treasury/taxation
+ /sales-use-filing.shtml | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-jersey-q4-2029-01-22@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290122
+DTEND;VALUE=DATE:20290123
+SUMMARY:New Jersey: State sales & use tax return due
+DESCRIPTION:Quarterly is the standard filing frequency\, due 20th of month 
+ following the quarter end (larger filers make monthly prepayments in betwee
+ n). | Q4 2026 (Oct-Dec) sales tax return\, applying New Jersey's quarterly-
+ filer due-date rule: Quarterly is the standard filing frequency\, due 20th 
+ of month following the quarter end (larger filers make monthly prepayments 
+ in between). This is a representative recurring pattern\, not a single annu
+ al deadline - actual filing frequency (monthly/quarterly/annual) is assigne
+ d per business by the state. | Authority: Direct fetch of New Jersey's own 
+ tax agency site this session | Source: https://www.nj.gov/treasury/taxation
+ /sales-use-filing.shtml | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-jersey-q4-2030-01-22@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300122
+DTEND;VALUE=DATE:20300123
+SUMMARY:New Jersey: State sales & use tax return due
+DESCRIPTION:Quarterly is the standard filing frequency\, due 20th of month 
+ following the quarter end (larger filers make monthly prepayments in betwee
+ n). | Q4 2026 (Oct-Dec) sales tax return\, applying New Jersey's quarterly-
+ filer due-date rule: Quarterly is the standard filing frequency\, due 20th 
+ of month following the quarter end (larger filers make monthly prepayments 
+ in between). This is a representative recurring pattern\, not a single annu
+ al deadline - actual filing frequency (monthly/quarterly/annual) is assigne
+ d per business by the state. | Authority: Direct fetch of New Jersey's own 
+ tax agency site this session | Source: https://www.nj.gov/treasury/taxation
+ /sales-use-filing.shtml | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-jersey-q4-2031-01-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310121
+DTEND;VALUE=DATE:20310122
+SUMMARY:New Jersey: State sales & use tax return due
+DESCRIPTION:Quarterly is the standard filing frequency\, due 20th of month 
+ following the quarter end (larger filers make monthly prepayments in betwee
+ n). | Q4 2026 (Oct-Dec) sales tax return\, applying New Jersey's quarterly-
+ filer due-date rule: Quarterly is the standard filing frequency\, due 20th 
+ of month following the quarter end (larger filers make monthly prepayments 
+ in between). This is a representative recurring pattern\, not a single annu
+ al deadline - actual filing frequency (monthly/quarterly/annual) is assigne
+ d per business by the state. | Authority: Direct fetch of New Jersey's own 
+ tax agency site this session | Source: https://www.nj.gov/treasury/taxation
+ /sales-use-filing.shtml | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-new-jersey-q4-2032-01-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320120
+DTEND;VALUE=DATE:20320121
+SUMMARY:New Jersey: State sales & use tax return due
+DESCRIPTION:Quarterly is the standard filing frequency\, due 20th of month 
+ following the quarter end (larger filers make monthly prepayments in betwee
+ n). | Q4 2026 (Oct-Dec) sales tax return\, applying New Jersey's quarterly-
+ filer due-date rule: Quarterly is the standard filing frequency\, due 20th 
+ of month following the quarter end (larger filers make monthly prepayments 
+ in between). This is a representative recurring pattern\, not a single annu
+ al deadline - actual filing frequency (monthly/quarterly/annual) is assigne
+ d per business by the state. | Authority: Direct fetch of New Jersey's own 
+ tax agency site this session | Source: https://www.nj.gov/treasury/taxation
+ /sales-use-filing.shtml | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

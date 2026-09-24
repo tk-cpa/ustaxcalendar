@@ -1,0 +1,139 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tk.cpa//US Tax Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:US Tax Calendar - St. Louis\, MO
+X-WR-CALDESC:Recurring US tax filing deadlines from ustaxcalendar.com (a tk
+ .cpa resource). Reference only\, not tax advice.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:city-stlouis-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:St. Louis\, MO: E-1 due
+DESCRIPTION:Annual return\, calendar year | The St. Louis Collector of Reve
+ nue's own Form E-1 page states an April 15 due date\; the page did not sepa
+ rately confirm the exact 2026 calendar date for the 2025 tax year. | Author
+ ity: Direct fetch of stlouis-mo.gov this session | Source: https://www.stlo
+ uis-mo.gov/government/departments/collector/earnings-tax/individual-earning
+ s-tax-info.cfm | This date is computed from a recurrence rule and may not r
+ eflect a later-announced change\; confirm against the cited source before r
+ elying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-stlouis-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:St. Louis\, MO: E-1 due
+DESCRIPTION:Annual return\, calendar year | The St. Louis Collector of Reve
+ nue's own Form E-1 page states an April 15 due date\; the page did not sepa
+ rately confirm the exact 2026 calendar date for the 2025 tax year. | Author
+ ity: Direct fetch of stlouis-mo.gov this session | Source: https://www.stlo
+ uis-mo.gov/government/departments/collector/earnings-tax/individual-earning
+ s-tax-info.cfm | This date is computed from a recurrence rule and may not r
+ eflect a later-announced change\; confirm against the cited source before r
+ elying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-stlouis-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:St. Louis\, MO: E-1 due
+DESCRIPTION:Annual return\, calendar year | The St. Louis Collector of Reve
+ nue's own Form E-1 page states an April 15 due date\; the page did not sepa
+ rately confirm the exact 2026 calendar date for the 2025 tax year. | Author
+ ity: Direct fetch of stlouis-mo.gov this session | Source: https://www.stlo
+ uis-mo.gov/government/departments/collector/earnings-tax/individual-earning
+ s-tax-info.cfm | This date is computed from a recurrence rule and may not r
+ eflect a later-announced change\; confirm against the cited source before r
+ elying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-stlouis-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:St. Louis\, MO: E-1 due
+DESCRIPTION:Annual return\, calendar year | The St. Louis Collector of Reve
+ nue's own Form E-1 page states an April 15 due date\; the page did not sepa
+ rately confirm the exact 2026 calendar date for the 2025 tax year. | Author
+ ity: Direct fetch of stlouis-mo.gov this session | Source: https://www.stlo
+ uis-mo.gov/government/departments/collector/earnings-tax/individual-earning
+ s-tax-info.cfm | This date is computed from a recurrence rule and may not r
+ eflect a later-announced change\; confirm against the cited source before r
+ elying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-stlouis-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:St. Louis\, MO: E-1 due
+DESCRIPTION:Annual return\, calendar year | The St. Louis Collector of Reve
+ nue's own Form E-1 page states an April 15 due date\; the page did not sepa
+ rately confirm the exact 2026 calendar date for the 2025 tax year. | Author
+ ity: Direct fetch of stlouis-mo.gov this session | Source: https://www.stlo
+ uis-mo.gov/government/departments/collector/earnings-tax/individual-earning
+ s-tax-info.cfm | This date is computed from a recurrence rule and may not r
+ eflect a later-announced change\; confirm against the cited source before r
+ elying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-stlouis-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:St. Louis\, MO: E-1 due
+DESCRIPTION:Annual return\, calendar year | The St. Louis Collector of Reve
+ nue's own Form E-1 page states an April 15 due date\; the page did not sepa
+ rately confirm the exact 2026 calendar date for the 2025 tax year. | Author
+ ity: Direct fetch of stlouis-mo.gov this session | Source: https://www.stlo
+ uis-mo.gov/government/departments/collector/earnings-tax/individual-earning
+ s-tax-info.cfm | This date is computed from a recurrence rule and may not r
+ eflect a later-announced change\; confirm against the cited source before r
+ elying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-stlouis-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:St. Louis\, MO: E-1 due
+DESCRIPTION:Annual return\, calendar year | The St. Louis Collector of Reve
+ nue's own Form E-1 page states an April 15 due date\; the page did not sepa
+ rately confirm the exact 2026 calendar date for the 2025 tax year. | Author
+ ity: Direct fetch of stlouis-mo.gov this session | Source: https://www.stlo
+ uis-mo.gov/government/departments/collector/earnings-tax/individual-earning
+ s-tax-info.cfm | This date is computed from a recurrence rule and may not r
+ eflect a later-announced change\; confirm against the cited source before r
+ elying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-stlouis-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:St. Louis\, MO: E-1 due
+DESCRIPTION:Annual return\, calendar year | The St. Louis Collector of Reve
+ nue's own Form E-1 page states an April 15 due date\; the page did not sepa
+ rately confirm the exact 2026 calendar date for the 2025 tax year. | Author
+ ity: Direct fetch of stlouis-mo.gov this session | Source: https://www.stlo
+ uis-mo.gov/government/departments/collector/earnings-tax/individual-earning
+ s-tax-info.cfm | This date is computed from a recurrence rule and may not r
+ eflect a later-announced change\; confirm against the cited source before r
+ elying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

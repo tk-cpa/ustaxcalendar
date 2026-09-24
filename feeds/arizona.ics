@@ -1,0 +1,2323 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tk.cpa//US Tax Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:US Tax Calendar - Arizona
+X-WR-CALDESC:Recurring US tax filing deadlines from ustaxcalendar.com (a tk
+ .cpa resource). Reference only\, not tax advice.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:state-corp-arizona-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:Arizona: State corporate income/franchise tax return due
+DESCRIPTION:Returns due 15th day of 4th month after year end\; automatic 7-
+ month extension via Form 120/165EXT confirmed directly on an AZDOR-hosted f
+ orm. | Returns due 15th day of 4th month after year end\; automatic 7-month
+  extension via Form 120/165EXT confirmed directly on an AZDOR-hosted form. 
+ | Authority: Direct fetch of Arizona's own tax agency site/publication this
+  session | Source: https://azdor.gov/business/corporate-income-tax | This d
+ ate is computed from a recurrence rule and may not reflect a later-announce
+ d change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-arizona-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:Arizona: State corporate income/franchise tax return due
+DESCRIPTION:Returns due 15th day of 4th month after year end\; automatic 7-
+ month extension via Form 120/165EXT confirmed directly on an AZDOR-hosted f
+ orm. | Returns due 15th day of 4th month after year end\; automatic 7-month
+  extension via Form 120/165EXT confirmed directly on an AZDOR-hosted form. 
+ | Authority: Direct fetch of Arizona's own tax agency site/publication this
+  session | Source: https://azdor.gov/business/corporate-income-tax | This d
+ ate is computed from a recurrence rule and may not reflect a later-announce
+ d change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-arizona-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Arizona: State corporate income/franchise tax return due
+DESCRIPTION:Returns due 15th day of 4th month after year end\; automatic 7-
+ month extension via Form 120/165EXT confirmed directly on an AZDOR-hosted f
+ orm. | Returns due 15th day of 4th month after year end\; automatic 7-month
+  extension via Form 120/165EXT confirmed directly on an AZDOR-hosted form. 
+ | Authority: Direct fetch of Arizona's own tax agency site/publication this
+  session | Source: https://azdor.gov/business/corporate-income-tax | This d
+ ate is computed from a recurrence rule and may not reflect a later-announce
+ d change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-arizona-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Arizona: State corporate income/franchise tax return due
+DESCRIPTION:Returns due 15th day of 4th month after year end\; automatic 7-
+ month extension via Form 120/165EXT confirmed directly on an AZDOR-hosted f
+ orm. | Returns due 15th day of 4th month after year end\; automatic 7-month
+  extension via Form 120/165EXT confirmed directly on an AZDOR-hosted form. 
+ | Authority: Direct fetch of Arizona's own tax agency site/publication this
+  session | Source: https://azdor.gov/business/corporate-income-tax | This d
+ ate is computed from a recurrence rule and may not reflect a later-announce
+ d change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-arizona-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:Arizona: State corporate income/franchise tax return due
+DESCRIPTION:Returns due 15th day of 4th month after year end\; automatic 7-
+ month extension via Form 120/165EXT confirmed directly on an AZDOR-hosted f
+ orm. | Returns due 15th day of 4th month after year end\; automatic 7-month
+  extension via Form 120/165EXT confirmed directly on an AZDOR-hosted form. 
+ | Authority: Direct fetch of Arizona's own tax agency site/publication this
+  session | Source: https://azdor.gov/business/corporate-income-tax | This d
+ ate is computed from a recurrence rule and may not reflect a later-announce
+ d change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-arizona-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:Arizona: State corporate income/franchise tax return due
+DESCRIPTION:Returns due 15th day of 4th month after year end\; automatic 7-
+ month extension via Form 120/165EXT confirmed directly on an AZDOR-hosted f
+ orm. | Returns due 15th day of 4th month after year end\; automatic 7-month
+  extension via Form 120/165EXT confirmed directly on an AZDOR-hosted form. 
+ | Authority: Direct fetch of Arizona's own tax agency site/publication this
+  session | Source: https://azdor.gov/business/corporate-income-tax | This d
+ ate is computed from a recurrence rule and may not reflect a later-announce
+ d change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-arizona-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:Arizona: State corporate income/franchise tax return due
+DESCRIPTION:Returns due 15th day of 4th month after year end\; automatic 7-
+ month extension via Form 120/165EXT confirmed directly on an AZDOR-hosted f
+ orm. | Returns due 15th day of 4th month after year end\; automatic 7-month
+  extension via Form 120/165EXT confirmed directly on an AZDOR-hosted form. 
+ | Authority: Direct fetch of Arizona's own tax agency site/publication this
+  session | Source: https://azdor.gov/business/corporate-income-tax | This d
+ ate is computed from a recurrence rule and may not reflect a later-announce
+ d change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-arizona-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:Arizona: State corporate income/franchise tax return due
+DESCRIPTION:Returns due 15th day of 4th month after year end\; automatic 7-
+ month extension via Form 120/165EXT confirmed directly on an AZDOR-hosted f
+ orm. | Returns due 15th day of 4th month after year end\; automatic 7-month
+  extension via Form 120/165EXT confirmed directly on an AZDOR-hosted form. 
+ | Authority: Direct fetch of Arizona's own tax agency site/publication this
+  session | Source: https://azdor.gov/business/corporate-income-tax | This d
+ ate is computed from a recurrence rule and may not reflect a later-announce
+ d change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-arizona-q1-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:Arizona: State individual quarterly estimated tax payment due
+DESCRIPTION:Estimated tax payments are due April 15\, June 15\, September 1
+ 5\, 2026\, and January 15\, 2027. | Q1 2026 state individual estimated tax 
+ payment. Estimated tax payments are due April 15\, June 15\, September 15\,
+  2026\, and January 15\, 2027. | Authority: Direct fetch of Arizona's own t
+ ax agency site/instructions this session | Source: https://azdor.gov/indivi
+ duals/individual-estimated-tax-payments | This date is computed from a recu
+ rrence rule and may not reflect a later-announced change\; confirm against 
+ the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-arizona-q1-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:Arizona: State individual quarterly estimated tax payment due
+DESCRIPTION:Estimated tax payments are due April 15\, June 15\, September 1
+ 5\, 2026\, and January 15\, 2027. | Q1 2026 state individual estimated tax 
+ payment. Estimated tax payments are due April 15\, June 15\, September 15\,
+  2026\, and January 15\, 2027. | Authority: Direct fetch of Arizona's own t
+ ax agency site/instructions this session | Source: https://azdor.gov/indivi
+ duals/individual-estimated-tax-payments | This date is computed from a recu
+ rrence rule and may not reflect a later-announced change\; confirm against 
+ the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-arizona-q1-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Arizona: State individual quarterly estimated tax payment due
+DESCRIPTION:Estimated tax payments are due April 15\, June 15\, September 1
+ 5\, 2026\, and January 15\, 2027. | Q1 2026 state individual estimated tax 
+ payment. Estimated tax payments are due April 15\, June 15\, September 15\,
+  2026\, and January 15\, 2027. | Authority: Direct fetch of Arizona's own t
+ ax agency site/instructions this session | Source: https://azdor.gov/indivi
+ duals/individual-estimated-tax-payments | This date is computed from a recu
+ rrence rule and may not reflect a later-announced change\; confirm against 
+ the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-arizona-q1-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Arizona: State individual quarterly estimated tax payment due
+DESCRIPTION:Estimated tax payments are due April 15\, June 15\, September 1
+ 5\, 2026\, and January 15\, 2027. | Q1 2026 state individual estimated tax 
+ payment. Estimated tax payments are due April 15\, June 15\, September 15\,
+  2026\, and January 15\, 2027. | Authority: Direct fetch of Arizona's own t
+ ax agency site/instructions this session | Source: https://azdor.gov/indivi
+ duals/individual-estimated-tax-payments | This date is computed from a recu
+ rrence rule and may not reflect a later-announced change\; confirm against 
+ the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-arizona-q1-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:Arizona: State individual quarterly estimated tax payment due
+DESCRIPTION:Estimated tax payments are due April 15\, June 15\, September 1
+ 5\, 2026\, and January 15\, 2027. | Q1 2026 state individual estimated tax 
+ payment. Estimated tax payments are due April 15\, June 15\, September 15\,
+  2026\, and January 15\, 2027. | Authority: Direct fetch of Arizona's own t
+ ax agency site/instructions this session | Source: https://azdor.gov/indivi
+ duals/individual-estimated-tax-payments | This date is computed from a recu
+ rrence rule and may not reflect a later-announced change\; confirm against 
+ the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-arizona-q1-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:Arizona: State individual quarterly estimated tax payment due
+DESCRIPTION:Estimated tax payments are due April 15\, June 15\, September 1
+ 5\, 2026\, and January 15\, 2027. | Q1 2026 state individual estimated tax 
+ payment. Estimated tax payments are due April 15\, June 15\, September 15\,
+  2026\, and January 15\, 2027. | Authority: Direct fetch of Arizona's own t
+ ax agency site/instructions this session | Source: https://azdor.gov/indivi
+ duals/individual-estimated-tax-payments | This date is computed from a recu
+ rrence rule and may not reflect a later-announced change\; confirm against 
+ the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-arizona-q1-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:Arizona: State individual quarterly estimated tax payment due
+DESCRIPTION:Estimated tax payments are due April 15\, June 15\, September 1
+ 5\, 2026\, and January 15\, 2027. | Q1 2026 state individual estimated tax 
+ payment. Estimated tax payments are due April 15\, June 15\, September 15\,
+  2026\, and January 15\, 2027. | Authority: Direct fetch of Arizona's own t
+ ax agency site/instructions this session | Source: https://azdor.gov/indivi
+ duals/individual-estimated-tax-payments | This date is computed from a recu
+ rrence rule and may not reflect a later-announced change\; confirm against 
+ the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-arizona-q1-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:Arizona: State individual quarterly estimated tax payment due
+DESCRIPTION:Estimated tax payments are due April 15\, June 15\, September 1
+ 5\, 2026\, and January 15\, 2027. | Q1 2026 state individual estimated tax 
+ payment. Estimated tax payments are due April 15\, June 15\, September 15\,
+  2026\, and January 15\, 2027. | Authority: Direct fetch of Arizona's own t
+ ax agency site/instructions this session | Source: https://azdor.gov/indivi
+ duals/individual-estimated-tax-payments | This date is computed from a recu
+ rrence rule and may not reflect a later-announced change\; confirm against 
+ the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-arizona-q2-2025-06-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250617
+SUMMARY:Arizona: State individual quarterly estimated tax payment due
+DESCRIPTION:Estimated tax payments are due April 15\, June 15\, September 1
+ 5\, 2026\, and January 15\, 2027. | Q2 2026 state individual estimated tax 
+ payment. Estimated tax payments are due April 15\, June 15\, September 15\,
+  2026\, and January 15\, 2027. | Authority: Direct fetch of Arizona's own t
+ ax agency site/instructions this session | Source: https://azdor.gov/indivi
+ duals/individual-estimated-tax-payments | This date is computed from a recu
+ rrence rule and may not reflect a later-announced change\; confirm against 
+ the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-arizona-q2-2026-06-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Arizona: State individual quarterly estimated tax payment due
+DESCRIPTION:Estimated tax payments are due April 15\, June 15\, September 1
+ 5\, 2026\, and January 15\, 2027. | Q2 2026 state individual estimated tax 
+ payment. Estimated tax payments are due April 15\, June 15\, September 15\,
+  2026\, and January 15\, 2027. | Authority: Direct fetch of Arizona's own t
+ ax agency site/instructions this session | Source: https://azdor.gov/indivi
+ duals/individual-estimated-tax-payments | This date is computed from a recu
+ rrence rule and may not reflect a later-announced change\; confirm against 
+ the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-arizona-q2-2027-06-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:Arizona: State individual quarterly estimated tax payment due
+DESCRIPTION:Estimated tax payments are due April 15\, June 15\, September 1
+ 5\, 2026\, and January 15\, 2027. | Q2 2026 state individual estimated tax 
+ payment. Estimated tax payments are due April 15\, June 15\, September 15\,
+  2026\, and January 15\, 2027. | Authority: Direct fetch of Arizona's own t
+ ax agency site/instructions this session | Source: https://azdor.gov/indivi
+ duals/individual-estimated-tax-payments | This date is computed from a recu
+ rrence rule and may not reflect a later-announced change\; confirm against 
+ the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-arizona-q2-2028-06-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280615
+DTEND;VALUE=DATE:20280616
+SUMMARY:Arizona: State individual quarterly estimated tax payment due
+DESCRIPTION:Estimated tax payments are due April 15\, June 15\, September 1
+ 5\, 2026\, and January 15\, 2027. | Q2 2026 state individual estimated tax 
+ payment. Estimated tax payments are due April 15\, June 15\, September 15\,
+  2026\, and January 15\, 2027. | Authority: Direct fetch of Arizona's own t
+ ax agency site/instructions this session | Source: https://azdor.gov/indivi
+ duals/individual-estimated-tax-payments | This date is computed from a recu
+ rrence rule and may not reflect a later-announced change\; confirm against 
+ the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-arizona-q2-2029-06-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290615
+DTEND;VALUE=DATE:20290616
+SUMMARY:Arizona: State individual quarterly estimated tax payment due
+DESCRIPTION:Estimated tax payments are due April 15\, June 15\, September 1
+ 5\, 2026\, and January 15\, 2027. | Q2 2026 state individual estimated tax 
+ payment. Estimated tax payments are due April 15\, June 15\, September 15\,
+  2026\, and January 15\, 2027. | Authority: Direct fetch of Arizona's own t
+ ax agency site/instructions this session | Source: https://azdor.gov/indivi
+ duals/individual-estimated-tax-payments | This date is computed from a recu
+ rrence rule and may not reflect a later-announced change\; confirm against 
+ the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-arizona-q2-2030-06-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300617
+DTEND;VALUE=DATE:20300618
+SUMMARY:Arizona: State individual quarterly estimated tax payment due
+DESCRIPTION:Estimated tax payments are due April 15\, June 15\, September 1
+ 5\, 2026\, and January 15\, 2027. | Q2 2026 state individual estimated tax 
+ payment. Estimated tax payments are due April 15\, June 15\, September 15\,
+  2026\, and January 15\, 2027. | Authority: Direct fetch of Arizona's own t
+ ax agency site/instructions this session | Source: https://azdor.gov/indivi
+ duals/individual-estimated-tax-payments | This date is computed from a recu
+ rrence rule and may not reflect a later-announced change\; confirm against 
+ the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-arizona-q2-2031-06-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310616
+DTEND;VALUE=DATE:20310617
+SUMMARY:Arizona: State individual quarterly estimated tax payment due
+DESCRIPTION:Estimated tax payments are due April 15\, June 15\, September 1
+ 5\, 2026\, and January 15\, 2027. | Q2 2026 state individual estimated tax 
+ payment. Estimated tax payments are due April 15\, June 15\, September 15\,
+  2026\, and January 15\, 2027. | Authority: Direct fetch of Arizona's own t
+ ax agency site/instructions this session | Source: https://azdor.gov/indivi
+ duals/individual-estimated-tax-payments | This date is computed from a recu
+ rrence rule and may not reflect a later-announced change\; confirm against 
+ the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-arizona-q2-2032-06-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320615
+DTEND;VALUE=DATE:20320616
+SUMMARY:Arizona: State individual quarterly estimated tax payment due
+DESCRIPTION:Estimated tax payments are due April 15\, June 15\, September 1
+ 5\, 2026\, and January 15\, 2027. | Q2 2026 state individual estimated tax 
+ payment. Estimated tax payments are due April 15\, June 15\, September 15\,
+  2026\, and January 15\, 2027. | Authority: Direct fetch of Arizona's own t
+ ax agency site/instructions this session | Source: https://azdor.gov/indivi
+ duals/individual-estimated-tax-payments | This date is computed from a recu
+ rrence rule and may not reflect a later-announced change\; confirm against 
+ the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-arizona-q3-2025-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20250916
+SUMMARY:Arizona: State individual quarterly estimated tax payment due
+DESCRIPTION:Estimated tax payments are due April 15\, June 15\, September 1
+ 5\, 2026\, and January 15\, 2027. | Q3 2026 state individual estimated tax 
+ payment. Estimated tax payments are due April 15\, June 15\, September 15\,
+  2026\, and January 15\, 2027. | Authority: Direct fetch of Arizona's own t
+ ax agency site/instructions this session | Source: https://azdor.gov/indivi
+ duals/individual-estimated-tax-payments | This date is computed from a recu
+ rrence rule and may not reflect a later-announced change\; confirm against 
+ the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-arizona-q3-2026-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Arizona: State individual quarterly estimated tax payment due
+DESCRIPTION:Estimated tax payments are due April 15\, June 15\, September 1
+ 5\, 2026\, and January 15\, 2027. | Q3 2026 state individual estimated tax 
+ payment. Estimated tax payments are due April 15\, June 15\, September 15\,
+  2026\, and January 15\, 2027. | Authority: Direct fetch of Arizona's own t
+ ax agency site/instructions this session | Source: https://azdor.gov/indivi
+ duals/individual-estimated-tax-payments | This date is computed from a recu
+ rrence rule and may not reflect a later-announced change\; confirm against 
+ the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-arizona-q3-2027-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:Arizona: State individual quarterly estimated tax payment due
+DESCRIPTION:Estimated tax payments are due April 15\, June 15\, September 1
+ 5\, 2026\, and January 15\, 2027. | Q3 2026 state individual estimated tax 
+ payment. Estimated tax payments are due April 15\, June 15\, September 15\,
+  2026\, and January 15\, 2027. | Authority: Direct fetch of Arizona's own t
+ ax agency site/instructions this session | Source: https://azdor.gov/indivi
+ duals/individual-estimated-tax-payments | This date is computed from a recu
+ rrence rule and may not reflect a later-announced change\; confirm against 
+ the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-arizona-q3-2028-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280915
+DTEND;VALUE=DATE:20280916
+SUMMARY:Arizona: State individual quarterly estimated tax payment due
+DESCRIPTION:Estimated tax payments are due April 15\, June 15\, September 1
+ 5\, 2026\, and January 15\, 2027. | Q3 2026 state individual estimated tax 
+ payment. Estimated tax payments are due April 15\, June 15\, September 15\,
+  2026\, and January 15\, 2027. | Authority: Direct fetch of Arizona's own t
+ ax agency site/instructions this session | Source: https://azdor.gov/indivi
+ duals/individual-estimated-tax-payments | This date is computed from a recu
+ rrence rule and may not reflect a later-announced change\; confirm against 
+ the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-arizona-q3-2029-09-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290917
+DTEND;VALUE=DATE:20290918
+SUMMARY:Arizona: State individual quarterly estimated tax payment due
+DESCRIPTION:Estimated tax payments are due April 15\, June 15\, September 1
+ 5\, 2026\, and January 15\, 2027. | Q3 2026 state individual estimated tax 
+ payment. Estimated tax payments are due April 15\, June 15\, September 15\,
+  2026\, and January 15\, 2027. | Authority: Direct fetch of Arizona's own t
+ ax agency site/instructions this session | Source: https://azdor.gov/indivi
+ duals/individual-estimated-tax-payments | This date is computed from a recu
+ rrence rule and may not reflect a later-announced change\; confirm against 
+ the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-arizona-q3-2030-09-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300916
+DTEND;VALUE=DATE:20300917
+SUMMARY:Arizona: State individual quarterly estimated tax payment due
+DESCRIPTION:Estimated tax payments are due April 15\, June 15\, September 1
+ 5\, 2026\, and January 15\, 2027. | Q3 2026 state individual estimated tax 
+ payment. Estimated tax payments are due April 15\, June 15\, September 15\,
+  2026\, and January 15\, 2027. | Authority: Direct fetch of Arizona's own t
+ ax agency site/instructions this session | Source: https://azdor.gov/indivi
+ duals/individual-estimated-tax-payments | This date is computed from a recu
+ rrence rule and may not reflect a later-announced change\; confirm against 
+ the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-arizona-q3-2031-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310915
+DTEND;VALUE=DATE:20310916
+SUMMARY:Arizona: State individual quarterly estimated tax payment due
+DESCRIPTION:Estimated tax payments are due April 15\, June 15\, September 1
+ 5\, 2026\, and January 15\, 2027. | Q3 2026 state individual estimated tax 
+ payment. Estimated tax payments are due April 15\, June 15\, September 15\,
+  2026\, and January 15\, 2027. | Authority: Direct fetch of Arizona's own t
+ ax agency site/instructions this session | Source: https://azdor.gov/indivi
+ duals/individual-estimated-tax-payments | This date is computed from a recu
+ rrence rule and may not reflect a later-announced change\; confirm against 
+ the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-arizona-q3-2032-09-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320915
+DTEND;VALUE=DATE:20320916
+SUMMARY:Arizona: State individual quarterly estimated tax payment due
+DESCRIPTION:Estimated tax payments are due April 15\, June 15\, September 1
+ 5\, 2026\, and January 15\, 2027. | Q3 2026 state individual estimated tax 
+ payment. Estimated tax payments are due April 15\, June 15\, September 15\,
+  2026\, and January 15\, 2027. | Authority: Direct fetch of Arizona's own t
+ ax agency site/instructions this session | Source: https://azdor.gov/indivi
+ duals/individual-estimated-tax-payments | This date is computed from a recu
+ rrence rule and may not reflect a later-announced change\; confirm against 
+ the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-arizona-q4-2025-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250115
+DTEND;VALUE=DATE:20250116
+SUMMARY:Arizona: State individual quarterly estimated tax payment due
+DESCRIPTION:Estimated tax payments are due April 15\, June 15\, September 1
+ 5\, 2026\, and January 15\, 2027. | Q4 2026 state individual estimated tax 
+ payment. Estimated tax payments are due April 15\, June 15\, September 15\,
+  2026\, and January 15\, 2027. | Authority: Direct fetch of Arizona's own t
+ ax agency site/instructions this session | Source: https://azdor.gov/indivi
+ duals/individual-estimated-tax-payments | This date is computed from a recu
+ rrence rule and may not reflect a later-announced change\; confirm against 
+ the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-arizona-q4-2026-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260116
+SUMMARY:Arizona: State individual quarterly estimated tax payment due
+DESCRIPTION:Estimated tax payments are due April 15\, June 15\, September 1
+ 5\, 2026\, and January 15\, 2027. | Q4 2026 state individual estimated tax 
+ payment. Estimated tax payments are due April 15\, June 15\, September 15\,
+  2026\, and January 15\, 2027. | Authority: Direct fetch of Arizona's own t
+ ax agency site/instructions this session | Source: https://azdor.gov/indivi
+ duals/individual-estimated-tax-payments | This date is computed from a recu
+ rrence rule and may not reflect a later-announced change\; confirm against 
+ the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-arizona-q4-2027-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Arizona: State individual quarterly estimated tax payment due
+DESCRIPTION:Estimated tax payments are due April 15\, June 15\, September 1
+ 5\, 2026\, and January 15\, 2027. | Q4 2026 state individual estimated tax 
+ payment. Estimated tax payments are due April 15\, June 15\, September 15\,
+  2026\, and January 15\, 2027. | Authority: Direct fetch of Arizona's own t
+ ax agency site/instructions this session | Source: https://azdor.gov/indivi
+ duals/individual-estimated-tax-payments | This date is computed from a recu
+ rrence rule and may not reflect a later-announced change\; confirm against 
+ the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-arizona-q4-2028-01-18@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280118
+DTEND;VALUE=DATE:20280119
+SUMMARY:Arizona: State individual quarterly estimated tax payment due
+DESCRIPTION:Estimated tax payments are due April 15\, June 15\, September 1
+ 5\, 2026\, and January 15\, 2027. | Q4 2026 state individual estimated tax 
+ payment. Estimated tax payments are due April 15\, June 15\, September 15\,
+  2026\, and January 15\, 2027. | Authority: Direct fetch of Arizona's own t
+ ax agency site/instructions this session | Source: https://azdor.gov/indivi
+ duals/individual-estimated-tax-payments | This date is computed from a recu
+ rrence rule and may not reflect a later-announced change\; confirm against 
+ the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-arizona-q4-2029-01-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290116
+DTEND;VALUE=DATE:20290117
+SUMMARY:Arizona: State individual quarterly estimated tax payment due
+DESCRIPTION:Estimated tax payments are due April 15\, June 15\, September 1
+ 5\, 2026\, and January 15\, 2027. | Q4 2026 state individual estimated tax 
+ payment. Estimated tax payments are due April 15\, June 15\, September 15\,
+  2026\, and January 15\, 2027. | Authority: Direct fetch of Arizona's own t
+ ax agency site/instructions this session | Source: https://azdor.gov/indivi
+ duals/individual-estimated-tax-payments | This date is computed from a recu
+ rrence rule and may not reflect a later-announced change\; confirm against 
+ the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-arizona-q4-2030-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300115
+DTEND;VALUE=DATE:20300116
+SUMMARY:Arizona: State individual quarterly estimated tax payment due
+DESCRIPTION:Estimated tax payments are due April 15\, June 15\, September 1
+ 5\, 2026\, and January 15\, 2027. | Q4 2026 state individual estimated tax 
+ payment. Estimated tax payments are due April 15\, June 15\, September 15\,
+  2026\, and January 15\, 2027. | Authority: Direct fetch of Arizona's own t
+ ax agency site/instructions this session | Source: https://azdor.gov/indivi
+ duals/individual-estimated-tax-payments | This date is computed from a recu
+ rrence rule and may not reflect a later-announced change\; confirm against 
+ the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-arizona-q4-2031-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310115
+DTEND;VALUE=DATE:20310116
+SUMMARY:Arizona: State individual quarterly estimated tax payment due
+DESCRIPTION:Estimated tax payments are due April 15\, June 15\, September 1
+ 5\, 2026\, and January 15\, 2027. | Q4 2026 state individual estimated tax 
+ payment. Estimated tax payments are due April 15\, June 15\, September 15\,
+  2026\, and January 15\, 2027. | Authority: Direct fetch of Arizona's own t
+ ax agency site/instructions this session | Source: https://azdor.gov/indivi
+ duals/individual-estimated-tax-payments | This date is computed from a recu
+ rrence rule and may not reflect a later-announced change\; confirm against 
+ the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-est-arizona-q4-2032-01-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320115
+DTEND;VALUE=DATE:20320116
+SUMMARY:Arizona: State individual quarterly estimated tax payment due
+DESCRIPTION:Estimated tax payments are due April 15\, June 15\, September 1
+ 5\, 2026\, and January 15\, 2027. | Q4 2026 state individual estimated tax 
+ payment. Estimated tax payments are due April 15\, June 15\, September 15\,
+  2026\, and January 15\, 2027. | Authority: Direct fetch of Arizona's own t
+ ax agency site/instructions this session | Source: https://azdor.gov/indivi
+ duals/individual-estimated-tax-payments | This date is computed from a recu
+ rrence rule and may not reflect a later-announced change\; confirm against 
+ the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-ar-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:Arizona: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Confirmed April 15\, 2026 directly\; a 
+ separate automatic-extension date was not stated on the page fetched. | Aut
+ hority: Direct fetch of https://azdor.gov/individual-income-tax-information
+ /faq-during-tax-season this session | Source: https://azdor.gov/individual-
+ income-tax-information/faq-during-tax-season | This date is computed from a
+  recurrence rule and may not reflect a later-announced change\; confirm aga
+ inst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-ar-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:Arizona: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Confirmed April 15\, 2026 directly\; a 
+ separate automatic-extension date was not stated on the page fetched. | Aut
+ hority: Direct fetch of https://azdor.gov/individual-income-tax-information
+ /faq-during-tax-season this session | Source: https://azdor.gov/individual-
+ income-tax-information/faq-during-tax-season | This date is computed from a
+  recurrence rule and may not reflect a later-announced change\; confirm aga
+ inst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-ar-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Arizona: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Confirmed April 15\, 2026 directly\; a 
+ separate automatic-extension date was not stated on the page fetched. | Aut
+ hority: Direct fetch of https://azdor.gov/individual-income-tax-information
+ /faq-during-tax-season this session | Source: https://azdor.gov/individual-
+ income-tax-information/faq-during-tax-season | This date is computed from a
+  recurrence rule and may not reflect a later-announced change\; confirm aga
+ inst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-ar-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Arizona: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Confirmed April 15\, 2026 directly\; a 
+ separate automatic-extension date was not stated on the page fetched. | Aut
+ hority: Direct fetch of https://azdor.gov/individual-income-tax-information
+ /faq-during-tax-season this session | Source: https://azdor.gov/individual-
+ income-tax-information/faq-during-tax-season | This date is computed from a
+  recurrence rule and may not reflect a later-announced change\; confirm aga
+ inst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-ar-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:Arizona: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Confirmed April 15\, 2026 directly\; a 
+ separate automatic-extension date was not stated on the page fetched. | Aut
+ hority: Direct fetch of https://azdor.gov/individual-income-tax-information
+ /faq-during-tax-season this session | Source: https://azdor.gov/individual-
+ income-tax-information/faq-during-tax-season | This date is computed from a
+  recurrence rule and may not reflect a later-announced change\; confirm aga
+ inst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-ar-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:Arizona: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Confirmed April 15\, 2026 directly\; a 
+ separate automatic-extension date was not stated on the page fetched. | Aut
+ hority: Direct fetch of https://azdor.gov/individual-income-tax-information
+ /faq-during-tax-season this session | Source: https://azdor.gov/individual-
+ income-tax-information/faq-during-tax-season | This date is computed from a
+  recurrence rule and may not reflect a later-announced change\; confirm aga
+ inst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-ar-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:Arizona: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Confirmed April 15\, 2026 directly\; a 
+ separate automatic-extension date was not stated on the page fetched. | Aut
+ hority: Direct fetch of https://azdor.gov/individual-income-tax-information
+ /faq-during-tax-season this session | Source: https://azdor.gov/individual-
+ income-tax-information/faq-during-tax-season | This date is computed from a
+  recurrence rule and may not reflect a later-announced change\; confirm aga
+ inst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-ar-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:Arizona: State individual income tax return due
+DESCRIPTION:Conforms to the federal April 15 due date | State individual in
+ come tax return due date\, confirmed directly against the state's own reven
+ ue/tax agency website this session. Confirmed April 15\, 2026 directly\; a 
+ separate automatic-extension date was not stated on the page fetched. | Aut
+ hority: Direct fetch of https://azdor.gov/individual-income-tax-information
+ /faq-during-tax-season this session | Source: https://azdor.gov/individual-
+ income-tax-information/faq-during-tax-season | This date is computed from a
+  recurrence rule and may not reflect a later-announced change\; confirm aga
+ inst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-arizona-2025-03-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250318
+SUMMARY:Arizona: 165 (partnership) / 120S (S-corp) due
+DESCRIPTION:Arizona partnership return due the 15th day of the 3rd month af
+ ter year-end. AZ's PTE elective tax is filed with the same Form 165/120S. C
+ orrection (this rebuild session): the cited source states the general rule 
+ (15th day of the 3rd month) without addressing the 2026-specific weekend in
+ teraction - March 15\, 2026 is a Sunday. Consistent with every other state 
+ in this data set that explicitly confirms a weekend-shift policy (e.g. Mass
+ achusetts\, New York\, Vermont\, Delaware\, Montana\, Oregon all confirm sh
+ ifting to March 16\, 2026)\, and with the near-universal US government-dead
+ line convention of shifting to the next business day\, this entry's date_20
+ 26 was corrected from an unshifted March 15\, 2026 to March 16\, 2026. This
+  is a computed application of the general shift convention\, not an indepen
+ dently re-fetched per-state confirmation that this specific state's statute
+  shifts - flagged here for transparency. | Arizona partnership return due t
+ he 15th day of the 3rd month after year-end. AZ's PTE elective tax is filed
+  with the same Form 165/120S. File Arizona Form 120/165EXT by the original 
+ due date\, or rely on a valid federal extension for the same period. Full t
+ ax\, penalties\, and interest remain due by the original due date regardles
+ s of extension. Correction (this rebuild session): the cited source states 
+ the general rule (15th day of the 3rd month) without addressing the 2026-sp
+ ecific weekend interaction - March 15\, 2026 is a Sunday. Consistent with e
+ very other state in this data set that explicitly confirms a weekend-shift 
+ policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, Oreg
+ on all confirm shifting to March 16\, 2026)\, and with the near-universal U
+ S government-deadline convention of shifting to the next business day\, thi
+ s entry's date_2026 was corrected from an unshifted March 15\, 2026 to Marc
+ h 16\, 2026. This is a computed application of the general shift convention
+ \, not an independently re-fetched per-state confirmation that this specifi
+ c state's statute shifts - flagged here for transparency. | Authority: Ariz
+ ona Department of Revenue\, direct fetch this session: "a partnership whose
+  taxable year ends on December 31st must file its partnership return by Mar
+ ch 15th of the following year" and "All partnership returns are due on or b
+ efore the 15th day of the third month following the close of the partnershi
+ p's taxable year." | Source: https://azdor.gov/sites/default/files/document
+ /FORMS_PARTNERSHIP_2025_165_i.pdf | This date is computed from a recurrence
+  rule and may not reflect a later-announced change\; confirm against the ci
+ ted source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-arizona-2026-03-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260317
+SUMMARY:Arizona: 165 (partnership) / 120S (S-corp) due
+DESCRIPTION:Arizona partnership return due the 15th day of the 3rd month af
+ ter year-end. AZ's PTE elective tax is filed with the same Form 165/120S. C
+ orrection (this rebuild session): the cited source states the general rule 
+ (15th day of the 3rd month) without addressing the 2026-specific weekend in
+ teraction - March 15\, 2026 is a Sunday. Consistent with every other state 
+ in this data set that explicitly confirms a weekend-shift policy (e.g. Mass
+ achusetts\, New York\, Vermont\, Delaware\, Montana\, Oregon all confirm sh
+ ifting to March 16\, 2026)\, and with the near-universal US government-dead
+ line convention of shifting to the next business day\, this entry's date_20
+ 26 was corrected from an unshifted March 15\, 2026 to March 16\, 2026. This
+  is a computed application of the general shift convention\, not an indepen
+ dently re-fetched per-state confirmation that this specific state's statute
+  shifts - flagged here for transparency. | Arizona partnership return due t
+ he 15th day of the 3rd month after year-end. AZ's PTE elective tax is filed
+  with the same Form 165/120S. File Arizona Form 120/165EXT by the original 
+ due date\, or rely on a valid federal extension for the same period. Full t
+ ax\, penalties\, and interest remain due by the original due date regardles
+ s of extension. Correction (this rebuild session): the cited source states 
+ the general rule (15th day of the 3rd month) without addressing the 2026-sp
+ ecific weekend interaction - March 15\, 2026 is a Sunday. Consistent with e
+ very other state in this data set that explicitly confirms a weekend-shift 
+ policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, Oreg
+ on all confirm shifting to March 16\, 2026)\, and with the near-universal U
+ S government-deadline convention of shifting to the next business day\, thi
+ s entry's date_2026 was corrected from an unshifted March 15\, 2026 to Marc
+ h 16\, 2026. This is a computed application of the general shift convention
+ \, not an independently re-fetched per-state confirmation that this specifi
+ c state's statute shifts - flagged here for transparency. | Authority: Ariz
+ ona Department of Revenue\, direct fetch this session: "a partnership whose
+  taxable year ends on December 31st must file its partnership return by Mar
+ ch 15th of the following year" and "All partnership returns are due on or b
+ efore the 15th day of the third month following the close of the partnershi
+ p's taxable year." | Source: https://azdor.gov/sites/default/files/document
+ /FORMS_PARTNERSHIP_2025_165_i.pdf | This date is computed from a recurrence
+  rule and may not reflect a later-announced change\; confirm against the ci
+ ted source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-arizona-2027-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:Arizona: 165 (partnership) / 120S (S-corp) due
+DESCRIPTION:Arizona partnership return due the 15th day of the 3rd month af
+ ter year-end. AZ's PTE elective tax is filed with the same Form 165/120S. C
+ orrection (this rebuild session): the cited source states the general rule 
+ (15th day of the 3rd month) without addressing the 2026-specific weekend in
+ teraction - March 15\, 2026 is a Sunday. Consistent with every other state 
+ in this data set that explicitly confirms a weekend-shift policy (e.g. Mass
+ achusetts\, New York\, Vermont\, Delaware\, Montana\, Oregon all confirm sh
+ ifting to March 16\, 2026)\, and with the near-universal US government-dead
+ line convention of shifting to the next business day\, this entry's date_20
+ 26 was corrected from an unshifted March 15\, 2026 to March 16\, 2026. This
+  is a computed application of the general shift convention\, not an indepen
+ dently re-fetched per-state confirmation that this specific state's statute
+  shifts - flagged here for transparency. | Arizona partnership return due t
+ he 15th day of the 3rd month after year-end. AZ's PTE elective tax is filed
+  with the same Form 165/120S. File Arizona Form 120/165EXT by the original 
+ due date\, or rely on a valid federal extension for the same period. Full t
+ ax\, penalties\, and interest remain due by the original due date regardles
+ s of extension. Correction (this rebuild session): the cited source states 
+ the general rule (15th day of the 3rd month) without addressing the 2026-sp
+ ecific weekend interaction - March 15\, 2026 is a Sunday. Consistent with e
+ very other state in this data set that explicitly confirms a weekend-shift 
+ policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, Oreg
+ on all confirm shifting to March 16\, 2026)\, and with the near-universal U
+ S government-deadline convention of shifting to the next business day\, thi
+ s entry's date_2026 was corrected from an unshifted March 15\, 2026 to Marc
+ h 16\, 2026. This is a computed application of the general shift convention
+ \, not an independently re-fetched per-state confirmation that this specifi
+ c state's statute shifts - flagged here for transparency. | Authority: Ariz
+ ona Department of Revenue\, direct fetch this session: "a partnership whose
+  taxable year ends on December 31st must file its partnership return by Mar
+ ch 15th of the following year" and "All partnership returns are due on or b
+ efore the 15th day of the third month following the close of the partnershi
+ p's taxable year." | Source: https://azdor.gov/sites/default/files/document
+ /FORMS_PARTNERSHIP_2025_165_i.pdf | This date is computed from a recurrence
+  rule and may not reflect a later-announced change\; confirm against the ci
+ ted source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-arizona-2028-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280315
+DTEND;VALUE=DATE:20280316
+SUMMARY:Arizona: 165 (partnership) / 120S (S-corp) due
+DESCRIPTION:Arizona partnership return due the 15th day of the 3rd month af
+ ter year-end. AZ's PTE elective tax is filed with the same Form 165/120S. C
+ orrection (this rebuild session): the cited source states the general rule 
+ (15th day of the 3rd month) without addressing the 2026-specific weekend in
+ teraction - March 15\, 2026 is a Sunday. Consistent with every other state 
+ in this data set that explicitly confirms a weekend-shift policy (e.g. Mass
+ achusetts\, New York\, Vermont\, Delaware\, Montana\, Oregon all confirm sh
+ ifting to March 16\, 2026)\, and with the near-universal US government-dead
+ line convention of shifting to the next business day\, this entry's date_20
+ 26 was corrected from an unshifted March 15\, 2026 to March 16\, 2026. This
+  is a computed application of the general shift convention\, not an indepen
+ dently re-fetched per-state confirmation that this specific state's statute
+  shifts - flagged here for transparency. | Arizona partnership return due t
+ he 15th day of the 3rd month after year-end. AZ's PTE elective tax is filed
+  with the same Form 165/120S. File Arizona Form 120/165EXT by the original 
+ due date\, or rely on a valid federal extension for the same period. Full t
+ ax\, penalties\, and interest remain due by the original due date regardles
+ s of extension. Correction (this rebuild session): the cited source states 
+ the general rule (15th day of the 3rd month) without addressing the 2026-sp
+ ecific weekend interaction - March 15\, 2026 is a Sunday. Consistent with e
+ very other state in this data set that explicitly confirms a weekend-shift 
+ policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, Oreg
+ on all confirm shifting to March 16\, 2026)\, and with the near-universal U
+ S government-deadline convention of shifting to the next business day\, thi
+ s entry's date_2026 was corrected from an unshifted March 15\, 2026 to Marc
+ h 16\, 2026. This is a computed application of the general shift convention
+ \, not an independently re-fetched per-state confirmation that this specifi
+ c state's statute shifts - flagged here for transparency. | Authority: Ariz
+ ona Department of Revenue\, direct fetch this session: "a partnership whose
+  taxable year ends on December 31st must file its partnership return by Mar
+ ch 15th of the following year" and "All partnership returns are due on or b
+ efore the 15th day of the third month following the close of the partnershi
+ p's taxable year." | Source: https://azdor.gov/sites/default/files/document
+ /FORMS_PARTNERSHIP_2025_165_i.pdf | This date is computed from a recurrence
+  rule and may not reflect a later-announced change\; confirm against the ci
+ ted source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-arizona-2029-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290315
+DTEND;VALUE=DATE:20290316
+SUMMARY:Arizona: 165 (partnership) / 120S (S-corp) due
+DESCRIPTION:Arizona partnership return due the 15th day of the 3rd month af
+ ter year-end. AZ's PTE elective tax is filed with the same Form 165/120S. C
+ orrection (this rebuild session): the cited source states the general rule 
+ (15th day of the 3rd month) without addressing the 2026-specific weekend in
+ teraction - March 15\, 2026 is a Sunday. Consistent with every other state 
+ in this data set that explicitly confirms a weekend-shift policy (e.g. Mass
+ achusetts\, New York\, Vermont\, Delaware\, Montana\, Oregon all confirm sh
+ ifting to March 16\, 2026)\, and with the near-universal US government-dead
+ line convention of shifting to the next business day\, this entry's date_20
+ 26 was corrected from an unshifted March 15\, 2026 to March 16\, 2026. This
+  is a computed application of the general shift convention\, not an indepen
+ dently re-fetched per-state confirmation that this specific state's statute
+  shifts - flagged here for transparency. | Arizona partnership return due t
+ he 15th day of the 3rd month after year-end. AZ's PTE elective tax is filed
+  with the same Form 165/120S. File Arizona Form 120/165EXT by the original 
+ due date\, or rely on a valid federal extension for the same period. Full t
+ ax\, penalties\, and interest remain due by the original due date regardles
+ s of extension. Correction (this rebuild session): the cited source states 
+ the general rule (15th day of the 3rd month) without addressing the 2026-sp
+ ecific weekend interaction - March 15\, 2026 is a Sunday. Consistent with e
+ very other state in this data set that explicitly confirms a weekend-shift 
+ policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, Oreg
+ on all confirm shifting to March 16\, 2026)\, and with the near-universal U
+ S government-deadline convention of shifting to the next business day\, thi
+ s entry's date_2026 was corrected from an unshifted March 15\, 2026 to Marc
+ h 16\, 2026. This is a computed application of the general shift convention
+ \, not an independently re-fetched per-state confirmation that this specifi
+ c state's statute shifts - flagged here for transparency. | Authority: Ariz
+ ona Department of Revenue\, direct fetch this session: "a partnership whose
+  taxable year ends on December 31st must file its partnership return by Mar
+ ch 15th of the following year" and "All partnership returns are due on or b
+ efore the 15th day of the third month following the close of the partnershi
+ p's taxable year." | Source: https://azdor.gov/sites/default/files/document
+ /FORMS_PARTNERSHIP_2025_165_i.pdf | This date is computed from a recurrence
+  rule and may not reflect a later-announced change\; confirm against the ci
+ ted source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-arizona-2030-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300315
+DTEND;VALUE=DATE:20300316
+SUMMARY:Arizona: 165 (partnership) / 120S (S-corp) due
+DESCRIPTION:Arizona partnership return due the 15th day of the 3rd month af
+ ter year-end. AZ's PTE elective tax is filed with the same Form 165/120S. C
+ orrection (this rebuild session): the cited source states the general rule 
+ (15th day of the 3rd month) without addressing the 2026-specific weekend in
+ teraction - March 15\, 2026 is a Sunday. Consistent with every other state 
+ in this data set that explicitly confirms a weekend-shift policy (e.g. Mass
+ achusetts\, New York\, Vermont\, Delaware\, Montana\, Oregon all confirm sh
+ ifting to March 16\, 2026)\, and with the near-universal US government-dead
+ line convention of shifting to the next business day\, this entry's date_20
+ 26 was corrected from an unshifted March 15\, 2026 to March 16\, 2026. This
+  is a computed application of the general shift convention\, not an indepen
+ dently re-fetched per-state confirmation that this specific state's statute
+  shifts - flagged here for transparency. | Arizona partnership return due t
+ he 15th day of the 3rd month after year-end. AZ's PTE elective tax is filed
+  with the same Form 165/120S. File Arizona Form 120/165EXT by the original 
+ due date\, or rely on a valid federal extension for the same period. Full t
+ ax\, penalties\, and interest remain due by the original due date regardles
+ s of extension. Correction (this rebuild session): the cited source states 
+ the general rule (15th day of the 3rd month) without addressing the 2026-sp
+ ecific weekend interaction - March 15\, 2026 is a Sunday. Consistent with e
+ very other state in this data set that explicitly confirms a weekend-shift 
+ policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, Oreg
+ on all confirm shifting to March 16\, 2026)\, and with the near-universal U
+ S government-deadline convention of shifting to the next business day\, thi
+ s entry's date_2026 was corrected from an unshifted March 15\, 2026 to Marc
+ h 16\, 2026. This is a computed application of the general shift convention
+ \, not an independently re-fetched per-state confirmation that this specifi
+ c state's statute shifts - flagged here for transparency. | Authority: Ariz
+ ona Department of Revenue\, direct fetch this session: "a partnership whose
+  taxable year ends on December 31st must file its partnership return by Mar
+ ch 15th of the following year" and "All partnership returns are due on or b
+ efore the 15th day of the third month following the close of the partnershi
+ p's taxable year." | Source: https://azdor.gov/sites/default/files/document
+ /FORMS_PARTNERSHIP_2025_165_i.pdf | This date is computed from a recurrence
+  rule and may not reflect a later-announced change\; confirm against the ci
+ ted source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-arizona-2031-03-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310317
+DTEND;VALUE=DATE:20310318
+SUMMARY:Arizona: 165 (partnership) / 120S (S-corp) due
+DESCRIPTION:Arizona partnership return due the 15th day of the 3rd month af
+ ter year-end. AZ's PTE elective tax is filed with the same Form 165/120S. C
+ orrection (this rebuild session): the cited source states the general rule 
+ (15th day of the 3rd month) without addressing the 2026-specific weekend in
+ teraction - March 15\, 2026 is a Sunday. Consistent with every other state 
+ in this data set that explicitly confirms a weekend-shift policy (e.g. Mass
+ achusetts\, New York\, Vermont\, Delaware\, Montana\, Oregon all confirm sh
+ ifting to March 16\, 2026)\, and with the near-universal US government-dead
+ line convention of shifting to the next business day\, this entry's date_20
+ 26 was corrected from an unshifted March 15\, 2026 to March 16\, 2026. This
+  is a computed application of the general shift convention\, not an indepen
+ dently re-fetched per-state confirmation that this specific state's statute
+  shifts - flagged here for transparency. | Arizona partnership return due t
+ he 15th day of the 3rd month after year-end. AZ's PTE elective tax is filed
+  with the same Form 165/120S. File Arizona Form 120/165EXT by the original 
+ due date\, or rely on a valid federal extension for the same period. Full t
+ ax\, penalties\, and interest remain due by the original due date regardles
+ s of extension. Correction (this rebuild session): the cited source states 
+ the general rule (15th day of the 3rd month) without addressing the 2026-sp
+ ecific weekend interaction - March 15\, 2026 is a Sunday. Consistent with e
+ very other state in this data set that explicitly confirms a weekend-shift 
+ policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, Oreg
+ on all confirm shifting to March 16\, 2026)\, and with the near-universal U
+ S government-deadline convention of shifting to the next business day\, thi
+ s entry's date_2026 was corrected from an unshifted March 15\, 2026 to Marc
+ h 16\, 2026. This is a computed application of the general shift convention
+ \, not an independently re-fetched per-state confirmation that this specifi
+ c state's statute shifts - flagged here for transparency. | Authority: Ariz
+ ona Department of Revenue\, direct fetch this session: "a partnership whose
+  taxable year ends on December 31st must file its partnership return by Mar
+ ch 15th of the following year" and "All partnership returns are due on or b
+ efore the 15th day of the third month following the close of the partnershi
+ p's taxable year." | Source: https://azdor.gov/sites/default/files/document
+ /FORMS_PARTNERSHIP_2025_165_i.pdf | This date is computed from a recurrence
+  rule and may not reflect a later-announced change\; confirm against the ci
+ ted source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-arizona-2032-03-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320315
+DTEND;VALUE=DATE:20320316
+SUMMARY:Arizona: 165 (partnership) / 120S (S-corp) due
+DESCRIPTION:Arizona partnership return due the 15th day of the 3rd month af
+ ter year-end. AZ's PTE elective tax is filed with the same Form 165/120S. C
+ orrection (this rebuild session): the cited source states the general rule 
+ (15th day of the 3rd month) without addressing the 2026-specific weekend in
+ teraction - March 15\, 2026 is a Sunday. Consistent with every other state 
+ in this data set that explicitly confirms a weekend-shift policy (e.g. Mass
+ achusetts\, New York\, Vermont\, Delaware\, Montana\, Oregon all confirm sh
+ ifting to March 16\, 2026)\, and with the near-universal US government-dead
+ line convention of shifting to the next business day\, this entry's date_20
+ 26 was corrected from an unshifted March 15\, 2026 to March 16\, 2026. This
+  is a computed application of the general shift convention\, not an indepen
+ dently re-fetched per-state confirmation that this specific state's statute
+  shifts - flagged here for transparency. | Arizona partnership return due t
+ he 15th day of the 3rd month after year-end. AZ's PTE elective tax is filed
+  with the same Form 165/120S. File Arizona Form 120/165EXT by the original 
+ due date\, or rely on a valid federal extension for the same period. Full t
+ ax\, penalties\, and interest remain due by the original due date regardles
+ s of extension. Correction (this rebuild session): the cited source states 
+ the general rule (15th day of the 3rd month) without addressing the 2026-sp
+ ecific weekend interaction - March 15\, 2026 is a Sunday. Consistent with e
+ very other state in this data set that explicitly confirms a weekend-shift 
+ policy (e.g. Massachusetts\, New York\, Vermont\, Delaware\, Montana\, Oreg
+ on all confirm shifting to March 16\, 2026)\, and with the near-universal U
+ S government-deadline convention of shifting to the next business day\, thi
+ s entry's date_2026 was corrected from an unshifted March 15\, 2026 to Marc
+ h 16\, 2026. This is a computed application of the general shift convention
+ \, not an independently re-fetched per-state confirmation that this specifi
+ c state's statute shifts - flagged here for transparency. | Authority: Ariz
+ ona Department of Revenue\, direct fetch this session: "a partnership whose
+  taxable year ends on December 31st must file its partnership return by Mar
+ ch 15th of the following year" and "All partnership returns are due on or b
+ efore the 15th day of the third month following the close of the partnershi
+ p's taxable year." | Source: https://azdor.gov/sites/default/files/document
+ /FORMS_PARTNERSHIP_2025_165_i.pdf | This date is computed from a recurrence
+  rule and may not reflect a later-announced change\; confirm against the ci
+ ted source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-arizona-q1-2025-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250430
+DTEND;VALUE=DATE:20250501
+SUMMARY:Arizona: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Quarterly contribution and wage reports are due and contributions ar
+ e due and payable on or before the last day of the month following the clos
+ e of each calendar quarter (Ariz. Admin. Code R6-3-1704(B)). | Authority: D
+ irect fetch of Arizona's own unemployment insurance agency site/handbook/co
+ de this session | Source: https://www.law.cornell.edu/regulations/oklahoma/
+ OAC-240-10-5-91 | This date is computed from a recurrence rule and may not 
+ reflect a later-announced change\; confirm against the cited source before 
+ relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-arizona-q1-2026-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:Arizona: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Quarterly contribution and wage reports are due and contributions ar
+ e due and payable on or before the last day of the month following the clos
+ e of each calendar quarter (Ariz. Admin. Code R6-3-1704(B)). | Authority: D
+ irect fetch of Arizona's own unemployment insurance agency site/handbook/co
+ de this session | Source: https://www.law.cornell.edu/regulations/oklahoma/
+ OAC-240-10-5-91 | This date is computed from a recurrence rule and may not 
+ reflect a later-announced change\; confirm against the cited source before 
+ relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-arizona-q1-2027-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:Arizona: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Quarterly contribution and wage reports are due and contributions ar
+ e due and payable on or before the last day of the month following the clos
+ e of each calendar quarter (Ariz. Admin. Code R6-3-1704(B)). | Authority: D
+ irect fetch of Arizona's own unemployment insurance agency site/handbook/co
+ de this session | Source: https://www.law.cornell.edu/regulations/oklahoma/
+ OAC-240-10-5-91 | This date is computed from a recurrence rule and may not 
+ reflect a later-announced change\; confirm against the cited source before 
+ relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-arizona-q1-2028-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280430
+DTEND;VALUE=DATE:20280501
+SUMMARY:Arizona: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Quarterly contribution and wage reports are due and contributions ar
+ e due and payable on or before the last day of the month following the clos
+ e of each calendar quarter (Ariz. Admin. Code R6-3-1704(B)). | Authority: D
+ irect fetch of Arizona's own unemployment insurance agency site/handbook/co
+ de this session | Source: https://www.law.cornell.edu/regulations/oklahoma/
+ OAC-240-10-5-91 | This date is computed from a recurrence rule and may not 
+ reflect a later-announced change\; confirm against the cited source before 
+ relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-arizona-q1-2029-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290430
+DTEND;VALUE=DATE:20290501
+SUMMARY:Arizona: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Quarterly contribution and wage reports are due and contributions ar
+ e due and payable on or before the last day of the month following the clos
+ e of each calendar quarter (Ariz. Admin. Code R6-3-1704(B)). | Authority: D
+ irect fetch of Arizona's own unemployment insurance agency site/handbook/co
+ de this session | Source: https://www.law.cornell.edu/regulations/oklahoma/
+ OAC-240-10-5-91 | This date is computed from a recurrence rule and may not 
+ reflect a later-announced change\; confirm against the cited source before 
+ relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-arizona-q1-2030-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300430
+DTEND;VALUE=DATE:20300501
+SUMMARY:Arizona: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Quarterly contribution and wage reports are due and contributions ar
+ e due and payable on or before the last day of the month following the clos
+ e of each calendar quarter (Ariz. Admin. Code R6-3-1704(B)). | Authority: D
+ irect fetch of Arizona's own unemployment insurance agency site/handbook/co
+ de this session | Source: https://www.law.cornell.edu/regulations/oklahoma/
+ OAC-240-10-5-91 | This date is computed from a recurrence rule and may not 
+ reflect a later-announced change\; confirm against the cited source before 
+ relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-arizona-q1-2031-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310430
+DTEND;VALUE=DATE:20310501
+SUMMARY:Arizona: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Quarterly contribution and wage reports are due and contributions ar
+ e due and payable on or before the last day of the month following the clos
+ e of each calendar quarter (Ariz. Admin. Code R6-3-1704(B)). | Authority: D
+ irect fetch of Arizona's own unemployment insurance agency site/handbook/co
+ de this session | Source: https://www.law.cornell.edu/regulations/oklahoma/
+ OAC-240-10-5-91 | This date is computed from a recurrence rule and may not 
+ reflect a later-announced change\; confirm against the cited source before 
+ relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-arizona-q1-2032-04-30@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320430
+DTEND;VALUE=DATE:20320501
+SUMMARY:Arizona: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and pa
+ yment. Quarterly contribution and wage reports are due and contributions ar
+ e due and payable on or before the last day of the month following the clos
+ e of each calendar quarter (Ariz. Admin. Code R6-3-1704(B)). | Authority: D
+ irect fetch of Arizona's own unemployment insurance agency site/handbook/co
+ de this session | Source: https://www.law.cornell.edu/regulations/oklahoma/
+ OAC-240-10-5-91 | This date is computed from a recurrence rule and may not 
+ reflect a later-announced change\; confirm against the cited source before 
+ relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-arizona-q2-2025-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250731
+DTEND;VALUE=DATE:20250801
+SUMMARY:Arizona: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Quarterly contribution and wage reports are due and contributions ar
+ e due and payable on or before the last day of the month following the clos
+ e of each calendar quarter (Ariz. Admin. Code R6-3-1704(B)). | Authority: D
+ irect fetch of Arizona's own unemployment insurance agency site/handbook/co
+ de this session | Source: https://www.law.cornell.edu/regulations/oklahoma/
+ OAC-240-10-5-91 | This date is computed from a recurrence rule and may not 
+ reflect a later-announced change\; confirm against the cited source before 
+ relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-arizona-q2-2026-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Arizona: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Quarterly contribution and wage reports are due and contributions ar
+ e due and payable on or before the last day of the month following the clos
+ e of each calendar quarter (Ariz. Admin. Code R6-3-1704(B)). | Authority: D
+ irect fetch of Arizona's own unemployment insurance agency site/handbook/co
+ de this session | Source: https://www.law.cornell.edu/regulations/oklahoma/
+ OAC-240-10-5-91 | This date is computed from a recurrence rule and may not 
+ reflect a later-announced change\; confirm against the cited source before 
+ relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-arizona-q2-2027-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:Arizona: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Quarterly contribution and wage reports are due and contributions ar
+ e due and payable on or before the last day of the month following the clos
+ e of each calendar quarter (Ariz. Admin. Code R6-3-1704(B)). | Authority: D
+ irect fetch of Arizona's own unemployment insurance agency site/handbook/co
+ de this session | Source: https://www.law.cornell.edu/regulations/oklahoma/
+ OAC-240-10-5-91 | This date is computed from a recurrence rule and may not 
+ reflect a later-announced change\; confirm against the cited source before 
+ relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-arizona-q2-2028-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280731
+DTEND;VALUE=DATE:20280801
+SUMMARY:Arizona: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Quarterly contribution and wage reports are due and contributions ar
+ e due and payable on or before the last day of the month following the clos
+ e of each calendar quarter (Ariz. Admin. Code R6-3-1704(B)). | Authority: D
+ irect fetch of Arizona's own unemployment insurance agency site/handbook/co
+ de this session | Source: https://www.law.cornell.edu/regulations/oklahoma/
+ OAC-240-10-5-91 | This date is computed from a recurrence rule and may not 
+ reflect a later-announced change\; confirm against the cited source before 
+ relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-arizona-q2-2029-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290731
+DTEND;VALUE=DATE:20290801
+SUMMARY:Arizona: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Quarterly contribution and wage reports are due and contributions ar
+ e due and payable on or before the last day of the month following the clos
+ e of each calendar quarter (Ariz. Admin. Code R6-3-1704(B)). | Authority: D
+ irect fetch of Arizona's own unemployment insurance agency site/handbook/co
+ de this session | Source: https://www.law.cornell.edu/regulations/oklahoma/
+ OAC-240-10-5-91 | This date is computed from a recurrence rule and may not 
+ reflect a later-announced change\; confirm against the cited source before 
+ relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-arizona-q2-2030-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300731
+DTEND;VALUE=DATE:20300801
+SUMMARY:Arizona: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Quarterly contribution and wage reports are due and contributions ar
+ e due and payable on or before the last day of the month following the clos
+ e of each calendar quarter (Ariz. Admin. Code R6-3-1704(B)). | Authority: D
+ irect fetch of Arizona's own unemployment insurance agency site/handbook/co
+ de this session | Source: https://www.law.cornell.edu/regulations/oklahoma/
+ OAC-240-10-5-91 | This date is computed from a recurrence rule and may not 
+ reflect a later-announced change\; confirm against the cited source before 
+ relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-arizona-q2-2031-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310731
+DTEND;VALUE=DATE:20310801
+SUMMARY:Arizona: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Quarterly contribution and wage reports are due and contributions ar
+ e due and payable on or before the last day of the month following the clos
+ e of each calendar quarter (Ariz. Admin. Code R6-3-1704(B)). | Authority: D
+ irect fetch of Arizona's own unemployment insurance agency site/handbook/co
+ de this session | Source: https://www.law.cornell.edu/regulations/oklahoma/
+ OAC-240-10-5-91 | This date is computed from a recurrence rule and may not 
+ reflect a later-announced change\; confirm against the cited source before 
+ relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-arizona-q2-2032-07-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320731
+DTEND;VALUE=DATE:20320801
+SUMMARY:Arizona: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and pa
+ yment. Quarterly contribution and wage reports are due and contributions ar
+ e due and payable on or before the last day of the month following the clos
+ e of each calendar quarter (Ariz. Admin. Code R6-3-1704(B)). | Authority: D
+ irect fetch of Arizona's own unemployment insurance agency site/handbook/co
+ de this session | Source: https://www.law.cornell.edu/regulations/oklahoma/
+ OAC-240-10-5-91 | This date is computed from a recurrence rule and may not 
+ reflect a later-announced change\; confirm against the cited source before 
+ relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-arizona-q3-2025-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20251031
+DTEND;VALUE=DATE:20251101
+SUMMARY:Arizona: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Quarterly contribution and wage reports are due and contributions ar
+ e due and payable on or before the last day of the month following the clos
+ e of each calendar quarter (Ariz. Admin. Code R6-3-1704(B)). | Authority: D
+ irect fetch of Arizona's own unemployment insurance agency site/handbook/co
+ de this session | Source: https://www.law.cornell.edu/regulations/oklahoma/
+ OAC-240-10-5-91 | This date is computed from a recurrence rule and may not 
+ reflect a later-announced change\; confirm against the cited source before 
+ relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-arizona-q3-2026-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Arizona: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Quarterly contribution and wage reports are due and contributions ar
+ e due and payable on or before the last day of the month following the clos
+ e of each calendar quarter (Ariz. Admin. Code R6-3-1704(B)). | Authority: D
+ irect fetch of Arizona's own unemployment insurance agency site/handbook/co
+ de this session | Source: https://www.law.cornell.edu/regulations/oklahoma/
+ OAC-240-10-5-91 | This date is computed from a recurrence rule and may not 
+ reflect a later-announced change\; confirm against the cited source before 
+ relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-arizona-q3-2027-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20271031
+DTEND;VALUE=DATE:20271101
+SUMMARY:Arizona: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Quarterly contribution and wage reports are due and contributions ar
+ e due and payable on or before the last day of the month following the clos
+ e of each calendar quarter (Ariz. Admin. Code R6-3-1704(B)). | Authority: D
+ irect fetch of Arizona's own unemployment insurance agency site/handbook/co
+ de this session | Source: https://www.law.cornell.edu/regulations/oklahoma/
+ OAC-240-10-5-91 | This date is computed from a recurrence rule and may not 
+ reflect a later-announced change\; confirm against the cited source before 
+ relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-arizona-q3-2028-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20281031
+DTEND;VALUE=DATE:20281101
+SUMMARY:Arizona: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Quarterly contribution and wage reports are due and contributions ar
+ e due and payable on or before the last day of the month following the clos
+ e of each calendar quarter (Ariz. Admin. Code R6-3-1704(B)). | Authority: D
+ irect fetch of Arizona's own unemployment insurance agency site/handbook/co
+ de this session | Source: https://www.law.cornell.edu/regulations/oklahoma/
+ OAC-240-10-5-91 | This date is computed from a recurrence rule and may not 
+ reflect a later-announced change\; confirm against the cited source before 
+ relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-arizona-q3-2029-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20291031
+DTEND;VALUE=DATE:20291101
+SUMMARY:Arizona: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Quarterly contribution and wage reports are due and contributions ar
+ e due and payable on or before the last day of the month following the clos
+ e of each calendar quarter (Ariz. Admin. Code R6-3-1704(B)). | Authority: D
+ irect fetch of Arizona's own unemployment insurance agency site/handbook/co
+ de this session | Source: https://www.law.cornell.edu/regulations/oklahoma/
+ OAC-240-10-5-91 | This date is computed from a recurrence rule and may not 
+ reflect a later-announced change\; confirm against the cited source before 
+ relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-arizona-q3-2030-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20301031
+DTEND;VALUE=DATE:20301101
+SUMMARY:Arizona: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Quarterly contribution and wage reports are due and contributions ar
+ e due and payable on or before the last day of the month following the clos
+ e of each calendar quarter (Ariz. Admin. Code R6-3-1704(B)). | Authority: D
+ irect fetch of Arizona's own unemployment insurance agency site/handbook/co
+ de this session | Source: https://www.law.cornell.edu/regulations/oklahoma/
+ OAC-240-10-5-91 | This date is computed from a recurrence rule and may not 
+ reflect a later-announced change\; confirm against the cited source before 
+ relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-arizona-q3-2031-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20311031
+DTEND;VALUE=DATE:20311101
+SUMMARY:Arizona: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Quarterly contribution and wage reports are due and contributions ar
+ e due and payable on or before the last day of the month following the clos
+ e of each calendar quarter (Ariz. Admin. Code R6-3-1704(B)). | Authority: D
+ irect fetch of Arizona's own unemployment insurance agency site/handbook/co
+ de this session | Source: https://www.law.cornell.edu/regulations/oklahoma/
+ OAC-240-10-5-91 | This date is computed from a recurrence rule and may not 
+ reflect a later-announced change\; confirm against the cited source before 
+ relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-arizona-q3-2032-10-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20321031
+DTEND;VALUE=DATE:20321101
+SUMMARY:Arizona: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and pa
+ yment. Quarterly contribution and wage reports are due and contributions ar
+ e due and payable on or before the last day of the month following the clos
+ e of each calendar quarter (Ariz. Admin. Code R6-3-1704(B)). | Authority: D
+ irect fetch of Arizona's own unemployment insurance agency site/handbook/co
+ de this session | Source: https://www.law.cornell.edu/regulations/oklahoma/
+ OAC-240-10-5-91 | This date is computed from a recurrence rule and may not 
+ reflect a later-announced change\; confirm against the cited source before 
+ relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-arizona-q4-2025-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250131
+DTEND;VALUE=DATE:20250201
+SUMMARY:Arizona: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Quarterly contribution and wage reports are due and contributions ar
+ e due and payable on or before the last day of the month following the clos
+ e of each calendar quarter (Ariz. Admin. Code R6-3-1704(B)). | Authority: D
+ irect fetch of Arizona's own unemployment insurance agency site/handbook/co
+ de this session | Source: https://www.law.cornell.edu/regulations/oklahoma/
+ OAC-240-10-5-91 | This date is computed from a recurrence rule and may not 
+ reflect a later-announced change\; confirm against the cited source before 
+ relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-arizona-q4-2026-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:Arizona: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Quarterly contribution and wage reports are due and contributions ar
+ e due and payable on or before the last day of the month following the clos
+ e of each calendar quarter (Ariz. Admin. Code R6-3-1704(B)). | Authority: D
+ irect fetch of Arizona's own unemployment insurance agency site/handbook/co
+ de this session | Source: https://www.law.cornell.edu/regulations/oklahoma/
+ OAC-240-10-5-91 | This date is computed from a recurrence rule and may not 
+ reflect a later-announced change\; confirm against the cited source before 
+ relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-arizona-q4-2027-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Arizona: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Quarterly contribution and wage reports are due and contributions ar
+ e due and payable on or before the last day of the month following the clos
+ e of each calendar quarter (Ariz. Admin. Code R6-3-1704(B)). | Authority: D
+ irect fetch of Arizona's own unemployment insurance agency site/handbook/co
+ de this session | Source: https://www.law.cornell.edu/regulations/oklahoma/
+ OAC-240-10-5-91 | This date is computed from a recurrence rule and may not 
+ reflect a later-announced change\; confirm against the cited source before 
+ relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-arizona-q4-2028-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280131
+DTEND;VALUE=DATE:20280201
+SUMMARY:Arizona: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Quarterly contribution and wage reports are due and contributions ar
+ e due and payable on or before the last day of the month following the clos
+ e of each calendar quarter (Ariz. Admin. Code R6-3-1704(B)). | Authority: D
+ irect fetch of Arizona's own unemployment insurance agency site/handbook/co
+ de this session | Source: https://www.law.cornell.edu/regulations/oklahoma/
+ OAC-240-10-5-91 | This date is computed from a recurrence rule and may not 
+ reflect a later-announced change\; confirm against the cited source before 
+ relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-arizona-q4-2029-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290131
+DTEND;VALUE=DATE:20290201
+SUMMARY:Arizona: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Quarterly contribution and wage reports are due and contributions ar
+ e due and payable on or before the last day of the month following the clos
+ e of each calendar quarter (Ariz. Admin. Code R6-3-1704(B)). | Authority: D
+ irect fetch of Arizona's own unemployment insurance agency site/handbook/co
+ de this session | Source: https://www.law.cornell.edu/regulations/oklahoma/
+ OAC-240-10-5-91 | This date is computed from a recurrence rule and may not 
+ reflect a later-announced change\; confirm against the cited source before 
+ relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-arizona-q4-2030-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300131
+DTEND;VALUE=DATE:20300201
+SUMMARY:Arizona: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Quarterly contribution and wage reports are due and contributions ar
+ e due and payable on or before the last day of the month following the clos
+ e of each calendar quarter (Ariz. Admin. Code R6-3-1704(B)). | Authority: D
+ irect fetch of Arizona's own unemployment insurance agency site/handbook/co
+ de this session | Source: https://www.law.cornell.edu/regulations/oklahoma/
+ OAC-240-10-5-91 | This date is computed from a recurrence rule and may not 
+ reflect a later-announced change\; confirm against the cited source before 
+ relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-arizona-q4-2031-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310131
+DTEND;VALUE=DATE:20310201
+SUMMARY:Arizona: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Quarterly contribution and wage reports are due and contributions ar
+ e due and payable on or before the last day of the month following the clos
+ e of each calendar quarter (Ariz. Admin. Code R6-3-1704(B)). | Authority: D
+ irect fetch of Arizona's own unemployment insurance agency site/handbook/co
+ de this session | Source: https://www.law.cornell.edu/regulations/oklahoma/
+ OAC-240-10-5-91 | This date is computed from a recurrence rule and may not 
+ reflect a later-announced change\; confirm against the cited source before 
+ relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sui-arizona-q4-2032-01-31@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320131
+DTEND;VALUE=DATE:20320201
+SUMMARY:Arizona: State unemployment insurance quarterly return due
+DESCRIPTION:Last day of the month following the close of the calendar quart
+ er | Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and pa
+ yment. Quarterly contribution and wage reports are due and contributions ar
+ e due and payable on or before the last day of the month following the clos
+ e of each calendar quarter (Ariz. Admin. Code R6-3-1704(B)). | Authority: D
+ irect fetch of Arizona's own unemployment insurance agency site/handbook/co
+ de this session | Source: https://www.law.cornell.edu/regulations/oklahoma/
+ OAC-240-10-5-91 | This date is computed from a recurrence rule and may not 
+ reflect a later-announced change\; confirm against the cited source before 
+ relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-arizona-q1-2025-04-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250422
+SUMMARY:Arizona: State sales & use tax return due
+DESCRIPTION:Transaction Privilege Tax (functions as sales tax) due 20th of 
+ month following the reporting period. | Q1 2026 (Jan-Mar) sales tax return\
+ , applying Arizona's quarterly-filer due-date rule: Transaction Privilege T
+ ax (functions as sales tax) due 20th of month following the reporting perio
+ d. This is a representative recurring pattern\, not a single annual deadlin
+ e - actual filing frequency (monthly/quarterly/annual) is assigned per busi
+ ness by the state. | Authority: Direct fetch of Arizona's own tax agency si
+ te this session | Source: https://azdor.gov/business/transaction-privilege-
+ tax/due-dates | This date is computed from a recurrence rule and may not re
+ flect a later-announced change\; confirm against the cited source before re
+ lying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-arizona-q1-2026-04-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:Arizona: State sales & use tax return due
+DESCRIPTION:Transaction Privilege Tax (functions as sales tax) due 20th of 
+ month following the reporting period. | Q1 2026 (Jan-Mar) sales tax return\
+ , applying Arizona's quarterly-filer due-date rule: Transaction Privilege T
+ ax (functions as sales tax) due 20th of month following the reporting perio
+ d. This is a representative recurring pattern\, not a single annual deadlin
+ e - actual filing frequency (monthly/quarterly/annual) is assigned per busi
+ ness by the state. | Authority: Direct fetch of Arizona's own tax agency si
+ te this session | Source: https://azdor.gov/business/transaction-privilege-
+ tax/due-dates | This date is computed from a recurrence rule and may not re
+ flect a later-announced change\; confirm against the cited source before re
+ lying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-arizona-q1-2027-04-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:Arizona: State sales & use tax return due
+DESCRIPTION:Transaction Privilege Tax (functions as sales tax) due 20th of 
+ month following the reporting period. | Q1 2026 (Jan-Mar) sales tax return\
+ , applying Arizona's quarterly-filer due-date rule: Transaction Privilege T
+ ax (functions as sales tax) due 20th of month following the reporting perio
+ d. This is a representative recurring pattern\, not a single annual deadlin
+ e - actual filing frequency (monthly/quarterly/annual) is assigned per busi
+ ness by the state. | Authority: Direct fetch of Arizona's own tax agency si
+ te this session | Source: https://azdor.gov/business/transaction-privilege-
+ tax/due-dates | This date is computed from a recurrence rule and may not re
+ flect a later-announced change\; confirm against the cited source before re
+ lying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-arizona-q1-2028-04-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280420
+DTEND;VALUE=DATE:20280421
+SUMMARY:Arizona: State sales & use tax return due
+DESCRIPTION:Transaction Privilege Tax (functions as sales tax) due 20th of 
+ month following the reporting period. | Q1 2026 (Jan-Mar) sales tax return\
+ , applying Arizona's quarterly-filer due-date rule: Transaction Privilege T
+ ax (functions as sales tax) due 20th of month following the reporting perio
+ d. This is a representative recurring pattern\, not a single annual deadlin
+ e - actual filing frequency (monthly/quarterly/annual) is assigned per busi
+ ness by the state. | Authority: Direct fetch of Arizona's own tax agency si
+ te this session | Source: https://azdor.gov/business/transaction-privilege-
+ tax/due-dates | This date is computed from a recurrence rule and may not re
+ flect a later-announced change\; confirm against the cited source before re
+ lying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-arizona-q1-2029-04-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290420
+DTEND;VALUE=DATE:20290421
+SUMMARY:Arizona: State sales & use tax return due
+DESCRIPTION:Transaction Privilege Tax (functions as sales tax) due 20th of 
+ month following the reporting period. | Q1 2026 (Jan-Mar) sales tax return\
+ , applying Arizona's quarterly-filer due-date rule: Transaction Privilege T
+ ax (functions as sales tax) due 20th of month following the reporting perio
+ d. This is a representative recurring pattern\, not a single annual deadlin
+ e - actual filing frequency (monthly/quarterly/annual) is assigned per busi
+ ness by the state. | Authority: Direct fetch of Arizona's own tax agency si
+ te this session | Source: https://azdor.gov/business/transaction-privilege-
+ tax/due-dates | This date is computed from a recurrence rule and may not re
+ flect a later-announced change\; confirm against the cited source before re
+ lying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-arizona-q1-2030-04-22@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300422
+DTEND;VALUE=DATE:20300423
+SUMMARY:Arizona: State sales & use tax return due
+DESCRIPTION:Transaction Privilege Tax (functions as sales tax) due 20th of 
+ month following the reporting period. | Q1 2026 (Jan-Mar) sales tax return\
+ , applying Arizona's quarterly-filer due-date rule: Transaction Privilege T
+ ax (functions as sales tax) due 20th of month following the reporting perio
+ d. This is a representative recurring pattern\, not a single annual deadlin
+ e - actual filing frequency (monthly/quarterly/annual) is assigned per busi
+ ness by the state. | Authority: Direct fetch of Arizona's own tax agency si
+ te this session | Source: https://azdor.gov/business/transaction-privilege-
+ tax/due-dates | This date is computed from a recurrence rule and may not re
+ flect a later-announced change\; confirm against the cited source before re
+ lying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-arizona-q1-2031-04-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310421
+DTEND;VALUE=DATE:20310422
+SUMMARY:Arizona: State sales & use tax return due
+DESCRIPTION:Transaction Privilege Tax (functions as sales tax) due 20th of 
+ month following the reporting period. | Q1 2026 (Jan-Mar) sales tax return\
+ , applying Arizona's quarterly-filer due-date rule: Transaction Privilege T
+ ax (functions as sales tax) due 20th of month following the reporting perio
+ d. This is a representative recurring pattern\, not a single annual deadlin
+ e - actual filing frequency (monthly/quarterly/annual) is assigned per busi
+ ness by the state. | Authority: Direct fetch of Arizona's own tax agency si
+ te this session | Source: https://azdor.gov/business/transaction-privilege-
+ tax/due-dates | This date is computed from a recurrence rule and may not re
+ flect a later-announced change\; confirm against the cited source before re
+ lying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-arizona-q1-2032-04-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320420
+DTEND;VALUE=DATE:20320421
+SUMMARY:Arizona: State sales & use tax return due
+DESCRIPTION:Transaction Privilege Tax (functions as sales tax) due 20th of 
+ month following the reporting period. | Q1 2026 (Jan-Mar) sales tax return\
+ , applying Arizona's quarterly-filer due-date rule: Transaction Privilege T
+ ax (functions as sales tax) due 20th of month following the reporting perio
+ d. This is a representative recurring pattern\, not a single annual deadlin
+ e - actual filing frequency (monthly/quarterly/annual) is assigned per busi
+ ness by the state. | Authority: Direct fetch of Arizona's own tax agency si
+ te this session | Source: https://azdor.gov/business/transaction-privilege-
+ tax/due-dates | This date is computed from a recurrence rule and may not re
+ flect a later-announced change\; confirm against the cited source before re
+ lying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-arizona-q2-2025-07-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250722
+SUMMARY:Arizona: State sales & use tax return due
+DESCRIPTION:Transaction Privilege Tax (functions as sales tax) due 20th of 
+ month following the reporting period. | Q2 2026 (Apr-Jun) sales tax return\
+ , applying Arizona's quarterly-filer due-date rule: Transaction Privilege T
+ ax (functions as sales tax) due 20th of month following the reporting perio
+ d. This is a representative recurring pattern\, not a single annual deadlin
+ e - actual filing frequency (monthly/quarterly/annual) is assigned per busi
+ ness by the state. | Authority: Direct fetch of Arizona's own tax agency si
+ te this session | Source: https://azdor.gov/business/transaction-privilege-
+ tax/due-dates | This date is computed from a recurrence rule and may not re
+ flect a later-announced change\; confirm against the cited source before re
+ lying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-arizona-q2-2026-07-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+SUMMARY:Arizona: State sales & use tax return due
+DESCRIPTION:Transaction Privilege Tax (functions as sales tax) due 20th of 
+ month following the reporting period. | Q2 2026 (Apr-Jun) sales tax return\
+ , applying Arizona's quarterly-filer due-date rule: Transaction Privilege T
+ ax (functions as sales tax) due 20th of month following the reporting perio
+ d. This is a representative recurring pattern\, not a single annual deadlin
+ e - actual filing frequency (monthly/quarterly/annual) is assigned per busi
+ ness by the state. | Authority: Direct fetch of Arizona's own tax agency si
+ te this session | Source: https://azdor.gov/business/transaction-privilege-
+ tax/due-dates | This date is computed from a recurrence rule and may not re
+ flect a later-announced change\; confirm against the cited source before re
+ lying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-arizona-q2-2027-07-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:Arizona: State sales & use tax return due
+DESCRIPTION:Transaction Privilege Tax (functions as sales tax) due 20th of 
+ month following the reporting period. | Q2 2026 (Apr-Jun) sales tax return\
+ , applying Arizona's quarterly-filer due-date rule: Transaction Privilege T
+ ax (functions as sales tax) due 20th of month following the reporting perio
+ d. This is a representative recurring pattern\, not a single annual deadlin
+ e - actual filing frequency (monthly/quarterly/annual) is assigned per busi
+ ness by the state. | Authority: Direct fetch of Arizona's own tax agency si
+ te this session | Source: https://azdor.gov/business/transaction-privilege-
+ tax/due-dates | This date is computed from a recurrence rule and may not re
+ flect a later-announced change\; confirm against the cited source before re
+ lying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-arizona-q2-2028-07-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:Arizona: State sales & use tax return due
+DESCRIPTION:Transaction Privilege Tax (functions as sales tax) due 20th of 
+ month following the reporting period. | Q2 2026 (Apr-Jun) sales tax return\
+ , applying Arizona's quarterly-filer due-date rule: Transaction Privilege T
+ ax (functions as sales tax) due 20th of month following the reporting perio
+ d. This is a representative recurring pattern\, not a single annual deadlin
+ e - actual filing frequency (monthly/quarterly/annual) is assigned per busi
+ ness by the state. | Authority: Direct fetch of Arizona's own tax agency si
+ te this session | Source: https://azdor.gov/business/transaction-privilege-
+ tax/due-dates | This date is computed from a recurrence rule and may not re
+ flect a later-announced change\; confirm against the cited source before re
+ lying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-arizona-q2-2029-07-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290720
+DTEND;VALUE=DATE:20290721
+SUMMARY:Arizona: State sales & use tax return due
+DESCRIPTION:Transaction Privilege Tax (functions as sales tax) due 20th of 
+ month following the reporting period. | Q2 2026 (Apr-Jun) sales tax return\
+ , applying Arizona's quarterly-filer due-date rule: Transaction Privilege T
+ ax (functions as sales tax) due 20th of month following the reporting perio
+ d. This is a representative recurring pattern\, not a single annual deadlin
+ e - actual filing frequency (monthly/quarterly/annual) is assigned per busi
+ ness by the state. | Authority: Direct fetch of Arizona's own tax agency si
+ te this session | Source: https://azdor.gov/business/transaction-privilege-
+ tax/due-dates | This date is computed from a recurrence rule and may not re
+ flect a later-announced change\; confirm against the cited source before re
+ lying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-arizona-q2-2030-07-22@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300722
+DTEND;VALUE=DATE:20300723
+SUMMARY:Arizona: State sales & use tax return due
+DESCRIPTION:Transaction Privilege Tax (functions as sales tax) due 20th of 
+ month following the reporting period. | Q2 2026 (Apr-Jun) sales tax return\
+ , applying Arizona's quarterly-filer due-date rule: Transaction Privilege T
+ ax (functions as sales tax) due 20th of month following the reporting perio
+ d. This is a representative recurring pattern\, not a single annual deadlin
+ e - actual filing frequency (monthly/quarterly/annual) is assigned per busi
+ ness by the state. | Authority: Direct fetch of Arizona's own tax agency si
+ te this session | Source: https://azdor.gov/business/transaction-privilege-
+ tax/due-dates | This date is computed from a recurrence rule and may not re
+ flect a later-announced change\; confirm against the cited source before re
+ lying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-arizona-q2-2031-07-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310721
+DTEND;VALUE=DATE:20310722
+SUMMARY:Arizona: State sales & use tax return due
+DESCRIPTION:Transaction Privilege Tax (functions as sales tax) due 20th of 
+ month following the reporting period. | Q2 2026 (Apr-Jun) sales tax return\
+ , applying Arizona's quarterly-filer due-date rule: Transaction Privilege T
+ ax (functions as sales tax) due 20th of month following the reporting perio
+ d. This is a representative recurring pattern\, not a single annual deadlin
+ e - actual filing frequency (monthly/quarterly/annual) is assigned per busi
+ ness by the state. | Authority: Direct fetch of Arizona's own tax agency si
+ te this session | Source: https://azdor.gov/business/transaction-privilege-
+ tax/due-dates | This date is computed from a recurrence rule and may not re
+ flect a later-announced change\; confirm against the cited source before re
+ lying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-arizona-q2-2032-07-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320720
+DTEND;VALUE=DATE:20320721
+SUMMARY:Arizona: State sales & use tax return due
+DESCRIPTION:Transaction Privilege Tax (functions as sales tax) due 20th of 
+ month following the reporting period. | Q2 2026 (Apr-Jun) sales tax return\
+ , applying Arizona's quarterly-filer due-date rule: Transaction Privilege T
+ ax (functions as sales tax) due 20th of month following the reporting perio
+ d. This is a representative recurring pattern\, not a single annual deadlin
+ e - actual filing frequency (monthly/quarterly/annual) is assigned per busi
+ ness by the state. | Authority: Direct fetch of Arizona's own tax agency si
+ te this session | Source: https://azdor.gov/business/transaction-privilege-
+ tax/due-dates | This date is computed from a recurrence rule and may not re
+ flect a later-announced change\; confirm against the cited source before re
+ lying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-arizona-q3-2025-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20251020
+DTEND;VALUE=DATE:20251021
+SUMMARY:Arizona: State sales & use tax return due
+DESCRIPTION:Transaction Privilege Tax (functions as sales tax) due 20th of 
+ month following the reporting period. | Q3 2026 (Jul-Sep) sales tax return\
+ , applying Arizona's quarterly-filer due-date rule: Transaction Privilege T
+ ax (functions as sales tax) due 20th of month following the reporting perio
+ d. This is a representative recurring pattern\, not a single annual deadlin
+ e - actual filing frequency (monthly/quarterly/annual) is assigned per busi
+ ness by the state. | Authority: Direct fetch of Arizona's own tax agency si
+ te this session | Source: https://azdor.gov/business/transaction-privilege-
+ tax/due-dates | This date is computed from a recurrence rule and may not re
+ flect a later-announced change\; confirm against the cited source before re
+ lying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-arizona-q3-2026-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Arizona: State sales & use tax return due
+DESCRIPTION:Transaction Privilege Tax (functions as sales tax) due 20th of 
+ month following the reporting period. | Q3 2026 (Jul-Sep) sales tax return\
+ , applying Arizona's quarterly-filer due-date rule: Transaction Privilege T
+ ax (functions as sales tax) due 20th of month following the reporting perio
+ d. This is a representative recurring pattern\, not a single annual deadlin
+ e - actual filing frequency (monthly/quarterly/annual) is assigned per busi
+ ness by the state. | Authority: Direct fetch of Arizona's own tax agency si
+ te this session | Source: https://azdor.gov/business/transaction-privilege-
+ tax/due-dates | This date is computed from a recurrence rule and may not re
+ flect a later-announced change\; confirm against the cited source before re
+ lying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-arizona-q3-2027-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20271020
+DTEND;VALUE=DATE:20271021
+SUMMARY:Arizona: State sales & use tax return due
+DESCRIPTION:Transaction Privilege Tax (functions as sales tax) due 20th of 
+ month following the reporting period. | Q3 2026 (Jul-Sep) sales tax return\
+ , applying Arizona's quarterly-filer due-date rule: Transaction Privilege T
+ ax (functions as sales tax) due 20th of month following the reporting perio
+ d. This is a representative recurring pattern\, not a single annual deadlin
+ e - actual filing frequency (monthly/quarterly/annual) is assigned per busi
+ ness by the state. | Authority: Direct fetch of Arizona's own tax agency si
+ te this session | Source: https://azdor.gov/business/transaction-privilege-
+ tax/due-dates | This date is computed from a recurrence rule and may not re
+ flect a later-announced change\; confirm against the cited source before re
+ lying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-arizona-q3-2028-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20281020
+DTEND;VALUE=DATE:20281021
+SUMMARY:Arizona: State sales & use tax return due
+DESCRIPTION:Transaction Privilege Tax (functions as sales tax) due 20th of 
+ month following the reporting period. | Q3 2026 (Jul-Sep) sales tax return\
+ , applying Arizona's quarterly-filer due-date rule: Transaction Privilege T
+ ax (functions as sales tax) due 20th of month following the reporting perio
+ d. This is a representative recurring pattern\, not a single annual deadlin
+ e - actual filing frequency (monthly/quarterly/annual) is assigned per busi
+ ness by the state. | Authority: Direct fetch of Arizona's own tax agency si
+ te this session | Source: https://azdor.gov/business/transaction-privilege-
+ tax/due-dates | This date is computed from a recurrence rule and may not re
+ flect a later-announced change\; confirm against the cited source before re
+ lying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-arizona-q3-2029-10-22@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20291022
+DTEND;VALUE=DATE:20291023
+SUMMARY:Arizona: State sales & use tax return due
+DESCRIPTION:Transaction Privilege Tax (functions as sales tax) due 20th of 
+ month following the reporting period. | Q3 2026 (Jul-Sep) sales tax return\
+ , applying Arizona's quarterly-filer due-date rule: Transaction Privilege T
+ ax (functions as sales tax) due 20th of month following the reporting perio
+ d. This is a representative recurring pattern\, not a single annual deadlin
+ e - actual filing frequency (monthly/quarterly/annual) is assigned per busi
+ ness by the state. | Authority: Direct fetch of Arizona's own tax agency si
+ te this session | Source: https://azdor.gov/business/transaction-privilege-
+ tax/due-dates | This date is computed from a recurrence rule and may not re
+ flect a later-announced change\; confirm against the cited source before re
+ lying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-arizona-q3-2030-10-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20301021
+DTEND;VALUE=DATE:20301022
+SUMMARY:Arizona: State sales & use tax return due
+DESCRIPTION:Transaction Privilege Tax (functions as sales tax) due 20th of 
+ month following the reporting period. | Q3 2026 (Jul-Sep) sales tax return\
+ , applying Arizona's quarterly-filer due-date rule: Transaction Privilege T
+ ax (functions as sales tax) due 20th of month following the reporting perio
+ d. This is a representative recurring pattern\, not a single annual deadlin
+ e - actual filing frequency (monthly/quarterly/annual) is assigned per busi
+ ness by the state. | Authority: Direct fetch of Arizona's own tax agency si
+ te this session | Source: https://azdor.gov/business/transaction-privilege-
+ tax/due-dates | This date is computed from a recurrence rule and may not re
+ flect a later-announced change\; confirm against the cited source before re
+ lying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-arizona-q3-2031-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20311020
+DTEND;VALUE=DATE:20311021
+SUMMARY:Arizona: State sales & use tax return due
+DESCRIPTION:Transaction Privilege Tax (functions as sales tax) due 20th of 
+ month following the reporting period. | Q3 2026 (Jul-Sep) sales tax return\
+ , applying Arizona's quarterly-filer due-date rule: Transaction Privilege T
+ ax (functions as sales tax) due 20th of month following the reporting perio
+ d. This is a representative recurring pattern\, not a single annual deadlin
+ e - actual filing frequency (monthly/quarterly/annual) is assigned per busi
+ ness by the state. | Authority: Direct fetch of Arizona's own tax agency si
+ te this session | Source: https://azdor.gov/business/transaction-privilege-
+ tax/due-dates | This date is computed from a recurrence rule and may not re
+ flect a later-announced change\; confirm against the cited source before re
+ lying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-arizona-q3-2032-10-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20321020
+DTEND;VALUE=DATE:20321021
+SUMMARY:Arizona: State sales & use tax return due
+DESCRIPTION:Transaction Privilege Tax (functions as sales tax) due 20th of 
+ month following the reporting period. | Q3 2026 (Jul-Sep) sales tax return\
+ , applying Arizona's quarterly-filer due-date rule: Transaction Privilege T
+ ax (functions as sales tax) due 20th of month following the reporting perio
+ d. This is a representative recurring pattern\, not a single annual deadlin
+ e - actual filing frequency (monthly/quarterly/annual) is assigned per busi
+ ness by the state. | Authority: Direct fetch of Arizona's own tax agency si
+ te this session | Source: https://azdor.gov/business/transaction-privilege-
+ tax/due-dates | This date is computed from a recurrence rule and may not re
+ flect a later-announced change\; confirm against the cited source before re
+ lying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-arizona-q4-2025-01-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250121
+DTEND;VALUE=DATE:20250122
+SUMMARY:Arizona: State sales & use tax return due
+DESCRIPTION:Transaction Privilege Tax (functions as sales tax) due 20th of 
+ month following the reporting period. | Q4 2026 (Oct-Dec) sales tax return\
+ , applying Arizona's quarterly-filer due-date rule: Transaction Privilege T
+ ax (functions as sales tax) due 20th of month following the reporting perio
+ d. This is a representative recurring pattern\, not a single annual deadlin
+ e - actual filing frequency (monthly/quarterly/annual) is assigned per busi
+ ness by the state. | Authority: Direct fetch of Arizona's own tax agency si
+ te this session | Source: https://azdor.gov/business/transaction-privilege-
+ tax/due-dates | This date is computed from a recurrence rule and may not re
+ flect a later-announced change\; confirm against the cited source before re
+ lying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-arizona-q4-2026-01-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260120
+DTEND;VALUE=DATE:20260121
+SUMMARY:Arizona: State sales & use tax return due
+DESCRIPTION:Transaction Privilege Tax (functions as sales tax) due 20th of 
+ month following the reporting period. | Q4 2026 (Oct-Dec) sales tax return\
+ , applying Arizona's quarterly-filer due-date rule: Transaction Privilege T
+ ax (functions as sales tax) due 20th of month following the reporting perio
+ d. This is a representative recurring pattern\, not a single annual deadlin
+ e - actual filing frequency (monthly/quarterly/annual) is assigned per busi
+ ness by the state. | Authority: Direct fetch of Arizona's own tax agency si
+ te this session | Source: https://azdor.gov/business/transaction-privilege-
+ tax/due-dates | This date is computed from a recurrence rule and may not re
+ flect a later-announced change\; confirm against the cited source before re
+ lying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-arizona-q4-2027-01-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:Arizona: State sales & use tax return due
+DESCRIPTION:Transaction Privilege Tax (functions as sales tax) due 20th of 
+ month following the reporting period. | Q4 2026 (Oct-Dec) sales tax return\
+ , applying Arizona's quarterly-filer due-date rule: Transaction Privilege T
+ ax (functions as sales tax) due 20th of month following the reporting perio
+ d. This is a representative recurring pattern\, not a single annual deadlin
+ e - actual filing frequency (monthly/quarterly/annual) is assigned per busi
+ ness by the state. | Authority: Direct fetch of Arizona's own tax agency si
+ te this session | Source: https://azdor.gov/business/transaction-privilege-
+ tax/due-dates | This date is computed from a recurrence rule and may not re
+ flect a later-announced change\; confirm against the cited source before re
+ lying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-arizona-q4-2028-01-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280120
+DTEND;VALUE=DATE:20280121
+SUMMARY:Arizona: State sales & use tax return due
+DESCRIPTION:Transaction Privilege Tax (functions as sales tax) due 20th of 
+ month following the reporting period. | Q4 2026 (Oct-Dec) sales tax return\
+ , applying Arizona's quarterly-filer due-date rule: Transaction Privilege T
+ ax (functions as sales tax) due 20th of month following the reporting perio
+ d. This is a representative recurring pattern\, not a single annual deadlin
+ e - actual filing frequency (monthly/quarterly/annual) is assigned per busi
+ ness by the state. | Authority: Direct fetch of Arizona's own tax agency si
+ te this session | Source: https://azdor.gov/business/transaction-privilege-
+ tax/due-dates | This date is computed from a recurrence rule and may not re
+ flect a later-announced change\; confirm against the cited source before re
+ lying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-arizona-q4-2029-01-22@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290122
+DTEND;VALUE=DATE:20290123
+SUMMARY:Arizona: State sales & use tax return due
+DESCRIPTION:Transaction Privilege Tax (functions as sales tax) due 20th of 
+ month following the reporting period. | Q4 2026 (Oct-Dec) sales tax return\
+ , applying Arizona's quarterly-filer due-date rule: Transaction Privilege T
+ ax (functions as sales tax) due 20th of month following the reporting perio
+ d. This is a representative recurring pattern\, not a single annual deadlin
+ e - actual filing frequency (monthly/quarterly/annual) is assigned per busi
+ ness by the state. | Authority: Direct fetch of Arizona's own tax agency si
+ te this session | Source: https://azdor.gov/business/transaction-privilege-
+ tax/due-dates | This date is computed from a recurrence rule and may not re
+ flect a later-announced change\; confirm against the cited source before re
+ lying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-arizona-q4-2030-01-22@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300122
+DTEND;VALUE=DATE:20300123
+SUMMARY:Arizona: State sales & use tax return due
+DESCRIPTION:Transaction Privilege Tax (functions as sales tax) due 20th of 
+ month following the reporting period. | Q4 2026 (Oct-Dec) sales tax return\
+ , applying Arizona's quarterly-filer due-date rule: Transaction Privilege T
+ ax (functions as sales tax) due 20th of month following the reporting perio
+ d. This is a representative recurring pattern\, not a single annual deadlin
+ e - actual filing frequency (monthly/quarterly/annual) is assigned per busi
+ ness by the state. | Authority: Direct fetch of Arizona's own tax agency si
+ te this session | Source: https://azdor.gov/business/transaction-privilege-
+ tax/due-dates | This date is computed from a recurrence rule and may not re
+ flect a later-announced change\; confirm against the cited source before re
+ lying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-arizona-q4-2031-01-21@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310121
+DTEND;VALUE=DATE:20310122
+SUMMARY:Arizona: State sales & use tax return due
+DESCRIPTION:Transaction Privilege Tax (functions as sales tax) due 20th of 
+ month following the reporting period. | Q4 2026 (Oct-Dec) sales tax return\
+ , applying Arizona's quarterly-filer due-date rule: Transaction Privilege T
+ ax (functions as sales tax) due 20th of month following the reporting perio
+ d. This is a representative recurring pattern\, not a single annual deadlin
+ e - actual filing frequency (monthly/quarterly/annual) is assigned per busi
+ ness by the state. | Authority: Direct fetch of Arizona's own tax agency si
+ te this session | Source: https://azdor.gov/business/transaction-privilege-
+ tax/due-dates | This date is computed from a recurrence rule and may not re
+ flect a later-announced change\; confirm against the cited source before re
+ lying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-sales-arizona-q4-2032-01-20@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320120
+DTEND;VALUE=DATE:20320121
+SUMMARY:Arizona: State sales & use tax return due
+DESCRIPTION:Transaction Privilege Tax (functions as sales tax) due 20th of 
+ month following the reporting period. | Q4 2026 (Oct-Dec) sales tax return\
+ , applying Arizona's quarterly-filer due-date rule: Transaction Privilege T
+ ax (functions as sales tax) due 20th of month following the reporting perio
+ d. This is a representative recurring pattern\, not a single annual deadlin
+ e - actual filing frequency (monthly/quarterly/annual) is assigned per busi
+ ness by the state. | Authority: Direct fetch of Arizona's own tax agency si
+ te this session | Source: https://azdor.gov/business/transaction-privilege-
+ tax/due-dates | This date is computed from a recurrence rule and may not re
+ flect a later-announced change\; confirm against the cited source before re
+ lying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

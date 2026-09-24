@@ -1,0 +1,179 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tk.cpa//US Tax Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:US Tax Calendar - Kansas City\, MO
+X-WR-CALDESC:Recurring US tax filing deadlines from ustaxcalendar.com (a tk
+ .cpa resource). Reference only\, not tax advice.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:city-kcmo-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:Kansas City\, MO: RD-109 due
+DESCRIPTION:Annual return\, tied to the federal filing deadline | Confirmed
+  via a Wayback Machine archive of kcmo.gov's own Tax FAQs page (the live pa
+ ge returns 403 to automated fetches\, so the archived snapshot of the same 
+ official content was used): "Annual returns are due April 15 each year" and
+  "Residents who are self-employed must pay the one percent tax on the net p
+ rofit of their business by filing a profits return with the Revenue Divisio
+ n by April 15 of each year." Corroborated by a third-party-hosted copy of t
+ he official RD-109 form itself. | Authority: Wayback Machine archived snaps
+ hot of kcmo.gov's own Tax FAQs page (live page returns 403 to automated fet
+ ches) | Source: https://web.archive.org/web/20221009025655/https://www.kcmo
+ .gov/city-hall/departments/finance/tax-home/tax-faqs | This date is compute
+ d from a recurrence rule and may not reflect a later-announced change\; con
+ firm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-kcmo-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:Kansas City\, MO: RD-109 due
+DESCRIPTION:Annual return\, tied to the federal filing deadline | Confirmed
+  via a Wayback Machine archive of kcmo.gov's own Tax FAQs page (the live pa
+ ge returns 403 to automated fetches\, so the archived snapshot of the same 
+ official content was used): "Annual returns are due April 15 each year" and
+  "Residents who are self-employed must pay the one percent tax on the net p
+ rofit of their business by filing a profits return with the Revenue Divisio
+ n by April 15 of each year." Corroborated by a third-party-hosted copy of t
+ he official RD-109 form itself. | Authority: Wayback Machine archived snaps
+ hot of kcmo.gov's own Tax FAQs page (live page returns 403 to automated fet
+ ches) | Source: https://web.archive.org/web/20221009025655/https://www.kcmo
+ .gov/city-hall/departments/finance/tax-home/tax-faqs | This date is compute
+ d from a recurrence rule and may not reflect a later-announced change\; con
+ firm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-kcmo-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Kansas City\, MO: RD-109 due
+DESCRIPTION:Annual return\, tied to the federal filing deadline | Confirmed
+  via a Wayback Machine archive of kcmo.gov's own Tax FAQs page (the live pa
+ ge returns 403 to automated fetches\, so the archived snapshot of the same 
+ official content was used): "Annual returns are due April 15 each year" and
+  "Residents who are self-employed must pay the one percent tax on the net p
+ rofit of their business by filing a profits return with the Revenue Divisio
+ n by April 15 of each year." Corroborated by a third-party-hosted copy of t
+ he official RD-109 form itself. | Authority: Wayback Machine archived snaps
+ hot of kcmo.gov's own Tax FAQs page (live page returns 403 to automated fet
+ ches) | Source: https://web.archive.org/web/20221009025655/https://www.kcmo
+ .gov/city-hall/departments/finance/tax-home/tax-faqs | This date is compute
+ d from a recurrence rule and may not reflect a later-announced change\; con
+ firm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-kcmo-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Kansas City\, MO: RD-109 due
+DESCRIPTION:Annual return\, tied to the federal filing deadline | Confirmed
+  via a Wayback Machine archive of kcmo.gov's own Tax FAQs page (the live pa
+ ge returns 403 to automated fetches\, so the archived snapshot of the same 
+ official content was used): "Annual returns are due April 15 each year" and
+  "Residents who are self-employed must pay the one percent tax on the net p
+ rofit of their business by filing a profits return with the Revenue Divisio
+ n by April 15 of each year." Corroborated by a third-party-hosted copy of t
+ he official RD-109 form itself. | Authority: Wayback Machine archived snaps
+ hot of kcmo.gov's own Tax FAQs page (live page returns 403 to automated fet
+ ches) | Source: https://web.archive.org/web/20221009025655/https://www.kcmo
+ .gov/city-hall/departments/finance/tax-home/tax-faqs | This date is compute
+ d from a recurrence rule and may not reflect a later-announced change\; con
+ firm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-kcmo-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:Kansas City\, MO: RD-109 due
+DESCRIPTION:Annual return\, tied to the federal filing deadline | Confirmed
+  via a Wayback Machine archive of kcmo.gov's own Tax FAQs page (the live pa
+ ge returns 403 to automated fetches\, so the archived snapshot of the same 
+ official content was used): "Annual returns are due April 15 each year" and
+  "Residents who are self-employed must pay the one percent tax on the net p
+ rofit of their business by filing a profits return with the Revenue Divisio
+ n by April 15 of each year." Corroborated by a third-party-hosted copy of t
+ he official RD-109 form itself. | Authority: Wayback Machine archived snaps
+ hot of kcmo.gov's own Tax FAQs page (live page returns 403 to automated fet
+ ches) | Source: https://web.archive.org/web/20221009025655/https://www.kcmo
+ .gov/city-hall/departments/finance/tax-home/tax-faqs | This date is compute
+ d from a recurrence rule and may not reflect a later-announced change\; con
+ firm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-kcmo-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:Kansas City\, MO: RD-109 due
+DESCRIPTION:Annual return\, tied to the federal filing deadline | Confirmed
+  via a Wayback Machine archive of kcmo.gov's own Tax FAQs page (the live pa
+ ge returns 403 to automated fetches\, so the archived snapshot of the same 
+ official content was used): "Annual returns are due April 15 each year" and
+  "Residents who are self-employed must pay the one percent tax on the net p
+ rofit of their business by filing a profits return with the Revenue Divisio
+ n by April 15 of each year." Corroborated by a third-party-hosted copy of t
+ he official RD-109 form itself. | Authority: Wayback Machine archived snaps
+ hot of kcmo.gov's own Tax FAQs page (live page returns 403 to automated fet
+ ches) | Source: https://web.archive.org/web/20221009025655/https://www.kcmo
+ .gov/city-hall/departments/finance/tax-home/tax-faqs | This date is compute
+ d from a recurrence rule and may not reflect a later-announced change\; con
+ firm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-kcmo-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:Kansas City\, MO: RD-109 due
+DESCRIPTION:Annual return\, tied to the federal filing deadline | Confirmed
+  via a Wayback Machine archive of kcmo.gov's own Tax FAQs page (the live pa
+ ge returns 403 to automated fetches\, so the archived snapshot of the same 
+ official content was used): "Annual returns are due April 15 each year" and
+  "Residents who are self-employed must pay the one percent tax on the net p
+ rofit of their business by filing a profits return with the Revenue Divisio
+ n by April 15 of each year." Corroborated by a third-party-hosted copy of t
+ he official RD-109 form itself. | Authority: Wayback Machine archived snaps
+ hot of kcmo.gov's own Tax FAQs page (live page returns 403 to automated fet
+ ches) | Source: https://web.archive.org/web/20221009025655/https://www.kcmo
+ .gov/city-hall/departments/finance/tax-home/tax-faqs | This date is compute
+ d from a recurrence rule and may not reflect a later-announced change\; con
+ firm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-kcmo-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:Kansas City\, MO: RD-109 due
+DESCRIPTION:Annual return\, tied to the federal filing deadline | Confirmed
+  via a Wayback Machine archive of kcmo.gov's own Tax FAQs page (the live pa
+ ge returns 403 to automated fetches\, so the archived snapshot of the same 
+ official content was used): "Annual returns are due April 15 each year" and
+  "Residents who are self-employed must pay the one percent tax on the net p
+ rofit of their business by filing a profits return with the Revenue Divisio
+ n by April 15 of each year." Corroborated by a third-party-hosted copy of t
+ he official RD-109 form itself. | Authority: Wayback Machine archived snaps
+ hot of kcmo.gov's own Tax FAQs page (live page returns 403 to automated fet
+ ches) | Source: https://web.archive.org/web/20221009025655/https://www.kcmo
+ .gov/city-hall/departments/finance/tax-home/tax-faqs | This date is compute
+ d from a recurrence rule and may not reflect a later-announced change\; con
+ firm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

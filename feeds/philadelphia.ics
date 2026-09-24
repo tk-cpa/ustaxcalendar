@@ -1,0 +1,387 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tk.cpa//US Tax Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:US Tax Calendar - Philadelphia
+X-WR-CALDESC:Recurring US tax filing deadlines from ustaxcalendar.com (a tk
+ .cpa resource). Reference only\, not tax advice.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:city-philadelphia-birt-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:Philadelphia: BIRT due
+DESCRIPTION:Annual return for the prior calendar year | File and pay the BI
+ RT by April 15 for business activity from the 2025 calendar year. | Authori
+ ty: Direct fetch of phila.gov this session | Source: https://www.phila.gov/
+ services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-t
+ ype/business-income-receipts-tax-birt/ | This date is computed from a recur
+ rence rule and may not reflect a later-announced change\; confirm against t
+ he cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-philadelphia-birt-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:Philadelphia: BIRT due
+DESCRIPTION:Annual return for the prior calendar year | File and pay the BI
+ RT by April 15 for business activity from the 2025 calendar year. | Authori
+ ty: Direct fetch of phila.gov this session | Source: https://www.phila.gov/
+ services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-t
+ ype/business-income-receipts-tax-birt/ | This date is computed from a recur
+ rence rule and may not reflect a later-announced change\; confirm against t
+ he cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-philadelphia-birt-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Philadelphia: BIRT due
+DESCRIPTION:Annual return for the prior calendar year | File and pay the BI
+ RT by April 15 for business activity from the 2025 calendar year. | Authori
+ ty: Direct fetch of phila.gov this session | Source: https://www.phila.gov/
+ services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-t
+ ype/business-income-receipts-tax-birt/ | This date is computed from a recur
+ rence rule and may not reflect a later-announced change\; confirm against t
+ he cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-philadelphia-birt-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Philadelphia: BIRT due
+DESCRIPTION:Annual return for the prior calendar year | File and pay the BI
+ RT by April 15 for business activity from the 2025 calendar year. | Authori
+ ty: Direct fetch of phila.gov this session | Source: https://www.phila.gov/
+ services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-t
+ ype/business-income-receipts-tax-birt/ | This date is computed from a recur
+ rence rule and may not reflect a later-announced change\; confirm against t
+ he cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-philadelphia-birt-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:Philadelphia: BIRT due
+DESCRIPTION:Annual return for the prior calendar year | File and pay the BI
+ RT by April 15 for business activity from the 2025 calendar year. | Authori
+ ty: Direct fetch of phila.gov this session | Source: https://www.phila.gov/
+ services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-t
+ ype/business-income-receipts-tax-birt/ | This date is computed from a recur
+ rence rule and may not reflect a later-announced change\; confirm against t
+ he cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-philadelphia-birt-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:Philadelphia: BIRT due
+DESCRIPTION:Annual return for the prior calendar year | File and pay the BI
+ RT by April 15 for business activity from the 2025 calendar year. | Authori
+ ty: Direct fetch of phila.gov this session | Source: https://www.phila.gov/
+ services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-t
+ ype/business-income-receipts-tax-birt/ | This date is computed from a recur
+ rence rule and may not reflect a later-announced change\; confirm against t
+ he cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-philadelphia-birt-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:Philadelphia: BIRT due
+DESCRIPTION:Annual return for the prior calendar year | File and pay the BI
+ RT by April 15 for business activity from the 2025 calendar year. | Authori
+ ty: Direct fetch of phila.gov this session | Source: https://www.phila.gov/
+ services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-t
+ ype/business-income-receipts-tax-birt/ | This date is computed from a recur
+ rence rule and may not reflect a later-announced change\; confirm against t
+ he cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-philadelphia-birt-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:Philadelphia: BIRT due
+DESCRIPTION:Annual return for the prior calendar year | File and pay the BI
+ RT by April 15 for business activity from the 2025 calendar year. | Authori
+ ty: Direct fetch of phila.gov this session | Source: https://www.phila.gov/
+ services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-t
+ ype/business-income-receipts-tax-birt/ | This date is computed from a recur
+ rence rule and may not reflect a later-announced change\; confirm against t
+ he cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-philadelphia-npt-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:Philadelphia: NPT due
+DESCRIPTION:Annual return for the prior calendar year | File the 2025 tax y
+ ear Net Profits Tax return by April 15\, 2026. | Authority: Direct fetch of
+  phila.gov this session | Source: https://www.phila.gov/services/payments-a
+ ssistance-taxes/taxes/business-taxes/business-taxes-by-type/net-profits-tax
+ / | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-philadelphia-npt-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:Philadelphia: NPT due
+DESCRIPTION:Annual return for the prior calendar year | File the 2025 tax y
+ ear Net Profits Tax return by April 15\, 2026. | Authority: Direct fetch of
+  phila.gov this session | Source: https://www.phila.gov/services/payments-a
+ ssistance-taxes/taxes/business-taxes/business-taxes-by-type/net-profits-tax
+ / | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-philadelphia-npt-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Philadelphia: NPT due
+DESCRIPTION:Annual return for the prior calendar year | File the 2025 tax y
+ ear Net Profits Tax return by April 15\, 2026. | Authority: Direct fetch of
+  phila.gov this session | Source: https://www.phila.gov/services/payments-a
+ ssistance-taxes/taxes/business-taxes/business-taxes-by-type/net-profits-tax
+ / | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-philadelphia-npt-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Philadelphia: NPT due
+DESCRIPTION:Annual return for the prior calendar year | File the 2025 tax y
+ ear Net Profits Tax return by April 15\, 2026. | Authority: Direct fetch of
+  phila.gov this session | Source: https://www.phila.gov/services/payments-a
+ ssistance-taxes/taxes/business-taxes/business-taxes-by-type/net-profits-tax
+ / | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-philadelphia-npt-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:Philadelphia: NPT due
+DESCRIPTION:Annual return for the prior calendar year | File the 2025 tax y
+ ear Net Profits Tax return by April 15\, 2026. | Authority: Direct fetch of
+  phila.gov this session | Source: https://www.phila.gov/services/payments-a
+ ssistance-taxes/taxes/business-taxes/business-taxes-by-type/net-profits-tax
+ / | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-philadelphia-npt-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:Philadelphia: NPT due
+DESCRIPTION:Annual return for the prior calendar year | File the 2025 tax y
+ ear Net Profits Tax return by April 15\, 2026. | Authority: Direct fetch of
+  phila.gov this session | Source: https://www.phila.gov/services/payments-a
+ ssistance-taxes/taxes/business-taxes/business-taxes-by-type/net-profits-tax
+ / | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-philadelphia-npt-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:Philadelphia: NPT due
+DESCRIPTION:Annual return for the prior calendar year | File the 2025 tax y
+ ear Net Profits Tax return by April 15\, 2026. | Authority: Direct fetch of
+  phila.gov this session | Source: https://www.phila.gov/services/payments-a
+ ssistance-taxes/taxes/business-taxes/business-taxes-by-type/net-profits-tax
+ / | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-philadelphia-npt-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:Philadelphia: NPT due
+DESCRIPTION:Annual return for the prior calendar year | File the 2025 tax y
+ ear Net Profits Tax return by April 15\, 2026. | Authority: Direct fetch of
+  phila.gov this session | Source: https://www.phila.gov/services/payments-a
+ ssistance-taxes/taxes/business-taxes/business-taxes-by-type/net-profits-tax
+ / | This date is computed from a recurrence rule and may not reflect a late
+ r-announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-philadelphia-earnings-2025-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+SUMMARY:Philadelphia: Earnings Tax due
+DESCRIPTION:Annual reconciliation for the prior calendar year | The 2025 An
+ nual Earnings Tax Reconciliation is due April 15\, 2026\, confirmed directl
+ y against Philadelphia's own official instructions PDF this session. | Auth
+ ority: Direct fetch of the City of Philadelphia Department of Revenue's 202
+ 5 Earnings Tax return instructions PDF this session: "The 2025 Annual Earni
+ ngs Tax Reconciliation is due by April 15\, 2026." | Source: https://www.ph
+ ila.gov/media/20260112135700/2025-Earnings-Tax-return-instructions-general-
+ information.pdf | This date is computed from a recurrence rule and may not 
+ reflect a later-announced change\; confirm against the cited source before 
+ relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-philadelphia-earnings-2026-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:Philadelphia: Earnings Tax due
+DESCRIPTION:Annual reconciliation for the prior calendar year | The 2025 An
+ nual Earnings Tax Reconciliation is due April 15\, 2026\, confirmed directl
+ y against Philadelphia's own official instructions PDF this session. | Auth
+ ority: Direct fetch of the City of Philadelphia Department of Revenue's 202
+ 5 Earnings Tax return instructions PDF this session: "The 2025 Annual Earni
+ ngs Tax Reconciliation is due by April 15\, 2026." | Source: https://www.ph
+ ila.gov/media/20260112135700/2025-Earnings-Tax-return-instructions-general-
+ information.pdf | This date is computed from a recurrence rule and may not 
+ reflect a later-announced change\; confirm against the cited source before 
+ relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-philadelphia-earnings-2027-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Philadelphia: Earnings Tax due
+DESCRIPTION:Annual reconciliation for the prior calendar year | The 2025 An
+ nual Earnings Tax Reconciliation is due April 15\, 2026\, confirmed directl
+ y against Philadelphia's own official instructions PDF this session. | Auth
+ ority: Direct fetch of the City of Philadelphia Department of Revenue's 202
+ 5 Earnings Tax return instructions PDF this session: "The 2025 Annual Earni
+ ngs Tax Reconciliation is due by April 15\, 2026." | Source: https://www.ph
+ ila.gov/media/20260112135700/2025-Earnings-Tax-return-instructions-general-
+ information.pdf | This date is computed from a recurrence rule and may not 
+ reflect a later-announced change\; confirm against the cited source before 
+ relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-philadelphia-earnings-2028-04-17@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Philadelphia: Earnings Tax due
+DESCRIPTION:Annual reconciliation for the prior calendar year | The 2025 An
+ nual Earnings Tax Reconciliation is due April 15\, 2026\, confirmed directl
+ y against Philadelphia's own official instructions PDF this session. | Auth
+ ority: Direct fetch of the City of Philadelphia Department of Revenue's 202
+ 5 Earnings Tax return instructions PDF this session: "The 2025 Annual Earni
+ ngs Tax Reconciliation is due by April 15\, 2026." | Source: https://www.ph
+ ila.gov/media/20260112135700/2025-Earnings-Tax-return-instructions-general-
+ information.pdf | This date is computed from a recurrence rule and may not 
+ reflect a later-announced change\; confirm against the cited source before 
+ relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-philadelphia-earnings-2029-04-16@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:Philadelphia: Earnings Tax due
+DESCRIPTION:Annual reconciliation for the prior calendar year | The 2025 An
+ nual Earnings Tax Reconciliation is due April 15\, 2026\, confirmed directl
+ y against Philadelphia's own official instructions PDF this session. | Auth
+ ority: Direct fetch of the City of Philadelphia Department of Revenue's 202
+ 5 Earnings Tax return instructions PDF this session: "The 2025 Annual Earni
+ ngs Tax Reconciliation is due by April 15\, 2026." | Source: https://www.ph
+ ila.gov/media/20260112135700/2025-Earnings-Tax-return-instructions-general-
+ information.pdf | This date is computed from a recurrence rule and may not 
+ reflect a later-announced change\; confirm against the cited source before 
+ relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-philadelphia-earnings-2030-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+SUMMARY:Philadelphia: Earnings Tax due
+DESCRIPTION:Annual reconciliation for the prior calendar year | The 2025 An
+ nual Earnings Tax Reconciliation is due April 15\, 2026\, confirmed directl
+ y against Philadelphia's own official instructions PDF this session. | Auth
+ ority: Direct fetch of the City of Philadelphia Department of Revenue's 202
+ 5 Earnings Tax return instructions PDF this session: "The 2025 Annual Earni
+ ngs Tax Reconciliation is due by April 15\, 2026." | Source: https://www.ph
+ ila.gov/media/20260112135700/2025-Earnings-Tax-return-instructions-general-
+ information.pdf | This date is computed from a recurrence rule and may not 
+ reflect a later-announced change\; confirm against the cited source before 
+ relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-philadelphia-earnings-2031-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20310415
+DTEND;VALUE=DATE:20310416
+SUMMARY:Philadelphia: Earnings Tax due
+DESCRIPTION:Annual reconciliation for the prior calendar year | The 2025 An
+ nual Earnings Tax Reconciliation is due April 15\, 2026\, confirmed directl
+ y against Philadelphia's own official instructions PDF this session. | Auth
+ ority: Direct fetch of the City of Philadelphia Department of Revenue's 202
+ 5 Earnings Tax return instructions PDF this session: "The 2025 Annual Earni
+ ngs Tax Reconciliation is due by April 15\, 2026." | Source: https://www.ph
+ ila.gov/media/20260112135700/2025-Earnings-Tax-return-instructions-general-
+ information.pdf | This date is computed from a recurrence rule and may not 
+ reflect a later-announced change\; confirm against the cited source before 
+ relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:city-philadelphia-earnings-2032-04-15@ustaxcalendar.com
+DTSTAMP:20260924T115707Z
+DTSTART;VALUE=DATE:20320415
+DTEND;VALUE=DATE:20320416
+SUMMARY:Philadelphia: Earnings Tax due
+DESCRIPTION:Annual reconciliation for the prior calendar year | The 2025 An
+ nual Earnings Tax Reconciliation is due April 15\, 2026\, confirmed directl
+ y against Philadelphia's own official instructions PDF this session. | Auth
+ ority: Direct fetch of the City of Philadelphia Department of Revenue's 202
+ 5 Earnings Tax return instructions PDF this session: "The 2025 Annual Earni
+ ngs Tax Reconciliation is due by April 15\, 2026." | Source: https://www.ph
+ ila.gov/media/20260112135700/2025-Earnings-Tax-return-instructions-general-
+ information.pdf | This date is computed from a recurrence rule and may not 
+ reflect a later-announced change\; confirm against the cited source before 
+ relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
