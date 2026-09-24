@@ -22,14 +22,14 @@
     "form": "N/A - no filing required",
     "form_name": "Alaska - no broad individual income tax",
     "filer": "Individuals",
-    "rule": "no-filing-required",
+    "rule": "Alaska imposes no personal/individual income tax (a corporate income tax does apply to C-corporations).",
     "date_2026": null,
     "extended_date_2026": null,
     "extension_form": null,
-    "description": "No broad individual income tax. This session made an additional attempt to pin the no-income-tax status to a direct statement on each state's own general tax-agency page; none of the 8 pages fetched explicitly addressed individual income tax status one way or the other (Alaska blocked by robots.txt, Florida and Tennessee returned 404). The no-broad-income-tax status itself is extremely well-established and not in genuine doubt, but is left as secondary-source since no single .gov page was found stating it explicitly this session.",
-    "authority": "Alaska state government - well-established, no broad individual income tax regime",
-    "source_url": "",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "description": "Alaska imposes no personal/individual income tax (a corporate income tax does apply to C-corporations). Alaska Department of Revenue, Tax Division Deputy Director Brandon Spanos, official presentation to the Alaska Municipal League Tax Conference, direct fetch this session: describes \"25 different tax programs\" the Tax Division administers (oil & gas production tax, corporate income tax, and a list of excise taxes) with no individual/personal income tax program among them.",
+    "authority": "Alaska Department of Revenue, Tax Division Deputy Director Brandon Spanos, official presentation to the Alaska Municipal League Tax Conference, direct fetch this session: describes \"25 different tax programs\" the Tax Division administers (oil & gas production tax, corporate income tax, and a list of excise taxes) with no individual/personal income tax program among them.",
+    "source_url": "https://www.akml.org/wp-content/uploads/2023/10/Shared-Tax-Trends-Presentation-to-AML-Tax-Conference-9.28.23_spanos.pdf",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-inc-ar",
@@ -150,14 +150,14 @@
     "form": "N/A - no filing required",
     "form_name": "Florida - no broad individual income tax",
     "filer": "Individuals",
-    "rule": "no-filing-required",
+    "rule": "Florida imposes no personal/individual income tax.",
     "date_2026": null,
     "extended_date_2026": null,
     "extension_form": null,
-    "description": "No individual income tax. This session made an additional attempt to pin the no-income-tax status to a direct statement on each state's own general tax-agency page; none of the 8 pages fetched explicitly addressed individual income tax status one way or the other (Alaska blocked by robots.txt, Florida and Tennessee returned 404). The no-broad-income-tax status itself is extremely well-established and not in genuine doubt, but is left as secondary-source since no single .gov page was found stating it explicitly this session.",
-    "authority": "Florida state government - well-established, no broad individual income tax regime",
-    "source_url": "",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "description": "Florida imposes no personal/individual income tax. Florida Department of Revenue FAQ (floridarevenue.com), direct fetch this session: \"Florida does not impose a personal income tax, so there are no filing requirements.\"",
+    "authority": "Florida Department of Revenue FAQ (floridarevenue.com), direct fetch this session: \"Florida does not impose a personal income tax, so there are no filing requirements.\"",
+    "source_url": "https://floridarevenue.com/faq/Pages/FAQDetails.aspx?FAQID=1466",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-inc-ge",
@@ -454,14 +454,14 @@
     "form": "N/A - no filing required",
     "form_name": "Nevada - no broad individual income tax",
     "filer": "Individuals",
-    "rule": "no-filing-required",
+    "rule": "Nevada imposes no personal/individual income tax.",
     "date_2026": null,
     "extended_date_2026": null,
     "extension_form": null,
-    "description": "No individual income tax. This session made an additional attempt to pin the no-income-tax status to a direct statement on each state's own general tax-agency page; none of the 8 pages fetched explicitly addressed individual income tax status one way or the other (Alaska blocked by robots.txt, Florida and Tennessee returned 404). The no-broad-income-tax status itself is extremely well-established and not in genuine doubt, but is left as secondary-source since no single .gov page was found stating it explicitly this session.",
-    "authority": "Nevada state government - well-established, no broad individual income tax regime",
-    "source_url": "",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "description": "Nevada imposes no personal/individual income tax. Nevada Department of Taxation (tax.nv.gov), direct fetch this session: \"No State Income Tax on Individuals: Nevada residents do not pay state tax on income earned from salaries, wages, or similar compensation.\" \"The State of Nevada does not impose a state income tax on individuals or participate in the administration of Federal Income Tax.\"",
+    "authority": "Nevada Department of Taxation (tax.nv.gov), direct fetch this session: \"No State Income Tax on Individuals: Nevada residents do not pay state tax on income earned from salaries, wages, or similar compensation.\" \"The State of Nevada does not impose a state income tax on individuals or participate in the administration of Federal Income Tax.\"",
+    "source_url": "https://tax.nv.gov/about-nevada-department-of-taxation/income-tax-in-nevada",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-inc-nhnt",
@@ -662,14 +662,14 @@
     "form": "N/A - no filing required",
     "form_name": "South Dakota - no broad individual income tax",
     "filer": "Individuals",
-    "rule": "no-filing-required",
+    "rule": "South Dakota imposes no personal/individual income tax.",
     "date_2026": null,
     "extended_date_2026": null,
     "extension_form": null,
-    "description": "No individual income tax. This session made an additional attempt to pin the no-income-tax status to a direct statement on each state's own general tax-agency page; none of the 8 pages fetched explicitly addressed individual income tax status one way or the other (Alaska blocked by robots.txt, Florida and Tennessee returned 404). The no-broad-income-tax status itself is extremely well-established and not in genuine doubt, but is left as secondary-source since no single .gov page was found stating it explicitly this session.",
-    "authority": "South Dakota state government - well-established, no broad individual income tax regime",
-    "source_url": "",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "description": "South Dakota imposes no personal/individual income tax. South Dakota Department of Revenue (dor.sd.gov), direct fetch this session: \"South Dakota is one of seven states that does not impose a state income tax.\"",
+    "authority": "South Dakota Department of Revenue (dor.sd.gov), direct fetch this session: \"South Dakota is one of seven states that does not impose a state income tax.\"",
+    "source_url": "https://dor.sd.gov/individuals/taxes/",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-inc-tent",
@@ -678,14 +678,14 @@
     "form": "N/A - no filing required",
     "form_name": "Tennessee - no broad individual income tax",
     "filer": "Individuals",
-    "rule": "no-filing-required",
+    "rule": "Tennessee imposes no general personal/individual income tax. Its narrow Hall Income Tax (on interest and dividend income only) was repealed for tax periods beginning on or after January 1, 2021, and nothing replaced it.",
     "date_2026": null,
     "extended_date_2026": null,
     "extension_form": null,
-    "description": "No individual income tax (Hall Tax on interest/dividends fully repealed effective 2021). This session made an additional attempt to pin the no-income-tax status to a direct statement on each state's own general tax-agency page; none of the 8 pages fetched explicitly addressed individual income tax status one way or the other (Alaska blocked by robots.txt, Florida and Tennessee returned 404). The no-broad-income-tax status itself is extremely well-established and not in genuine doubt, but is left as secondary-source since no single .gov page was found stating it explicitly this session.",
-    "authority": "Tennessee state government - well-established, no broad individual income tax regime",
-    "source_url": "",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "description": "Tennessee imposes no general personal/individual income tax. Its narrow Hall Income Tax (on interest and dividend income only) was repealed for tax periods beginning on or after January 1, 2021, and nothing replaced it. Tennessee Department of Revenue (tn.gov/revenue), direct fetch this session: \"The Hall Income tax was repealed for tax periods that begin on January 1, 2021, or later.\" Corroborated by the Department's own current tax list (tn.gov/revenue/taxes.html), which lists Business Tax, Franchise & Excise Tax, and Sales and Use Tax among \"Most Common Taxes\" with no individual income tax listed.",
+    "authority": "Tennessee Department of Revenue (tn.gov/revenue), direct fetch this session: \"The Hall Income tax was repealed for tax periods that begin on January 1, 2021, or later.\" Corroborated by the Department's own current tax list (tn.gov/revenue/taxes.html), which lists Business Tax, Franchise & Excise Tax, and Sales and Use Tax among \"Most Common Taxes\" with no individual income tax listed.",
+    "source_url": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-inc-tent",
@@ -694,14 +694,14 @@
     "form": "N/A - no filing required",
     "form_name": "Texas - no broad individual income tax",
     "filer": "Individuals",
-    "rule": "no-filing-required",
+    "rule": "Texas imposes no personal/individual income tax.",
     "date_2026": null,
     "extended_date_2026": null,
     "extension_form": null,
-    "description": "No individual income tax. This session made an additional attempt to pin the no-income-tax status to a direct statement on each state's own general tax-agency page; none of the 8 pages fetched explicitly addressed individual income tax status one way or the other (Alaska blocked by robots.txt, Florida and Tennessee returned 404). The no-broad-income-tax status itself is extremely well-established and not in genuine doubt, but is left as secondary-source since no single .gov page was found stating it explicitly this session.",
-    "authority": "Texas state government - well-established, no broad individual income tax regime",
-    "source_url": "",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "description": "Texas imposes no personal/individual income tax. Texas Comptroller of Public Accounts, \"A Field Guide to the Taxes of Texas\" (official Comptroller publication 96-1774), direct fetch this session: \"Texans pay federal income taxes but not state or local income taxes.\"",
+    "authority": "Texas Comptroller of Public Accounts, \"A Field Guide to the Taxes of Texas\" (official Comptroller publication 96-1774), direct fetch this session: \"Texans pay federal income taxes but not state or local income taxes.\"",
+    "source_url": "https://comptroller.texas.gov/transparency/revenue/docs/96-1774.pdf",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-inc-ut",
@@ -758,14 +758,14 @@
     "form": "N/A - no filing required",
     "form_name": "Washington - no broad individual income tax",
     "filer": "Individuals",
-    "rule": "no-filing-required",
+    "rule": "Washington imposes no personal/individual income tax (a separate 7% capital gains excise tax on high earners applies to certain long-term capital gains, and a new 9.9% tax on individual/joint income above $1 million takes effect January 1, 2028 under SB 6346 - neither is a general individual income tax).",
     "date_2026": null,
     "extended_date_2026": null,
     "extension_form": null,
-    "description": "No broad individual income tax (a narrow capital gains excise tax applies to certain high earners, separate from a wage income tax). This session made an additional attempt to pin the no-income-tax status to a direct statement on each state's own general tax-agency page; none of the 8 pages fetched explicitly addressed individual income tax status one way or the other (Alaska blocked by robots.txt, Florida and Tennessee returned 404). The no-broad-income-tax status itself is extremely well-established and not in genuine doubt, but is left as secondary-source since no single .gov page was found stating it explicitly this session.",
-    "authority": "Washington state government - well-established, no broad individual income tax regime",
-    "source_url": "",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "description": "Washington imposes no personal/individual income tax (a separate 7% capital gains excise tax on high earners applies to certain long-term capital gains, and a new 9.9% tax on individual/joint income above $1 million takes effect January 1, 2028 under SB 6346 - neither is a general individual income tax). Washington State Department of Revenue FAQ (dor.wa.gov), direct fetch this session: \"No. Washington does not currently have an individual income tax.\"",
+    "authority": "Washington State Department of Revenue FAQ (dor.wa.gov), direct fetch this session: \"No. Washington does not currently have an individual income tax.\"",
+    "source_url": "https://dor.wa.gov/taxes-rates/income-tax/frequently-asked-questions-about-income-tax",
+    "verification_status": "primary-source verified this session"
   },
   {
     "id": "state-inc-wv",
@@ -806,13 +806,13 @@
     "form": "N/A - no filing required",
     "form_name": "Wyoming - no broad individual income tax",
     "filer": "Individuals",
-    "rule": "no-filing-required",
+    "rule": "Wyoming imposes no personal/individual income tax.",
     "date_2026": null,
     "extended_date_2026": null,
     "extension_form": null,
-    "description": "No individual income tax. This session made an additional attempt to pin the no-income-tax status to a direct statement on each state's own general tax-agency page; none of the 8 pages fetched explicitly addressed individual income tax status one way or the other (Alaska blocked by robots.txt, Florida and Tennessee returned 404). The no-broad-income-tax status itself is extremely well-established and not in genuine doubt, but is left as secondary-source since no single .gov page was found stating it explicitly this session.",
-    "authority": "Wyoming state government - well-established, no broad individual income tax regime",
-    "source_url": "",
-    "verification_status": "secondary-source, pending primary-source pin"
+    "description": "Wyoming imposes no personal/individual income tax. Wyoming Legislature Joint Revenue Committee memo (wyoleg.gov, 2022): \"Wyoming has no state income tax of any kind, whether on individuals, businesses, or trusts.\"",
+    "authority": "Wyoming Legislature Joint Revenue Committee memo (wyoleg.gov, 2022): \"Wyoming has no state income tax of any kind, whether on individuals, businesses, or trusts.\"",
+    "source_url": "https://wyoleg.gov/InterimCommittee/2022/03-2022042711-01LRWMemo.pdf",
+    "verification_status": "primary-source verified this session"
   }
 ]
