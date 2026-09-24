@@ -1,6 +1,33 @@
 # US Tax Calendar - Session Handoff
 
-Last updated: 2026-09-23 (Cowork session, batch 7: closed the final 2 named gaps; 100% of the full ~720-entry data set is now primary-source verified).
+Last updated: 2026-09-23 (Cowork session, batch 8: fixed 2 real bugs in the .ics export feature, and shipped a new Pass-Through Entity data layer, 44 states + DC).
+
+## Batch 8 - .ics export bug fixes, and a new Pass-Through Entity deadline layer
+
+User asked directly whether the "download my calendar" (.ics / Google / Outlook quick-add) feature actually works, and whether more deadlines could be added. Both were tested and built for real rather than assumed.
+
+**.ics export - 2 real bugs found and fixed, verified by 4 independent methods.**
+1. `buildICS()` joined multi-part descriptions with the *string* `"\\n"` (two literal characters) before running the result through `icsEscape()`, which then escaped that literal backslash again, producing a broken double-backslash-`n` in the delivered file instead of a real line break. Fixed by joining with an actual newline character so `icsEscape()` correctly produces the single RFC 5545 `\n` escape.
+2. No RFC 5545 §3.1 line folding existed - several real description fields run past 2,500 characters and were emitted as one unfolded physical line, violating the 75-octet-per-line content-line limit. Added a UTF-8-boundary-safe `foldLine()` function, applied to every VCALENDAR line before output.
+
+Verification methods used (not just claimed): (a) extracted and directly executed the real `icsEscape`/`foldLine`/`buildICS` functions from `index.html` in Node against real data entries; (b) generated a full 698-entry .ics file and parsed it with Python's independent `icalendar` library to confirm RFC 5545 compliance; (c) ran a full headless-Chromium Playwright test simulating real checkbox clicks and capturing the actual browser `download` event; (d) confirmed the Google Calendar and Outlook "quick add" URL builders were already correct (no bug found there).
+
+**New data layer: `data/deadlines-states-passthrough.json` - Pass-Through Entity (partnership/S-corp) base return due dates, 51 jurisdictions (50 states + DC).**
+
+Scope: the base entity-level return due date only (the 1065/1120-S-equivalent informational or composite return). State PTE elective-tax election and payment deadlines are explicitly out of scope for this batch - they vary independently by state and are not yet built (named in the disclaimer and in "Next build queue" below).
+
+Built via 6 parallel research agents (primary .gov sources only, flag rather than guess), each cross-checked and several personally re-verified/corrected:
+- 44 of 51 jurisdictions have a confirmed 2026 due date; 44 are `"primary-source verified this session"`.
+- 6 jurisdictions have no separate pass-through entity income tax filing at all, each confirmed with a direct source: Maine (no separate return for standard PTEs - income flows through with no distinct filing), South Dakota and Wyoming (no state income tax of any kind), Nevada (no income tax; a separate non-income Commerce Tax applies instead), Washington (no income tax; a B&O gross-receipts tax applies instead), Texas (already covered by the existing Franchise Tax entry in `deadlines-states-corporate.json` - deliberately not duplicated here).
+- 1 jurisdiction (Alaska) is a genuine open item, marked `"secondary-source, pending primary-source pin"` per the framework's "2 focused attempts, then name it" rule - see the entry's own `rule` field for the specific attempts made and why each fell short.
+- **Real correction found during research, not just confirmation:** Florida's due date was initially sourced by the research agent from a third-party mirror as May 1; personally re-verified directly against `floridarevenue.com`'s own Form F-1065 instructions PDF, which states the actual rule is "the first day of the fourth month following the close of your taxable year" - April 1, not May 1. The compiled entry reflects the corrected date and documents the correction.
+- Genuine deviations from the common "15th of the 3rd month" federal-mirroring pattern, each independently confirmed: Louisiana (May 15), Florida (April 1), Hawaii (April 20), Iowa (April 30), Oklahoma (~April 14, 30 days after the federal due date), Kansas (April 15, 1 month after the federal due date), plus a larger group of states using the 4th month rather than the 3rd (NJ, PA, MD, VA, NC, OH, MI, IN, IL, MO, KY, CO, ID, UT, NM, DC).
+
+Wired into `index.html`: added as a 9th parallel `fetch()` in `load()`, merged into the global `ALL` array with the same `.filter(s=>s.date_2026)` pattern used for every other state-level file (so the 7 no-date/unresolved entries are correctly excluded from calendar rows and the BYOC/ICS builder, while still present in the JSON for future PTE-elective-tax work). Hero slogan and disclaimer text updated to disclose the new layer and its explicit elective-tax-not-included scope.
+
+**Re-tested after wiring in:** all 9 data files load with HTTP 200; `ALL.length` = 745 (up from 698); 44 Pass-Through Entity rows present in `ALL`; jurisdiction and category filters populate correctly with "Pass-Through Entity" as a new category option; zero real console errors (only the routine favicon 404, pre-existing and unrelated); a full BYOC download filtered to Pass-Through Entity only produced exactly 44 VEVENT blocks, independently parsed clean by Python's `icalendar` library with no double-escaped newlines.
+
+**Lint:** re-ran em-dash and forbidden-strings checks across every file including the new JSON - zero hits. Confirmed valid JSON on every data file.
 
 ## Batch 7 - closing the final 2 gaps, 100% verified
 
@@ -210,9 +237,9 @@ Scope was deliberately narrowed to fixing the design system, not rebuilding the 
 - Preserved every existing JS hook/class name (`.dot`, `.cell`, `.badge`, `.byoc-box`, etc.) - only the CSS declarations changed, not the markup structure or IDs the script depends on, so no functional regression from this batch.
 - `map.html` was not created this session - it doesn't exist yet, so there was nothing to restyle. When it's built, follow extensionguide's `map.html` pattern directly (confirmed this session): D3 v7 (`cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js`) + `topojson-client@3` + `us-atlas@3/states-10m.json`, both via jsdelivr, `d3.geoAlbersUsa()` projection - this matches what the original task brief described, so that part of the brief was accurate even though the file itself isn't in `main`.
 
-## What's live in `main` after this session (batch 7 final state - 100% verified)
+## What's live in `main` after this session (batch 8 final state)
 
-- `index.html` - calendar app shell, restyled to the confirmed design system, functional against all 8 data files, jurisdiction deep-link via `?jurisdiction=` query param.
+- `index.html` - calendar app shell, restyled to the confirmed design system, functional against all 9 data files, jurisdiction deep-link via `?jurisdiction=` query param. `.ics` export bugs (newline escaping, RFC 5545 line folding) fixed this batch.
 - `disclaimer.html` - restyled to match.
 - `map.html` - interactive US map, 50 states + DC + 8 city pins, each clickable through to a filtered calendar view.
 - `data/deadlines-federal.json` - 39 entries, all primary-source verified (Pub. 509 plus the 5 international information returns).
@@ -220,19 +247,21 @@ Scope was deliberately narrowed to fixing the design system, not rebuilding the 
 - `data/deadlines-states-income-tax.json` - 51 entries, 50 states + DC, all primary-source verified, including a direct quote for each of the 8 no-broad-income-tax states' negative status.
 - `data/deadlines-cities.json` - 10 entries across 8 city/local jurisdictions, all 10 primary-source verified.
 - `data/deadlines-states-corporate.json` - 51 entries, 50 states + DC calendar-year C-corp due dates, all 51 primary-source verified.
-- `data/deadlines-states-sales-tax.json` - 189 entries across 51 jurisdictions (46 taxed, 5 no-tax), all primary-source verified. Iowa's 4 entries were corrected this batch from an assumed 20th-of-month/quarterly rule to the actual monthly (last day of following month) / annual (Jan 31, under $1,200/year) rule per the Iowa Administrative Code.
+- `data/deadlines-states-sales-tax.json` - 189 entries across 51 jurisdictions (46 taxed, 5 no-tax), all primary-source verified. Iowa's 4 entries were corrected in batch 7 from an assumed 20th-of-month/quarterly rule to the actual monthly (last day of following month) / annual (Jan 31, under $1,200/year) rule per the Iowa Administrative Code.
 - `data/deadlines-states-payroll.json` - 204 entries, all 51 jurisdictions individually primary-source verified, including 2 real deviations found (Michigan, New Jersey).
 - `data/deadlines-states-estimated.json` - 158 entries across all 41 income-tax jurisdictions, all primary-source verified, including 4 confirmed deviations from the federal pattern (Virginia, Delaware, Hawaii, Iowa) and 2 special-case states with no standard quarterly regime (Idaho, Utah).
+- `data/deadlines-states-passthrough.json` - **new this batch.** 51 entries, 50 states + DC. Base entity-level (1065/1120-S-equivalent) return due date only - PTE elective-tax election/payment deadlines are explicitly out of scope. 44 of 51 primary-source verified with a confirmed 2026 date; 6 correctly show no separate filing (Maine, South Dakota, Wyoming, Nevada, Washington, Texas - each with its own direct source, Texas cross-referenced to the existing corporate franchise tax entry rather than duplicated); Alaska is the one open item, marked secondary-source pending primary-source pin with the specific attempts documented in the entry itself.
 - `CNAME` - `ustaxcalendar.com`.
 - `HANDOFF.md` - this file.
 
-Verification tally across the full 720-entry data set: **720 primary-source verified (100%)**. No secondary-source entries remain.
+Verification tally: 720 of 720 entries in the batch-7 data set remain 100% primary-source verified. Of the 51 new pass-through entity entries, 44 are primary-source verified, 6 are correctly-sourced negative findings (no filing exists), and 1 (Alaska) is a named, honestly-disclosed open item.
 
-## Next build queue (everything below is new scope, not a verification gap - the data set itself is 100% verified)
+## Next build queue (everything below is new scope, not a verification gap)
 
-1. Pass-through entity (1065/1120-S) state-level deadlines are not yet covered - only C-corp deadlines are built into `deadlines-states-corporate.json`.
-2. Additional city/local jurisdictions beyond the 8 already built, if desired.
-3. Lint gate (em-dash check, forbidden strings, disclaimer link, canonical tags) - build or port a script; every batch so far has been checked by hand with grep, not an automated script.
+1. State PTE elective-tax election and payment deadlines - a distinct, more variable layer from the base pass-through entity return due date just built; deliberately deferred this batch.
+2. Alaska pass-through entity filing status - the one open item in the new layer; needs a cleaner primary-source path than the ones exhausted this session (tax.alaska.gov blocked direct fetches; an Alaska Legislature memo returned 403; the Alaska Administrative Code mirror found only filing mechanics, not entity-type definitions).
+3. Additional city/local jurisdictions beyond the 8 already built, if desired.
+4. Lint gate (em-dash check, forbidden strings, disclaimer link, canonical tags) - build or port a script; every batch so far has been checked by hand with grep, not an automated script.
 
 ## Delivery workflow
 
