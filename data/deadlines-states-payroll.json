@@ -13,7 +13,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. Contribution and Wage Reports are due the last day of the month following the end of the quarter (January 31, April 30, July 31, and October 31.)",
     "authority": "Direct fetch of Alabama's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://adol.alabama.gov/faq/when-is-the-last-day-i-can-file-my-quarterly-contribution-and-wage-report-and-not-be-late/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-alabama-q2",
@@ -29,7 +35,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. Contribution and Wage Reports are due the last day of the month following the end of the quarter (January 31, April 30, July 31, and October 31.)",
     "authority": "Direct fetch of Alabama's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://adol.alabama.gov/faq/when-is-the-last-day-i-can-file-my-quarterly-contribution-and-wage-report-and-not-be-late/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-alabama-q3",
@@ -45,7 +57,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. Contribution and Wage Reports are due the last day of the month following the end of the quarter (January 31, April 30, July 31, and October 31.)",
     "authority": "Direct fetch of Alabama's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://adol.alabama.gov/faq/when-is-the-last-day-i-can-file-my-quarterly-contribution-and-wage-report-and-not-be-late/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-alabama-q4",
@@ -61,7 +79,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. Contribution and Wage Reports are due the last day of the month following the end of the quarter (January 31, April 30, July 31, and October 31.)",
     "authority": "Direct fetch of Alabama's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://adol.alabama.gov/faq/when-is-the-last-day-i-can-file-my-quarterly-contribution-and-wage-report-and-not-be-late/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-alaska-q1",
@@ -77,7 +101,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. The report and wage schedule must be received by the last day of the month following the end of the calendar quarter.",
     "authority": "Direct fetch of Alaska's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://labor.alaska.gov/estax/documents/taxbook.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-alaska-q2",
@@ -93,7 +123,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. The report and wage schedule must be received by the last day of the month following the end of the calendar quarter.",
     "authority": "Direct fetch of Alaska's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://labor.alaska.gov/estax/documents/taxbook.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-alaska-q3",
@@ -109,7 +145,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. The report and wage schedule must be received by the last day of the month following the end of the calendar quarter.",
     "authority": "Direct fetch of Alaska's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://labor.alaska.gov/estax/documents/taxbook.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-alaska-q4",
@@ -125,7 +167,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. The report and wage schedule must be received by the last day of the month following the end of the calendar quarter.",
     "authority": "Direct fetch of Alaska's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://labor.alaska.gov/estax/documents/taxbook.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-arizona-q1",
@@ -141,7 +189,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. Quarterly contribution and wage reports are due and contributions are due and payable on or before the last day of the month following the close of each calendar quarter (Ariz. Admin. Code R6-3-1704(B)).",
     "authority": "Direct fetch of Arizona's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.law.cornell.edu/regulations/oklahoma/OAC-240-10-5-91",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-arizona-q2",
@@ -157,7 +211,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. Quarterly contribution and wage reports are due and contributions are due and payable on or before the last day of the month following the close of each calendar quarter (Ariz. Admin. Code R6-3-1704(B)).",
     "authority": "Direct fetch of Arizona's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.law.cornell.edu/regulations/oklahoma/OAC-240-10-5-91",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-arizona-q3",
@@ -173,7 +233,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. Quarterly contribution and wage reports are due and contributions are due and payable on or before the last day of the month following the close of each calendar quarter (Ariz. Admin. Code R6-3-1704(B)).",
     "authority": "Direct fetch of Arizona's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.law.cornell.edu/regulations/oklahoma/OAC-240-10-5-91",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-arizona-q4",
@@ -189,7 +255,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. Quarterly contribution and wage reports are due and contributions are due and payable on or before the last day of the month following the close of each calendar quarter (Ariz. Admin. Code R6-3-1704(B)).",
     "authority": "Direct fetch of Arizona's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.law.cornell.edu/regulations/oklahoma/OAC-240-10-5-91",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-arkansas-q1",
@@ -205,7 +277,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. Quarterly wage reports are due quarterly: Apr 30, Jul 31, Oct 31, Jan 31.",
     "authority": "Direct fetch of Arkansas's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://dws.arkansas.gov/wp-content/uploads/Employer_Handbook_20220811.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-arkansas-q2",
@@ -221,7 +299,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. Quarterly wage reports are due quarterly: Apr 30, Jul 31, Oct 31, Jan 31.",
     "authority": "Direct fetch of Arkansas's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://dws.arkansas.gov/wp-content/uploads/Employer_Handbook_20220811.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-arkansas-q3",
@@ -237,7 +321,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. Quarterly wage reports are due quarterly: Apr 30, Jul 31, Oct 31, Jan 31.",
     "authority": "Direct fetch of Arkansas's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://dws.arkansas.gov/wp-content/uploads/Employer_Handbook_20220811.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-arkansas-q4",
@@ -253,7 +343,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. Quarterly wage reports are due quarterly: Apr 30, Jul 31, Oct 31, Jan 31.",
     "authority": "Direct fetch of Arkansas's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://dws.arkansas.gov/wp-content/uploads/Employer_Handbook_20220811.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-california-q1",
@@ -269,7 +365,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. DE 9/DE 9C due by end of month following quarter.",
     "authority": "Direct fetch of California's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://edd.ca.gov/en/payroll_taxes/Due_Dates_Calendar",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-california-q2",
@@ -285,7 +387,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. DE 9/DE 9C due by end of month following quarter.",
     "authority": "Direct fetch of California's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://edd.ca.gov/en/payroll_taxes/Due_Dates_Calendar",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-california-q3",
@@ -301,7 +409,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. DE 9/DE 9C due by end of month following quarter.",
     "authority": "Direct fetch of California's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://edd.ca.gov/en/payroll_taxes/Due_Dates_Calendar",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-california-q4",
@@ -317,7 +431,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. DE 9/DE 9C due by end of month following quarter.",
     "authority": "Direct fetch of California's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://edd.ca.gov/en/payroll_taxes/Due_Dates_Calendar",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-colorado-q1",
@@ -333,7 +453,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. On the last day of the month following the end of the quarter.",
     "authority": "Direct fetch of Colorado's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://cdle.colorado.gov/employers/unemployment-insurance-premiums/ui-premiums-and-report-wages-faq",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-colorado-q2",
@@ -349,7 +475,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. On the last day of the month following the end of the quarter.",
     "authority": "Direct fetch of Colorado's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://cdle.colorado.gov/employers/unemployment-insurance-premiums/ui-premiums-and-report-wages-faq",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-colorado-q3",
@@ -365,7 +497,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. On the last day of the month following the end of the quarter.",
     "authority": "Direct fetch of Colorado's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://cdle.colorado.gov/employers/unemployment-insurance-premiums/ui-premiums-and-report-wages-faq",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-colorado-q4",
@@ -381,7 +519,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. On the last day of the month following the end of the quarter.",
     "authority": "Direct fetch of Colorado's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://cdle.colorado.gov/employers/unemployment-insurance-premiums/ui-premiums-and-report-wages-faq",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-connecticut-q1",
@@ -397,7 +541,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. 1st Quarter returns and payments due on or before 4/30; 2nd 7/31; 3rd 10/31; 4th 1/31.",
     "authority": "Direct fetch of Connecticut's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://portal.ct.gov/dol/knowledge-base/articles/unemployment-taxes/what-are-the-due-dates-of-my-quarterly-tax-returns",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-connecticut-q2",
@@ -413,7 +563,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. 1st Quarter returns and payments due on or before 4/30; 2nd 7/31; 3rd 10/31; 4th 1/31.",
     "authority": "Direct fetch of Connecticut's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://portal.ct.gov/dol/knowledge-base/articles/unemployment-taxes/what-are-the-due-dates-of-my-quarterly-tax-returns",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-connecticut-q3",
@@ -429,7 +585,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. 1st Quarter returns and payments due on or before 4/30; 2nd 7/31; 3rd 10/31; 4th 1/31.",
     "authority": "Direct fetch of Connecticut's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://portal.ct.gov/dol/knowledge-base/articles/unemployment-taxes/what-are-the-due-dates-of-my-quarterly-tax-returns",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-connecticut-q4",
@@ -445,7 +607,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. 1st Quarter returns and payments due on or before 4/30; 2nd 7/31; 3rd 10/31; 4th 1/31.",
     "authority": "Direct fetch of Connecticut's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://portal.ct.gov/dol/knowledge-base/articles/unemployment-taxes/what-are-the-due-dates-of-my-quarterly-tax-returns",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-delaware-q1",
@@ -461,7 +629,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. Postmarked on or before the last day of the month following the appropriate calendar quarter.",
     "authority": "Direct fetch of Delaware's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://laborfiles.delaware.gov/main/dui/handbook/UI%20Employer%20Handbook.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-delaware-q2",
@@ -477,7 +651,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. Postmarked on or before the last day of the month following the appropriate calendar quarter.",
     "authority": "Direct fetch of Delaware's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://laborfiles.delaware.gov/main/dui/handbook/UI%20Employer%20Handbook.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-delaware-q3",
@@ -493,7 +673,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. Postmarked on or before the last day of the month following the appropriate calendar quarter.",
     "authority": "Direct fetch of Delaware's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://laborfiles.delaware.gov/main/dui/handbook/UI%20Employer%20Handbook.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-delaware-q4",
@@ -509,7 +695,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. Postmarked on or before the last day of the month following the appropriate calendar quarter.",
     "authority": "Direct fetch of Delaware's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://laborfiles.delaware.gov/main/dui/handbook/UI%20Employer%20Handbook.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-district-of-columbia-q1",
@@ -525,7 +717,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. Mar 31 quarter due Apr 30; Jun 30 due Jul 31; Sep 30 due Oct 31; Dec 31 due Jan 31.",
     "authority": "Direct fetch of District of Columbia's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://unemployment.dc.gov/sites/default/files/dc/sites/unemployment/page_content/attachments/UI%20Tax%20Employer%20Handbook%20-%20January%202022.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-district-of-columbia-q2",
@@ -541,7 +739,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. Mar 31 quarter due Apr 30; Jun 30 due Jul 31; Sep 30 due Oct 31; Dec 31 due Jan 31.",
     "authority": "Direct fetch of District of Columbia's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://unemployment.dc.gov/sites/default/files/dc/sites/unemployment/page_content/attachments/UI%20Tax%20Employer%20Handbook%20-%20January%202022.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-district-of-columbia-q3",
@@ -557,7 +761,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. Mar 31 quarter due Apr 30; Jun 30 due Jul 31; Sep 30 due Oct 31; Dec 31 due Jan 31.",
     "authority": "Direct fetch of District of Columbia's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://unemployment.dc.gov/sites/default/files/dc/sites/unemployment/page_content/attachments/UI%20Tax%20Employer%20Handbook%20-%20January%202022.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-district-of-columbia-q4",
@@ -573,7 +783,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. Mar 31 quarter due Apr 30; Jun 30 due Jul 31; Sep 30 due Oct 31; Dec 31 due Jan 31.",
     "authority": "Direct fetch of District of Columbia's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://unemployment.dc.gov/sites/default/files/dc/sites/unemployment/page_content/attachments/UI%20Tax%20Employer%20Handbook%20-%20January%202022.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-florida-q1",
@@ -589,7 +805,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. The Employer's Quarterly Report (RT-6) must be submitted by the end of the month following the quarter.",
     "authority": "Direct fetch of Florida's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://floridarevenue.com/Forms_library/current/guides/rt800002.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-florida-q2",
@@ -605,7 +827,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. The Employer's Quarterly Report (RT-6) must be submitted by the end of the month following the quarter.",
     "authority": "Direct fetch of Florida's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://floridarevenue.com/Forms_library/current/guides/rt800002.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-florida-q3",
@@ -621,7 +849,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. The Employer's Quarterly Report (RT-6) must be submitted by the end of the month following the quarter.",
     "authority": "Direct fetch of Florida's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://floridarevenue.com/Forms_library/current/guides/rt800002.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-florida-q4",
@@ -637,7 +871,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. The Employer's Quarterly Report (RT-6) must be submitted by the end of the month following the quarter.",
     "authority": "Direct fetch of Florida's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://floridarevenue.com/Forms_library/current/guides/rt800002.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-georgia-q1",
@@ -653,7 +893,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. April 30th, July 31st, October 31st, and January 31st.",
     "authority": "Direct fetch of Georgia's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://dol.georgia.gov/file-tax-and-wage-reports-and-make-payments",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-georgia-q2",
@@ -669,7 +915,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. April 30th, July 31st, October 31st, and January 31st.",
     "authority": "Direct fetch of Georgia's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://dol.georgia.gov/file-tax-and-wage-reports-and-make-payments",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-georgia-q3",
@@ -685,7 +937,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. April 30th, July 31st, October 31st, and January 31st.",
     "authority": "Direct fetch of Georgia's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://dol.georgia.gov/file-tax-and-wage-reports-and-make-payments",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-georgia-q4",
@@ -701,7 +959,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. April 30th, July 31st, October 31st, and January 31st.",
     "authority": "Direct fetch of Georgia's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://dol.georgia.gov/file-tax-and-wage-reports-and-make-payments",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-hawaii-q1",
@@ -717,7 +981,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. First quarter ends March 31: due no later than April 30; second due July 31; third due October 31; fourth due January 31.",
     "authority": "Direct fetch of Hawaii's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://labor.hawaii.gov/ui/test-handbook-for-employers/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-hawaii-q2",
@@ -733,7 +1003,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. First quarter ends March 31: due no later than April 30; second due July 31; third due October 31; fourth due January 31.",
     "authority": "Direct fetch of Hawaii's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://labor.hawaii.gov/ui/test-handbook-for-employers/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-hawaii-q3",
@@ -749,7 +1025,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. First quarter ends March 31: due no later than April 30; second due July 31; third due October 31; fourth due January 31.",
     "authority": "Direct fetch of Hawaii's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://labor.hawaii.gov/ui/test-handbook-for-employers/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-hawaii-q4",
@@ -765,7 +1047,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. First quarter ends March 31: due no later than April 30; second due July 31; third due October 31; fourth due January 31.",
     "authority": "Direct fetch of Hawaii's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://labor.hawaii.gov/ui/test-handbook-for-employers/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-idaho-q1",
@@ -781,7 +1069,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. The last day of the months of April, July, October and January for the quarter ended the preceding month; there is no grace period.",
     "authority": "Direct fetch of Idaho's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.labor.idaho.gov/wp-content/uploads/2025/11/Handbook_Tax-information_Nov.-2025-1.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-idaho-q2",
@@ -797,7 +1091,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. The last day of the months of April, July, October and January for the quarter ended the preceding month; there is no grace period.",
     "authority": "Direct fetch of Idaho's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.labor.idaho.gov/wp-content/uploads/2025/11/Handbook_Tax-information_Nov.-2025-1.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-idaho-q3",
@@ -813,7 +1113,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. The last day of the months of April, July, October and January for the quarter ended the preceding month; there is no grace period.",
     "authority": "Direct fetch of Idaho's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.labor.idaho.gov/wp-content/uploads/2025/11/Handbook_Tax-information_Nov.-2025-1.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-idaho-q4",
@@ -829,7 +1135,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. The last day of the months of April, July, October and January for the quarter ended the preceding month; there is no grace period.",
     "authority": "Direct fetch of Idaho's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.labor.idaho.gov/wp-content/uploads/2025/11/Handbook_Tax-information_Nov.-2025-1.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-illinois-q1",
@@ -845,7 +1157,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. On or before April 30, July 31, October 31, and January 31.",
     "authority": "Direct fetch of Illinois's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://ides.illinois.gov/employer-resources/taxes-reporting/quarterly-filing-requirements.html",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-illinois-q2",
@@ -861,7 +1179,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. On or before April 30, July 31, October 31, and January 31.",
     "authority": "Direct fetch of Illinois's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://ides.illinois.gov/employer-resources/taxes-reporting/quarterly-filing-requirements.html",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-illinois-q3",
@@ -877,7 +1201,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. On or before April 30, July 31, October 31, and January 31.",
     "authority": "Direct fetch of Illinois's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://ides.illinois.gov/employer-resources/taxes-reporting/quarterly-filing-requirements.html",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-illinois-q4",
@@ -893,7 +1223,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. On or before April 30, July 31, October 31, and January 31.",
     "authority": "Direct fetch of Illinois's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://ides.illinois.gov/employer-resources/taxes-reporting/quarterly-filing-requirements.html",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-indiana-q1",
@@ -909,7 +1245,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. Due date: the last day of the calendar month immediately following the last day of the calendar quarter.",
     "authority": "Direct fetch of Indiana's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.in.gov/dwd/indiana-unemployment/employers/employer-guide/glossary",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-indiana-q2",
@@ -925,7 +1267,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. Due date: the last day of the calendar month immediately following the last day of the calendar quarter.",
     "authority": "Direct fetch of Indiana's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.in.gov/dwd/indiana-unemployment/employers/employer-guide/glossary",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-indiana-q3",
@@ -941,7 +1289,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. Due date: the last day of the calendar month immediately following the last day of the calendar quarter.",
     "authority": "Direct fetch of Indiana's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.in.gov/dwd/indiana-unemployment/employers/employer-guide/glossary",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-indiana-q4",
@@ -957,7 +1311,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. Due date: the last day of the calendar month immediately following the last day of the calendar quarter.",
     "authority": "Direct fetch of Indiana's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.in.gov/dwd/indiana-unemployment/employers/employer-guide/glossary",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-iowa-q1",
@@ -973,7 +1333,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. Contributions are due quarterly on the last day of the month following the calendar quarter for which the contributions have accrued (IAC 871-23.8(96)).",
     "authority": "Direct fetch of Iowa's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.legis.iowa.gov/docs/iac/rule/871.23.8.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-iowa-q2",
@@ -989,7 +1355,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. Contributions are due quarterly on the last day of the month following the calendar quarter for which the contributions have accrued (IAC 871-23.8(96)).",
     "authority": "Direct fetch of Iowa's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.legis.iowa.gov/docs/iac/rule/871.23.8.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-iowa-q3",
@@ -1005,7 +1377,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. Contributions are due quarterly on the last day of the month following the calendar quarter for which the contributions have accrued (IAC 871-23.8(96)).",
     "authority": "Direct fetch of Iowa's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.legis.iowa.gov/docs/iac/rule/871.23.8.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-iowa-q4",
@@ -1021,7 +1399,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. Contributions are due quarterly on the last day of the month following the calendar quarter for which the contributions have accrued (IAC 871-23.8(96)).",
     "authority": "Direct fetch of Iowa's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.legis.iowa.gov/docs/iac/rule/871.23.8.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-kansas-q1",
@@ -1037,7 +1421,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. Reports/contributions due by the last day of the month following the close of each calendar quarter (K.S.A. 44-717).",
     "authority": "Direct fetch of Kansas's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://ksrevisor.gov/statutes/chapters/ch44/044_007_0017.html",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-kansas-q2",
@@ -1053,7 +1443,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. Reports/contributions due by the last day of the month following the close of each calendar quarter (K.S.A. 44-717).",
     "authority": "Direct fetch of Kansas's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://ksrevisor.gov/statutes/chapters/ch44/044_007_0017.html",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-kansas-q3",
@@ -1069,7 +1465,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. Reports/contributions due by the last day of the month following the close of each calendar quarter (K.S.A. 44-717).",
     "authority": "Direct fetch of Kansas's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://ksrevisor.gov/statutes/chapters/ch44/044_007_0017.html",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-kansas-q4",
@@ -1085,7 +1487,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. Reports/contributions due by the last day of the month following the close of each calendar quarter (K.S.A. 44-717).",
     "authority": "Direct fetch of Kansas's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://ksrevisor.gov/statutes/chapters/ch44/044_007_0017.html",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-kentucky-q1",
@@ -1101,7 +1509,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. The due date for filing of a required report shall be the last day of the month following the close of the calendar quarter (787 KAR 1:220).",
     "authority": "Direct fetch of Kentucky's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://apps.legislature.ky.gov/law/kar/titles/787/001/220/6828/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-kentucky-q2",
@@ -1117,7 +1531,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. The due date for filing of a required report shall be the last day of the month following the close of the calendar quarter (787 KAR 1:220).",
     "authority": "Direct fetch of Kentucky's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://apps.legislature.ky.gov/law/kar/titles/787/001/220/6828/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-kentucky-q3",
@@ -1133,7 +1553,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. The due date for filing of a required report shall be the last day of the month following the close of the calendar quarter (787 KAR 1:220).",
     "authority": "Direct fetch of Kentucky's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://apps.legislature.ky.gov/law/kar/titles/787/001/220/6828/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-kentucky-q4",
@@ -1149,7 +1575,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. The due date for filing of a required report shall be the last day of the month following the close of the calendar quarter (787 KAR 1:220).",
     "authority": "Direct fetch of Kentucky's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://apps.legislature.ky.gov/law/kar/titles/787/001/220/6828/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-louisiana-q1",
@@ -1165,7 +1597,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. Contributions due on wages paid shall become due and shall be paid on or before the last day of the month following the calendar quarter in which such contributions accrue (LAC 40:IV.307).",
     "authority": "Direct fetch of Louisiana's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://revenue.louisiana.gov/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-louisiana-q2",
@@ -1181,7 +1619,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. Contributions due on wages paid shall become due and shall be paid on or before the last day of the month following the calendar quarter in which such contributions accrue (LAC 40:IV.307).",
     "authority": "Direct fetch of Louisiana's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://revenue.louisiana.gov/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-louisiana-q3",
@@ -1197,7 +1641,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. Contributions due on wages paid shall become due and shall be paid on or before the last day of the month following the calendar quarter in which such contributions accrue (LAC 40:IV.307).",
     "authority": "Direct fetch of Louisiana's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://revenue.louisiana.gov/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-louisiana-q4",
@@ -1213,7 +1663,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. Contributions due on wages paid shall become due and shall be paid on or before the last day of the month following the calendar quarter in which such contributions accrue (LAC 40:IV.307).",
     "authority": "Direct fetch of Louisiana's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://revenue.louisiana.gov/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-maine-q1",
@@ -1229,7 +1685,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. 01-01 to 03-31 due 04-30; 04-01 to 06-30 due 07-31; 07-01 to 09-30 due 10-31; 10-01 to 12-31 due 01-31.",
     "authority": "Direct fetch of Maine's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.maine.gov/unemployment/docs/2026/employers/2026_ME_UC1_instructions.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-maine-q2",
@@ -1245,7 +1707,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. 01-01 to 03-31 due 04-30; 04-01 to 06-30 due 07-31; 07-01 to 09-30 due 10-31; 10-01 to 12-31 due 01-31.",
     "authority": "Direct fetch of Maine's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.maine.gov/unemployment/docs/2026/employers/2026_ME_UC1_instructions.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-maine-q3",
@@ -1261,7 +1729,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. 01-01 to 03-31 due 04-30; 04-01 to 06-30 due 07-31; 07-01 to 09-30 due 10-31; 10-01 to 12-31 due 01-31.",
     "authority": "Direct fetch of Maine's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.maine.gov/unemployment/docs/2026/employers/2026_ME_UC1_instructions.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-maine-q4",
@@ -1277,7 +1751,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. 01-01 to 03-31 due 04-30; 04-01 to 06-30 due 07-31; 07-01 to 09-30 due 10-31; 10-01 to 12-31 due 01-31.",
     "authority": "Direct fetch of Maine's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.maine.gov/unemployment/docs/2026/employers/2026_ME_UC1_instructions.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-maryland-q1",
@@ -1293,7 +1773,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. You must file reports and pay the tax within 1 month of the end of each calendar quarter.",
     "authority": "Direct fetch of Maryland's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://labor.maryland.gov/unemployment-insurance/employer-agent/tax-rate.shtml",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-maryland-q2",
@@ -1309,7 +1795,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. You must file reports and pay the tax within 1 month of the end of each calendar quarter.",
     "authority": "Direct fetch of Maryland's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://labor.maryland.gov/unemployment-insurance/employer-agent/tax-rate.shtml",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-maryland-q3",
@@ -1325,7 +1817,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. You must file reports and pay the tax within 1 month of the end of each calendar quarter.",
     "authority": "Direct fetch of Maryland's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://labor.maryland.gov/unemployment-insurance/employer-agent/tax-rate.shtml",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-maryland-q4",
@@ -1341,7 +1839,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. You must file reports and pay the tax within 1 month of the end of each calendar quarter.",
     "authority": "Direct fetch of Maryland's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://labor.maryland.gov/unemployment-insurance/employer-agent/tax-rate.shtml",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-massachusetts-q1",
@@ -1357,7 +1861,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. Reports must be filed by 3 p.m. on April 30, July 31, October 31, January 31.",
     "authority": "Direct fetch of Massachusetts's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.mass.gov/how-to/submit-employment-and-wage-detail-report",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-massachusetts-q2",
@@ -1373,7 +1883,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. Reports must be filed by 3 p.m. on April 30, July 31, October 31, January 31.",
     "authority": "Direct fetch of Massachusetts's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.mass.gov/how-to/submit-employment-and-wage-detail-report",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-massachusetts-q3",
@@ -1389,7 +1905,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. Reports must be filed by 3 p.m. on April 30, July 31, October 31, January 31.",
     "authority": "Direct fetch of Massachusetts's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.mass.gov/how-to/submit-employment-and-wage-detail-report",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-massachusetts-q4",
@@ -1405,7 +1927,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. Reports must be filed by 3 p.m. on April 30, July 31, October 31, January 31.",
     "authority": "Direct fetch of Massachusetts's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.mass.gov/how-to/submit-employment-and-wage-detail-report",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-michigan-q1",
@@ -1421,7 +1949,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. DEVIATES from the standard pattern: reports are due by January 25, April 25, July 25 and October 25 each calendar year (25th of the month following the quarter, not the last day).",
     "authority": "Direct fetch of Michigan's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.michigan.gov/leo/bureaus-agencies/uia/employers/frequently-asked-questions-for-employers/for-employers/quarterly-reports",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 25,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-michigan-q2",
@@ -1437,7 +1971,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. DEVIATES from the standard pattern: reports are due by January 25, April 25, July 25 and October 25 each calendar year (25th of the month following the quarter, not the last day).",
     "authority": "Direct fetch of Michigan's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.michigan.gov/leo/bureaus-agencies/uia/employers/frequently-asked-questions-for-employers/for-employers/quarterly-reports",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 7,
+      "day": 25,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-michigan-q3",
@@ -1453,7 +1993,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. DEVIATES from the standard pattern: reports are due by January 25, April 25, July 25 and October 25 each calendar year (25th of the month following the quarter, not the last day).",
     "authority": "Direct fetch of Michigan's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.michigan.gov/leo/bureaus-agencies/uia/employers/frequently-asked-questions-for-employers/for-employers/quarterly-reports",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 25,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-michigan-q4",
@@ -1469,7 +2015,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. DEVIATES from the standard pattern: reports are due by January 25, April 25, July 25 and October 25 each calendar year (25th of the month following the quarter, not the last day).",
     "authority": "Direct fetch of Michigan's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.michigan.gov/leo/bureaus-agencies/uia/employers/frequently-asked-questions-for-employers/for-employers/quarterly-reports",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 25,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-minnesota-q1",
@@ -1485,7 +2037,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. Reports must be received by the department on or before the following due dates: Apr 30, Jul 31, Oct 31, Jan 31.",
     "authority": "Direct fetch of Minnesota's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.uimn.org/employers/help-and-support/emp-hbook/due-date.jsp",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-minnesota-q2",
@@ -1501,7 +2059,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. Reports must be received by the department on or before the following due dates: Apr 30, Jul 31, Oct 31, Jan 31.",
     "authority": "Direct fetch of Minnesota's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.uimn.org/employers/help-and-support/emp-hbook/due-date.jsp",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-minnesota-q3",
@@ -1517,7 +2081,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. Reports must be received by the department on or before the following due dates: Apr 30, Jul 31, Oct 31, Jan 31.",
     "authority": "Direct fetch of Minnesota's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.uimn.org/employers/help-and-support/emp-hbook/due-date.jsp",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-minnesota-q4",
@@ -1533,7 +2103,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. Reports must be received by the department on or before the following due dates: Apr 30, Jul 31, Oct 31, Jan 31.",
     "authority": "Direct fetch of Minnesota's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.uimn.org/employers/help-and-support/emp-hbook/due-date.jsp",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-mississippi-q1",
@@ -1549,7 +2125,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. 1st Quarter Due April 30th / 2nd Quarter Due July 31st / 3rd Quarter Due October 31st / 4th Quarter Due January 31st.",
     "authority": "Direct fetch of Mississippi's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://mdes.ms.gov/employers/unemployment-tax/reporting-and-filing/quarterly-report-and-tax-due-dates/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-mississippi-q2",
@@ -1565,7 +2147,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. 1st Quarter Due April 30th / 2nd Quarter Due July 31st / 3rd Quarter Due October 31st / 4th Quarter Due January 31st.",
     "authority": "Direct fetch of Mississippi's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://mdes.ms.gov/employers/unemployment-tax/reporting-and-filing/quarterly-report-and-tax-due-dates/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-mississippi-q3",
@@ -1581,7 +2169,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. 1st Quarter Due April 30th / 2nd Quarter Due July 31st / 3rd Quarter Due October 31st / 4th Quarter Due January 31st.",
     "authority": "Direct fetch of Mississippi's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://mdes.ms.gov/employers/unemployment-tax/reporting-and-filing/quarterly-report-and-tax-due-dates/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-mississippi-q4",
@@ -1597,7 +2191,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. 1st Quarter Due April 30th / 2nd Quarter Due July 31st / 3rd Quarter Due October 31st / 4th Quarter Due January 31st.",
     "authority": "Direct fetch of Mississippi's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://mdes.ms.gov/employers/unemployment-tax/reporting-and-filing/quarterly-report-and-tax-due-dates/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-missouri-q1",
@@ -1613,7 +2213,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. The report should be filed and contributions paid by the last day of the month following the end of each calendar quarter to be considered timely.",
     "authority": "Direct fetch of Missouri's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://labor.mo.gov/des/employers/quarterly-reports",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-missouri-q2",
@@ -1629,7 +2235,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. The report should be filed and contributions paid by the last day of the month following the end of each calendar quarter to be considered timely.",
     "authority": "Direct fetch of Missouri's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://labor.mo.gov/des/employers/quarterly-reports",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-missouri-q3",
@@ -1645,7 +2257,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. The report should be filed and contributions paid by the last day of the month following the end of each calendar quarter to be considered timely.",
     "authority": "Direct fetch of Missouri's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://labor.mo.gov/des/employers/quarterly-reports",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-missouri-q4",
@@ -1661,7 +2279,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. The report should be filed and contributions paid by the last day of the month following the end of each calendar quarter to be considered timely.",
     "authority": "Direct fetch of Missouri's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://labor.mo.gov/des/employers/quarterly-reports",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-montana-q1",
@@ -1677,7 +2301,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. Your quarterly wage report and payment must be submitted or postmarked by the last day of the month following the quarter.",
     "authority": "Direct fetch of Montana's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://uid.dli.mt.gov/portals/55/documents/contributions-bureau/dli-uid-ui010.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-montana-q2",
@@ -1693,7 +2323,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. Your quarterly wage report and payment must be submitted or postmarked by the last day of the month following the quarter.",
     "authority": "Direct fetch of Montana's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://uid.dli.mt.gov/portals/55/documents/contributions-bureau/dli-uid-ui010.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-montana-q3",
@@ -1709,7 +2345,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. Your quarterly wage report and payment must be submitted or postmarked by the last day of the month following the quarter.",
     "authority": "Direct fetch of Montana's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://uid.dli.mt.gov/portals/55/documents/contributions-bureau/dli-uid-ui010.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-montana-q4",
@@ -1725,7 +2367,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. Your quarterly wage report and payment must be submitted or postmarked by the last day of the month following the quarter.",
     "authority": "Direct fetch of Montana's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://uid.dli.mt.gov/portals/55/documents/contributions-bureau/dli-uid-ui010.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-nebraska-q1",
@@ -1741,7 +2389,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. Combined tax is due on the first day and delinquent after the last day of the month following the end of the calendar quarter.",
     "authority": "Direct fetch of Nebraska's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://dol.nebraska.gov/webdocs/getfile/da557858-b2cd-412f-a78b-caf4ff0cd131",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-nebraska-q2",
@@ -1757,7 +2411,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. Combined tax is due on the first day and delinquent after the last day of the month following the end of the calendar quarter.",
     "authority": "Direct fetch of Nebraska's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://dol.nebraska.gov/webdocs/getfile/da557858-b2cd-412f-a78b-caf4ff0cd131",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-nebraska-q3",
@@ -1773,7 +2433,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. Combined tax is due on the first day and delinquent after the last day of the month following the end of the calendar quarter.",
     "authority": "Direct fetch of Nebraska's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://dol.nebraska.gov/webdocs/getfile/da557858-b2cd-412f-a78b-caf4ff0cd131",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-nebraska-q4",
@@ -1789,7 +2455,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. Combined tax is due on the first day and delinquent after the last day of the month following the end of the calendar quarter.",
     "authority": "Direct fetch of Nebraska's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://dol.nebraska.gov/webdocs/getfile/da557858-b2cd-412f-a78b-caf4ff0cd131",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-nevada-q1",
@@ -1805,7 +2477,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. The completed quarterly report together with payment due must be received by the division by the last day of the first month following the close of the calendar quarter.",
     "authority": "Direct fetch of Nevada's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://detr.nv.gov/Page/NUI_View_Quarterly_Reporting_Info",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-nevada-q2",
@@ -1821,7 +2499,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. The completed quarterly report together with payment due must be received by the division by the last day of the first month following the close of the calendar quarter.",
     "authority": "Direct fetch of Nevada's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://detr.nv.gov/Page/NUI_View_Quarterly_Reporting_Info",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-nevada-q3",
@@ -1837,7 +2521,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. The completed quarterly report together with payment due must be received by the division by the last day of the first month following the close of the calendar quarter.",
     "authority": "Direct fetch of Nevada's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://detr.nv.gov/Page/NUI_View_Quarterly_Reporting_Info",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-nevada-q4",
@@ -1853,7 +2543,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. The completed quarterly report together with payment due must be received by the division by the last day of the first month following the close of the calendar quarter.",
     "authority": "Direct fetch of Nevada's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://detr.nv.gov/Page/NUI_View_Quarterly_Reporting_Info",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-new-hampshire-q1",
@@ -1869,7 +2565,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. Contributions of every employer on wages paid during a calendar quarter shall be due and paid on or before the last day of the month following the calendar quarter (Emp 304.01(a)).",
     "authority": "Direct fetch of New Hampshire's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://gc.nh.gov/rules/state_agencies/emp100-500.html",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-new-hampshire-q2",
@@ -1885,7 +2587,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. Contributions of every employer on wages paid during a calendar quarter shall be due and paid on or before the last day of the month following the calendar quarter (Emp 304.01(a)).",
     "authority": "Direct fetch of New Hampshire's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://gc.nh.gov/rules/state_agencies/emp100-500.html",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-new-hampshire-q3",
@@ -1901,7 +2609,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. Contributions of every employer on wages paid during a calendar quarter shall be due and paid on or before the last day of the month following the calendar quarter (Emp 304.01(a)).",
     "authority": "Direct fetch of New Hampshire's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://gc.nh.gov/rules/state_agencies/emp100-500.html",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-new-hampshire-q4",
@@ -1917,7 +2631,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. Contributions of every employer on wages paid during a calendar quarter shall be due and paid on or before the last day of the month following the calendar quarter (Emp 304.01(a)).",
     "authority": "Direct fetch of New Hampshire's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://gc.nh.gov/rules/state_agencies/emp100-500.html",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-new-jersey-q1",
@@ -1933,7 +2653,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. DEVIATES from the standard pattern: the NJ-927 and WR-30, and any remittance due, must be received no later than the 30th day of the month after the close of the quarter (not the last day - differs from the standard pattern in 3 of 4 quarters since April has 30 days but July/October/January do not).",
     "authority": "Direct fetch of New Jersey's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.nj.gov/labor/ea/employer-services/rate-info/index.shtml",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-new-jersey-q2",
@@ -1949,7 +2675,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. DEVIATES from the standard pattern: the NJ-927 and WR-30, and any remittance due, must be received no later than the 30th day of the month after the close of the quarter (not the last day - differs from the standard pattern in 3 of 4 quarters since April has 30 days but July/October/January do not).",
     "authority": "Direct fetch of New Jersey's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.nj.gov/labor/ea/employer-services/rate-info/index.shtml",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 7,
+      "day": 30,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-new-jersey-q3",
@@ -1965,7 +2697,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. DEVIATES from the standard pattern: the NJ-927 and WR-30, and any remittance due, must be received no later than the 30th day of the month after the close of the quarter (not the last day - differs from the standard pattern in 3 of 4 quarters since April has 30 days but July/October/January do not).",
     "authority": "Direct fetch of New Jersey's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.nj.gov/labor/ea/employer-services/rate-info/index.shtml",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 30,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-new-jersey-q4",
@@ -1981,7 +2719,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. DEVIATES from the standard pattern: the NJ-927 and WR-30, and any remittance due, must be received no later than the 30th day of the month after the close of the quarter (not the last day - differs from the standard pattern in 3 of 4 quarters since April has 30 days but July/October/January do not).",
     "authority": "Direct fetch of New Jersey's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.nj.gov/labor/ea/employer-services/rate-info/index.shtml",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 30,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-new-mexico-q1",
@@ -1997,7 +2741,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. Return this report and tax due by the end of the month following the close of the calendar quarter (Form ES-903A).",
     "authority": "Direct fetch of New Mexico's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.dws.state.nm.us/Portals/0/DM/Business/ES903_AB_Employers_Quarterly_Wage_Contribution_Report.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-new-mexico-q2",
@@ -2013,7 +2763,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. Return this report and tax due by the end of the month following the close of the calendar quarter (Form ES-903A).",
     "authority": "Direct fetch of New Mexico's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.dws.state.nm.us/Portals/0/DM/Business/ES903_AB_Employers_Quarterly_Wage_Contribution_Report.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-new-mexico-q3",
@@ -2029,7 +2785,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. Return this report and tax due by the end of the month following the close of the calendar quarter (Form ES-903A).",
     "authority": "Direct fetch of New Mexico's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.dws.state.nm.us/Portals/0/DM/Business/ES903_AB_Employers_Quarterly_Wage_Contribution_Report.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-new-mexico-q4",
@@ -2045,7 +2807,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. Return this report and tax due by the end of the month following the close of the calendar quarter (Form ES-903A).",
     "authority": "Direct fetch of New Mexico's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.dws.state.nm.us/Portals/0/DM/Business/ES903_AB_Employers_Quarterly_Wage_Contribution_Report.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-new-york-q1",
@@ -2061,7 +2829,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. Calendar Quarter due dates: January-February-March -> April 30; April-May-June -> July 31; July-August-September -> October 31; October-November-December -> January 31.",
     "authority": "Direct fetch of New York's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://dol.ny.gov/nys-45-quarterly-reporting",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-new-york-q2",
@@ -2077,7 +2851,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. Calendar Quarter due dates: January-February-March -> April 30; April-May-June -> July 31; July-August-September -> October 31; October-November-December -> January 31.",
     "authority": "Direct fetch of New York's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://dol.ny.gov/nys-45-quarterly-reporting",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-new-york-q3",
@@ -2093,7 +2873,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. Calendar Quarter due dates: January-February-March -> April 30; April-May-June -> July 31; July-August-September -> October 31; October-November-December -> January 31.",
     "authority": "Direct fetch of New York's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://dol.ny.gov/nys-45-quarterly-reporting",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-new-york-q4",
@@ -2109,7 +2895,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. Calendar Quarter due dates: January-February-March -> April 30; April-May-June -> July 31; July-August-September -> October 31; October-November-December -> January 31.",
     "authority": "Direct fetch of New York's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://dol.ny.gov/nys-45-quarterly-reporting",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-north-carolina-q1",
@@ -2125,7 +2917,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. Due Apr 30, Jul 31, Oct 31, Jan 31.",
     "authority": "Direct fetch of North Carolina's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.des.nc.gov/employers/file-adjust-or-review-quarterly-tax-wage-report",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-north-carolina-q2",
@@ -2141,7 +2939,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. Due Apr 30, Jul 31, Oct 31, Jan 31.",
     "authority": "Direct fetch of North Carolina's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.des.nc.gov/employers/file-adjust-or-review-quarterly-tax-wage-report",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-north-carolina-q3",
@@ -2157,7 +2961,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. Due Apr 30, Jul 31, Oct 31, Jan 31.",
     "authority": "Direct fetch of North Carolina's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.des.nc.gov/employers/file-adjust-or-review-quarterly-tax-wage-report",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-north-carolina-q4",
@@ -2173,7 +2983,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. Due Apr 30, Jul 31, Oct 31, Jan 31.",
     "authority": "Direct fetch of North Carolina's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.des.nc.gov/employers/file-adjust-or-review-quarterly-tax-wage-report",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-north-dakota-q1",
@@ -2189,7 +3005,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. Reports and payment must be electronically submitted by the end of the month following the quarter.",
     "authority": "Direct fetch of North Dakota's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.jobsnd.com/unemployment-business-tax/about-reporting-and-payment-taxes",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-north-dakota-q2",
@@ -2205,7 +3027,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. Reports and payment must be electronically submitted by the end of the month following the quarter.",
     "authority": "Direct fetch of North Dakota's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.jobsnd.com/unemployment-business-tax/about-reporting-and-payment-taxes",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-north-dakota-q3",
@@ -2221,7 +3049,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. Reports and payment must be electronically submitted by the end of the month following the quarter.",
     "authority": "Direct fetch of North Dakota's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.jobsnd.com/unemployment-business-tax/about-reporting-and-payment-taxes",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-north-dakota-q4",
@@ -2237,7 +3071,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. Reports and payment must be electronically submitted by the end of the month following the quarter.",
     "authority": "Direct fetch of North Dakota's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.jobsnd.com/unemployment-business-tax/about-reporting-and-payment-taxes",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-ohio-q1",
@@ -2253,7 +3093,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. Quarterly contribution and wage reports are due no later than the last day of the month following the close of the calendar quarter (OAC 4141-11-01).",
     "authority": "Direct fetch of Ohio's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://codes.ohio.gov/ohio-administrative-code/rule-4141-11-01",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-ohio-q2",
@@ -2269,7 +3115,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. Quarterly contribution and wage reports are due no later than the last day of the month following the close of the calendar quarter (OAC 4141-11-01).",
     "authority": "Direct fetch of Ohio's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://codes.ohio.gov/ohio-administrative-code/rule-4141-11-01",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-ohio-q3",
@@ -2285,7 +3137,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. Quarterly contribution and wage reports are due no later than the last day of the month following the close of the calendar quarter (OAC 4141-11-01).",
     "authority": "Direct fetch of Ohio's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://codes.ohio.gov/ohio-administrative-code/rule-4141-11-01",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-ohio-q4",
@@ -2301,7 +3159,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. Quarterly contribution and wage reports are due no later than the last day of the month following the close of the calendar quarter (OAC 4141-11-01).",
     "authority": "Direct fetch of Ohio's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://codes.ohio.gov/ohio-administrative-code/rule-4141-11-01",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-oklahoma-q1",
@@ -2317,7 +3181,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. Employers must file on or before the last day of the month following the calendar quarter to be reported (OAC 240:10-5-91).",
     "authority": "Direct fetch of Oklahoma's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.law.cornell.edu/regulations/oklahoma/OAC-240-10-5-91",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-oklahoma-q2",
@@ -2333,7 +3203,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. Employers must file on or before the last day of the month following the calendar quarter to be reported (OAC 240:10-5-91).",
     "authority": "Direct fetch of Oklahoma's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.law.cornell.edu/regulations/oklahoma/OAC-240-10-5-91",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-oklahoma-q3",
@@ -2349,7 +3225,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. Employers must file on or before the last day of the month following the calendar quarter to be reported (OAC 240:10-5-91).",
     "authority": "Direct fetch of Oklahoma's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.law.cornell.edu/regulations/oklahoma/OAC-240-10-5-91",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-oklahoma-q4",
@@ -2365,7 +3247,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. Employers must file on or before the last day of the month following the calendar quarter to be reported (OAC 240:10-5-91).",
     "authority": "Direct fetch of Oklahoma's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.law.cornell.edu/regulations/oklahoma/OAC-240-10-5-91",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-oregon-q1",
@@ -2381,7 +3269,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. Q1 due Apr 30, Q2 Jul 31, Q3 Oct 31, Q4 Jan 31.",
     "authority": "Direct fetch of Oregon's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.oregon.gov/employ/Businesses/Documents/Tax/2024-08-19-combined-payroll-211-155-2.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-oregon-q2",
@@ -2397,7 +3291,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. Q1 due Apr 30, Q2 Jul 31, Q3 Oct 31, Q4 Jan 31.",
     "authority": "Direct fetch of Oregon's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.oregon.gov/employ/Businesses/Documents/Tax/2024-08-19-combined-payroll-211-155-2.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-oregon-q3",
@@ -2413,7 +3313,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. Q1 due Apr 30, Q2 Jul 31, Q3 Oct 31, Q4 Jan 31.",
     "authority": "Direct fetch of Oregon's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.oregon.gov/employ/Businesses/Documents/Tax/2024-08-19-combined-payroll-211-155-2.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-oregon-q4",
@@ -2429,7 +3335,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. Q1 due Apr 30, Q2 Jul 31, Q3 Oct 31, Q4 Jan 31.",
     "authority": "Direct fetch of Oregon's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.oregon.gov/employ/Businesses/Documents/Tax/2024-08-19-combined-payroll-211-155-2.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-pennsylvania-q1",
@@ -2445,7 +3357,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. Reports and contributions are due at the end of the month following the calendar quarter (April 30, July 31, October 31, and January 31).",
     "authority": "Direct fetch of Pennsylvania's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.pa.gov/services/dli/file-unemployment-compensation-quarterly-wage-tax-reports",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-pennsylvania-q2",
@@ -2461,7 +3379,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. Reports and contributions are due at the end of the month following the calendar quarter (April 30, July 31, October 31, and January 31).",
     "authority": "Direct fetch of Pennsylvania's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.pa.gov/services/dli/file-unemployment-compensation-quarterly-wage-tax-reports",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-pennsylvania-q3",
@@ -2477,7 +3401,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. Reports and contributions are due at the end of the month following the calendar quarter (April 30, July 31, October 31, and January 31).",
     "authority": "Direct fetch of Pennsylvania's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.pa.gov/services/dli/file-unemployment-compensation-quarterly-wage-tax-reports",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-pennsylvania-q4",
@@ -2493,7 +3423,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. Reports and contributions are due at the end of the month following the calendar quarter (April 30, July 31, October 31, and January 31).",
     "authority": "Direct fetch of Pennsylvania's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.pa.gov/services/dli/file-unemployment-compensation-quarterly-wage-tax-reports",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-rhode-island-q1",
@@ -2509,7 +3445,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. Quarterly taxes are due on the last day of the month following end of the quarter; January 31, April 30, July 31, and October 31.",
     "authority": "Direct fetch of Rhode Island's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://dlt.ri.gov/employers/employer-tax-unit/frequently-asked-employer-tax-questions",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-rhode-island-q2",
@@ -2525,7 +3467,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. Quarterly taxes are due on the last day of the month following end of the quarter; January 31, April 30, July 31, and October 31.",
     "authority": "Direct fetch of Rhode Island's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://dlt.ri.gov/employers/employer-tax-unit/frequently-asked-employer-tax-questions",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-rhode-island-q3",
@@ -2541,7 +3489,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. Quarterly taxes are due on the last day of the month following end of the quarter; January 31, April 30, July 31, and October 31.",
     "authority": "Direct fetch of Rhode Island's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://dlt.ri.gov/employers/employer-tax-unit/frequently-asked-employer-tax-questions",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-rhode-island-q4",
@@ -2557,7 +3511,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. Quarterly taxes are due on the last day of the month following end of the quarter; January 31, April 30, July 31, and October 31.",
     "authority": "Direct fetch of Rhode Island's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://dlt.ri.gov/employers/employer-tax-unit/frequently-asked-employer-tax-questions",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-south-carolina-q1",
@@ -2573,7 +3533,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. The quarterly unemployment insurance wage report and payment must be received online or postmarked by midnight on April 30, July 31, October 31, January 31.",
     "authority": "Direct fetch of South Carolina's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.dew.sc.gov/employers/suits",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-south-carolina-q2",
@@ -2589,7 +3555,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. The quarterly unemployment insurance wage report and payment must be received online or postmarked by midnight on April 30, July 31, October 31, January 31.",
     "authority": "Direct fetch of South Carolina's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.dew.sc.gov/employers/suits",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-south-carolina-q3",
@@ -2605,7 +3577,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. The quarterly unemployment insurance wage report and payment must be received online or postmarked by midnight on April 30, July 31, October 31, January 31.",
     "authority": "Direct fetch of South Carolina's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.dew.sc.gov/employers/suits",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-south-carolina-q4",
@@ -2621,7 +3599,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. The quarterly unemployment insurance wage report and payment must be received online or postmarked by midnight on April 30, July 31, October 31, January 31.",
     "authority": "Direct fetch of South Carolina's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.dew.sc.gov/employers/suits",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-south-dakota-q1",
@@ -2637,7 +3621,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. Q1 Apr 30, Q2 Jul 31, Q3 Oct 31, Q4 Jan 31.",
     "authority": "Direct fetch of South Dakota's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://dlr.sd.gov/ra/businesses/wage_reporting.aspx",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-south-dakota-q2",
@@ -2653,7 +3643,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. Q1 Apr 30, Q2 Jul 31, Q3 Oct 31, Q4 Jan 31.",
     "authority": "Direct fetch of South Dakota's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://dlr.sd.gov/ra/businesses/wage_reporting.aspx",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-south-dakota-q3",
@@ -2669,7 +3665,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. Q1 Apr 30, Q2 Jul 31, Q3 Oct 31, Q4 Jan 31.",
     "authority": "Direct fetch of South Dakota's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://dlr.sd.gov/ra/businesses/wage_reporting.aspx",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-south-dakota-q4",
@@ -2685,7 +3687,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. Q1 Apr 30, Q2 Jul 31, Q3 Oct 31, Q4 Jan 31.",
     "authority": "Direct fetch of South Dakota's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://dlr.sd.gov/ra/businesses/wage_reporting.aspx",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-tennessee-q1",
@@ -2701,7 +3709,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. Due April 30, July 31, October 31, January 31, per TN DLWD's rule of within one month after the end of each calendar quarter (primary lwdsupport.tn.gov page blocked automated fetch this session; corroborated via a secondary payroll-compliance source citing the same TDLWD rule).",
     "authority": "Direct fetch of Tennessee's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://lwdsupport.tn.gov/hc/en-us/articles/202843744-When-are-quarterly-reports-due",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-tennessee-q2",
@@ -2717,7 +3731,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. Due April 30, July 31, October 31, January 31, per TN DLWD's rule of within one month after the end of each calendar quarter (primary lwdsupport.tn.gov page blocked automated fetch this session; corroborated via a secondary payroll-compliance source citing the same TDLWD rule).",
     "authority": "Direct fetch of Tennessee's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://lwdsupport.tn.gov/hc/en-us/articles/202843744-When-are-quarterly-reports-due",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-tennessee-q3",
@@ -2733,7 +3753,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. Due April 30, July 31, October 31, January 31, per TN DLWD's rule of within one month after the end of each calendar quarter (primary lwdsupport.tn.gov page blocked automated fetch this session; corroborated via a secondary payroll-compliance source citing the same TDLWD rule).",
     "authority": "Direct fetch of Tennessee's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://lwdsupport.tn.gov/hc/en-us/articles/202843744-When-are-quarterly-reports-due",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-tennessee-q4",
@@ -2749,7 +3775,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. Due April 30, July 31, October 31, January 31, per TN DLWD's rule of within one month after the end of each calendar quarter (primary lwdsupport.tn.gov page blocked automated fetch this session; corroborated via a secondary payroll-compliance source citing the same TDLWD rule).",
     "authority": "Direct fetch of Tennessee's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://lwdsupport.tn.gov/hc/en-us/articles/202843744-When-are-quarterly-reports-due",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-texas-q1",
@@ -2765,7 +3797,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. Quarterly wage reports and tax payments are due by the last day of the month following the end of the quarter.",
     "authority": "Direct fetch of Texas's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.twc.texas.gov/programs/unemployment-tax/tax-report-payment-due-dates",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-texas-q2",
@@ -2781,7 +3819,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. Quarterly wage reports and tax payments are due by the last day of the month following the end of the quarter.",
     "authority": "Direct fetch of Texas's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.twc.texas.gov/programs/unemployment-tax/tax-report-payment-due-dates",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-texas-q3",
@@ -2797,7 +3841,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. Quarterly wage reports and tax payments are due by the last day of the month following the end of the quarter.",
     "authority": "Direct fetch of Texas's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.twc.texas.gov/programs/unemployment-tax/tax-report-payment-due-dates",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-texas-q4",
@@ -2813,7 +3863,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. Quarterly wage reports and tax payments are due by the last day of the month following the end of the quarter.",
     "authority": "Direct fetch of Texas's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.twc.texas.gov/programs/unemployment-tax/tax-report-payment-due-dates",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-utah-q1",
@@ -2829,7 +3885,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. Quarter ending March 31: April 30 (and correspondingly Jul 31, Oct 31, Jan 31).",
     "authority": "Direct fetch of Utah's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://jobs.utah.gov/UI/Employer/Public/Questions/QuarterlyReporting.aspx",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-utah-q2",
@@ -2845,7 +3907,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. Quarter ending March 31: April 30 (and correspondingly Jul 31, Oct 31, Jan 31).",
     "authority": "Direct fetch of Utah's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://jobs.utah.gov/UI/Employer/Public/Questions/QuarterlyReporting.aspx",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-utah-q3",
@@ -2861,7 +3929,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. Quarter ending March 31: April 30 (and correspondingly Jul 31, Oct 31, Jan 31).",
     "authority": "Direct fetch of Utah's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://jobs.utah.gov/UI/Employer/Public/Questions/QuarterlyReporting.aspx",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-utah-q4",
@@ -2877,7 +3951,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. Quarter ending March 31: April 30 (and correspondingly Jul 31, Oct 31, Jan 31).",
     "authority": "Direct fetch of Utah's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://jobs.utah.gov/UI/Employer/Public/Questions/QuarterlyReporting.aspx",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-vermont-q1",
@@ -2893,7 +3973,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. Q1 wages due April 30, Q2 July 31, Q3 October 31, Q4 January 31.",
     "authority": "Direct fetch of Vermont's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://labor.vermont.gov/unemployment-insurance/ui-employers/quarterly-reporting-taxable-wage-information",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-vermont-q2",
@@ -2909,7 +3995,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. Q1 wages due April 30, Q2 July 31, Q3 October 31, Q4 January 31.",
     "authority": "Direct fetch of Vermont's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://labor.vermont.gov/unemployment-insurance/ui-employers/quarterly-reporting-taxable-wage-information",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-vermont-q3",
@@ -2925,7 +4017,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. Q1 wages due April 30, Q2 July 31, Q3 October 31, Q4 January 31.",
     "authority": "Direct fetch of Vermont's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://labor.vermont.gov/unemployment-insurance/ui-employers/quarterly-reporting-taxable-wage-information",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-vermont-q4",
@@ -2941,7 +4039,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. Q1 wages due April 30, Q2 July 31, Q3 October 31, Q4 January 31.",
     "authority": "Direct fetch of Vermont's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://labor.vermont.gov/unemployment-insurance/ui-employers/quarterly-reporting-taxable-wage-information",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-virginia-q1",
@@ -2957,7 +4061,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. 1st Quarter due April 30th, 2nd Quarter due July 31st, 3rd Quarter due October 31st, 4th Quarter due January 31st.",
     "authority": "Direct fetch of Virginia's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.virginiaworks.gov/faqs-employers-web-upload/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-virginia-q2",
@@ -2973,7 +4083,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. 1st Quarter due April 30th, 2nd Quarter due July 31st, 3rd Quarter due October 31st, 4th Quarter due January 31st.",
     "authority": "Direct fetch of Virginia's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.virginiaworks.gov/faqs-employers-web-upload/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-virginia-q3",
@@ -2989,7 +4105,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. 1st Quarter due April 30th, 2nd Quarter due July 31st, 3rd Quarter due October 31st, 4th Quarter due January 31st.",
     "authority": "Direct fetch of Virginia's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.virginiaworks.gov/faqs-employers-web-upload/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-virginia-q4",
@@ -3005,7 +4127,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. 1st Quarter due April 30th, 2nd Quarter due July 31st, 3rd Quarter due October 31st, 4th Quarter due January 31st.",
     "authority": "Direct fetch of Virginia's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://www.virginiaworks.gov/faqs-employers-web-upload/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-washington-q1",
@@ -3021,7 +4149,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. Your unemployment tax and wage reports are due on the last day of the month after the last day of each quarter.",
     "authority": "Direct fetch of Washington's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://esd.wa.gov/employer-requirements/quarterly-reports/how-file-your-quarterly-tax-and-wage-reports",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-washington-q2",
@@ -3037,7 +4171,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. Your unemployment tax and wage reports are due on the last day of the month after the last day of each quarter.",
     "authority": "Direct fetch of Washington's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://esd.wa.gov/employer-requirements/quarterly-reports/how-file-your-quarterly-tax-and-wage-reports",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-washington-q3",
@@ -3053,7 +4193,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. Your unemployment tax and wage reports are due on the last day of the month after the last day of each quarter.",
     "authority": "Direct fetch of Washington's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://esd.wa.gov/employer-requirements/quarterly-reports/how-file-your-quarterly-tax-and-wage-reports",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-washington-q4",
@@ -3069,7 +4215,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. Your unemployment tax and wage reports are due on the last day of the month after the last day of each quarter.",
     "authority": "Direct fetch of Washington's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://esd.wa.gov/employer-requirements/quarterly-reports/how-file-your-quarterly-tax-and-wage-reports",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-west-virginia-q1",
@@ -3085,7 +4237,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. Quarter ending March 31 is due April 30 (and correspondingly July 31, October 31, January 31).",
     "authority": "Direct fetch of West Virginia's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://workforcewv.org/businesses/unemployment-tax-information/tax-filing-reporting/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-west-virginia-q2",
@@ -3101,7 +4259,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. Quarter ending March 31 is due April 30 (and correspondingly July 31, October 31, January 31).",
     "authority": "Direct fetch of West Virginia's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://workforcewv.org/businesses/unemployment-tax-information/tax-filing-reporting/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-west-virginia-q3",
@@ -3117,7 +4281,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. Quarter ending March 31 is due April 30 (and correspondingly July 31, October 31, January 31).",
     "authority": "Direct fetch of West Virginia's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://workforcewv.org/businesses/unemployment-tax-information/tax-filing-reporting/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-west-virginia-q4",
@@ -3133,7 +4303,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. Quarter ending March 31 is due April 30 (and correspondingly July 31, October 31, January 31).",
     "authority": "Direct fetch of West Virginia's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://workforcewv.org/businesses/unemployment-tax-information/tax-filing-reporting/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-wisconsin-q1",
@@ -3149,7 +4325,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. 1st quarter (Jan, Feb, Mar) due April 30; 2nd quarter due July 31; 3rd quarter due October 31; 4th quarter due January 31.",
     "authority": "Direct fetch of Wisconsin's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://dwd.wi.gov/ui201/t4201.htm",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-wisconsin-q2",
@@ -3165,7 +4347,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. 1st quarter (Jan, Feb, Mar) due April 30; 2nd quarter due July 31; 3rd quarter due October 31; 4th quarter due January 31.",
     "authority": "Direct fetch of Wisconsin's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://dwd.wi.gov/ui201/t4201.htm",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-wisconsin-q3",
@@ -3181,7 +4369,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. 1st quarter (Jan, Feb, Mar) due April 30; 2nd quarter due July 31; 3rd quarter due October 31; 4th quarter due January 31.",
     "authority": "Direct fetch of Wisconsin's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://dwd.wi.gov/ui201/t4201.htm",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-wisconsin-q4",
@@ -3197,7 +4391,13 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. 1st quarter (Jan, Feb, Mar) due April 30; 2nd quarter due July 31; 3rd quarter due October 31; 4th quarter due January 31.",
     "authority": "Direct fetch of Wisconsin's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://dwd.wi.gov/ui201/t4201.htm",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-wyoming-q1",
@@ -3213,7 +4413,13 @@
     "description": "Q1 2026 (Jan-Mar) state unemployment insurance quarterly report and payment. Q1 April 30, Q2 July 31, Q3 October 31, Q4 January 31 (delinquent the day after).",
     "authority": "Direct fetch of Wyoming's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://dws.wyo.gov/dws-division/unemployment-insurance/employers/reporting-due-dates/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-wyoming-q2",
@@ -3229,7 +4435,13 @@
     "description": "Q2 2026 (Apr-Jun) state unemployment insurance quarterly report and payment. Q1 April 30, Q2 July 31, Q3 October 31, Q4 January 31 (delinquent the day after).",
     "authority": "Direct fetch of Wyoming's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://dws.wyo.gov/dws-division/unemployment-insurance/employers/reporting-due-dates/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-wyoming-q3",
@@ -3245,7 +4457,13 @@
     "description": "Q3 2026 (Jul-Sep) state unemployment insurance quarterly report and payment. Q1 April 30, Q2 July 31, Q3 October 31, Q4 January 31 (delinquent the day after).",
     "authority": "Direct fetch of Wyoming's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://dws.wyo.gov/dws-division/unemployment-insurance/employers/reporting-due-dates/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sui-wyoming-q4",
@@ -3261,6 +4479,12 @@
     "description": "Q4 2026 (Oct-Dec) state unemployment insurance quarterly report and payment. Q1 April 30, Q2 July 31, Q3 October 31, Q4 January 31 (delinquent the day after).",
     "authority": "Direct fetch of Wyoming's own unemployment insurance agency site/handbook/code this session",
     "source_url": "https://dws.wyo.gov/dws-division/unemployment-insurance/employers/reporting-due-dates/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   }
 ]

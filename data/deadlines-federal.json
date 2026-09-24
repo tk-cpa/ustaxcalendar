@@ -13,7 +13,13 @@
     "description": "File a 2025 Form 1040 or 1040-SR and pay any tax due. Form 4868 gives an automatic 6-month extension to file (not to pay).",
     "authority": "IRS Pub. 509 (2026), General Tax Calendar, April 15",
     "source_url": "https://www.irs.gov/pub/irs-pdf/p509.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "fed-1040-abroad",
@@ -29,7 +35,13 @@
     "description": "If you are a U.S. citizen or resident alien living and working outside the U.S. and Puerto Rico, file and pay by June 15. File Form 4868 for 4 additional months to file (to Oct 15); this does not extend time to pay.",
     "authority": "IRS Pub. 509 (2026), General Tax Calendar, June 15",
     "source_url": "https://www.irs.gov/pub/irs-pdf/p509.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 6,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "fed-1040es-q1",
@@ -43,7 +55,13 @@
     "description": "Pay the first installment of 2026 estimated tax if income tax is not paid through withholding.",
     "authority": "IRS Pub. 509 (2026), General Tax Calendar, April 15",
     "source_url": "https://www.irs.gov/pub/irs-pdf/p509.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "fed-1040es-q2",
@@ -57,7 +75,13 @@
     "description": "Pay the second installment of 2026 estimated tax.",
     "authority": "IRS Pub. 509 (2026), General Tax Calendar, June 15",
     "source_url": "https://www.irs.gov/pub/irs-pdf/p509.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 6,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "fed-1040es-q3",
@@ -71,7 +95,13 @@
     "description": "Pay the third installment of 2026 estimated tax.",
     "authority": "IRS Pub. 509 (2026), General Tax Calendar, September 15",
     "source_url": "https://www.irs.gov/pub/irs-pdf/p509.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "fed-1040es-q4",
@@ -85,7 +115,13 @@
     "description": "Final installment of 2025 estimated tax. Not required if the 2025 return is filed and all tax paid by February 2, 2026.",
     "authority": "IRS Pub. 509 (2026), General Tax Calendar, January 15",
     "source_url": "https://www.irs.gov/pub/irs-pdf/p509.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "fed-1120-original",
@@ -101,7 +137,13 @@
     "description": "File a 2025 calendar year Form 1120 and pay any tax due. Form 7004 gives an automatic 6-month extension.",
     "authority": "IRS Pub. 509 (2026), General Tax Calendar, April 15",
     "source_url": "https://www.irs.gov/pub/irs-pdf/p509.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "fed-1120-est-q1",
@@ -115,7 +157,13 @@
     "description": "Deposit the first installment of 2026 estimated income tax.",
     "authority": "IRS Pub. 509 (2026), General Tax Calendar, April 15",
     "source_url": "https://www.irs.gov/pub/irs-pdf/p509.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "fed-1120-est-q2",
@@ -129,7 +177,13 @@
     "description": "Deposit the second installment of 2026 estimated income tax.",
     "authority": "IRS Pub. 509 (2026), General Tax Calendar, June 15",
     "source_url": "https://www.irs.gov/pub/irs-pdf/p509.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 6,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "fed-1120-est-q3",
@@ -143,7 +197,13 @@
     "description": "Deposit the third installment of 2026 estimated income tax.",
     "authority": "IRS Pub. 509 (2026), General Tax Calendar, September 15",
     "source_url": "https://www.irs.gov/pub/irs-pdf/p509.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "fed-1120-est-q4",
@@ -157,7 +217,13 @@
     "description": "Deposit the fourth installment of 2026 estimated income tax.",
     "authority": "IRS Pub. 509 (2026), General Tax Calendar, December 15",
     "source_url": "https://www.irs.gov/pub/irs-pdf/p509.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 12,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "fed-1065-original",
@@ -173,7 +239,13 @@
     "description": "File a 2025 calendar year Form 1065 and provide each partner a Schedule K-1 (and K-3 if applicable). Form 7004 gives an automatic 6-month extension.",
     "authority": "IRS Pub. 509 (2026), General Tax Calendar, March 16",
     "source_url": "https://www.irs.gov/pub/irs-pdf/p509.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": 15,
+      "month_offset": 3,
+      "shift": true
+    }
   },
   {
     "id": "fed-1120s-original",
@@ -189,7 +261,13 @@
     "description": "File a 2025 calendar year Form 1120-S and pay any tax due; provide each shareholder a Schedule K-1 (and K-3 if applicable). Form 7004 gives an automatic 6-month extension.",
     "authority": "IRS Pub. 509 (2026), General Tax Calendar, March 16",
     "source_url": "https://www.irs.gov/pub/irs-pdf/p509.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": 15,
+      "month_offset": 3,
+      "shift": true
+    }
   },
   {
     "id": "fed-2553",
@@ -203,7 +281,13 @@
     "description": "File Form 2553 to elect S corporation treatment beginning with calendar year 2026. A late-filed election takes effect for 2027 instead.",
     "authority": "IRS Pub. 509 (2026), General Tax Calendar, March 16",
     "source_url": "https://www.irs.gov/pub/irs-pdf/p509.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": 15,
+      "month_offset": 3,
+      "shift": true
+    }
   },
   {
     "id": "fed-fbar",
@@ -219,7 +303,13 @@
     "description": "FinCEN Form 114 (FBAR) for calendar year 2025 is due April 15, 2026. FinCEN grants an automatic extension to October 15, 2026 for filers who miss the April deadline - no extension request is required.",
     "authority": "FinCEN: \"Filers ... have an automatic extension up to October 15\" (rule confirmed via FinCEN's official Due Date Clarification notice, applying the same April 15 original / October 15 automatic-extension pattern to the current filing season).",
     "source_url": "https://www.fincen.gov/report-foreign-bank-and-financial-accounts",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "fed-3520",
@@ -235,7 +325,13 @@
     "description": "Form 3520 for a calendar-year individual is due April 15, 2026, the same day as the income tax return. U.S. citizens/residents living and working abroad may get an automatic extension to June 15, 2026; if an extension of time to file the income tax return is granted, Form 3520 is due no later than October 15, 2026.",
     "authority": "IRS Instructions for Form 3520: \"a U.S. person's Form 3520 is due on the 15th day of the 4th month following the end of such person's tax year\"; extended to October 15 if the income tax return is extended.",
     "source_url": "https://www.irs.gov/instructions/i3520",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "fed-3520a",
@@ -251,7 +347,13 @@
     "description": "Form 3520-A for a calendar-year foreign trust is due the 15th day of the 3rd month after the trust's tax year end - March 15, 2026, which falls on a Sunday, so the practical due date is March 16, 2026.",
     "authority": "IRS Instructions for Form 3520-A: \"Form 3520-A is due by the 15th day of the 3rd month after the end of the foreign trust's tax year.\"",
     "source_url": "https://www.irs.gov/instructions/i3520a",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": 15,
+      "month_offset": 3,
+      "shift": true
+    }
   },
   {
     "id": "fed-5471",
@@ -267,7 +369,13 @@
     "description": "Form 5471 has no independent due date - it is attached to and filed by the due date (including extensions) of the filer's income tax return (or applicable partnership/exempt-org return).",
     "authority": "IRS Instructions for Form 5471: \"Attach Form 5471 to your income tax return ... and file both by the due date (including extensions) for that return.\"",
     "source_url": "https://www.irs.gov/instructions/i5471",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "fed-5472",
@@ -283,7 +391,13 @@
     "description": "Form 5472 has no independent due date - it is attached to and filed by the due date (including extensions) of the reporting corporation's income tax return.",
     "authority": "IRS Instructions for Form 5472: \"File Form 5472 as an attachment to the reporting corporation's income tax return by the due date (including extensions) of that return.\"",
     "source_url": "https://www.irs.gov/instructions/i5472",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "fed-w2-employees",
@@ -297,7 +411,13 @@
     "description": "Furnish employees their 2025 Form W-2 (January 31 falls on a Saturday, so the due date moves to the next business day).",
     "authority": "IRS Pub. 509 (2026), Employer's Tax Calendar, February 2",
     "source_url": "https://www.irs.gov/pub/irs-pdf/p509.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 31,
+      "shift": true
+    }
   },
   {
     "id": "fed-w2-ssa",
@@ -311,7 +431,13 @@
     "description": "File Copy A of all 2025 Forms W-2 with Form W-3 with the Social Security Administration.",
     "authority": "IRS Pub. 509 (2026), Employer's Tax Calendar, February 2",
     "source_url": "https://www.irs.gov/pub/irs-pdf/p509.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 31,
+      "shift": true
+    }
   },
   {
     "id": "fed-1099nec",
@@ -325,7 +451,13 @@
     "description": "File Form 1099-NEC for nonemployee compensation paid in 2025 and furnish copies to recipients (February 2, since January 31 falls on a Saturday).",
     "authority": "IRS Pub. 509 (2026), General Tax Calendar, February 2",
     "source_url": "https://www.irs.gov/pub/irs-pdf/p509.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 31,
+      "shift": true
+    }
   },
   {
     "id": "fed-1099-general-recipient",
@@ -339,7 +471,13 @@
     "description": "Furnish recipients most 2025 Form 1099 information statements (dividends, interest, rents, royalties, retirement distributions, etc.).",
     "authority": "IRS Pub. 509 (2026), General Tax Calendar, February 2",
     "source_url": "https://www.irs.gov/pub/irs-pdf/p509.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 31,
+      "shift": true
+    }
   },
   {
     "id": "fed-1099b-s-misc-recipient",
@@ -353,7 +491,13 @@
     "description": "Furnish recipients 2025 Form 1099-B, Form 1099-S, and substitute payments or attorney gross proceeds reported on Form 1099-MISC boxes 8/10.",
     "authority": "IRS Pub. 509 (2026), General Tax Calendar, February 17",
     "source_url": "https://www.irs.gov/pub/irs-pdf/p509.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 2,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "fed-1099-irs-paper",
@@ -367,7 +511,13 @@
     "description": "File most 2025 Forms 1099 (other than 1099-NEC) with the IRS on paper by March 2, 2026 (February 28 falls on a Saturday in some years; confirm current-year weekend adjustment).",
     "authority": "IRS Pub. 509 (2026), General Tax Calendar, March 2",
     "source_url": "https://www.irs.gov/pub/irs-pdf/p509.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 2,
+      "shift": true
+    }
   },
   {
     "id": "fed-1099-irs-efile",
@@ -381,7 +531,13 @@
     "description": "File Forms 1097, 1098, 1099 (except 1099-NEC), 3921, 3922, and W-2G electronically with the IRS by March 31, 2026.",
     "authority": "IRS Pub. 509 (2026), General Tax Calendar, March 31",
     "source_url": "https://www.irs.gov/pub/irs-pdf/p509.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 3,
+      "day": 31,
+      "shift": true
+    }
   },
   {
     "id": "fed-941-q4",
@@ -395,7 +551,13 @@
     "description": "File Form 941 for the fourth quarter of 2025 (February 2, 2026, if all quarterly taxes were deposited timely; otherwise January 31 wage-related due date rules under Pub. 509 apply).",
     "authority": "IRS Pub. 509 (2026), Employer's Tax Calendar, February 2",
     "source_url": "https://www.irs.gov/pub/irs-pdf/p509.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": true
+    }
   },
   {
     "id": "fed-941-q1",
@@ -409,7 +571,13 @@
     "description": "File Form 941 for the first quarter of 2026.",
     "authority": "IRS Pub. 509 (2026), Employer's Tax Calendar, April 30",
     "source_url": "https://www.irs.gov/pub/irs-pdf/p509.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": true
+    }
   },
   {
     "id": "fed-941-q2",
@@ -423,7 +591,13 @@
     "description": "File Form 941 for the second quarter of 2026.",
     "authority": "IRS Pub. 509 (2026), Employer's Tax Calendar, July 31",
     "source_url": "https://www.irs.gov/pub/irs-pdf/p509.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": true
+    }
   },
   {
     "id": "fed-941-q3",
@@ -432,12 +606,18 @@
     "form": "941 (Q3)",
     "form_name": "Employer's QUARTERLY Federal Tax Return - 3rd quarter 2026",
     "filer": "Employers",
-    "rule": "Quarterly return, last day of month following quarter end",
-    "date_2026": "2026-10-31",
-    "description": "File Form 941 for the third quarter of 2026.",
+    "rule": "Quarterly return, last day of month following quarter end Correction (recurrence-engine rebuild session): this entry's date_2026 was stored as October 31, 2026, a Saturday, inconsistent with the same form's Q4 entry (and with the well-established IRS next-business-day rule, Pub. 509, which every other federal quarterly deadline in this data set already correctly reflects). Corrected to the properly shifted November 2, 2026 (Monday).",
+    "date_2026": "2026-11-02",
+    "description": "File Form 941 for the third quarter of 2026. Correction (recurrence-engine rebuild session): this entry's date_2026 was stored as October 31, 2026, a Saturday, inconsistent with the same form's Q4 entry (and with the well-established IRS next-business-day rule, Pub. 509, which every other federal quarterly deadline in this data set already correctly reflects). Corrected to the properly shifted November 2, 2026 (Monday).",
     "authority": "IRS Pub. 509 (2026), Employer's Tax Calendar, October 31",
     "source_url": "https://www.irs.gov/pub/irs-pdf/p509.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": true
+    }
   },
   {
     "id": "fed-940",
@@ -451,7 +631,13 @@
     "description": "File Form 940 for 2025 (February 2, 2026, if all FUTA tax was deposited timely).",
     "authority": "IRS Pub. 509 (2026), Employer's Tax Calendar, February 2",
     "source_url": "https://www.irs.gov/pub/irs-pdf/p509.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 31,
+      "shift": true
+    }
   },
   {
     "id": "fed-943",
@@ -465,7 +651,13 @@
     "description": "File Form 943 for 2025 (February 2, 2026, if all tax was deposited timely).",
     "authority": "IRS Pub. 509 (2026), Employer's Tax Calendar, February 2",
     "source_url": "https://www.irs.gov/pub/irs-pdf/p509.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 31,
+      "shift": true
+    }
   },
   {
     "id": "fed-944",
@@ -479,7 +671,13 @@
     "description": "File Form 944 for 2025 (February 2, 2026, if all tax was deposited timely).",
     "authority": "IRS Pub. 509 (2026), Employer's Tax Calendar, February 2",
     "source_url": "https://www.irs.gov/pub/irs-pdf/p509.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 31,
+      "shift": true
+    }
   },
   {
     "id": "fed-945",
@@ -493,7 +691,13 @@
     "description": "File Form 945 to report nonpayroll withholding for 2025 (February 2, 2026, if all tax was deposited timely).",
     "authority": "IRS Pub. 509 (2026), Employer's Tax Calendar, February 2",
     "source_url": "https://www.irs.gov/pub/irs-pdf/p509.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 31,
+      "shift": true
+    }
   },
   {
     "id": "fed-720-q1",
@@ -507,7 +711,13 @@
     "description": "File Form 720 for the first quarter of 2026 and pay the tax due.",
     "authority": "IRS Pub. 509 (2026), Excise Tax Calendar, April 30",
     "source_url": "https://www.irs.gov/pub/irs-pdf/p509.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": true
+    }
   },
   {
     "id": "fed-720-q2",
@@ -521,7 +731,13 @@
     "description": "File Form 720 for the second quarter of 2026 and pay the tax due.",
     "authority": "IRS Pub. 509 (2026), Excise Tax Calendar, July 31",
     "source_url": "https://www.irs.gov/pub/irs-pdf/p509.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": true
+    }
   },
   {
     "id": "fed-720-q3",
@@ -530,12 +746,18 @@
     "form": "720 (Q3)",
     "form_name": "Quarterly Federal Excise Tax Return - 3rd quarter 2026",
     "filer": "Excise tax filers",
-    "rule": "Quarterly return, last day of month following quarter end",
-    "date_2026": "2026-10-31",
-    "description": "File Form 720 for the third quarter of 2026 and pay the tax due. (Q4 2026 lands in January 2027, outside this calendar's current 2026 scope.)",
+    "rule": "Quarterly return, last day of month following quarter end Correction (recurrence-engine rebuild session): this entry's date_2026 was stored as October 31, 2026, a Saturday, inconsistent with the same form's Q4 entry (and with the well-established IRS next-business-day rule, Pub. 509, which every other federal quarterly deadline in this data set already correctly reflects). Corrected to the properly shifted November 2, 2026 (Monday).",
+    "date_2026": "2026-11-02",
+    "description": "File Form 720 for the third quarter of 2026 and pay the tax due. (Q4 2026 lands in January 2027, outside this calendar's current 2026 scope.) Correction (recurrence-engine rebuild session): this entry's date_2026 was stored as October 31, 2026, a Saturday, inconsistent with the same form's Q4 entry (and with the well-established IRS next-business-day rule, Pub. 509, which every other federal quarterly deadline in this data set already correctly reflects). Corrected to the properly shifted November 2, 2026 (Monday).",
     "authority": "IRS Pub. 509 (2026), Excise Tax Calendar, October 31",
     "source_url": "https://www.irs.gov/pub/irs-pdf/p509.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": true
+    }
   },
   {
     "id": "fed-2290",
@@ -549,7 +771,13 @@
     "description": "File Form 2290 and pay the tax for vehicles first used on the road in July 2026 (the standard full tax-period case). Vehicles first used in other months follow their own last-day-of-following-month due date under Pub. 509's monthly table, not yet fully built into this calendar.",
     "authority": "IRS Pub. 509 (2026), Excise Tax Calendar (Instructions for Form 2290)",
     "source_url": "https://www.irs.gov/pub/irs-pdf/p509.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 8,
+      "shift": true
+    }
   },
   {
     "id": "fed-5500",
@@ -565,6 +793,12 @@
     "description": "File Form 5500 or 5500-EZ for the 2025 calendar plan year. Form 5558 extends the deadline to October 15, 2026.",
     "authority": "IRS Pub. 509 (2026), Employer's Tax Calendar, July 31",
     "source_url": "https://www.irs.gov/pub/irs-pdf/p509.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": true
+    }
   }
 ]

@@ -13,7 +13,13 @@
     "description": "Q1 2026 (Jan-Mar) sales tax return, applying Alabama's quarterly-filer due-date rule: 20th of month following the reporting period (quarterly filers use the same day-of-month rule). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Alabama's own tax agency site this session",
     "source_url": "https://www.revenue.alabama.gov/sales-use/sales-tax/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-alabama-q2",
@@ -29,7 +35,13 @@
     "description": "Q2 2026 (Apr-Jun) sales tax return, applying Alabama's quarterly-filer due-date rule: 20th of month following the reporting period (quarterly filers use the same day-of-month rule). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Alabama's own tax agency site this session",
     "source_url": "https://www.revenue.alabama.gov/sales-use/sales-tax/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 7,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-alabama-q3",
@@ -45,7 +57,13 @@
     "description": "Q3 2026 (Jul-Sep) sales tax return, applying Alabama's quarterly-filer due-date rule: 20th of month following the reporting period (quarterly filers use the same day-of-month rule). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Alabama's own tax agency site this session",
     "source_url": "https://www.revenue.alabama.gov/sales-use/sales-tax/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-alabama-q4",
@@ -61,7 +79,13 @@
     "description": "Q4 2026 (Oct-Dec) sales tax return, applying Alabama's quarterly-filer due-date rule: 20th of month following the reporting period (quarterly filers use the same day-of-month rule). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Alabama's own tax agency site this session",
     "source_url": "https://www.revenue.alabama.gov/sales-use/sales-tax/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-alaska",
@@ -77,7 +101,8 @@
     "description": "No general state sales tax; only local (borough/municipal) sales taxes exist, administered locally or via the Alaska Remote Seller Sales Tax Commission, not a state DOR return.",
     "authority": "Direct fetch of Alaska's own tax agency site this session",
     "source_url": "https://www.tax.alaska.gov/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": null
   },
   {
     "id": "state-sales-arizona-q1",
@@ -93,7 +118,13 @@
     "description": "Q1 2026 (Jan-Mar) sales tax return, applying Arizona's quarterly-filer due-date rule: Transaction Privilege Tax (functions as sales tax) due 20th of month following the reporting period. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Arizona's own tax agency site this session",
     "source_url": "https://azdor.gov/business/transaction-privilege-tax/due-dates",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-arizona-q2",
@@ -109,7 +140,13 @@
     "description": "Q2 2026 (Apr-Jun) sales tax return, applying Arizona's quarterly-filer due-date rule: Transaction Privilege Tax (functions as sales tax) due 20th of month following the reporting period. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Arizona's own tax agency site this session",
     "source_url": "https://azdor.gov/business/transaction-privilege-tax/due-dates",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 7,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-arizona-q3",
@@ -125,7 +162,13 @@
     "description": "Q3 2026 (Jul-Sep) sales tax return, applying Arizona's quarterly-filer due-date rule: Transaction Privilege Tax (functions as sales tax) due 20th of month following the reporting period. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Arizona's own tax agency site this session",
     "source_url": "https://azdor.gov/business/transaction-privilege-tax/due-dates",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-arizona-q4",
@@ -141,7 +184,13 @@
     "description": "Q4 2026 (Oct-Dec) sales tax return, applying Arizona's quarterly-filer due-date rule: Transaction Privilege Tax (functions as sales tax) due 20th of month following the reporting period. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Arizona's own tax agency site this session",
     "source_url": "https://azdor.gov/business/transaction-privilege-tax/due-dates",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-arkansas-q1",
@@ -157,7 +206,13 @@
     "description": "Q1 2026 (Jan-Mar) sales tax return, applying Arkansas's quarterly-filer due-date rule: 20th of month following the reporting period (shifts near weekends/holidays). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Arkansas's own tax agency site this session",
     "source_url": "https://www.dfa.arkansas.gov/office/taxes/excise-tax-administration/sales-use-tax/due-dates/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-arkansas-q2",
@@ -173,7 +228,13 @@
     "description": "Q2 2026 (Apr-Jun) sales tax return, applying Arkansas's quarterly-filer due-date rule: 20th of month following the reporting period (shifts near weekends/holidays). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Arkansas's own tax agency site this session",
     "source_url": "https://www.dfa.arkansas.gov/office/taxes/excise-tax-administration/sales-use-tax/due-dates/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 7,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-arkansas-q3",
@@ -189,7 +250,13 @@
     "description": "Q3 2026 (Jul-Sep) sales tax return, applying Arkansas's quarterly-filer due-date rule: 20th of month following the reporting period (shifts near weekends/holidays). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Arkansas's own tax agency site this session",
     "source_url": "https://www.dfa.arkansas.gov/office/taxes/excise-tax-administration/sales-use-tax/due-dates/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-arkansas-q4",
@@ -205,7 +272,13 @@
     "description": "Q4 2026 (Oct-Dec) sales tax return, applying Arkansas's quarterly-filer due-date rule: 20th of month following the reporting period (shifts near weekends/holidays). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Arkansas's own tax agency site this session",
     "source_url": "https://www.dfa.arkansas.gov/office/taxes/excise-tax-administration/sales-use-tax/due-dates/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-california-q1",
@@ -221,7 +294,13 @@
     "description": "Q1 2026 (Jan-Mar) sales tax return, applying California's quarterly-filer due-date rule: Last day of month following the reporting period (both monthly and quarterly filers). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of California's own tax agency site this session",
     "source_url": "https://cdtfa.ca.gov/taxes-and-fees/sales-use-tax-returns-filing-dates.htm",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-california-q2",
@@ -237,7 +316,13 @@
     "description": "Q2 2026 (Apr-Jun) sales tax return, applying California's quarterly-filer due-date rule: Last day of month following the reporting period (both monthly and quarterly filers). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of California's own tax agency site this session",
     "source_url": "https://cdtfa.ca.gov/taxes-and-fees/sales-use-tax-returns-filing-dates.htm",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-california-q3",
@@ -253,7 +338,13 @@
     "description": "Q3 2026 (Jul-Sep) sales tax return, applying California's quarterly-filer due-date rule: Last day of month following the reporting period (both monthly and quarterly filers). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of California's own tax agency site this session",
     "source_url": "https://cdtfa.ca.gov/taxes-and-fees/sales-use-tax-returns-filing-dates.htm",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-california-q4",
@@ -269,7 +360,13 @@
     "description": "Q4 2026 (Oct-Dec) sales tax return, applying California's quarterly-filer due-date rule: Last day of month following the reporting period (both monthly and quarterly filers). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of California's own tax agency site this session",
     "source_url": "https://cdtfa.ca.gov/taxes-and-fees/sales-use-tax-returns-filing-dates.htm",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-colorado-q1",
@@ -285,7 +382,13 @@
     "description": "Q1 2026 (Jan-Mar) sales tax return, applying Colorado's quarterly-filer due-date rule: 20th of month following the reporting period. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Colorado's own tax agency site this session",
     "source_url": "https://tax.colorado.gov/sales-tax-filing-information",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-colorado-q2",
@@ -301,7 +404,13 @@
     "description": "Q2 2026 (Apr-Jun) sales tax return, applying Colorado's quarterly-filer due-date rule: 20th of month following the reporting period. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Colorado's own tax agency site this session",
     "source_url": "https://tax.colorado.gov/sales-tax-filing-information",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 7,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-colorado-q3",
@@ -317,7 +426,13 @@
     "description": "Q3 2026 (Jul-Sep) sales tax return, applying Colorado's quarterly-filer due-date rule: 20th of month following the reporting period. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Colorado's own tax agency site this session",
     "source_url": "https://tax.colorado.gov/sales-tax-filing-information",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-colorado-q4",
@@ -333,7 +448,13 @@
     "description": "Q4 2026 (Oct-Dec) sales tax return, applying Colorado's quarterly-filer due-date rule: 20th of month following the reporting period. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Colorado's own tax agency site this session",
     "source_url": "https://tax.colorado.gov/sales-tax-filing-information",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-connecticut-q1",
@@ -349,7 +470,13 @@
     "description": "Q1 2026 (Jan-Mar) sales tax return, applying Connecticut's quarterly-filer due-date rule: Form OS-114 due last day of month following the reporting period (same rule for monthly and quarterly filers). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Connecticut's own tax agency site this session",
     "source_url": "https://portal.ct.gov/-/media/drs/forms/2022/sut/os-114_0222.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-connecticut-q2",
@@ -365,7 +492,13 @@
     "description": "Q2 2026 (Apr-Jun) sales tax return, applying Connecticut's quarterly-filer due-date rule: Form OS-114 due last day of month following the reporting period (same rule for monthly and quarterly filers). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Connecticut's own tax agency site this session",
     "source_url": "https://portal.ct.gov/-/media/drs/forms/2022/sut/os-114_0222.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-connecticut-q3",
@@ -381,7 +514,13 @@
     "description": "Q3 2026 (Jul-Sep) sales tax return, applying Connecticut's quarterly-filer due-date rule: Form OS-114 due last day of month following the reporting period (same rule for monthly and quarterly filers). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Connecticut's own tax agency site this session",
     "source_url": "https://portal.ct.gov/-/media/drs/forms/2022/sut/os-114_0222.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-connecticut-q4",
@@ -397,7 +536,13 @@
     "description": "Q4 2026 (Oct-Dec) sales tax return, applying Connecticut's quarterly-filer due-date rule: Form OS-114 due last day of month following the reporting period (same rule for monthly and quarterly filers). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Connecticut's own tax agency site this session",
     "source_url": "https://portal.ct.gov/-/media/drs/forms/2022/sut/os-114_0222.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-delaware",
@@ -413,7 +558,8 @@
     "description": "No state or local sales tax; Delaware instead imposes a Gross Receipts Tax on sellers, a structurally different tax.",
     "authority": "Direct fetch of Delaware's own tax agency site this session",
     "source_url": "https://revenue.delaware.gov/business-tax-forms/doing-business-in-delaware/step-4-gross-receipts-taxes/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": null
   },
   {
     "id": "state-sales-district-of-columbia-q1",
@@ -429,7 +575,13 @@
     "description": "Q1 2026 (Jan-Mar) sales tax return, applying District of Columbia's quarterly-filer due-date rule: 20th of month following the reporting period; annual filers due October 20. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of District of Columbia's own tax agency site this session",
     "source_url": "https://otr.cfo.dc.gov/page/sales-and-use-tax-faqs",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-district-of-columbia-q2",
@@ -445,7 +597,13 @@
     "description": "Q2 2026 (Apr-Jun) sales tax return, applying District of Columbia's quarterly-filer due-date rule: 20th of month following the reporting period; annual filers due October 20. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of District of Columbia's own tax agency site this session",
     "source_url": "https://otr.cfo.dc.gov/page/sales-and-use-tax-faqs",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 7,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-district-of-columbia-q3",
@@ -461,7 +619,13 @@
     "description": "Q3 2026 (Jul-Sep) sales tax return, applying District of Columbia's quarterly-filer due-date rule: 20th of month following the reporting period; annual filers due October 20. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of District of Columbia's own tax agency site this session",
     "source_url": "https://otr.cfo.dc.gov/page/sales-and-use-tax-faqs",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-district-of-columbia-q4",
@@ -477,7 +641,13 @@
     "description": "Q4 2026 (Oct-Dec) sales tax return, applying District of Columbia's quarterly-filer due-date rule: 20th of month following the reporting period; annual filers due October 20. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of District of Columbia's own tax agency site this session",
     "source_url": "https://otr.cfo.dc.gov/page/sales-and-use-tax-faqs",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-florida-q1",
@@ -493,7 +663,13 @@
     "description": "Q1 2026 (Jan-Mar) sales tax return, applying Florida's quarterly-filer due-date rule: Due on the 1st, late after the 20th of month following the reporting period. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Florida's own tax agency site this session",
     "source_url": "https://floridarevenue.com/Forms_library/current/dr15n.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-florida-q2",
@@ -509,7 +685,13 @@
     "description": "Q2 2026 (Apr-Jun) sales tax return, applying Florida's quarterly-filer due-date rule: Due on the 1st, late after the 20th of month following the reporting period. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Florida's own tax agency site this session",
     "source_url": "https://floridarevenue.com/Forms_library/current/dr15n.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 7,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-florida-q3",
@@ -525,7 +707,13 @@
     "description": "Q3 2026 (Jul-Sep) sales tax return, applying Florida's quarterly-filer due-date rule: Due on the 1st, late after the 20th of month following the reporting period. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Florida's own tax agency site this session",
     "source_url": "https://floridarevenue.com/Forms_library/current/dr15n.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-florida-q4",
@@ -541,7 +729,13 @@
     "description": "Q4 2026 (Oct-Dec) sales tax return, applying Florida's quarterly-filer due-date rule: Due on the 1st, late after the 20th of month following the reporting period. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Florida's own tax agency site this session",
     "source_url": "https://floridarevenue.com/Forms_library/current/dr15n.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-georgia-q1",
@@ -557,7 +751,13 @@
     "description": "Q1 2026 (Jan-Mar) sales tax return, applying Georgia's quarterly-filer due-date rule: 20th of month following the reporting period (O.C.G.A. 48-8-49). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Georgia's own tax agency site this session",
     "source_url": "https://dor.georgia.gov/taxes/business-taxes/sales-use-tax/file-pay",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-georgia-q2",
@@ -573,7 +773,13 @@
     "description": "Q2 2026 (Apr-Jun) sales tax return, applying Georgia's quarterly-filer due-date rule: 20th of month following the reporting period (O.C.G.A. 48-8-49). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Georgia's own tax agency site this session",
     "source_url": "https://dor.georgia.gov/taxes/business-taxes/sales-use-tax/file-pay",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 7,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-georgia-q3",
@@ -589,7 +795,13 @@
     "description": "Q3 2026 (Jul-Sep) sales tax return, applying Georgia's quarterly-filer due-date rule: 20th of month following the reporting period (O.C.G.A. 48-8-49). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Georgia's own tax agency site this session",
     "source_url": "https://dor.georgia.gov/taxes/business-taxes/sales-use-tax/file-pay",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-georgia-q4",
@@ -605,7 +817,13 @@
     "description": "Q4 2026 (Oct-Dec) sales tax return, applying Georgia's quarterly-filer due-date rule: 20th of month following the reporting period (O.C.G.A. 48-8-49). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Georgia's own tax agency site this session",
     "source_url": "https://dor.georgia.gov/taxes/business-taxes/sales-use-tax/file-pay",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-hawaii-q1",
@@ -621,7 +839,13 @@
     "description": "Q1 2026 (Jan-Mar) sales tax return, applying Hawaii's quarterly-filer due-date rule: General Excise Tax (functions as sales tax) due 20th of month following the close of the tax period. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Hawaii's own tax agency site this session",
     "source_url": "https://tax.hawaii.gov/geninfo/get/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-hawaii-q2",
@@ -637,7 +861,13 @@
     "description": "Q2 2026 (Apr-Jun) sales tax return, applying Hawaii's quarterly-filer due-date rule: General Excise Tax (functions as sales tax) due 20th of month following the close of the tax period. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Hawaii's own tax agency site this session",
     "source_url": "https://tax.hawaii.gov/geninfo/get/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 7,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-hawaii-q3",
@@ -653,7 +883,13 @@
     "description": "Q3 2026 (Jul-Sep) sales tax return, applying Hawaii's quarterly-filer due-date rule: General Excise Tax (functions as sales tax) due 20th of month following the close of the tax period. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Hawaii's own tax agency site this session",
     "source_url": "https://tax.hawaii.gov/geninfo/get/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-hawaii-q4",
@@ -669,7 +905,13 @@
     "description": "Q4 2026 (Oct-Dec) sales tax return, applying Hawaii's quarterly-filer due-date rule: General Excise Tax (functions as sales tax) due 20th of month following the close of the tax period. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Hawaii's own tax agency site this session",
     "source_url": "https://tax.hawaii.gov/geninfo/get/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-idaho-q1",
@@ -685,7 +927,13 @@
     "description": "Q1 2026 (Jan-Mar) sales tax return, applying Idaho's quarterly-filer due-date rule: 20th of the following month. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Idaho's own tax agency site this session",
     "source_url": "https://tax.idaho.gov/taxes/sales-use/stfiling/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-idaho-q2",
@@ -701,7 +949,13 @@
     "description": "Q2 2026 (Apr-Jun) sales tax return, applying Idaho's quarterly-filer due-date rule: 20th of the following month. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Idaho's own tax agency site this session",
     "source_url": "https://tax.idaho.gov/taxes/sales-use/stfiling/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 7,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-idaho-q3",
@@ -717,7 +971,13 @@
     "description": "Q3 2026 (Jul-Sep) sales tax return, applying Idaho's quarterly-filer due-date rule: 20th of the following month. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Idaho's own tax agency site this session",
     "source_url": "https://tax.idaho.gov/taxes/sales-use/stfiling/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-idaho-q4",
@@ -733,7 +993,13 @@
     "description": "Q4 2026 (Oct-Dec) sales tax return, applying Idaho's quarterly-filer due-date rule: 20th of the following month. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Idaho's own tax agency site this session",
     "source_url": "https://tax.idaho.gov/taxes/sales-use/stfiling/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-illinois-q1",
@@ -749,7 +1015,13 @@
     "description": "Q1 2026 (Jan-Mar) sales tax return, applying Illinois's quarterly-filer due-date rule: 20th of month following the reporting period; annual filers due January 20. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Illinois's own tax agency site this session",
     "source_url": "https://tax.illinois.gov/research/taxinformation/sales/rot.html",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-illinois-q2",
@@ -765,7 +1037,13 @@
     "description": "Q2 2026 (Apr-Jun) sales tax return, applying Illinois's quarterly-filer due-date rule: 20th of month following the reporting period; annual filers due January 20. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Illinois's own tax agency site this session",
     "source_url": "https://tax.illinois.gov/research/taxinformation/sales/rot.html",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 7,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-illinois-q3",
@@ -781,7 +1059,13 @@
     "description": "Q3 2026 (Jul-Sep) sales tax return, applying Illinois's quarterly-filer due-date rule: 20th of month following the reporting period; annual filers due January 20. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Illinois's own tax agency site this session",
     "source_url": "https://tax.illinois.gov/research/taxinformation/sales/rot.html",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-illinois-q4",
@@ -797,7 +1081,13 @@
     "description": "Q4 2026 (Oct-Dec) sales tax return, applying Illinois's quarterly-filer due-date rule: 20th of month following the reporting period; annual filers due January 20. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Illinois's own tax agency site this session",
     "source_url": "https://tax.illinois.gov/research/taxinformation/sales/rot.html",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-indiana-q1",
@@ -813,7 +1103,13 @@
     "description": "Sales tax returns are due the 30th day of the month following the reporting period, unless the average monthly tax due for the preceding year exceeds $1,000, in which case returns are due the 20th day of the month following the reporting period. These entries use the 20th-day (larger filer) rule. This is a representative recurring pattern, not a single annual deadline.",
     "authority": "Direct fetch of Indiana DOR's General Tax Information Bulletin (GB-102) this session.",
     "source_url": "https://secure.in.gov/dor/files/gb102.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-indiana-q2",
@@ -829,7 +1125,13 @@
     "description": "Sales tax returns are due the 30th day of the month following the reporting period, unless the average monthly tax due for the preceding year exceeds $1,000, in which case returns are due the 20th day of the month following the reporting period. These entries use the 20th-day (larger filer) rule. This is a representative recurring pattern, not a single annual deadline.",
     "authority": "Direct fetch of Indiana DOR's General Tax Information Bulletin (GB-102) this session.",
     "source_url": "https://secure.in.gov/dor/files/gb102.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 7,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-indiana-q3",
@@ -845,7 +1147,13 @@
     "description": "Sales tax returns are due the 30th day of the month following the reporting period, unless the average monthly tax due for the preceding year exceeds $1,000, in which case returns are due the 20th day of the month following the reporting period. These entries use the 20th-day (larger filer) rule. This is a representative recurring pattern, not a single annual deadline.",
     "authority": "Direct fetch of Indiana DOR's General Tax Information Bulletin (GB-102) this session.",
     "source_url": "https://secure.in.gov/dor/files/gb102.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-indiana-q4",
@@ -861,7 +1169,13 @@
     "description": "Sales tax returns are due the 30th day of the month following the reporting period, unless the average monthly tax due for the preceding year exceeds $1,000, in which case returns are due the 20th day of the month following the reporting period. These entries use the 20th-day (larger filer) rule. This is a representative recurring pattern, not a single annual deadline.",
     "authority": "Direct fetch of Indiana DOR's General Tax Information Bulletin (GB-102) this session.",
     "source_url": "https://secure.in.gov/dor/files/gb102.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-iowa-q1",
@@ -877,7 +1191,13 @@
     "description": "Monthly return for January 2026 sales, due the last day of February 2026 (illustrative monthly occurrence). Iowa's sales/use tax filing frequency is NOT quarterly - confirmed directly against the Iowa Administrative Code (701-202.1(423), published by the Iowa Legislature at legis.iowa.gov, the state's own official codification): \"A retailer owing $1,200 or more in sales or use tax per calendar year shall file a sales and use tax return once per month. This monthly return is due on or before the last day of the month following the end of the month in which the tax was collected. A retailer owing less than $1,200 in sales or use tax per calendar year shall file a sales and use tax return at least once per annual year, due on or before January 31 for the prior calendar year.\" The four dates below are representative monthly due dates (last day of the following month) spread across 2026 for the standard $1,200-or-more monthly filer, not literal calendar quarters - Iowa has no quarterly sales tax filing option under current rule. Small filers under the $1,200 annual threshold instead file once a year, by January 31.",
     "authority": "Iowa Administrative Code 701-202.1(423), official codification published by the Iowa Legislature (legis.iowa.gov)",
     "source_url": "https://www.legis.iowa.gov/docs/iac/chapter/701.202.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 2,
+      "day": 28,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-iowa-q2",
@@ -893,7 +1213,13 @@
     "description": "Monthly return for April 2026 sales, due the last day of May 2026 (illustrative monthly occurrence). Iowa's sales/use tax filing frequency is NOT quarterly - confirmed directly against the Iowa Administrative Code (701-202.1(423), published by the Iowa Legislature at legis.iowa.gov, the state's own official codification): \"A retailer owing $1,200 or more in sales or use tax per calendar year shall file a sales and use tax return once per month. This monthly return is due on or before the last day of the month following the end of the month in which the tax was collected. A retailer owing less than $1,200 in sales or use tax per calendar year shall file a sales and use tax return at least once per annual year, due on or before January 31 for the prior calendar year.\" The four dates below are representative monthly due dates (last day of the following month) spread across 2026 for the standard $1,200-or-more monthly filer, not literal calendar quarters - Iowa has no quarterly sales tax filing option under current rule. Small filers under the $1,200 annual threshold instead file once a year, by January 31.",
     "authority": "Iowa Administrative Code 701-202.1(423), official codification published by the Iowa Legislature (legis.iowa.gov)",
     "source_url": "https://www.legis.iowa.gov/docs/iac/chapter/701.202.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 5,
+      "day": 31,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-iowa-q3",
@@ -909,7 +1235,13 @@
     "description": "Monthly return for July 2026 sales, due the last day of August 2026 (illustrative monthly occurrence). Iowa's sales/use tax filing frequency is NOT quarterly - confirmed directly against the Iowa Administrative Code (701-202.1(423), published by the Iowa Legislature at legis.iowa.gov, the state's own official codification): \"A retailer owing $1,200 or more in sales or use tax per calendar year shall file a sales and use tax return once per month. This monthly return is due on or before the last day of the month following the end of the month in which the tax was collected. A retailer owing less than $1,200 in sales or use tax per calendar year shall file a sales and use tax return at least once per annual year, due on or before January 31 for the prior calendar year.\" The four dates below are representative monthly due dates (last day of the following month) spread across 2026 for the standard $1,200-or-more monthly filer, not literal calendar quarters - Iowa has no quarterly sales tax filing option under current rule. Small filers under the $1,200 annual threshold instead file once a year, by January 31.",
     "authority": "Iowa Administrative Code 701-202.1(423), official codification published by the Iowa Legislature (legis.iowa.gov)",
     "source_url": "https://www.legis.iowa.gov/docs/iac/chapter/701.202.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 8,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-iowa-q4",
@@ -925,7 +1257,13 @@
     "description": "Monthly return for October 2026 sales, due the last day of November 2026 (illustrative monthly occurrence). Iowa's sales/use tax filing frequency is NOT quarterly - confirmed directly against the Iowa Administrative Code (701-202.1(423), published by the Iowa Legislature at legis.iowa.gov, the state's own official codification): \"A retailer owing $1,200 or more in sales or use tax per calendar year shall file a sales and use tax return once per month. This monthly return is due on or before the last day of the month following the end of the month in which the tax was collected. A retailer owing less than $1,200 in sales or use tax per calendar year shall file a sales and use tax return at least once per annual year, due on or before January 31 for the prior calendar year.\" The four dates below are representative monthly due dates (last day of the following month) spread across 2026 for the standard $1,200-or-more monthly filer, not literal calendar quarters - Iowa has no quarterly sales tax filing option under current rule. Small filers under the $1,200 annual threshold instead file once a year, by January 31.",
     "authority": "Iowa Administrative Code 701-202.1(423), official codification published by the Iowa Legislature (legis.iowa.gov)",
     "source_url": "https://www.legis.iowa.gov/docs/iac/chapter/701.202.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 11,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-kansas-q1",
@@ -941,7 +1279,13 @@
     "description": "Q1 2026 (Jan-Mar) sales tax return, applying Kansas's quarterly-filer due-date rule: 25th of month following the reporting period; annual filers due January 25. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Kansas's own tax agency site this session",
     "source_url": "https://www.ksrevenue.gov/pub1515.html",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 25,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-kansas-q2",
@@ -957,7 +1301,13 @@
     "description": "Q2 2026 (Apr-Jun) sales tax return, applying Kansas's quarterly-filer due-date rule: 25th of month following the reporting period; annual filers due January 25. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Kansas's own tax agency site this session",
     "source_url": "https://www.ksrevenue.gov/pub1515.html",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 7,
+      "day": 25,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-kansas-q3",
@@ -973,7 +1323,13 @@
     "description": "Q3 2026 (Jul-Sep) sales tax return, applying Kansas's quarterly-filer due-date rule: 25th of month following the reporting period; annual filers due January 25. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Kansas's own tax agency site this session",
     "source_url": "https://www.ksrevenue.gov/pub1515.html",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 25,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-kansas-q4",
@@ -989,7 +1345,13 @@
     "description": "Q4 2026 (Oct-Dec) sales tax return, applying Kansas's quarterly-filer due-date rule: 25th of month following the reporting period; annual filers due January 25. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Kansas's own tax agency site this session",
     "source_url": "https://www.ksrevenue.gov/pub1515.html",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 25,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-kentucky-q1",
@@ -1005,7 +1367,13 @@
     "description": "Q1 2026 (Jan-Mar) sales tax return, applying Kentucky's quarterly-filer due-date rule: 20th of the following month (accelerated filers: 25th). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Kentucky's own tax agency site this session",
     "source_url": "https://revenue.ky.gov/Business/Sales-Use-Tax/Documents/Retail%20Packet%20(11-17).pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-kentucky-q2",
@@ -1021,7 +1389,13 @@
     "description": "Q2 2026 (Apr-Jun) sales tax return, applying Kentucky's quarterly-filer due-date rule: 20th of the following month (accelerated filers: 25th). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Kentucky's own tax agency site this session",
     "source_url": "https://revenue.ky.gov/Business/Sales-Use-Tax/Documents/Retail%20Packet%20(11-17).pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 7,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-kentucky-q3",
@@ -1037,7 +1411,13 @@
     "description": "Q3 2026 (Jul-Sep) sales tax return, applying Kentucky's quarterly-filer due-date rule: 20th of the following month (accelerated filers: 25th). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Kentucky's own tax agency site this session",
     "source_url": "https://revenue.ky.gov/Business/Sales-Use-Tax/Documents/Retail%20Packet%20(11-17).pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-kentucky-q4",
@@ -1053,7 +1433,13 @@
     "description": "Q4 2026 (Oct-Dec) sales tax return, applying Kentucky's quarterly-filer due-date rule: 20th of the following month (accelerated filers: 25th). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Kentucky's own tax agency site this session",
     "source_url": "https://revenue.ky.gov/Business/Sales-Use-Tax/Documents/Retail%20Packet%20(11-17).pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-louisiana-q1",
@@ -1069,7 +1455,13 @@
     "description": "Q1 2026 (Jan-Mar) sales tax return, applying Louisiana's quarterly-filer due-date rule: 20th of month following the close of the reporting period. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Louisiana's own tax agency site this session",
     "source_url": "https://revenue.louisiana.gov/tax-education-and-faqs/faqs/sales-tax/when-is-the-sales-tax-return-due-what-happens-if-i-am-late/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-louisiana-q2",
@@ -1085,7 +1477,13 @@
     "description": "Q2 2026 (Apr-Jun) sales tax return, applying Louisiana's quarterly-filer due-date rule: 20th of month following the close of the reporting period. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Louisiana's own tax agency site this session",
     "source_url": "https://revenue.louisiana.gov/tax-education-and-faqs/faqs/sales-tax/when-is-the-sales-tax-return-due-what-happens-if-i-am-late/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 7,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-louisiana-q3",
@@ -1101,7 +1499,13 @@
     "description": "Q3 2026 (Jul-Sep) sales tax return, applying Louisiana's quarterly-filer due-date rule: 20th of month following the close of the reporting period. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Louisiana's own tax agency site this session",
     "source_url": "https://revenue.louisiana.gov/tax-education-and-faqs/faqs/sales-tax/when-is-the-sales-tax-return-due-what-happens-if-i-am-late/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-louisiana-q4",
@@ -1117,7 +1521,13 @@
     "description": "Q4 2026 (Oct-Dec) sales tax return, applying Louisiana's quarterly-filer due-date rule: 20th of month following the close of the reporting period. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Louisiana's own tax agency site this session",
     "source_url": "https://revenue.louisiana.gov/tax-education-and-faqs/faqs/sales-tax/when-is-the-sales-tax-return-due-what-happens-if-i-am-late/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-maine-q1",
@@ -1133,7 +1543,13 @@
     "description": "Q1 2026 (Jan-Mar) sales tax return, applying Maine's quarterly-filer due-date rule: 15th of the following month. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Maine's own tax agency site this session",
     "source_url": "https://www.maine.gov/revenue/taxes/sales-use-service-provider-tax/rates-due-dates",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-maine-q2",
@@ -1149,7 +1565,13 @@
     "description": "Q2 2026 (Apr-Jun) sales tax return, applying Maine's quarterly-filer due-date rule: 15th of the following month. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Maine's own tax agency site this session",
     "source_url": "https://www.maine.gov/revenue/taxes/sales-use-service-provider-tax/rates-due-dates",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 7,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-maine-q3",
@@ -1165,7 +1587,13 @@
     "description": "Q3 2026 (Jul-Sep) sales tax return, applying Maine's quarterly-filer due-date rule: 15th of the following month. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Maine's own tax agency site this session",
     "source_url": "https://www.maine.gov/revenue/taxes/sales-use-service-provider-tax/rates-due-dates",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-maine-q4",
@@ -1181,7 +1609,13 @@
     "description": "Q4 2026 (Oct-Dec) sales tax return, applying Maine's quarterly-filer due-date rule: 15th of the following month. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Maine's own tax agency site this session",
     "source_url": "https://www.maine.gov/revenue/taxes/sales-use-service-provider-tax/rates-due-dates",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-maryland-q1",
@@ -1197,7 +1631,13 @@
     "description": "Q1 2026 (Jan-Mar) sales tax return, applying Maryland's quarterly-filer due-date rule: 20th of month following the period end, uniformly across monthly/quarterly/annual filers. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Maryland's own tax agency site this session",
     "source_url": "https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/tips/business/bustip22.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-maryland-q2",
@@ -1213,7 +1653,13 @@
     "description": "Q2 2026 (Apr-Jun) sales tax return, applying Maryland's quarterly-filer due-date rule: 20th of month following the period end, uniformly across monthly/quarterly/annual filers. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Maryland's own tax agency site this session",
     "source_url": "https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/tips/business/bustip22.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 7,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-maryland-q3",
@@ -1229,7 +1675,13 @@
     "description": "Q3 2026 (Jul-Sep) sales tax return, applying Maryland's quarterly-filer due-date rule: 20th of month following the period end, uniformly across monthly/quarterly/annual filers. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Maryland's own tax agency site this session",
     "source_url": "https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/tips/business/bustip22.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-maryland-q4",
@@ -1245,7 +1697,13 @@
     "description": "Q4 2026 (Oct-Dec) sales tax return, applying Maryland's quarterly-filer due-date rule: 20th of month following the period end, uniformly across monthly/quarterly/annual filers. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Maryland's own tax agency site this session",
     "source_url": "https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/tips/business/bustip22.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-massachusetts-q1",
@@ -1261,7 +1719,13 @@
     "description": "Q1 2026 (Jan-Mar) sales tax return, applying Massachusetts's quarterly-filer due-date rule: 30th day following the reporting month or quarter. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Massachusetts's own tax agency site this session",
     "source_url": "https://www.mass.gov/info-details/tax-due-dates-and-extensions",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-massachusetts-q2",
@@ -1277,7 +1741,13 @@
     "description": "Q2 2026 (Apr-Jun) sales tax return, applying Massachusetts's quarterly-filer due-date rule: 30th day following the reporting month or quarter. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Massachusetts's own tax agency site this session",
     "source_url": "https://www.mass.gov/info-details/tax-due-dates-and-extensions",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 7,
+      "day": 30,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-massachusetts-q3",
@@ -1293,7 +1763,13 @@
     "description": "Q3 2026 (Jul-Sep) sales tax return, applying Massachusetts's quarterly-filer due-date rule: 30th day following the reporting month or quarter. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Massachusetts's own tax agency site this session",
     "source_url": "https://www.mass.gov/info-details/tax-due-dates-and-extensions",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 30,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-massachusetts-q4",
@@ -1309,7 +1785,13 @@
     "description": "Q4 2026 (Oct-Dec) sales tax return, applying Massachusetts's quarterly-filer due-date rule: 30th day following the reporting month or quarter. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Massachusetts's own tax agency site this session",
     "source_url": "https://www.mass.gov/info-details/tax-due-dates-and-extensions",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 30,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-michigan-q1",
@@ -1325,7 +1807,13 @@
     "description": "Q1 2026 (Jan-Mar) sales tax return, applying Michigan's quarterly-filer due-date rule: 20th of the following month; annual reconciliation due February 28 regardless of regular frequency. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Michigan's own tax agency site this session",
     "source_url": "https://www.michigan.gov/taxes/business-taxes/due/filing-deadlines-2",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-michigan-q2",
@@ -1341,7 +1829,13 @@
     "description": "Q2 2026 (Apr-Jun) sales tax return, applying Michigan's quarterly-filer due-date rule: 20th of the following month; annual reconciliation due February 28 regardless of regular frequency. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Michigan's own tax agency site this session",
     "source_url": "https://www.michigan.gov/taxes/business-taxes/due/filing-deadlines-2",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 7,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-michigan-q3",
@@ -1357,7 +1851,13 @@
     "description": "Q3 2026 (Jul-Sep) sales tax return, applying Michigan's quarterly-filer due-date rule: 20th of the following month; annual reconciliation due February 28 regardless of regular frequency. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Michigan's own tax agency site this session",
     "source_url": "https://www.michigan.gov/taxes/business-taxes/due/filing-deadlines-2",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-michigan-q4",
@@ -1373,7 +1873,13 @@
     "description": "Q4 2026 (Oct-Dec) sales tax return, applying Michigan's quarterly-filer due-date rule: 20th of the following month; annual reconciliation due February 28 regardless of regular frequency. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Michigan's own tax agency site this session",
     "source_url": "https://www.michigan.gov/taxes/business-taxes/due/filing-deadlines-2",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-minnesota-q1",
@@ -1389,7 +1895,13 @@
     "description": "Q1 2026 (Jan-Mar) sales tax return, applying Minnesota's quarterly-filer due-date rule: 20th of the following month; annual filers due February 5. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Minnesota's own tax agency site this session",
     "source_url": "https://www.revenue.state.mn.us/sales-tax-return-filing-due-dates",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-minnesota-q2",
@@ -1405,7 +1917,13 @@
     "description": "Q2 2026 (Apr-Jun) sales tax return, applying Minnesota's quarterly-filer due-date rule: 20th of the following month; annual filers due February 5. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Minnesota's own tax agency site this session",
     "source_url": "https://www.revenue.state.mn.us/sales-tax-return-filing-due-dates",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 7,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-minnesota-q3",
@@ -1421,7 +1939,13 @@
     "description": "Q3 2026 (Jul-Sep) sales tax return, applying Minnesota's quarterly-filer due-date rule: 20th of the following month; annual filers due February 5. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Minnesota's own tax agency site this session",
     "source_url": "https://www.revenue.state.mn.us/sales-tax-return-filing-due-dates",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-minnesota-q4",
@@ -1437,7 +1961,13 @@
     "description": "Q4 2026 (Oct-Dec) sales tax return, applying Minnesota's quarterly-filer due-date rule: 20th of the following month; annual filers due February 5. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Minnesota's own tax agency site this session",
     "source_url": "https://www.revenue.state.mn.us/sales-tax-return-filing-due-dates",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-mississippi-q1",
@@ -1453,7 +1983,13 @@
     "description": "Q1 2026 (Jan-Mar) sales tax return, applying Mississippi's quarterly-filer due-date rule: 20th day following the end of the reporting period. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Mississippi's own tax agency site this session",
     "source_url": "https://www.dor.ms.gov/business/sales-use-tax/reporting-requirements",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-mississippi-q2",
@@ -1469,7 +2005,13 @@
     "description": "Q2 2026 (Apr-Jun) sales tax return, applying Mississippi's quarterly-filer due-date rule: 20th day following the end of the reporting period. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Mississippi's own tax agency site this session",
     "source_url": "https://www.dor.ms.gov/business/sales-use-tax/reporting-requirements",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 7,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-mississippi-q3",
@@ -1485,7 +2027,13 @@
     "description": "Q3 2026 (Jul-Sep) sales tax return, applying Mississippi's quarterly-filer due-date rule: 20th day following the end of the reporting period. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Mississippi's own tax agency site this session",
     "source_url": "https://www.dor.ms.gov/business/sales-use-tax/reporting-requirements",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-mississippi-q4",
@@ -1501,7 +2049,13 @@
     "description": "Q4 2026 (Oct-Dec) sales tax return, applying Mississippi's quarterly-filer due-date rule: 20th day following the end of the reporting period. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Mississippi's own tax agency site this session",
     "source_url": "https://www.dor.ms.gov/business/sales-use-tax/reporting-requirements",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-missouri-q1",
@@ -1517,7 +2071,13 @@
     "description": "Q1 2026 (Jan-Mar) sales tax return, applying Missouri's quarterly-filer due-date rule: Last day of the following month; annual filers due January 31. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Missouri's own tax agency site this session",
     "source_url": "https://dor.mo.gov/faq/taxation/business/sales-tax-filing.html",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-missouri-q2",
@@ -1533,7 +2093,13 @@
     "description": "Q2 2026 (Apr-Jun) sales tax return, applying Missouri's quarterly-filer due-date rule: Last day of the following month; annual filers due January 31. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Missouri's own tax agency site this session",
     "source_url": "https://dor.mo.gov/faq/taxation/business/sales-tax-filing.html",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-missouri-q3",
@@ -1549,7 +2115,13 @@
     "description": "Q3 2026 (Jul-Sep) sales tax return, applying Missouri's quarterly-filer due-date rule: Last day of the following month; annual filers due January 31. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Missouri's own tax agency site this session",
     "source_url": "https://dor.mo.gov/faq/taxation/business/sales-tax-filing.html",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-missouri-q4",
@@ -1565,7 +2137,13 @@
     "description": "Q4 2026 (Oct-Dec) sales tax return, applying Missouri's quarterly-filer due-date rule: Last day of the following month; annual filers due January 31. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Missouri's own tax agency site this session",
     "source_url": "https://dor.mo.gov/faq/taxation/business/sales-tax-filing.html",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-montana",
@@ -1581,7 +2159,8 @@
     "description": "No general state sales/use tax (only narrow, specific taxes such as lodging/rental-car taxes).",
     "authority": "Direct fetch of Montana's own tax agency site this session",
     "source_url": "https://mtrevenue.gov/taxes/miscellaneous-taxes-and-fees/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": null
   },
   {
     "id": "state-sales-nebraska-q1",
@@ -1597,7 +2176,13 @@
     "description": "Q1 2026 (Jan-Mar) sales tax return, applying Nebraska's quarterly-filer due-date rule: 20th of the month following the tax period. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Nebraska's own tax agency site this session",
     "source_url": "https://revenue.nebraska.gov/about/frequently-asked-questions/nebraska-sales-and-use-tax-faqs",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-nebraska-q2",
@@ -1613,7 +2198,13 @@
     "description": "Q2 2026 (Apr-Jun) sales tax return, applying Nebraska's quarterly-filer due-date rule: 20th of the month following the tax period. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Nebraska's own tax agency site this session",
     "source_url": "https://revenue.nebraska.gov/about/frequently-asked-questions/nebraska-sales-and-use-tax-faqs",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 7,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-nebraska-q3",
@@ -1629,7 +2220,13 @@
     "description": "Q3 2026 (Jul-Sep) sales tax return, applying Nebraska's quarterly-filer due-date rule: 20th of the month following the tax period. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Nebraska's own tax agency site this session",
     "source_url": "https://revenue.nebraska.gov/about/frequently-asked-questions/nebraska-sales-and-use-tax-faqs",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-nebraska-q4",
@@ -1645,7 +2242,13 @@
     "description": "Q4 2026 (Oct-Dec) sales tax return, applying Nebraska's quarterly-filer due-date rule: 20th of the month following the tax period. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Nebraska's own tax agency site this session",
     "source_url": "https://revenue.nebraska.gov/about/frequently-asked-questions/nebraska-sales-and-use-tax-faqs",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-nevada-q1",
@@ -1661,7 +2264,13 @@
     "description": "Q1 2026 (Jan-Mar) sales tax return, applying Nevada's quarterly-filer due-date rule: Effective with the February 2026 filing period, due the 20th of the month following the reporting period (accelerated from the prior last-day-of-following-month rule under AB 594 - a recent change; older secondary sources may still show the old rule). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Nevada's own tax agency site this session",
     "source_url": "https://tax.nv.gov/wp-content/uploads/2026/01/Department-of-Taxation-New-Sales-Tax-filing-date.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-nevada-q2",
@@ -1677,7 +2286,13 @@
     "description": "Q2 2026 (Apr-Jun) sales tax return, applying Nevada's quarterly-filer due-date rule: Effective with the February 2026 filing period, due the 20th of the month following the reporting period (accelerated from the prior last-day-of-following-month rule under AB 594 - a recent change; older secondary sources may still show the old rule). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Nevada's own tax agency site this session",
     "source_url": "https://tax.nv.gov/wp-content/uploads/2026/01/Department-of-Taxation-New-Sales-Tax-filing-date.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 7,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-nevada-q3",
@@ -1693,7 +2308,13 @@
     "description": "Q3 2026 (Jul-Sep) sales tax return, applying Nevada's quarterly-filer due-date rule: Effective with the February 2026 filing period, due the 20th of the month following the reporting period (accelerated from the prior last-day-of-following-month rule under AB 594 - a recent change; older secondary sources may still show the old rule). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Nevada's own tax agency site this session",
     "source_url": "https://tax.nv.gov/wp-content/uploads/2026/01/Department-of-Taxation-New-Sales-Tax-filing-date.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-nevada-q4",
@@ -1709,7 +2330,13 @@
     "description": "Q4 2026 (Oct-Dec) sales tax return, applying Nevada's quarterly-filer due-date rule: Effective with the February 2026 filing period, due the 20th of the month following the reporting period (accelerated from the prior last-day-of-following-month rule under AB 594 - a recent change; older secondary sources may still show the old rule). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Nevada's own tax agency site this session",
     "source_url": "https://tax.nv.gov/wp-content/uploads/2026/01/Department-of-Taxation-New-Sales-Tax-filing-date.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-new-hampshire",
@@ -1725,7 +2352,8 @@
     "description": "No general state sales tax.",
     "authority": "Direct fetch of New Hampshire's own tax agency site this session",
     "source_url": "https://www.revenue.nh.gov/faq/does-new-hampshire-have-sales-tax",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": null
   },
   {
     "id": "state-sales-new-jersey-q1",
@@ -1741,7 +2369,13 @@
     "description": "Q1 2026 (Jan-Mar) sales tax return, applying New Jersey's quarterly-filer due-date rule: Quarterly is the standard filing frequency, due 20th of month following the quarter end (larger filers make monthly prepayments in between). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of New Jersey's own tax agency site this session",
     "source_url": "https://www.nj.gov/treasury/taxation/sales-use-filing.shtml",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-new-jersey-q2",
@@ -1757,7 +2391,13 @@
     "description": "Q2 2026 (Apr-Jun) sales tax return, applying New Jersey's quarterly-filer due-date rule: Quarterly is the standard filing frequency, due 20th of month following the quarter end (larger filers make monthly prepayments in between). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of New Jersey's own tax agency site this session",
     "source_url": "https://www.nj.gov/treasury/taxation/sales-use-filing.shtml",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 7,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-new-jersey-q3",
@@ -1773,7 +2413,13 @@
     "description": "Q3 2026 (Jul-Sep) sales tax return, applying New Jersey's quarterly-filer due-date rule: Quarterly is the standard filing frequency, due 20th of month following the quarter end (larger filers make monthly prepayments in between). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of New Jersey's own tax agency site this session",
     "source_url": "https://www.nj.gov/treasury/taxation/sales-use-filing.shtml",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-new-jersey-q4",
@@ -1789,7 +2435,13 @@
     "description": "Q4 2026 (Oct-Dec) sales tax return, applying New Jersey's quarterly-filer due-date rule: Quarterly is the standard filing frequency, due 20th of month following the quarter end (larger filers make monthly prepayments in between). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of New Jersey's own tax agency site this session",
     "source_url": "https://www.nj.gov/treasury/taxation/sales-use-filing.shtml",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-new-mexico-q1",
@@ -1805,7 +2457,13 @@
     "description": "Q1 2026 (Jan-Mar) sales tax return, applying New Mexico's quarterly-filer due-date rule: Gross Receipts Tax (functions as sales tax) due 25th of month following the reporting period; also semiannual (July 25 / January 25). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of New Mexico's own tax agency site this session",
     "source_url": "https://realfile.tax.newmexico.gov/trd-41413ins.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 25,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-new-mexico-q2",
@@ -1821,7 +2479,13 @@
     "description": "Q2 2026 (Apr-Jun) sales tax return, applying New Mexico's quarterly-filer due-date rule: Gross Receipts Tax (functions as sales tax) due 25th of month following the reporting period; also semiannual (July 25 / January 25). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of New Mexico's own tax agency site this session",
     "source_url": "https://realfile.tax.newmexico.gov/trd-41413ins.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 7,
+      "day": 25,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-new-mexico-q3",
@@ -1837,7 +2501,13 @@
     "description": "Q3 2026 (Jul-Sep) sales tax return, applying New Mexico's quarterly-filer due-date rule: Gross Receipts Tax (functions as sales tax) due 25th of month following the reporting period; also semiannual (July 25 / January 25). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of New Mexico's own tax agency site this session",
     "source_url": "https://realfile.tax.newmexico.gov/trd-41413ins.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 25,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-new-mexico-q4",
@@ -1853,7 +2523,13 @@
     "description": "Q4 2026 (Oct-Dec) sales tax return, applying New Mexico's quarterly-filer due-date rule: Gross Receipts Tax (functions as sales tax) due 25th of month following the reporting period; also semiannual (July 25 / January 25). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of New Mexico's own tax agency site this session",
     "source_url": "https://realfile.tax.newmexico.gov/trd-41413ins.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 25,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-new-york-q1",
@@ -1869,7 +2545,13 @@
     "description": "Q1 2026 (Jan-Mar) sales tax return, applying New York's quarterly-filer due-date rule: Quarterly is the default frequency, due 20 days after the end of New York's own quarter cycle (Mar-May, Jun-Aug, Sep-Nov, Dec-Feb) - note this differs from the calendar-quarter cycle used elsewhere; this entry uses calendar-quarter-equivalent dates for consistency with the rest of the data set. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of New York's own tax agency site this session",
     "source_url": "https://www.tax.ny.gov/pubs_and_bulls/tg_bulletins/st/filing_requirements_for_sales_and_use_tax_returns.htm",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-new-york-q2",
@@ -1885,7 +2567,13 @@
     "description": "Q2 2026 (Apr-Jun) sales tax return, applying New York's quarterly-filer due-date rule: Quarterly is the default frequency, due 20 days after the end of New York's own quarter cycle (Mar-May, Jun-Aug, Sep-Nov, Dec-Feb) - note this differs from the calendar-quarter cycle used elsewhere; this entry uses calendar-quarter-equivalent dates for consistency with the rest of the data set. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of New York's own tax agency site this session",
     "source_url": "https://www.tax.ny.gov/pubs_and_bulls/tg_bulletins/st/filing_requirements_for_sales_and_use_tax_returns.htm",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 7,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-new-york-q3",
@@ -1901,7 +2589,13 @@
     "description": "Q3 2026 (Jul-Sep) sales tax return, applying New York's quarterly-filer due-date rule: Quarterly is the default frequency, due 20 days after the end of New York's own quarter cycle (Mar-May, Jun-Aug, Sep-Nov, Dec-Feb) - note this differs from the calendar-quarter cycle used elsewhere; this entry uses calendar-quarter-equivalent dates for consistency with the rest of the data set. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of New York's own tax agency site this session",
     "source_url": "https://www.tax.ny.gov/pubs_and_bulls/tg_bulletins/st/filing_requirements_for_sales_and_use_tax_returns.htm",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-new-york-q4",
@@ -1917,7 +2611,13 @@
     "description": "Q4 2026 (Oct-Dec) sales tax return, applying New York's quarterly-filer due-date rule: Quarterly is the default frequency, due 20 days after the end of New York's own quarter cycle (Mar-May, Jun-Aug, Sep-Nov, Dec-Feb) - note this differs from the calendar-quarter cycle used elsewhere; this entry uses calendar-quarter-equivalent dates for consistency with the rest of the data set. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of New York's own tax agency site this session",
     "source_url": "https://www.tax.ny.gov/pubs_and_bulls/tg_bulletins/st/filing_requirements_for_sales_and_use_tax_returns.htm",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-north-carolina-q1",
@@ -1933,7 +2633,13 @@
     "description": "Q1 2026 (Jan-Mar) sales tax return, applying North Carolina's quarterly-filer due-date rule: 20th of the following month; quarterly filers due the last day of Jan/Apr/Jul/Oct for the preceding 3-month period. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of North Carolina's own tax agency site this session",
     "source_url": "https://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-filing-requirements-payment-options/filing-frequency-and-due-dates",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-north-carolina-q2",
@@ -1949,7 +2655,13 @@
     "description": "Q2 2026 (Apr-Jun) sales tax return, applying North Carolina's quarterly-filer due-date rule: 20th of the following month; quarterly filers due the last day of Jan/Apr/Jul/Oct for the preceding 3-month period. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of North Carolina's own tax agency site this session",
     "source_url": "https://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-filing-requirements-payment-options/filing-frequency-and-due-dates",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 7,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-north-carolina-q3",
@@ -1965,7 +2677,13 @@
     "description": "Q3 2026 (Jul-Sep) sales tax return, applying North Carolina's quarterly-filer due-date rule: 20th of the following month; quarterly filers due the last day of Jan/Apr/Jul/Oct for the preceding 3-month period. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of North Carolina's own tax agency site this session",
     "source_url": "https://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-filing-requirements-payment-options/filing-frequency-and-due-dates",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-north-carolina-q4",
@@ -1981,7 +2699,13 @@
     "description": "Q4 2026 (Oct-Dec) sales tax return, applying North Carolina's quarterly-filer due-date rule: 20th of the following month; quarterly filers due the last day of Jan/Apr/Jul/Oct for the preceding 3-month period. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of North Carolina's own tax agency site this session",
     "source_url": "https://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-filing-requirements-payment-options/filing-frequency-and-due-dates",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-north-dakota-q1",
@@ -1997,7 +2721,13 @@
     "description": "Q1 2026 (Jan-Mar) sales tax return, applying North Dakota's quarterly-filer due-date rule: Last day of the following month; annual filers due the last day of January. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of North Dakota's own tax agency site this session",
     "source_url": "https://www.tax.nd.gov/sales-and-use-tax-deadlines",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-north-dakota-q2",
@@ -2013,7 +2743,13 @@
     "description": "Q2 2026 (Apr-Jun) sales tax return, applying North Dakota's quarterly-filer due-date rule: Last day of the following month; annual filers due the last day of January. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of North Dakota's own tax agency site this session",
     "source_url": "https://www.tax.nd.gov/sales-and-use-tax-deadlines",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-north-dakota-q3",
@@ -2029,7 +2765,13 @@
     "description": "Q3 2026 (Jul-Sep) sales tax return, applying North Dakota's quarterly-filer due-date rule: Last day of the following month; annual filers due the last day of January. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of North Dakota's own tax agency site this session",
     "source_url": "https://www.tax.nd.gov/sales-and-use-tax-deadlines",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-north-dakota-q4",
@@ -2045,7 +2787,13 @@
     "description": "Q4 2026 (Oct-Dec) sales tax return, applying North Dakota's quarterly-filer due-date rule: Last day of the following month; annual filers due the last day of January. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of North Dakota's own tax agency site this session",
     "source_url": "https://www.tax.nd.gov/sales-and-use-tax-deadlines",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-ohio-q1",
@@ -2061,7 +2809,13 @@
     "description": "Q1 2026 (Jan-Mar) sales tax return, applying Ohio's quarterly-filer due-date rule: 23rd of the month following the reporting period (also semiannual). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Ohio's own tax agency site this session",
     "source_url": "https://tax.ohio.gov/help-center/faqs/sales-and-use-information-for-vendors-licensing-and-filing/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 23,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-ohio-q2",
@@ -2077,7 +2831,13 @@
     "description": "Q2 2026 (Apr-Jun) sales tax return, applying Ohio's quarterly-filer due-date rule: 23rd of the month following the reporting period (also semiannual). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Ohio's own tax agency site this session",
     "source_url": "https://tax.ohio.gov/help-center/faqs/sales-and-use-information-for-vendors-licensing-and-filing/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 7,
+      "day": 23,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-ohio-q3",
@@ -2093,7 +2853,13 @@
     "description": "Q3 2026 (Jul-Sep) sales tax return, applying Ohio's quarterly-filer due-date rule: 23rd of the month following the reporting period (also semiannual). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Ohio's own tax agency site this session",
     "source_url": "https://tax.ohio.gov/help-center/faqs/sales-and-use-information-for-vendors-licensing-and-filing/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 23,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-ohio-q4",
@@ -2109,7 +2875,13 @@
     "description": "Q4 2026 (Oct-Dec) sales tax return, applying Ohio's quarterly-filer due-date rule: 23rd of the month following the reporting period (also semiannual). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Ohio's own tax agency site this session",
     "source_url": "https://tax.ohio.gov/help-center/faqs/sales-and-use-information-for-vendors-licensing-and-filing/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 23,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-oklahoma-q1",
@@ -2125,7 +2897,13 @@
     "description": "Q1 2026 (Jan-Mar) sales tax return, applying Oklahoma's quarterly-filer due-date rule: 20th of the following month (postmark rule). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Oklahoma's own tax agency site this session",
     "source_url": "https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/businesses/general/STS-20002-A.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-oklahoma-q2",
@@ -2141,7 +2919,13 @@
     "description": "Q2 2026 (Apr-Jun) sales tax return, applying Oklahoma's quarterly-filer due-date rule: 20th of the following month (postmark rule). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Oklahoma's own tax agency site this session",
     "source_url": "https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/businesses/general/STS-20002-A.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 7,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-oklahoma-q3",
@@ -2157,7 +2941,13 @@
     "description": "Q3 2026 (Jul-Sep) sales tax return, applying Oklahoma's quarterly-filer due-date rule: 20th of the following month (postmark rule). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Oklahoma's own tax agency site this session",
     "source_url": "https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/businesses/general/STS-20002-A.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-oklahoma-q4",
@@ -2173,7 +2963,13 @@
     "description": "Q4 2026 (Oct-Dec) sales tax return, applying Oklahoma's quarterly-filer due-date rule: 20th of the following month (postmark rule). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Oklahoma's own tax agency site this session",
     "source_url": "https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/businesses/general/STS-20002-A.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-oregon",
@@ -2189,7 +2985,8 @@
     "description": "No general state sales tax.",
     "authority": "Direct fetch of Oregon's own tax agency site this session",
     "source_url": "https://www.oregon.gov/dor/programs/businesses/pages/sales-tax.aspx",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": null
   },
   {
     "id": "state-sales-pennsylvania-q1",
@@ -2205,7 +3002,13 @@
     "description": "Q1 2026 (Jan-Mar) sales tax return, applying Pennsylvania's quarterly-filer due-date rule: 20th of the following month; quarterly due Apr/Jul/Oct/Jan 20 (also semiannual). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Pennsylvania's own tax agency site this session",
     "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/revenue/documents/formsandpublications/otherforms/documents/dpo-05.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-pennsylvania-q2",
@@ -2221,7 +3024,13 @@
     "description": "Q2 2026 (Apr-Jun) sales tax return, applying Pennsylvania's quarterly-filer due-date rule: 20th of the following month; quarterly due Apr/Jul/Oct/Jan 20 (also semiannual). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Pennsylvania's own tax agency site this session",
     "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/revenue/documents/formsandpublications/otherforms/documents/dpo-05.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 7,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-pennsylvania-q3",
@@ -2237,7 +3046,13 @@
     "description": "Q3 2026 (Jul-Sep) sales tax return, applying Pennsylvania's quarterly-filer due-date rule: 20th of the following month; quarterly due Apr/Jul/Oct/Jan 20 (also semiannual). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Pennsylvania's own tax agency site this session",
     "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/revenue/documents/formsandpublications/otherforms/documents/dpo-05.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-pennsylvania-q4",
@@ -2253,7 +3068,13 @@
     "description": "Q4 2026 (Oct-Dec) sales tax return, applying Pennsylvania's quarterly-filer due-date rule: 20th of the following month; quarterly due Apr/Jul/Oct/Jan 20 (also semiannual). This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Pennsylvania's own tax agency site this session",
     "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/revenue/documents/formsandpublications/otherforms/documents/dpo-05.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-rhode-island-q1",
@@ -2269,7 +3090,13 @@
     "description": "Q1 2026 (Jan-Mar) sales tax return, applying Rhode Island's quarterly-filer due-date rule: 20th of the following month; quarterly available by election if liability is low, due last day of Jul/Oct/Jan/Apr. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Rhode Island's own tax agency site this session",
     "source_url": "https://tax.ri.gov/tax-sections/sales-excise-taxes/sales-use-tax",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-rhode-island-q2",
@@ -2285,7 +3112,13 @@
     "description": "Q2 2026 (Apr-Jun) sales tax return, applying Rhode Island's quarterly-filer due-date rule: 20th of the following month; quarterly available by election if liability is low, due last day of Jul/Oct/Jan/Apr. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Rhode Island's own tax agency site this session",
     "source_url": "https://tax.ri.gov/tax-sections/sales-excise-taxes/sales-use-tax",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 7,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-rhode-island-q3",
@@ -2301,7 +3134,13 @@
     "description": "Q3 2026 (Jul-Sep) sales tax return, applying Rhode Island's quarterly-filer due-date rule: 20th of the following month; quarterly available by election if liability is low, due last day of Jul/Oct/Jan/Apr. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Rhode Island's own tax agency site this session",
     "source_url": "https://tax.ri.gov/tax-sections/sales-excise-taxes/sales-use-tax",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-rhode-island-q4",
@@ -2317,7 +3156,13 @@
     "description": "Q4 2026 (Oct-Dec) sales tax return, applying Rhode Island's quarterly-filer due-date rule: 20th of the following month; quarterly available by election if liability is low, due last day of Jul/Oct/Jan/Apr. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Rhode Island's own tax agency site this session",
     "source_url": "https://tax.ri.gov/tax-sections/sales-excise-taxes/sales-use-tax",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-south-carolina-q1",
@@ -2333,7 +3178,13 @@
     "description": "Q1 2026 (Jan-Mar) sales tax return, applying South Carolina's quarterly-filer due-date rule: 20th of the following month, applied to whichever period (monthly/quarterly) is assigned. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of South Carolina's own tax agency site this session",
     "source_url": "https://dor.sc.gov/sales-use-tax-discount-timely-filed-returns",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-south-carolina-q2",
@@ -2349,7 +3200,13 @@
     "description": "Q2 2026 (Apr-Jun) sales tax return, applying South Carolina's quarterly-filer due-date rule: 20th of the following month, applied to whichever period (monthly/quarterly) is assigned. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of South Carolina's own tax agency site this session",
     "source_url": "https://dor.sc.gov/sales-use-tax-discount-timely-filed-returns",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 7,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-south-carolina-q3",
@@ -2365,7 +3222,13 @@
     "description": "Q3 2026 (Jul-Sep) sales tax return, applying South Carolina's quarterly-filer due-date rule: 20th of the following month, applied to whichever period (monthly/quarterly) is assigned. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of South Carolina's own tax agency site this session",
     "source_url": "https://dor.sc.gov/sales-use-tax-discount-timely-filed-returns",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-south-carolina-q4",
@@ -2381,7 +3244,13 @@
     "description": "Q4 2026 (Oct-Dec) sales tax return, applying South Carolina's quarterly-filer due-date rule: 20th of the following month, applied to whichever period (monthly/quarterly) is assigned. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of South Carolina's own tax agency site this session",
     "source_url": "https://dor.sc.gov/sales-use-tax-discount-timely-filed-returns",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-south-dakota-q1",
@@ -2397,7 +3266,13 @@
     "description": "Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electronic and paper returns are both due the 20th of the month following the reporting period. This is a representative recurring pattern, not a single annual deadline.",
     "authority": "Direct fetch of South Dakota DOR's January 2026 Sales and Use Tax Guide PDF this session.",
     "source_url": "https://dor.sd.gov/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-south-dakota-q2",
@@ -2413,7 +3288,13 @@
     "description": "Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electronic and paper returns are both due the 20th of the month following the reporting period. This is a representative recurring pattern, not a single annual deadline.",
     "authority": "Direct fetch of South Dakota DOR's January 2026 Sales and Use Tax Guide PDF this session.",
     "source_url": "https://dor.sd.gov/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 7,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-south-dakota-q3",
@@ -2429,7 +3310,13 @@
     "description": "Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electronic and paper returns are both due the 20th of the month following the reporting period. This is a representative recurring pattern, not a single annual deadline.",
     "authority": "Direct fetch of South Dakota DOR's January 2026 Sales and Use Tax Guide PDF this session.",
     "source_url": "https://dor.sd.gov/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-south-dakota-q4",
@@ -2445,7 +3332,13 @@
     "description": "Confirmed via SD DOR's own 2026 Sales and Use Tax Guide: electronic and paper returns are both due the 20th of the month following the reporting period. This is a representative recurring pattern, not a single annual deadline.",
     "authority": "Direct fetch of South Dakota DOR's January 2026 Sales and Use Tax Guide PDF this session.",
     "source_url": "https://dor.sd.gov/media/kavh1fzg/2026-1_sales-use-tax-guide.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-tennessee-q1",
@@ -2461,7 +3354,13 @@
     "description": "Q1 2026 (Jan-Mar) sales tax return, applying Tennessee's quarterly-filer due-date rule: 20th of month following the reporting period; quarterly due 20th of month following quarter end, annual filers due January 20. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Tennessee's own tax agency site this session",
     "source_url": "https://revenue.support.tn.gov/hc/en-us/articles/360058589911-SUT-9-Sales-and-Use-Tax-Filing-Filing-Due-Dates",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-tennessee-q2",
@@ -2477,7 +3376,13 @@
     "description": "Q2 2026 (Apr-Jun) sales tax return, applying Tennessee's quarterly-filer due-date rule: 20th of month following the reporting period; quarterly due 20th of month following quarter end, annual filers due January 20. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Tennessee's own tax agency site this session",
     "source_url": "https://revenue.support.tn.gov/hc/en-us/articles/360058589911-SUT-9-Sales-and-Use-Tax-Filing-Filing-Due-Dates",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 7,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-tennessee-q3",
@@ -2493,7 +3398,13 @@
     "description": "Q3 2026 (Jul-Sep) sales tax return, applying Tennessee's quarterly-filer due-date rule: 20th of month following the reporting period; quarterly due 20th of month following quarter end, annual filers due January 20. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Tennessee's own tax agency site this session",
     "source_url": "https://revenue.support.tn.gov/hc/en-us/articles/360058589911-SUT-9-Sales-and-Use-Tax-Filing-Filing-Due-Dates",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-tennessee-q4",
@@ -2509,7 +3420,13 @@
     "description": "Q4 2026 (Oct-Dec) sales tax return, applying Tennessee's quarterly-filer due-date rule: 20th of month following the reporting period; quarterly due 20th of month following quarter end, annual filers due January 20. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Tennessee's own tax agency site this session",
     "source_url": "https://revenue.support.tn.gov/hc/en-us/articles/360058589911-SUT-9-Sales-and-Use-Tax-Filing-Filing-Due-Dates",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-texas-q1",
@@ -2525,7 +3442,13 @@
     "description": "20th of the following month. Confirmed directly: \"A monthly filer owes tax of $2,500.00 for its February report due March 20.\" \"A quarterly filer owes tax of $750.00 for its first quarter report due April 20.\" This is a representative recurring pattern, not a single annual deadline.",
     "authority": "Direct fetch of the Texas Comptroller's own Sales and Use Tax FAQ page this session",
     "source_url": "https://comptroller.texas.gov/taxes/sales/faq/report-pay.php",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-texas-q2",
@@ -2541,7 +3464,13 @@
     "description": "20th of the following month. Confirmed directly: \"A monthly filer owes tax of $2,500.00 for its February report due March 20.\" \"A quarterly filer owes tax of $750.00 for its first quarter report due April 20.\" This is a representative recurring pattern, not a single annual deadline.",
     "authority": "Direct fetch of the Texas Comptroller's own Sales and Use Tax FAQ page this session",
     "source_url": "https://comptroller.texas.gov/taxes/sales/faq/report-pay.php",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 7,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-texas-q3",
@@ -2557,7 +3486,13 @@
     "description": "20th of the following month. Confirmed directly: \"A monthly filer owes tax of $2,500.00 for its February report due March 20.\" \"A quarterly filer owes tax of $750.00 for its first quarter report due April 20.\" This is a representative recurring pattern, not a single annual deadline.",
     "authority": "Direct fetch of the Texas Comptroller's own Sales and Use Tax FAQ page this session",
     "source_url": "https://comptroller.texas.gov/taxes/sales/faq/report-pay.php",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-texas-q4",
@@ -2573,7 +3508,13 @@
     "description": "20th of the following month. Confirmed directly: \"A monthly filer owes tax of $2,500.00 for its February report due March 20.\" \"A quarterly filer owes tax of $750.00 for its first quarter report due April 20.\" This is a representative recurring pattern, not a single annual deadline.",
     "authority": "Direct fetch of the Texas Comptroller's own Sales and Use Tax FAQ page this session",
     "source_url": "https://comptroller.texas.gov/taxes/sales/faq/report-pay.php",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-utah-q1",
@@ -2589,7 +3530,13 @@
     "description": "Q1 2026 (Jan-Mar) sales tax return, applying Utah's quarterly-filer due-date rule: Last day of the following month; quarterly due Apr 30/Jul 31/Oct 31/Jan 31, annual filers due January 31. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Utah's own tax agency site this session",
     "source_url": "https://tax.utah.gov/?p=988",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-utah-q2",
@@ -2605,7 +3552,13 @@
     "description": "Q2 2026 (Apr-Jun) sales tax return, applying Utah's quarterly-filer due-date rule: Last day of the following month; quarterly due Apr 30/Jul 31/Oct 31/Jan 31, annual filers due January 31. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Utah's own tax agency site this session",
     "source_url": "https://tax.utah.gov/?p=988",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-utah-q3",
@@ -2621,7 +3574,13 @@
     "description": "Q3 2026 (Jul-Sep) sales tax return, applying Utah's quarterly-filer due-date rule: Last day of the following month; quarterly due Apr 30/Jul 31/Oct 31/Jan 31, annual filers due January 31. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Utah's own tax agency site this session",
     "source_url": "https://tax.utah.gov/?p=988",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-utah-q4",
@@ -2637,7 +3596,13 @@
     "description": "Q4 2026 (Oct-Dec) sales tax return, applying Utah's quarterly-filer due-date rule: Last day of the following month; quarterly due Apr 30/Jul 31/Oct 31/Jan 31, annual filers due January 31. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Utah's own tax agency site this session",
     "source_url": "https://tax.utah.gov/?p=988",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-vermont-q1",
@@ -2653,7 +3618,13 @@
     "description": "Vermont's actual rule (confirmed this session directly against tax.vermont.gov, correcting a prior secondary-sourced figure): monthly filers due the 25th of the following month; quarterly filers due the 27th of the month following the quarter (April/July/October/January); annual filers due January 25 of the following year. These entries use the quarterly 27th-day rule. This is a representative recurring pattern, not a single annual deadline.",
     "authority": "Direct fetch of tax.vermont.gov's Sales and Use Tax program page this session.",
     "source_url": "https://tax.vermont.gov/business/sales-and-use-tax",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 27,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-vermont-q2",
@@ -2669,7 +3640,13 @@
     "description": "Vermont's actual rule (confirmed this session directly against tax.vermont.gov, correcting a prior secondary-sourced figure): monthly filers due the 25th of the following month; quarterly filers due the 27th of the month following the quarter (April/July/October/January); annual filers due January 25 of the following year. These entries use the quarterly 27th-day rule. This is a representative recurring pattern, not a single annual deadline.",
     "authority": "Direct fetch of tax.vermont.gov's Sales and Use Tax program page this session.",
     "source_url": "https://tax.vermont.gov/business/sales-and-use-tax",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 7,
+      "day": 27,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-vermont-q3",
@@ -2685,7 +3662,13 @@
     "description": "Vermont's actual rule (confirmed this session directly against tax.vermont.gov, correcting a prior secondary-sourced figure): monthly filers due the 25th of the following month; quarterly filers due the 27th of the month following the quarter (April/July/October/January); annual filers due January 25 of the following year. These entries use the quarterly 27th-day rule. This is a representative recurring pattern, not a single annual deadline.",
     "authority": "Direct fetch of tax.vermont.gov's Sales and Use Tax program page this session.",
     "source_url": "https://tax.vermont.gov/business/sales-and-use-tax",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 27,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-vermont-q4",
@@ -2701,7 +3684,13 @@
     "description": "Vermont's actual rule (confirmed this session directly against tax.vermont.gov, correcting a prior secondary-sourced figure): monthly filers due the 25th of the following month; quarterly filers due the 27th of the month following the quarter (April/July/October/January); annual filers due January 25 of the following year. These entries use the quarterly 27th-day rule. This is a representative recurring pattern, not a single annual deadline.",
     "authority": "Direct fetch of tax.vermont.gov's Sales and Use Tax program page this session.",
     "source_url": "https://tax.vermont.gov/business/sales-and-use-tax",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 27,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-virginia-q1",
@@ -2717,7 +3706,13 @@
     "description": "Q1 2026 (Jan-Mar) sales tax return, applying Virginia's quarterly-filer due-date rule: 20th of the following month, per Virginia Administrative Code 23VAC10-210-480. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Virginia's own tax agency site this session",
     "source_url": "https://law.lis.virginia.gov/admincode/title23/agency10/chapter210/section480/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-virginia-q2",
@@ -2733,7 +3728,13 @@
     "description": "Q2 2026 (Apr-Jun) sales tax return, applying Virginia's quarterly-filer due-date rule: 20th of the following month, per Virginia Administrative Code 23VAC10-210-480. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Virginia's own tax agency site this session",
     "source_url": "https://law.lis.virginia.gov/admincode/title23/agency10/chapter210/section480/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 7,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-virginia-q3",
@@ -2749,7 +3750,13 @@
     "description": "Q3 2026 (Jul-Sep) sales tax return, applying Virginia's quarterly-filer due-date rule: 20th of the following month, per Virginia Administrative Code 23VAC10-210-480. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Virginia's own tax agency site this session",
     "source_url": "https://law.lis.virginia.gov/admincode/title23/agency10/chapter210/section480/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-virginia-q4",
@@ -2765,7 +3772,13 @@
     "description": "Q4 2026 (Oct-Dec) sales tax return, applying Virginia's quarterly-filer due-date rule: 20th of the following month, per Virginia Administrative Code 23VAC10-210-480. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Virginia's own tax agency site this session",
     "source_url": "https://law.lis.virginia.gov/admincode/title23/agency10/chapter210/section480/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-washington-q1",
@@ -2781,7 +3794,13 @@
     "description": "Q1 2026 (Jan-Mar) sales tax return, applying Washington's quarterly-filer due-date rule: 25th of the following month; quarterly due last day of month following quarter end, annual filers due April 15. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Washington's own tax agency site this session",
     "source_url": "https://dor.wa.gov/file-pay-taxes/filing-frequencies-due-dates",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 25,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-washington-q2",
@@ -2797,7 +3816,13 @@
     "description": "Q2 2026 (Apr-Jun) sales tax return, applying Washington's quarterly-filer due-date rule: 25th of the following month; quarterly due last day of month following quarter end, annual filers due April 15. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Washington's own tax agency site this session",
     "source_url": "https://dor.wa.gov/file-pay-taxes/filing-frequencies-due-dates",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 7,
+      "day": 25,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-washington-q3",
@@ -2813,7 +3838,13 @@
     "description": "Q3 2026 (Jul-Sep) sales tax return, applying Washington's quarterly-filer due-date rule: 25th of the following month; quarterly due last day of month following quarter end, annual filers due April 15. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Washington's own tax agency site this session",
     "source_url": "https://dor.wa.gov/file-pay-taxes/filing-frequencies-due-dates",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 25,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-washington-q4",
@@ -2829,7 +3860,13 @@
     "description": "Q4 2026 (Oct-Dec) sales tax return, applying Washington's quarterly-filer due-date rule: 25th of the following month; quarterly due last day of month following quarter end, annual filers due April 15. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Washington's own tax agency site this session",
     "source_url": "https://dor.wa.gov/file-pay-taxes/filing-frequencies-due-dates",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 25,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-west-virginia-q1",
@@ -2845,7 +3882,13 @@
     "description": "Q1 2026 (Jan-Mar) sales tax return, applying West Virginia's quarterly-filer due-date rule: 20th of the following month (small-volume threshold applies); annual filers due the 20th day following year end. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of West Virginia's own tax agency site this session",
     "source_url": "https://tax.wv.gov/Documents/CST/cst200cu.instructions.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-west-virginia-q2",
@@ -2861,7 +3904,13 @@
     "description": "Q2 2026 (Apr-Jun) sales tax return, applying West Virginia's quarterly-filer due-date rule: 20th of the following month (small-volume threshold applies); annual filers due the 20th day following year end. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of West Virginia's own tax agency site this session",
     "source_url": "https://tax.wv.gov/Documents/CST/cst200cu.instructions.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 7,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-west-virginia-q3",
@@ -2877,7 +3926,13 @@
     "description": "Q3 2026 (Jul-Sep) sales tax return, applying West Virginia's quarterly-filer due-date rule: 20th of the following month (small-volume threshold applies); annual filers due the 20th day following year end. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of West Virginia's own tax agency site this session",
     "source_url": "https://tax.wv.gov/Documents/CST/cst200cu.instructions.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-west-virginia-q4",
@@ -2893,7 +3948,13 @@
     "description": "Q4 2026 (Oct-Dec) sales tax return, applying West Virginia's quarterly-filer due-date rule: 20th of the following month (small-volume threshold applies); annual filers due the 20th day following year end. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of West Virginia's own tax agency site this session",
     "source_url": "https://tax.wv.gov/Documents/CST/cst200cu.instructions.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-sales-wisconsin-q1",
@@ -2909,7 +3970,13 @@
     "description": "Q1 2026 (Jan-Mar) sales tax return, applying Wisconsin's quarterly-filer due-date rule: Last day of the following month for standard filers; 'early monthly' filers use the 20th - this entry uses the standard last-day rule. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Wisconsin's own tax agency site this session",
     "source_url": "https://www.revenue.wi.gov/Pages/FAQS/pcs-sales.aspx",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-wisconsin-q2",
@@ -2925,7 +3992,13 @@
     "description": "Q2 2026 (Apr-Jun) sales tax return, applying Wisconsin's quarterly-filer due-date rule: Last day of the following month for standard filers; 'early monthly' filers use the 20th - this entry uses the standard last-day rule. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Wisconsin's own tax agency site this session",
     "source_url": "https://www.revenue.wi.gov/Pages/FAQS/pcs-sales.aspx",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-wisconsin-q3",
@@ -2941,7 +4014,13 @@
     "description": "Q3 2026 (Jul-Sep) sales tax return, applying Wisconsin's quarterly-filer due-date rule: Last day of the following month for standard filers; 'early monthly' filers use the 20th - this entry uses the standard last-day rule. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Wisconsin's own tax agency site this session",
     "source_url": "https://www.revenue.wi.gov/Pages/FAQS/pcs-sales.aspx",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-wisconsin-q4",
@@ -2957,7 +4036,13 @@
     "description": "Q4 2026 (Oct-Dec) sales tax return, applying Wisconsin's quarterly-filer due-date rule: Last day of the following month for standard filers; 'early monthly' filers use the 20th - this entry uses the standard last-day rule. This is a representative recurring pattern, not a single annual deadline - actual filing frequency (monthly/quarterly/annual) is assigned per business by the state.",
     "authority": "Direct fetch of Wisconsin's own tax agency site this session",
     "source_url": "https://www.revenue.wi.gov/Pages/FAQS/pcs-sales.aspx",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-wyoming-q1",
@@ -2973,7 +4058,13 @@
     "description": "Last day of the month following the reporting period. Confirmed directly: \"All returns must be postmarked by the last day of the month following the last month in the reporting period.\" This is a representative recurring pattern, not a single annual deadline.",
     "authority": "Direct fetch of Wyoming DOR's Form 41 Instructions (Sales & Use Tax Return for Licensed Vendors, Monthly and Quarterly Filers) this session",
     "source_url": "https://excise-tax-div.wyo.gov/salesuselodging-tax/salesuselodging-returns",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-wyoming-q2",
@@ -2989,7 +4080,13 @@
     "description": "Last day of the month following the reporting period. Confirmed directly: \"All returns must be postmarked by the last day of the month following the last month in the reporting period.\" This is a representative recurring pattern, not a single annual deadline.",
     "authority": "Direct fetch of Wyoming DOR's Form 41 Instructions (Sales & Use Tax Return for Licensed Vendors, Monthly and Quarterly Filers) this session",
     "source_url": "https://excise-tax-div.wyo.gov/salesuselodging-tax/salesuselodging-returns",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 7,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-wyoming-q3",
@@ -3005,7 +4102,13 @@
     "description": "Last day of the month following the reporting period. Confirmed directly: \"All returns must be postmarked by the last day of the month following the last month in the reporting period.\" This is a representative recurring pattern, not a single annual deadline.",
     "authority": "Direct fetch of Wyoming DOR's Form 41 Instructions (Sales & Use Tax Return for Licensed Vendors, Monthly and Quarterly Filers) this session",
     "source_url": "https://excise-tax-div.wyo.gov/salesuselodging-tax/salesuselodging-returns",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 10,
+      "shift": false
+    }
   },
   {
     "id": "state-sales-wyoming-q4",
@@ -3021,6 +4124,12 @@
     "description": "Last day of the month following the reporting period. Confirmed directly: \"All returns must be postmarked by the last day of the month following the last month in the reporting period.\" This is a representative recurring pattern, not a single annual deadline.",
     "authority": "Direct fetch of Wyoming DOR's Form 41 Instructions (Sales & Use Tax Return for Licensed Vendors, Monthly and Quarterly Filers) this session",
     "source_url": "https://excise-tax-div.wyo.gov/salesuselodging-tax/salesuselodging-returns",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   }
 ]

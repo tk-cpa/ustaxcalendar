@@ -13,7 +13,13 @@
     "description": "Corporate due date is May 15 for calendar-year filers (one month after the federal individual due date, not April 15); extension is federal extended due date plus one month. This is a filing-only extension - full tax is due by the original due date.",
     "authority": "Direct fetch of Alabama's own tax agency site/publication this session",
     "source_url": "https://www.revenue.alabama.gov/individual-corporate/due-dates/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 5,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-alaska",
@@ -29,7 +35,13 @@
     "description": "Due 15th day of 5th month after year end (May 15); automatic extension to 15th day of month following the federal extended due date (November 15).",
     "authority": "Direct fetch of Alaska DOR Form 6000 Instructions PDF this session (accessed directly via the document viewer URL, bypassing a robots.txt block on the HTML site), corroborated by a 2024 mirror of the same official instructions: \"C Corporations, generally - Filing due date: 15th of the fifth month; Extended due date: 15th of the eleventh month.\"",
     "source_url": "https://tax.alaska.gov/programs/documentviewer/viewer.aspx?6661f",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": 15,
+      "month_offset": 5,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-arizona",
@@ -45,7 +57,13 @@
     "description": "Returns due 15th day of 4th month after year end; automatic 7-month extension via Form 120/165EXT confirmed directly on an AZDOR-hosted form.",
     "authority": "Direct fetch of Arizona's own tax agency site/publication this session",
     "source_url": "https://azdor.gov/business/corporate-income-tax",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": 15,
+      "month_offset": 4,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-arkansas",
@@ -61,7 +79,13 @@
     "description": "Due April 15; Act 629 of 2021 gives an additional one-month Arkansas extension beyond the federal extended due date.",
     "authority": "Direct fetch of Arkansas's own tax agency site/publication this session",
     "source_url": "https://www.dfa.arkansas.gov/office/taxes/income-tax-administration/corporation-income-tax/corporate-faqs/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-california",
@@ -77,7 +101,13 @@
     "description": "Due 15th day of 4th month after year end; automatic 7-month extension to the 15th day of the 11th month, no request needed (payment still due on original date).",
     "authority": "Direct fetch of California's own tax agency site/publication this session",
     "source_url": "https://www.ftb.ca.gov/file/business/types/corporations/c-corporations.html",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": 15,
+      "month_offset": 4,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-colorado",
@@ -93,7 +123,13 @@
     "description": "Due 15th day of 5th month after year end; automatic 6-month filing extension (no extension on payment).",
     "authority": "Direct fetch of Colorado's own tax agency site/publication this session",
     "source_url": "https://tax.colorado.gov/sites/tax/files/documents/DR0112_Book_2024.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": 15,
+      "month_offset": 5,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-connecticut",
@@ -109,7 +145,13 @@
     "description": "Due 15th day of month following the federal due date (May 15 for calendar year); extended due date is 15th day of 11th month after year end.",
     "authority": "Direct fetch of Connecticut's own tax agency site/publication this session",
     "source_url": "https://portal.ct.gov/drs/corporation-tax/tax-information",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 5,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-delaware",
@@ -125,7 +167,13 @@
     "description": "Form 1100 due 15th day of 4th month after year end; a federal 6-month extension automatically extends the Delaware filing date by 6 months.",
     "authority": "Direct fetch of Delaware's own tax agency site/publication this session",
     "source_url": "https://revenuefiles.delaware.gov/2022/1100_TY22Instructions.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": 15,
+      "month_offset": 4,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-district-of-columbia",
@@ -141,7 +189,13 @@
     "description": "Calendar-year filers due April 15; automatic 6-month extension to October 15.",
     "authority": "Direct fetch of District of Columbia's own tax agency site/publication this session",
     "source_url": "https://otr.cfo.dc.gov/page/franchise-tax-faqs",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-florida",
@@ -157,7 +211,13 @@
     "description": "Florida's own due-date chart for a 12/31/25 year end lists original due date 5/1/26 and extended due date 12/31/26 - later than the standard 6-month pattern most states use.",
     "authority": "Direct fetch of Florida's own tax agency site/publication this session",
     "source_url": "https://floridarevenue.com/taxes/Documents/flCitDueDates.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 5,
+      "day": 1,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-georgia",
@@ -173,7 +233,13 @@
     "description": "Due 15th day of 4th month after year end; automatic extension to the 15th day of the 11th month.",
     "authority": "Direct fetch of Georgia's own tax agency site/publication this session",
     "source_url": "https://dor.georgia.gov/corporate-due-dates",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": 15,
+      "month_offset": 4,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-hawaii",
@@ -189,7 +255,13 @@
     "description": "Form N-30 due 20th day of 4th month after year end; automatic 6-month extension, filing only (Form N-201V).",
     "authority": "Direct fetch of Hawaii's own tax agency site/publication this session",
     "source_url": "https://files.hawaii.gov/tax/forms/current/n30ins.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": 20,
+      "month_offset": 4,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-idaho",
@@ -205,7 +277,13 @@
     "description": "Due 15th day of 4th month after year end; automatic 6-month extension conditioned on paying 80% of current-year or 100% of prior-year tax by the original due date.",
     "authority": "Direct fetch of Idaho's own tax agency site/publication this session",
     "source_url": "https://tax.idaho.gov/taxes/income-tax/extension/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": 15,
+      "month_offset": 4,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-illinois",
@@ -221,7 +299,13 @@
     "description": "Form IL-1120 due 15th day of 4th month after year end; automatic 7-month extension for non-June-30 year ends.",
     "authority": "Direct fetch of Illinois's own tax agency site/publication this session",
     "source_url": "https://tax.illinois.gov/questionsandanswers/answer.69.html",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": 15,
+      "month_offset": 4,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-indiana",
@@ -237,7 +321,13 @@
     "description": "IT-20 uses the 15th day of the 5th month after year end (not month 4); extended due date computed as 30 days after the 15th day of the 10th month after year end.",
     "authority": "Direct fetch of Indiana's own tax agency site/publication this session",
     "source_url": "https://www.in.gov/dor/files/gb303.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": 15,
+      "month_offset": 5,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-iowa",
@@ -253,7 +343,13 @@
     "description": "IA 1120 due the last day of the 4th month after year end (April 30 for calendar year); automatic 6-month extension (to October 30) if 90%+ of tax was paid by the original due date - filing only, interest still accrues.",
     "authority": "Direct fetch of the current (2025 tax year) Iowa Corporation Income Tax Instructions PDF this session: \"Return is due no later than April 30, 2026.\" \"All taxpayers who have paid 90% or more of their correct tax on or before the original due date of their return automatically have an additional six months in which to file their return.\"",
     "source_url": "https://revenue.iowa.gov/media/4372/download?inline=",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-kansas",
@@ -269,7 +365,13 @@
     "description": "Due April 15; if a federal extension is granted, the Kansas deadline is one month after the federal extended due date.",
     "authority": "Direct fetch of Kansas's own tax agency site/publication this session",
     "source_url": "https://www.ksrevenue.gov/pdf/pub1515.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-kentucky",
@@ -285,7 +387,13 @@
     "description": "Due 15th day of 4th month after year end; payment is never extended. The specific length/mechanics of Kentucky's filing extension were not stated on the page fetched, so the extended date is left unconfirmed rather than assumed to mirror the federal 6-month extension.",
     "authority": "Direct fetch of Kentucky's own tax agency site/publication this session",
     "source_url": "https://revenue.ky.gov/Business/Corporation-Income-and-Limited-Liability-Entity-Tax/pages/corporation-llc-pass-through-tax-faqs.aspx",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": 15,
+      "month_offset": 4,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-louisiana",
@@ -301,7 +409,13 @@
     "description": "Due 15th day of 5th month after year end (Form CIFT-620); automatic 6-month extension if a federal extension was timely requested, filing only.",
     "authority": "Direct fetch of Louisiana's own tax agency site/publication this session",
     "source_url": "https://revenue.louisiana.gov/businesses/business-taxes/coporate-income-franchise-tax/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": 15,
+      "month_offset": 5,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-maine",
@@ -317,7 +431,13 @@
     "description": "Due 15th day of 4th month after year end (same as federal); automatic 6-month extension, no written request needed.",
     "authority": "Direct fetch of Maine's own tax agency site/publication this session",
     "source_url": "https://www.maine.gov/revenue/faq/corporate-income-tax",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": 15,
+      "month_offset": 4,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-maryland",
@@ -333,7 +453,13 @@
     "description": "Due 15th day of 4th month after year end; Form 500E grants an additional 7 months (payment still due on original date).",
     "authority": "Direct fetch of Maryland's own tax agency site/publication this session",
     "source_url": "https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/instructions/2025/corporate-booklet.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": 15,
+      "month_offset": 4,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-massachusetts",
@@ -349,7 +475,13 @@
     "description": "Form 355 due April 15; automatic extension conditioned on paying the greater of 50% of tax due or the minimum corporate excise by the original due date.",
     "authority": "Direct fetch of Massachusetts's own tax agency site/publication this session",
     "source_url": "https://www.mass.gov/info-details/massachusetts-dor-tax-due-dates-and-extensions",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-michigan",
@@ -365,7 +497,13 @@
     "description": "CIT annual return due the last day of the 4th month after year end; automatic extension to the last day of the 8th month, conditioned on a federal extension plus a tentative return/payment.",
     "authority": "Direct fetch of Michigan's own tax agency site/publication this session",
     "source_url": "https://www.michigan.gov/taxes/business-taxes/cit/detail/filing-requirements",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-minnesota",
@@ -381,7 +519,13 @@
     "description": "C-corp franchise tax due April 15; extension filing date listed as November 16 (tax payment still due April 15).",
     "authority": "Direct fetch of Minnesota's own tax agency site/publication this session",
     "source_url": "https://www.revenue.state.mn.us/tax-due-dates",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-mississippi",
@@ -397,7 +541,13 @@
     "description": "Due 15th day of 4th month after year end; extension available upon timely request/payment, but the .gov FAQ does not quantify the extension length in months, so no extended date is stated.",
     "authority": "Direct fetch of Mississippi's own tax agency site/publication this session",
     "source_url": "https://www.dor.ms.gov/business/business-tax-frequently-asked-questions",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": 15,
+      "month_offset": 4,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-missouri",
@@ -413,7 +563,13 @@
     "description": "Form MO-1120 due 15th day of 4th month after year end; Missouri automatically extends to match the federal extension, but the .gov source does not give a single fixed Missouri date (it ties to whatever the federal extension is). Payment still due on the original date.",
     "authority": "Direct fetch of Missouri's own tax agency site/publication this session",
     "source_url": "https://dor.mo.gov/forms/MO-1120%20Instructions_2025.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": 15,
+      "month_offset": 4,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-montana",
@@ -429,7 +585,13 @@
     "description": "Montana's C-corp due date is one month later than the federal due date (May 15); automatic 6-month extension, payment still due by the original date.",
     "authority": "Direct fetch of Montana's own tax agency site/publication this session",
     "source_url": "https://revenue.mt.gov/taxes/corporate-income-tax",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 5,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-nebraska",
@@ -445,7 +607,13 @@
     "description": "Form 1120N due 15th day of 4th month after year end; extension via Form 7004N or attached federal Form 7004, capped at 7 months total after the original due date.",
     "authority": "Direct fetch of Nebraska's own tax agency site/publication this session",
     "source_url": "https://revenue.nebraska.gov/about/frequently-asked-questions/business-income-tax-faqs",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": 15,
+      "month_offset": 4,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-nevada",
@@ -461,7 +629,8 @@
     "description": "No traditional corporate income tax. Nevada instead imposes a Commerce Tax (gross-receipts based) on entities with Nevada gross revenue over $4 million, with an annual return due 45 days after the Commerce Tax year's June 30 fiscal year end (not a calendar-year income-tax analog, so not represented as a date_2026 entry here).",
     "authority": "Direct fetch of Nevada's own tax agency site/publication this session",
     "source_url": "https://tax.nv.gov/tax-types/commerce-tax/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": null
   },
   {
     "id": "state-corp-new-hampshire",
@@ -477,7 +646,13 @@
     "description": "Business Profits Tax return due 15th day of 4th month after the tax period end (April 15 for calendar-year filers); the automatic extension length was not stated on the FAQ page fetched, so no extended date is given.",
     "authority": "Direct fetch of New Hampshire's own tax agency site/publication this session",
     "source_url": "https://www.revenue.nh.gov/resource-center/frequently-asked-questions/business-profits-tax",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": 15,
+      "month_offset": 4,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-new-jersey",
@@ -493,7 +668,13 @@
     "description": "CBT-100 due date is the 15th day of the month following the federal corporate return's original due date (May 15 for calendar year, not the standard 15th-of-4th-month rule); automatic 6-month extension via Form CBT-200-T conditioned on having paid 90%+ of tax liability by the original due date.",
     "authority": "Direct fetch of New Jersey's own tax agency site/publication this session",
     "source_url": "https://www.nj.gov/treasury/taxation/pdf/current/cbt/cbt100ins.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 5,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-new-mexico",
@@ -509,7 +690,13 @@
     "description": "Due 15th day of 4th month after year end; New Mexico automatically honors a federal 6-month extension with no separate state application needed.",
     "authority": "Direct fetch of New Mexico's own tax agency site/publication this session",
     "source_url": "https://www.tax.newmexico.gov/businesses/corporate-income-franchise-tax-overview/filing-requirements/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": 15,
+      "month_offset": 4,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-new-york",
@@ -525,7 +712,13 @@
     "description": "Form CT-3/CT-3-A due April 15; automatic 6-month extension via Form CT-5.3 with tax paid by the original due date.",
     "authority": "Direct fetch of New York's own tax agency site/publication this session",
     "source_url": "https://www.tax.ny.gov/forms/html-instructions/2025/ct/ct3ai-2025.htm",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-north-carolina",
@@ -541,7 +734,13 @@
     "description": "CD-405 due 15th day of 4th month after year end; automatic 7-month extension for tax years beginning on or after January 1, 2025 (a change from the prior 6-month extension).",
     "authority": "Direct fetch of North Carolina's own tax agency site/publication this session",
     "source_url": "https://www.ncdor.gov/taxes-forms/corporate-income-franchise-tax/extensions",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": 15,
+      "month_offset": 4,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-north-dakota",
@@ -557,7 +756,13 @@
     "description": "Form 40 due April 15; extended deadline ties to the federal extension, landing on November 16, 2026 because November 15 falls on a Sunday (weekend roll-forward, not a stated fixed date).",
     "authority": "Direct fetch of North Dakota's own tax agency site/publication this session",
     "source_url": "https://www.tax.nd.gov/corporate-income-tax-deadlines",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-ohio",
@@ -573,7 +778,8 @@
     "description": "No traditional corporate income tax; C-corporations are instead subject to the Commercial Activity Tax (CAT), filed quarterly (not an annual calendar-year return) with due dates of May 10, August 10, November 10, and February 10 of the following year.",
     "authority": "Direct fetch of Ohio's own tax agency site/publication this session",
     "source_url": "https://tax.ohio.gov/business/ohio-business-taxes/commercial-activities/cat-filing-due-dates",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": null
   },
   {
     "id": "state-corp-oklahoma",
@@ -589,7 +795,13 @@
     "description": "Form 512 due 30 days after the federal return's due date (~May 15). Extension mechanism confirmed directly: if no Oklahoma liability is owed, an approved federal extension automatically extends the OK due date to match; otherwise Form 504-C grants an extension not exceeding 7 months total. No single fixed calendar date is stated by Oklahoma's own instructions - it's a floating mechanism, not a flat date, confirmed directly against the 512-Pkt and 504-C instructions.",
     "authority": "Direct fetch of Oklahoma's 512-Pkt and Form 504-C instructions this session: \"Your Oklahoma return is due 30 days after the due date of your federal return.\" \"An approved federal filing extension automatically extends the due date for your Oklahoma return\" (if no OK liability owed); 504-C: \"an extension may not exceed a total of 7 months.\"",
     "source_url": "https://www.oklahoma.gov/content/dam/ok/en/tax/documents/forms/businesses/corporate-income-tax/current/512-Pkt.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 5,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-oregon",
@@ -605,7 +817,13 @@
     "description": "Oregon corporation returns due the 15th day of the month following the federal due date (May 15 for calendar year); no separate state extension form - the extended due date is the 15th day of the month following the federal extended due date, computed here as November 16, 2026 because November 15 falls on a Sunday.",
     "authority": "Direct fetch of Oregon's own tax agency site/publication this session",
     "source_url": "https://www.oregon.gov/dor/programs/businesses/pages/corp-requirements.aspx",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 5,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-pennsylvania",
@@ -621,7 +839,13 @@
     "description": "RCT-101 due May 15 for a calendar year end. PA generally follows the federal extension automatically; Form REV-853 grants an extension of up to 60 days if not using the federal extension - a variable-length extension, not a single fixed calendar date, confirmed directly against REV-853's own instructions.",
     "authority": "Direct fetch of PA's REV-853 instructions this session: \"you may file REV-853 to request a Pennsylvania extension of up to 60 days.\" Payment must still be made by the original due date.",
     "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/revenue/documents/formsandpublications/otherforms/documents/dpo-05.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 5,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-rhode-island",
@@ -637,7 +861,13 @@
     "description": "RI-1120C due 15th day of 4th month after year end (April 15); automatic 6-month extension via Form BUS-EXT with full estimated tax (or $400 minimum) remitted.",
     "authority": "Direct fetch of Rhode Island's own tax agency site/publication this session",
     "source_url": "https://tax.ri.gov/sites/g/files/xkgbur541/files/2024-12/2024%20General%20Instructions.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": 15,
+      "month_offset": 4,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-south-carolina",
@@ -653,7 +883,13 @@
     "description": "Due 15th day of 4th month after year end; automatic 6-month extension.",
     "authority": "Direct fetch of South Carolina's own tax agency site/publication this session",
     "source_url": "https://dor.sc.gov/business-income-taxes/corporate",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": 15,
+      "month_offset": 4,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-south-dakota",
@@ -669,7 +905,8 @@
     "description": "No corporate income tax.",
     "authority": "Direct fetch of South Dakota's own tax agency site/publication this session",
     "source_url": "https://dor.sd.gov/businesses/taxes/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": null
   },
   {
     "id": "state-corp-tennessee",
@@ -685,7 +922,13 @@
     "description": "Franchise & Excise Tax (Form FAE170) due 15th day of 4th month after year end; automatic 7-month extension for tax years beginning on/after 1/1/2021.",
     "authority": "Direct fetch of Tennessee's own tax agency site/publication this session",
     "source_url": "https://revenue.support.tn.gov/hc/en-us/articles/360057843932-F-E-5-Due-Date-for-Filing-Form-FAE170-and-Online-Filing-Requirement",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": 15,
+      "month_offset": 4,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-texas",
@@ -701,7 +944,13 @@
     "description": "Franchise (Margin) Tax report due May 15, 2026 (not a traditional corporate income tax); extension tentatively granted upon a timely online extension payment of 90% of current-year liability or 100% of prior-year liability.",
     "authority": "Direct fetch of Texas's own tax agency site/publication this session",
     "source_url": "https://comptroller.texas.gov/taxes/franchise/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 5,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-utah",
@@ -717,7 +966,13 @@
     "description": "TC-20 due April 15 (or the federal due date, if later); corporations are automatically allowed an extension of up to 6 months (to October 15, 2026) without filing an extension form - filing only, not an extension to pay.",
     "authority": "Direct fetch of the 2025 Utah TC-20 Instructions this session: \"Corporations are automatically allowed an extension of up to six months to file a return without filing an extension form.\"",
     "source_url": "https://files.tax.utah.gov/tax/forms/current/tc-20inst.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-vermont",
@@ -733,7 +988,13 @@
     "description": "Form CO-411 due April 15. Vermont's extended due date is 30 days beyond the federal extended due date (federal extends to October 15, 2026, so Vermont's computed extended date is November 14, 2026) - confirmed directly against the CO-411 instructions, which state the offset rule rather than a fixed calendar date.",
     "authority": "Direct fetch of Vermont's 2024 Form CO-411 Instructions this session: \"The Vermont extended due date is 30 days beyond the federal extended due date.\"",
     "source_url": "https://tax.vermont.gov/sites/tax/files/documents/CO-411-Instr-2024.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-virginia",
@@ -749,7 +1010,13 @@
     "description": "Due April 15; automatic 7-month filing extension for C-corporations (90%+ of final liability must be paid by April 15 to avoid extension penalties).",
     "authority": "Direct fetch of Virginia's own tax agency site/publication this session",
     "source_url": "https://www.tax.virginia.gov/corporation-income-tax",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-washington",
@@ -765,7 +1032,13 @@
     "description": "No corporate income tax - Washington imposes the Business & Occupation (B&O) tax, a periodic gross-receipts excise tax. For businesses assigned an annual filing frequency, the 2025 return is due April 15, 2026, though most businesses file monthly or quarterly instead of annually.",
     "authority": "Direct fetch of Washington's own tax agency site/publication this session",
     "source_url": "https://dor.wa.gov/file-pay-taxes/filing-frequencies-due-dates/annual-business-filers",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-west-virginia",
@@ -781,7 +1054,13 @@
     "description": "CIT-120 due April 15; automatic extension to October 15 if a federal extension was filed and attached.",
     "authority": "Direct fetch of West Virginia's own tax agency site/publication this session",
     "source_url": "https://tax.wv.gov/Documents/CIT/2025/cit120.instructions.2025.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-wisconsin",
@@ -797,7 +1076,13 @@
     "description": "Due April 15; without a federal extension, Wisconsin automatically grants a 7-month extension (or the original federal due date, whichever is later). If a federal extension is filed, the Wisconsin due date is 30 days after the federal extended due date.",
     "authority": "Direct fetch of Wisconsin's own tax agency site/publication this session",
     "source_url": "https://www.revenue.wi.gov/Pages/FAQS/ise-crpginfo.aspx",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-corp-wyoming",
@@ -813,6 +1098,7 @@
     "description": "No corporate income tax. Confirmed via a 2022 Wyoming Legislature Joint Revenue Committee memo (fresher than the 2003 report previously cited) - the Wyoming Department of Revenue's own site does not carry a general \"tax types\" overview page stating this negative fact directly, so the freshest available .gov-domain citation is this legislative research memo, not a Department of Revenue page itself.",
     "authority": "Wyoming Legislature Joint Revenue Committee memo (wyoleg.gov, 2022): \"Wyoming has no state income tax of any kind, whether on individuals, businesses, or trusts.\"",
     "source_url": "https://wyoleg.gov/InterimCommittee/2022/03-2022042711-01LRWMemo.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": null
   }
 ]

@@ -13,7 +13,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Due the same date as the corresponding federal income tax return. Alabama's own page does not state a separate automatic-extension date; it defers to the federal extension timeline.",
     "authority": "Direct fetch of https://www.revenue.alabama.gov/individual-corporate/due-dates/ this session",
     "source_url": "https://www.revenue.alabama.gov/individual-corporate/due-dates/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-alnt",
@@ -29,7 +35,8 @@
     "description": "Alaska imposes no personal/individual income tax (a corporate income tax does apply to C-corporations). Alaska Department of Revenue, Tax Division Deputy Director Brandon Spanos, official presentation to the Alaska Municipal League Tax Conference, direct fetch this session: describes \"25 different tax programs\" the Tax Division administers (oil & gas production tax, corporate income tax, and a list of excise taxes) with no individual/personal income tax program among them.",
     "authority": "Alaska Department of Revenue, Tax Division Deputy Director Brandon Spanos, official presentation to the Alaska Municipal League Tax Conference, direct fetch this session: describes \"25 different tax programs\" the Tax Division administers (oil & gas production tax, corporate income tax, and a list of excise taxes) with no individual/personal income tax program among them.",
     "source_url": "https://www.akml.org/wp-content/uploads/2023/10/Shared-Tax-Trends-Presentation-to-AML-Tax-Conference-9.28.23_spanos.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": null
   },
   {
     "id": "state-inc-ar",
@@ -45,7 +52,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Confirmed April 15, 2026 directly; a separate automatic-extension date was not stated on the page fetched.",
     "authority": "Direct fetch of https://azdor.gov/individual-income-tax-information/faq-during-tax-season this session",
     "source_url": "https://azdor.gov/individual-income-tax-information/faq-during-tax-season",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-ar",
@@ -61,7 +74,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Arkansas automatically honors a federal extension, giving a state deadline of November 15, one month after the federal October 15 extended date.",
     "authority": "Direct fetch of https://www.dfa.arkansas.gov/office/taxes/income-tax-administration/individual-income-tax/deadlines-extensions/ this session",
     "source_url": "https://www.dfa.arkansas.gov/office/taxes/income-tax-administration/individual-income-tax/deadlines-extensions/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-ca",
@@ -77,7 +96,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session.",
     "authority": "Direct fetch of https://www.ftb.ca.gov/file/when-to-file/due-dates-personal.html this session",
     "source_url": "https://www.ftb.ca.gov/file/when-to-file/due-dates-personal.html",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-co",
@@ -93,7 +118,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Colorado's extension is automatic (no form required), but at least 90% of tax owed must be paid by April 15.",
     "authority": "Direct fetch of https://tax.colorado.gov/income-tax-due-dates-filing-extension this session",
     "source_url": "https://tax.colorado.gov/income-tax-due-dates-filing-extension",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-co",
@@ -109,7 +140,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session.",
     "authority": "Direct fetch of https://portal.ct.gov/drs/individuals/resident-income-tax/tax-information this session",
     "source_url": "https://portal.ct.gov/drs/individuals/resident-income-tax/tax-information",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-de",
@@ -125,7 +162,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Division of Revenue's own announcement states the 2025 tax year filing deadline is Thursday, April 30, 2026. Automatic-extension date not confirmed this session.",
     "authority": "Direct fetch of https://news.delaware.gov/2026/01/08/delawares-tax-season-starts-january-26-2026/ this session",
     "source_url": "https://news.delaware.gov/2026/01/08/delawares-tax-season-starts-january-26-2026/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 30,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-dc",
@@ -141,7 +184,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Form FR-127 requests the extension; tax owed is still due April 15. A further extension may be available for filers living or traveling outside the U.S.",
     "authority": "Direct fetch of https://otr.cfo.dc.gov/page/individual-filings-faqs this session",
     "source_url": "https://otr.cfo.dc.gov/page/individual-filings-faqs",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-flnt",
@@ -157,7 +206,8 @@
     "description": "Florida imposes no personal/individual income tax. Florida Department of Revenue FAQ (floridarevenue.com), direct fetch this session: \"Florida does not impose a personal income tax, so there are no filing requirements.\"",
     "authority": "Florida Department of Revenue FAQ (floridarevenue.com), direct fetch this session: \"Florida does not impose a personal income tax, so there are no filing requirements.\"",
     "source_url": "https://floridarevenue.com/faq/Pages/FAQDetails.aspx?FAQID=1466",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": null
   },
   {
     "id": "state-inc-ge",
@@ -173,7 +223,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Automatic-extension date not confirmed this session.",
     "authority": "Direct fetch of https://dor.georgia.gov/taxes/tax-faqs-due-dates-and-other-resources/tax-due-dates this session",
     "source_url": "https://dor.georgia.gov/taxes/tax-faqs-due-dates-and-other-resources/tax-due-dates",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-ha",
@@ -189,7 +245,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Automatic 6-month extension to October 20, 2026 if the taxpayer either has a refund or pays the properly estimated tax by April 20; no extension form required.",
     "authority": "Direct fetch of https://tax.hawaii.gov/tax-year-information/ this session",
     "source_url": "https://tax.hawaii.gov/tax-year-information/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 20,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-id",
@@ -205,7 +267,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Automatic-extension date not confirmed this session.",
     "authority": "Direct fetch of https://tax.idaho.gov/taxes/income-tax/individual-income/filing-and-paying/ this session",
     "source_url": "https://tax.idaho.gov/taxes/income-tax/individual-income/filing-and-paying/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-il",
@@ -221,7 +289,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Extension is automatic (6 months); does not extend time to pay.",
     "authority": "Direct fetch of https://tax.illinois.gov/questionsandanswers/answer.4.html this session",
     "source_url": "https://tax.illinois.gov/questionsandanswers/answer.4.html",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-in",
@@ -237,7 +311,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session.",
     "authority": "Direct fetch of https://www.in.gov/dor/i-am-a/individual/tax-filing-deadlines/ this session",
     "source_url": "https://www.in.gov/dor/i-am-a/individual/tax-filing-deadlines/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-io",
@@ -253,7 +333,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Iowa Department of Revenue's own press release: 'Iowa income tax returns are due on April 30.' Automatic-extension date not independently confirmed this session (a prior, unverified handoff claimed November 2, 2026 - do not treat that as confirmed until checked directly).",
     "authority": "Direct fetch of https://revenue.iowa.gov/press-release/2026-01-27/idr-helps-you-prepare-tax-time-2025 this session",
     "source_url": "https://revenue.iowa.gov/press-release/2026-01-27/idr-helps-you-prepare-tax-time-2025",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 30,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-ka",
@@ -269,7 +355,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Kansas's automatic extension (tied to the federal extension) runs to August 15, 2026, not the more common October 15 pattern - confirmed directly from KS Pub. KS-1515.",
     "authority": "Direct fetch of https://www.ksrevenue.gov/pub1515.html this session",
     "source_url": "https://www.ksrevenue.gov/pub1515.html",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-ke",
@@ -285,7 +377,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Automatic-extension date not confirmed this session.",
     "authority": "Direct fetch of https://revenue.ky.gov/News/Pages/April.aspx this session",
     "source_url": "https://revenue.ky.gov/News/Pages/April.aspx",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-lo",
@@ -301,7 +399,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Automatic 6-month extension under La. R.S. 47:103, effective for tax year 2022 forward; no extension form required, but the extension does not extend time to pay.",
     "authority": "Direct fetch of https://revenue.louisiana.gov/IndividualIncomeTax this session",
     "source_url": "https://revenue.louisiana.gov/IndividualIncomeTax",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 5,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-ma",
@@ -317,7 +421,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Automatic-extension date not confirmed this session.",
     "authority": "Direct fetch of https://www.maine.gov/revenue/tax-return-forms/due-dates this session",
     "source_url": "https://www.maine.gov/revenue/tax-return-forms/due-dates",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-ma",
@@ -333,7 +443,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Confirmed via the Comptroller's own April 15, 2026 filing-deadline release. Automatic-extension date not confirmed this session.",
     "authority": "Direct fetch of https://www.marylandcomptroller.gov/content/dam/mdcomp/md/media/2026/04-15-2026-personal-income-tax-filing-deadline.pdf this session",
     "source_url": "https://www.marylandcomptroller.gov/content/dam/mdcomp/md/media/2026/04-15-2026-personal-income-tax-filing-deadline.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-ma",
@@ -349,7 +465,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. At least 80% of tax liability must be paid by April 15 for the extension to be valid.",
     "authority": "Direct fetch of https://www.mass.gov/info-details/tax-due-dates-and-extensions this session",
     "source_url": "https://www.mass.gov/info-details/tax-due-dates-and-extensions",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-mi",
@@ -365,7 +487,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Automatic-extension date not confirmed this session.",
     "authority": "Direct fetch of https://www.michigan.gov/treasury/news/2026/03/13/individual-income-tax-returns-due-in-a-month this session",
     "source_url": "https://www.michigan.gov/treasury/news/2026/03/13/individual-income-tax-returns-due-in-a-month",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-mi",
@@ -381,7 +509,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session.",
     "authority": "Direct fetch of https://www.revenue.state.mn.us/income-tax-due-dates this session",
     "source_url": "https://www.revenue.state.mn.us/income-tax-due-dates",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-mi",
@@ -397,7 +531,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Extension is for filing only, not for payment - tax owed is still due April 15.",
     "authority": "Direct fetch of https://www.dor.ms.gov/individual/individual-income-tax-frequently-asked-questions this session",
     "source_url": "https://www.dor.ms.gov/individual/individual-income-tax-frequently-asked-questions",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-mi",
@@ -413,7 +553,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Automatic-extension date not confirmed this session.",
     "authority": "Direct fetch of https://dor.mo.gov/tax-calendar/ this session",
     "source_url": "https://dor.mo.gov/tax-calendar/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-mo",
@@ -429,7 +575,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session.",
     "authority": "Direct fetch of https://revenue.mt.gov/taxes/individual-income-tax this session",
     "source_url": "https://revenue.mt.gov/taxes/individual-income-tax",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-ne",
@@ -445,7 +597,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Automatic-extension date not confirmed this session.",
     "authority": "Direct fetch of https://revenue.nebraska.gov/about/tax-calendar this session",
     "source_url": "https://revenue.nebraska.gov/about/tax-calendar",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-nent",
@@ -461,7 +619,8 @@
     "description": "Nevada imposes no personal/individual income tax. Nevada Department of Taxation (tax.nv.gov), direct fetch this session: \"No State Income Tax on Individuals: Nevada residents do not pay state tax on income earned from salaries, wages, or similar compensation.\" \"The State of Nevada does not impose a state income tax on individuals or participate in the administration of Federal Income Tax.\"",
     "authority": "Nevada Department of Taxation (tax.nv.gov), direct fetch this session: \"No State Income Tax on Individuals: Nevada residents do not pay state tax on income earned from salaries, wages, or similar compensation.\" \"The State of Nevada does not impose a state income tax on individuals or participate in the administration of Federal Income Tax.\"",
     "source_url": "https://tax.nv.gov/about-nevada-department-of-taxation/income-tax-in-nevada",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": null
   },
   {
     "id": "state-inc-nhnt",
@@ -477,7 +636,8 @@
     "description": "No tax on wage income; the Interest & Dividends Tax was fully repealed effective January 1, 2025.",
     "authority": "New Hampshire state government - well-established, no broad individual income tax regime",
     "source_url": "",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": null
   },
   {
     "id": "state-inc-nj",
@@ -493,7 +653,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. At least 80% of tax owed must be paid by April 15 to qualify for the extension.",
     "authority": "Direct fetch of https://www.nj.gov/treasury/unclaimed-property/treasury/taxation/njit17.shtml this session",
     "source_url": "https://www.nj.gov/treasury/unclaimed-property/treasury/taxation/njit17.shtml",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-nm",
@@ -509,7 +675,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Automatic-extension date not confirmed this session.",
     "authority": "Direct fetch of https://www.tax.newmexico.gov/wp-content/uploads/2026/03/20260315_Reminder-Income-tax-returns-due-April-15.pdf this session",
     "source_url": "https://www.tax.newmexico.gov/wp-content/uploads/2026/03/20260315_Reminder-Income-tax-returns-due-April-15.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-ny",
@@ -525,7 +697,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. An extension request itself must be filed by April 15; the resulting extended filing date was not stated on the page fetched (standard NY practice is October 15, not independently confirmed this session).",
     "authority": "Direct fetch of https://www.tax.ny.gov/pit/file/income_tax_filing_due_dates.htm this session",
     "source_url": "https://www.tax.ny.gov/pit/file/income_tax_filing_due_dates.htm",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-nc",
@@ -541,7 +719,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Automatic-extension date not confirmed this session.",
     "authority": "Direct fetch of https://www.ncdor.gov/news/press-releases/2026/04/07/ncdor-urges-taxpayers-file-april-15-deadline this session",
     "source_url": "https://www.ncdor.gov/news/press-releases/2026/04/07/ncdor-urges-taxpayers-file-april-15-deadline",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-nd",
@@ -557,7 +741,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Extension applies only to returns filed electronically through the Federal/State e-file program.",
     "authority": "Direct fetch of https://www.tax.nd.gov/individual-income-tax-deadlines this session",
     "source_url": "https://www.tax.nd.gov/individual-income-tax-deadlines",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-oh",
@@ -573,7 +763,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Ohio honors the IRS extension; all payments are still due April 15.",
     "authority": "Direct fetch of https://tax.ohio.gov/individual/who-must-file/filing-season-tip this session",
     "source_url": "https://tax.ohio.gov/individual/who-must-file/filing-season-tip",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-ok",
@@ -589,7 +785,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Confirmed standard April 15, 2026 directly from the Oklahoma Tax Commission; no separate April 20 e-file accommodation date was found on this page (a claim to that effect from a secondary aggregator was not corroborated).",
     "authority": "Direct fetch of https://oklahoma.gov/tax/newsroom/2026/01-15-2026.html this session",
     "source_url": "https://oklahoma.gov/tax/newsroom/2026/01-15-2026.html",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-or",
@@ -605,7 +807,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session.",
     "authority": "Direct fetch of https://www.oregon.gov/dor/pages/tax-calendar.aspx this session",
     "source_url": "https://www.oregon.gov/dor/pages/tax-calendar.aspx",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-pe",
@@ -621,7 +829,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Automatic-extension date not confirmed this session.",
     "authority": "Direct fetch of https://www.pa.gov/agencies/revenue/newsroom/tax-day-reminder--shapiro-administration-encourages-pennsylvanians-to-take-advantage-of-new-and-expanded-tax-credits-prior-to-april-15th-filing-deadline this session",
     "source_url": "https://www.pa.gov/agencies/revenue/newsroom/tax-day-reminder--shapiro-administration-encourages-pennsylvanians-to-take-advantage-of-new-and-expanded-tax-credits-prior-to-april-15th-filing-deadline",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-ri",
@@ -637,7 +851,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Rule stated as the 15th day of the 4th month after the close of the tax year. Automatic-extension date not confirmed this session.",
     "authority": "Direct fetch of https://tax.ri.gov/tax-sections/personal-income-tax this session",
     "source_url": "https://tax.ri.gov/tax-sections/personal-income-tax",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-sc",
@@ -653,7 +873,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Standing rule is April 15. SCDOR issued a statement March 26, 2026 extending the filing due date for all 2025 South Carolina individual income tax returns to October 15, 2026, tied to income tax conformity timing - a one-time relief measure, not a standing rule for future years.",
     "authority": "Direct fetch of https://dor.sc.gov/tax/individual-income this session",
     "source_url": "https://dor.sc.gov/tax/individual-income",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-sdnt",
@@ -669,7 +895,8 @@
     "description": "South Dakota imposes no personal/individual income tax. South Dakota Department of Revenue (dor.sd.gov), direct fetch this session: \"South Dakota is one of seven states that does not impose a state income tax.\"",
     "authority": "South Dakota Department of Revenue (dor.sd.gov), direct fetch this session: \"South Dakota is one of seven states that does not impose a state income tax.\"",
     "source_url": "https://dor.sd.gov/individuals/taxes/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": null
   },
   {
     "id": "state-inc-tent",
@@ -685,7 +912,8 @@
     "description": "Tennessee imposes no general personal/individual income tax. Its narrow Hall Income Tax (on interest and dividend income only) was repealed for tax periods beginning on or after January 1, 2021, and nothing replaced it. Tennessee Department of Revenue (tn.gov/revenue), direct fetch this session: \"The Hall Income tax was repealed for tax periods that begin on January 1, 2021, or later.\" Corroborated by the Department's own current tax list (tn.gov/revenue/taxes.html), which lists Business Tax, Franchise & Excise Tax, and Sales and Use Tax among \"Most Common Taxes\" with no individual income tax listed.",
     "authority": "Tennessee Department of Revenue (tn.gov/revenue), direct fetch this session: \"The Hall Income tax was repealed for tax periods that begin on January 1, 2021, or later.\" Corroborated by the Department's own current tax list (tn.gov/revenue/taxes.html), which lists Business Tax, Franchise & Excise Tax, and Sales and Use Tax among \"Most Common Taxes\" with no individual income tax listed.",
     "source_url": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": null
   },
   {
     "id": "state-inc-tent",
@@ -701,7 +929,8 @@
     "description": "Texas imposes no personal/individual income tax. Texas Comptroller of Public Accounts, \"A Field Guide to the Taxes of Texas\" (official Comptroller publication 96-1774), direct fetch this session: \"Texans pay federal income taxes but not state or local income taxes.\"",
     "authority": "Texas Comptroller of Public Accounts, \"A Field Guide to the Taxes of Texas\" (official Comptroller publication 96-1774), direct fetch this session: \"Texans pay federal income taxes but not state or local income taxes.\"",
     "source_url": "https://comptroller.texas.gov/transparency/revenue/docs/96-1774.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": null
   },
   {
     "id": "state-inc-ut",
@@ -717,7 +946,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Utah's own event calendar lists April 15, 2026 as the individual, corporate, and partnership income tax due date for the 2025 tax year. Automatic-extension date not confirmed this session.",
     "authority": "Direct fetch of https://tax.utah.gov/events/2026-04-15/ this session",
     "source_url": "https://tax.utah.gov/events/2026-04-15/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-ve",
@@ -733,7 +968,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session.",
     "authority": "Direct fetch of https://tax.vermont.gov/individuals/income-tax-returns this session",
     "source_url": "https://tax.vermont.gov/individuals/income-tax-returns",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-vi",
@@ -749,7 +990,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Automatic 6-month extension to file, no application required; tax owed is still due May 1.",
     "authority": "Direct fetch of https://www.tax.virginia.gov/when-to-file this session",
     "source_url": "https://www.tax.virginia.gov/when-to-file",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 5,
+      "day": 1,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-want",
@@ -765,7 +1012,8 @@
     "description": "Washington imposes no personal/individual income tax (a separate 7% capital gains excise tax on high earners applies to certain long-term capital gains, and a new 9.9% tax on individual/joint income above $1 million takes effect January 1, 2028 under SB 6346 - neither is a general individual income tax). Washington State Department of Revenue FAQ (dor.wa.gov), direct fetch this session: \"No. Washington does not currently have an individual income tax.\"",
     "authority": "Washington State Department of Revenue FAQ (dor.wa.gov), direct fetch this session: \"No. Washington does not currently have an individual income tax.\"",
     "source_url": "https://dor.wa.gov/taxes-rates/income-tax/frequently-asked-questions-about-income-tax",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": null
   },
   {
     "id": "state-inc-wv",
@@ -781,7 +1029,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. Automatic-extension date not confirmed this session.",
     "authority": "Direct fetch of https://tax.wv.gov/TaxCalendar/Pages/TaxCalendarApril.aspx this session",
     "source_url": "https://tax.wv.gov/TaxCalendar/Pages/TaxCalendarApril.aspx",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-wi",
@@ -797,7 +1051,13 @@
     "description": "State individual income tax return due date, confirmed directly against the state's own revenue/tax agency website this session. 180-day extension period matching the federal extension; interest still accrues on unpaid tax.",
     "authority": "Direct fetch of https://www.revenue.wi.gov/Pages/FAQS/pcs-late.aspx this session",
     "source_url": "https://www.revenue.wi.gov/Pages/FAQS/pcs-late.aspx",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-inc-wynt",
@@ -813,6 +1073,7 @@
     "description": "Wyoming imposes no personal/individual income tax. Wyoming Legislature Joint Revenue Committee memo (wyoleg.gov, 2022): \"Wyoming has no state income tax of any kind, whether on individuals, businesses, or trusts.\"",
     "authority": "Wyoming Legislature Joint Revenue Committee memo (wyoleg.gov, 2022): \"Wyoming has no state income tax of any kind, whether on individuals, businesses, or trusts.\"",
     "source_url": "https://wyoleg.gov/InterimCommittee/2022/03-2022042711-01LRWMemo.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": null
   }
 ]

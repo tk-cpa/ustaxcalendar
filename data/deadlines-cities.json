@@ -13,7 +13,13 @@
     "description": "NYC resident tax is computed on and filed with the New York State personal income tax return (Forms IT-201/IT-203); there is no separate NYC filing or due date.",
     "authority": "Direct fetch of tax.ny.gov this session (see state entry); NYC imposes no separate individual return",
     "source_url": "https://www.tax.ny.gov/pit/file/income_tax_filing_due_dates.htm",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "city-philadelphia-birt",
@@ -29,7 +35,13 @@
     "description": "File and pay the BIRT by April 15 for business activity from the 2025 calendar year.",
     "authority": "Direct fetch of phila.gov this session",
     "source_url": "https://www.phila.gov/services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/business-income-receipts-tax-birt/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "city-philadelphia-npt",
@@ -45,7 +57,13 @@
     "description": "File the 2025 tax year Net Profits Tax return by April 15, 2026.",
     "authority": "Direct fetch of phila.gov this session",
     "source_url": "https://www.phila.gov/services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/net-profits-tax/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "city-philadelphia-earnings",
@@ -61,7 +79,13 @@
     "description": "The 2025 Annual Earnings Tax Reconciliation is due April 15, 2026, confirmed directly against Philadelphia's own official instructions PDF this session.",
     "authority": "Direct fetch of the City of Philadelphia Department of Revenue's 2025 Earnings Tax return instructions PDF this session: \"The 2025 Annual Earnings Tax Reconciliation is due by April 15, 2026.\"",
     "source_url": "https://www.phila.gov/media/20260112135700/2025-Earnings-Tax-return-instructions-general-information.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "city-ohio-rita",
@@ -77,7 +101,13 @@
     "description": "File the 2025 RITA Form 37 by April 15, 2026 (postmark deadline for paper filers), covering individual income tax for RITA member municipalities across Ohio.",
     "authority": "Direct fetch of the 2025 Form 37 Instructions PDF from ritaohio.com this session",
     "source_url": "https://www.ritaohio.com/Media/703126/2025%20FORM%2037%20INSTRUCTIONS.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "city-michigan-detroit",
@@ -93,7 +123,13 @@
     "description": "The 2025 City of Detroit individual income tax return is due April 15, 2026, matching the Michigan state deadline since the state took over Detroit city-tax administration in 2015 (an older, pre-2015 April 30 due date no longer applies).",
     "authority": "Direct fetch of michigan.gov/taxes/citytax/detroit this session",
     "source_url": "https://www.michigan.gov/taxes/citytax/detroit/individual",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "city-kcmo",
@@ -109,7 +145,13 @@
     "description": "Confirmed via a Wayback Machine archive of kcmo.gov's own Tax FAQs page (the live page returns 403 to automated fetches, so the archived snapshot of the same official content was used): \"Annual returns are due April 15 each year\" and \"Residents who are self-employed must pay the one percent tax on the net profit of their business by filing a profits return with the Revenue Division by April 15 of each year.\" Corroborated by a third-party-hosted copy of the official RD-109 form itself.",
     "authority": "Wayback Machine archived snapshot of kcmo.gov's own Tax FAQs page (live page returns 403 to automated fetches)",
     "source_url": "https://web.archive.org/web/20221009025655/https://www.kcmo.gov/city-hall/departments/finance/tax-home/tax-faqs",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "city-stlouis",
@@ -125,7 +167,13 @@
     "description": "The St. Louis Collector of Revenue's own Form E-1 page states an April 15 due date; the page did not separately confirm the exact 2026 calendar date for the 2025 tax year.",
     "authority": "Direct fetch of stlouis-mo.gov this session",
     "source_url": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/individual-earnings-tax-info.cfm",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "city-portland-multnomah",
@@ -141,7 +189,13 @@
     "description": "Due April 15, 2026 for calendar-year 2025 filers, per Portland City Code 7.02.510 A.2, Metro Code 7.05.170(a), and Multnomah County Code section 11.530 A / 12.510(A). The one-month extension referenced on this page applies to C corporations only, not individual filers.",
     "authority": "Direct fetch of portland.gov/revenue this session",
     "source_url": "https://www.portland.gov/revenue/policy-tax-return-due-dates",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": 15,
+      "month_offset": 4,
+      "shift": true
+    }
   },
   {
     "id": "city-sanfrancisco",
@@ -157,6 +211,12 @@
     "description": "San Francisco's Annual Business Registration and Tax Return for tax year 2025 must be submitted and paid by March 2, 2026 to avoid late penalties - notably earlier than the April 15 pattern most other jurisdictions use. San Francisco has no separate individual wage-earner income tax; this is a business/gross-receipts tax that can apply to self-employed individuals.",
     "authority": "Direct fetch of the Treasurer & Tax Collector's Annual Business Registration and Tax Form Instructions this session",
     "source_url": "https://sftreasurer.org/annual-business-registration-and-tax-form-instructions-25-27",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 2,
+      "shift": true
+    }
   }
 ]

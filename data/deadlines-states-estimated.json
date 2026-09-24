@@ -13,7 +13,13 @@
     "description": "Q1 2026 state individual estimated tax payment. 1st payment: April 15, 2026; 2nd: June 15, 2026; 3rd: September 15, 2026; 4th: January 15, 2027.",
     "authority": "Direct fetch of California's own tax agency site/instructions this session",
     "source_url": "https://www.ftb.ca.gov/forms/2026/2026-540-es-instructions.html",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-california-q2",
@@ -29,7 +35,13 @@
     "description": "Q2 2026 state individual estimated tax payment. 1st payment: April 15, 2026; 2nd: June 15, 2026; 3rd: September 15, 2026; 4th: January 15, 2027.",
     "authority": "Direct fetch of California's own tax agency site/instructions this session",
     "source_url": "https://www.ftb.ca.gov/forms/2026/2026-540-es-instructions.html",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 6,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-california-q3",
@@ -45,7 +57,13 @@
     "description": "Q3 2026 state individual estimated tax payment. 1st payment: April 15, 2026; 2nd: June 15, 2026; 3rd: September 15, 2026; 4th: January 15, 2027.",
     "authority": "Direct fetch of California's own tax agency site/instructions this session",
     "source_url": "https://www.ftb.ca.gov/forms/2026/2026-540-es-instructions.html",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-california-q4",
@@ -61,7 +79,13 @@
     "description": "Q4 2026 state individual estimated tax payment. 1st payment: April 15, 2026; 2nd: June 15, 2026; 3rd: September 15, 2026; 4th: January 15, 2027.",
     "authority": "Direct fetch of California's own tax agency site/instructions this session",
     "source_url": "https://www.ftb.ca.gov/forms/2026/2026-540-es-instructions.html",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-new-york-q1",
@@ -77,7 +101,13 @@
     "description": "Q1 2026 state individual estimated tax payment. Same federal-pattern dates: April 15, June 15, September 15, 2026, and January 15, 2027.",
     "authority": "Direct fetch of New York's own tax agency site/instructions this session",
     "source_url": "https://www.tax.ny.gov/pit/estimated_tax/estimated_tax_payment_due_dates.htm",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-new-york-q2",
@@ -93,7 +123,13 @@
     "description": "Q2 2026 state individual estimated tax payment. Same federal-pattern dates: April 15, June 15, September 15, 2026, and January 15, 2027.",
     "authority": "Direct fetch of New York's own tax agency site/instructions this session",
     "source_url": "https://www.tax.ny.gov/pit/estimated_tax/estimated_tax_payment_due_dates.htm",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 6,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-new-york-q3",
@@ -109,7 +145,13 @@
     "description": "Q3 2026 state individual estimated tax payment. Same federal-pattern dates: April 15, June 15, September 15, 2026, and January 15, 2027.",
     "authority": "Direct fetch of New York's own tax agency site/instructions this session",
     "source_url": "https://www.tax.ny.gov/pit/estimated_tax/estimated_tax_payment_due_dates.htm",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-new-york-q4",
@@ -125,7 +167,13 @@
     "description": "Q4 2026 state individual estimated tax payment. Same federal-pattern dates: April 15, June 15, September 15, 2026, and January 15, 2027.",
     "authority": "Direct fetch of New York's own tax agency site/instructions this session",
     "source_url": "https://www.tax.ny.gov/pit/estimated_tax/estimated_tax_payment_due_dates.htm",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-illinois-q1",
@@ -141,7 +189,13 @@
     "description": "Q1 2026 state individual estimated tax payment. April 15, 2026; June 15, 2026; September 15, 2026; and January 15, 2027.",
     "authority": "Direct fetch of Illinois's own tax agency site/instructions this session",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/forms/incometax/documents/currentyear/individual/il-1040-es.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-illinois-q2",
@@ -157,7 +211,13 @@
     "description": "Q2 2026 state individual estimated tax payment. April 15, 2026; June 15, 2026; September 15, 2026; and January 15, 2027.",
     "authority": "Direct fetch of Illinois's own tax agency site/instructions this session",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/forms/incometax/documents/currentyear/individual/il-1040-es.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 6,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-illinois-q3",
@@ -173,7 +233,13 @@
     "description": "Q3 2026 state individual estimated tax payment. April 15, 2026; June 15, 2026; September 15, 2026; and January 15, 2027.",
     "authority": "Direct fetch of Illinois's own tax agency site/instructions this session",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/forms/incometax/documents/currentyear/individual/il-1040-es.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-illinois-q4",
@@ -189,7 +255,13 @@
     "description": "Q4 2026 state individual estimated tax payment. April 15, 2026; June 15, 2026; September 15, 2026; and January 15, 2027.",
     "authority": "Direct fetch of Illinois's own tax agency site/instructions this session",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/forms/incometax/documents/currentyear/individual/il-1040-es.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-pennsylvania-q1",
@@ -205,7 +277,13 @@
     "description": "Q1 2026 state individual estimated tax payment. Apr. 15, 2026; Jun. 15, 2026; Sep. 15, 2026; Jan. 15, 2027.",
     "authority": "Direct fetch of Pennsylvania's own tax agency site/instructions this session",
     "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/revenue/documents/formsandpublications/formsforindividuals/pit/documents/2026/2026_rev-413i.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-pennsylvania-q2",
@@ -221,7 +299,13 @@
     "description": "Q2 2026 state individual estimated tax payment. Apr. 15, 2026; Jun. 15, 2026; Sep. 15, 2026; Jan. 15, 2027.",
     "authority": "Direct fetch of Pennsylvania's own tax agency site/instructions this session",
     "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/revenue/documents/formsandpublications/formsforindividuals/pit/documents/2026/2026_rev-413i.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 6,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-pennsylvania-q3",
@@ -237,7 +321,13 @@
     "description": "Q3 2026 state individual estimated tax payment. Apr. 15, 2026; Jun. 15, 2026; Sep. 15, 2026; Jan. 15, 2027.",
     "authority": "Direct fetch of Pennsylvania's own tax agency site/instructions this session",
     "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/revenue/documents/formsandpublications/formsforindividuals/pit/documents/2026/2026_rev-413i.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-pennsylvania-q4",
@@ -253,7 +343,13 @@
     "description": "Q4 2026 state individual estimated tax payment. Apr. 15, 2026; Jun. 15, 2026; Sep. 15, 2026; Jan. 15, 2027.",
     "authority": "Direct fetch of Pennsylvania's own tax agency site/instructions this session",
     "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/revenue/documents/formsandpublications/formsforindividuals/pit/documents/2026/2026_rev-413i.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-georgia-q1",
@@ -269,7 +365,13 @@
     "description": "Q1 2026 state individual estimated tax payment. On or before April 15, June 15, September 15, and the following January 15.",
     "authority": "Direct fetch of Georgia's own tax agency site/instructions this session",
     "source_url": "https://dor.georgia.gov/document/document/2025-500-es-estimated-tax-individuals-and-fiduciaries/download",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-georgia-q2",
@@ -285,7 +387,13 @@
     "description": "Q2 2026 state individual estimated tax payment. On or before April 15, June 15, September 15, and the following January 15.",
     "authority": "Direct fetch of Georgia's own tax agency site/instructions this session",
     "source_url": "https://dor.georgia.gov/document/document/2025-500-es-estimated-tax-individuals-and-fiduciaries/download",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 6,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-georgia-q3",
@@ -301,7 +409,13 @@
     "description": "Q3 2026 state individual estimated tax payment. On or before April 15, June 15, September 15, and the following January 15.",
     "authority": "Direct fetch of Georgia's own tax agency site/instructions this session",
     "source_url": "https://dor.georgia.gov/document/document/2025-500-es-estimated-tax-individuals-and-fiduciaries/download",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-georgia-q4",
@@ -317,7 +431,13 @@
     "description": "Q4 2026 state individual estimated tax payment. On or before April 15, June 15, September 15, and the following January 15.",
     "authority": "Direct fetch of Georgia's own tax agency site/instructions this session",
     "source_url": "https://dor.georgia.gov/document/document/2025-500-es-estimated-tax-individuals-and-fiduciaries/download",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-north-carolina-q1",
@@ -333,7 +453,13 @@
     "description": "Q1 2026 state individual estimated tax payment. Estimated payments are due April 15, June 15, and September 15 of the taxable year and January 15 of the following year.",
     "authority": "Direct fetch of North Carolina's own tax agency site/instructions this session",
     "source_url": "https://www.ncdor.gov/taxes-forms/individual-income-tax/estimated-income-tax",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-north-carolina-q2",
@@ -349,7 +475,13 @@
     "description": "Q2 2026 state individual estimated tax payment. Estimated payments are due April 15, June 15, and September 15 of the taxable year and January 15 of the following year.",
     "authority": "Direct fetch of North Carolina's own tax agency site/instructions this session",
     "source_url": "https://www.ncdor.gov/taxes-forms/individual-income-tax/estimated-income-tax",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 6,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-north-carolina-q3",
@@ -365,7 +497,13 @@
     "description": "Q3 2026 state individual estimated tax payment. Estimated payments are due April 15, June 15, and September 15 of the taxable year and January 15 of the following year.",
     "authority": "Direct fetch of North Carolina's own tax agency site/instructions this session",
     "source_url": "https://www.ncdor.gov/taxes-forms/individual-income-tax/estimated-income-tax",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-north-carolina-q4",
@@ -381,7 +519,13 @@
     "description": "Q4 2026 state individual estimated tax payment. Estimated payments are due April 15, June 15, and September 15 of the taxable year and January 15 of the following year.",
     "authority": "Direct fetch of North Carolina's own tax agency site/instructions this session",
     "source_url": "https://www.ncdor.gov/taxes-forms/individual-income-tax/estimated-income-tax",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-massachusetts-q1",
@@ -397,7 +541,13 @@
     "description": "Q1 2026 state individual estimated tax payment. First installment due April 15, 2026; second June 16, 2026; third September 15, 2026; fourth January 15, 2027.",
     "authority": "Direct fetch of Massachusetts's own tax agency site/instructions this session",
     "source_url": "https://www.mass.gov/info-details/massachusetts-dor-estimated-tax-payments",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-massachusetts-q2",
@@ -413,7 +563,13 @@
     "description": "Q2 2026 state individual estimated tax payment. First installment due April 15, 2026; second June 16, 2026; third September 15, 2026; fourth January 15, 2027.",
     "authority": "Direct fetch of Massachusetts's own tax agency site/instructions this session",
     "source_url": "https://www.mass.gov/info-details/massachusetts-dor-estimated-tax-payments",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 6,
+      "day": 16,
+      "shift": true
+    }
   },
   {
     "id": "state-est-massachusetts-q3",
@@ -429,7 +585,13 @@
     "description": "Q3 2026 state individual estimated tax payment. First installment due April 15, 2026; second June 16, 2026; third September 15, 2026; fourth January 15, 2027.",
     "authority": "Direct fetch of Massachusetts's own tax agency site/instructions this session",
     "source_url": "https://www.mass.gov/info-details/massachusetts-dor-estimated-tax-payments",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-massachusetts-q4",
@@ -445,7 +607,13 @@
     "description": "Q4 2026 state individual estimated tax payment. First installment due April 15, 2026; second June 16, 2026; third September 15, 2026; fourth January 15, 2027.",
     "authority": "Direct fetch of Massachusetts's own tax agency site/instructions this session",
     "source_url": "https://www.mass.gov/info-details/massachusetts-dor-estimated-tax-payments",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-new-jersey-q1",
@@ -461,7 +629,13 @@
     "description": "Q1 2026 state individual estimated tax payment. January 1-April 1 due April 15; April 2-June 1 due June 16; June 2-September 1 due September 15; September 2-December 31 due January 15.",
     "authority": "Direct fetch of New Jersey's own tax agency site/instructions this session",
     "source_url": "https://www.nj.gov/treasury/taxation/pdf/pubs/tgi-ee/git8.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-new-jersey-q2",
@@ -477,7 +651,13 @@
     "description": "Q2 2026 state individual estimated tax payment. January 1-April 1 due April 15; April 2-June 1 due June 16; June 2-September 1 due September 15; September 2-December 31 due January 15.",
     "authority": "Direct fetch of New Jersey's own tax agency site/instructions this session",
     "source_url": "https://www.nj.gov/treasury/taxation/pdf/pubs/tgi-ee/git8.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 6,
+      "day": 16,
+      "shift": true
+    }
   },
   {
     "id": "state-est-new-jersey-q3",
@@ -493,7 +673,13 @@
     "description": "Q3 2026 state individual estimated tax payment. January 1-April 1 due April 15; April 2-June 1 due June 16; June 2-September 1 due September 15; September 2-December 31 due January 15.",
     "authority": "Direct fetch of New Jersey's own tax agency site/instructions this session",
     "source_url": "https://www.nj.gov/treasury/taxation/pdf/pubs/tgi-ee/git8.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-new-jersey-q4",
@@ -509,7 +695,13 @@
     "description": "Q4 2026 state individual estimated tax payment. January 1-April 1 due April 15; April 2-June 1 due June 16; June 2-September 1 due September 15; September 2-December 31 due January 15.",
     "authority": "Direct fetch of New Jersey's own tax agency site/instructions this session",
     "source_url": "https://www.nj.gov/treasury/taxation/pdf/pubs/tgi-ee/git8.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-ohio-q1",
@@ -525,7 +717,13 @@
     "description": "Q1 2026 state individual estimated tax payment. 1st Quarter - April 15, 2026; 2nd Quarter - June 15, 2026; 3rd Quarter - Sept. 15, 2026; 4th Quarter - Jan. 15, 2027.",
     "authority": "Direct fetch of Ohio's own tax agency site/instructions this session",
     "source_url": "https://tax.ohio.gov/individual/resources/estimated-payments",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-ohio-q2",
@@ -541,7 +739,13 @@
     "description": "Q2 2026 state individual estimated tax payment. 1st Quarter - April 15, 2026; 2nd Quarter - June 15, 2026; 3rd Quarter - Sept. 15, 2026; 4th Quarter - Jan. 15, 2027.",
     "authority": "Direct fetch of Ohio's own tax agency site/instructions this session",
     "source_url": "https://tax.ohio.gov/individual/resources/estimated-payments",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 6,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-ohio-q3",
@@ -557,7 +761,13 @@
     "description": "Q3 2026 state individual estimated tax payment. 1st Quarter - April 15, 2026; 2nd Quarter - June 15, 2026; 3rd Quarter - Sept. 15, 2026; 4th Quarter - Jan. 15, 2027.",
     "authority": "Direct fetch of Ohio's own tax agency site/instructions this session",
     "source_url": "https://tax.ohio.gov/individual/resources/estimated-payments",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-ohio-q4",
@@ -573,7 +783,13 @@
     "description": "Q4 2026 state individual estimated tax payment. 1st Quarter - April 15, 2026; 2nd Quarter - June 15, 2026; 3rd Quarter - Sept. 15, 2026; 4th Quarter - Jan. 15, 2027.",
     "authority": "Direct fetch of Ohio's own tax agency site/instructions this session",
     "source_url": "https://tax.ohio.gov/individual/resources/estimated-payments",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-michigan-q1",
@@ -589,7 +805,13 @@
     "description": "Q1 2026 state individual estimated tax payment. Quarterly tax payments are due April 15, June 15 and September 15 of the tax year, and January 15 of the next year.",
     "authority": "Direct fetch of Michigan's own tax agency site/instructions this session",
     "source_url": "https://www.michigan.gov/taxes/questions/iit/accordion/estimate/when-are-the-quarterly-estimated-tax-payments-due-1",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-michigan-q2",
@@ -605,7 +827,13 @@
     "description": "Q2 2026 state individual estimated tax payment. Quarterly tax payments are due April 15, June 15 and September 15 of the tax year, and January 15 of the next year.",
     "authority": "Direct fetch of Michigan's own tax agency site/instructions this session",
     "source_url": "https://www.michigan.gov/taxes/questions/iit/accordion/estimate/when-are-the-quarterly-estimated-tax-payments-due-1",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 6,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-michigan-q3",
@@ -621,7 +849,13 @@
     "description": "Q3 2026 state individual estimated tax payment. Quarterly tax payments are due April 15, June 15 and September 15 of the tax year, and January 15 of the next year.",
     "authority": "Direct fetch of Michigan's own tax agency site/instructions this session",
     "source_url": "https://www.michigan.gov/taxes/questions/iit/accordion/estimate/when-are-the-quarterly-estimated-tax-payments-due-1",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-michigan-q4",
@@ -637,7 +871,13 @@
     "description": "Q4 2026 state individual estimated tax payment. Quarterly tax payments are due April 15, June 15 and September 15 of the tax year, and January 15 of the next year.",
     "authority": "Direct fetch of Michigan's own tax agency site/instructions this session",
     "source_url": "https://www.michigan.gov/taxes/questions/iit/accordion/estimate/when-are-the-quarterly-estimated-tax-payments-due-1",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-minnesota-q1",
@@ -653,7 +893,13 @@
     "description": "Q1 2026 state individual estimated tax payment. Jan 1-March 31 due April 15; April 1-May 31 due June 15; June 1-Aug 31 due Sept 15; Sept 1-Dec 31 due Jan 15.",
     "authority": "Direct fetch of Minnesota's own tax agency site/instructions this session",
     "source_url": "https://www.revenue.state.mn.us/estimated-tax",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-minnesota-q2",
@@ -669,7 +915,13 @@
     "description": "Q2 2026 state individual estimated tax payment. Jan 1-March 31 due April 15; April 1-May 31 due June 15; June 1-Aug 31 due Sept 15; Sept 1-Dec 31 due Jan 15.",
     "authority": "Direct fetch of Minnesota's own tax agency site/instructions this session",
     "source_url": "https://www.revenue.state.mn.us/estimated-tax",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 6,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-minnesota-q3",
@@ -685,7 +937,13 @@
     "description": "Q3 2026 state individual estimated tax payment. Jan 1-March 31 due April 15; April 1-May 31 due June 15; June 1-Aug 31 due Sept 15; Sept 1-Dec 31 due Jan 15.",
     "authority": "Direct fetch of Minnesota's own tax agency site/instructions this session",
     "source_url": "https://www.revenue.state.mn.us/estimated-tax",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-minnesota-q4",
@@ -701,7 +959,13 @@
     "description": "Q4 2026 state individual estimated tax payment. Jan 1-March 31 due April 15; April 1-May 31 due June 15; June 1-Aug 31 due Sept 15; Sept 1-Dec 31 due Jan 15.",
     "authority": "Direct fetch of Minnesota's own tax agency site/instructions this session",
     "source_url": "https://www.revenue.state.mn.us/estimated-tax",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-wisconsin-q1",
@@ -717,7 +981,13 @@
     "description": "Q1 2026 state individual estimated tax payment. April 15, 2026, June 15, 2026, September 15, 2026, and January 15, 2027.",
     "authority": "Direct fetch of Wisconsin's own tax agency site/instructions this session",
     "source_url": "https://www.revenue.wi.gov/Pages/FAQS/pcs-estpay.aspx",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-wisconsin-q2",
@@ -733,7 +1003,13 @@
     "description": "Q2 2026 state individual estimated tax payment. April 15, 2026, June 15, 2026, September 15, 2026, and January 15, 2027.",
     "authority": "Direct fetch of Wisconsin's own tax agency site/instructions this session",
     "source_url": "https://www.revenue.wi.gov/Pages/FAQS/pcs-estpay.aspx",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 6,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-wisconsin-q3",
@@ -749,7 +1025,13 @@
     "description": "Q3 2026 state individual estimated tax payment. April 15, 2026, June 15, 2026, September 15, 2026, and January 15, 2027.",
     "authority": "Direct fetch of Wisconsin's own tax agency site/instructions this session",
     "source_url": "https://www.revenue.wi.gov/Pages/FAQS/pcs-estpay.aspx",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-wisconsin-q4",
@@ -765,7 +1047,13 @@
     "description": "Q4 2026 state individual estimated tax payment. April 15, 2026, June 15, 2026, September 15, 2026, and January 15, 2027.",
     "authority": "Direct fetch of Wisconsin's own tax agency site/instructions this session",
     "source_url": "https://www.revenue.wi.gov/Pages/FAQS/pcs-estpay.aspx",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-colorado-q1",
@@ -781,7 +1069,13 @@
     "description": "Q1 2026 state individual estimated tax payment. Quarterly: April 15, June 15, September 15, and January 15.",
     "authority": "Direct fetch of Colorado's own tax agency site/instructions this session",
     "source_url": "https://tax.colorado.gov/due-date-guide",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-colorado-q2",
@@ -797,7 +1091,13 @@
     "description": "Q2 2026 state individual estimated tax payment. Quarterly: April 15, June 15, September 15, and January 15.",
     "authority": "Direct fetch of Colorado's own tax agency site/instructions this session",
     "source_url": "https://tax.colorado.gov/due-date-guide",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 6,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-colorado-q3",
@@ -813,7 +1113,13 @@
     "description": "Q3 2026 state individual estimated tax payment. Quarterly: April 15, June 15, September 15, and January 15.",
     "authority": "Direct fetch of Colorado's own tax agency site/instructions this session",
     "source_url": "https://tax.colorado.gov/due-date-guide",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-colorado-q4",
@@ -829,7 +1135,13 @@
     "description": "Q4 2026 state individual estimated tax payment. Quarterly: April 15, June 15, September 15, and January 15.",
     "authority": "Direct fetch of Colorado's own tax agency site/instructions this session",
     "source_url": "https://tax.colorado.gov/due-date-guide",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-arizona-q1",
@@ -845,7 +1157,13 @@
     "description": "Q1 2026 state individual estimated tax payment. Estimated tax payments are due April 15, June 15, September 15, 2026, and January 15, 2027.",
     "authority": "Direct fetch of Arizona's own tax agency site/instructions this session",
     "source_url": "https://azdor.gov/individuals/individual-estimated-tax-payments",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-arizona-q2",
@@ -861,7 +1179,13 @@
     "description": "Q2 2026 state individual estimated tax payment. Estimated tax payments are due April 15, June 15, September 15, 2026, and January 15, 2027.",
     "authority": "Direct fetch of Arizona's own tax agency site/instructions this session",
     "source_url": "https://azdor.gov/individuals/individual-estimated-tax-payments",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 6,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-arizona-q3",
@@ -877,7 +1201,13 @@
     "description": "Q3 2026 state individual estimated tax payment. Estimated tax payments are due April 15, June 15, September 15, 2026, and January 15, 2027.",
     "authority": "Direct fetch of Arizona's own tax agency site/instructions this session",
     "source_url": "https://azdor.gov/individuals/individual-estimated-tax-payments",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-arizona-q4",
@@ -893,7 +1223,13 @@
     "description": "Q4 2026 state individual estimated tax payment. Estimated tax payments are due April 15, June 15, September 15, 2026, and January 15, 2027.",
     "authority": "Direct fetch of Arizona's own tax agency site/instructions this session",
     "source_url": "https://azdor.gov/individuals/individual-estimated-tax-payments",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-alabama-q1",
@@ -909,7 +1245,13 @@
     "description": "Q1 2026 state individual estimated tax payment. May be paid in full or in equal installments on or before April 15, 2026, June 15, 2026, September 15, 2026 and January 15, 2027.",
     "authority": "Direct fetch of Alabama's own tax agency site/instructions this session",
     "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2026/01/26f40esinstr.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-alabama-q2",
@@ -925,7 +1267,13 @@
     "description": "Q2 2026 state individual estimated tax payment. May be paid in full or in equal installments on or before April 15, 2026, June 15, 2026, September 15, 2026 and January 15, 2027.",
     "authority": "Direct fetch of Alabama's own tax agency site/instructions this session",
     "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2026/01/26f40esinstr.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 6,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-alabama-q3",
@@ -941,7 +1289,13 @@
     "description": "Q3 2026 state individual estimated tax payment. May be paid in full or in equal installments on or before April 15, 2026, June 15, 2026, September 15, 2026 and January 15, 2027.",
     "authority": "Direct fetch of Alabama's own tax agency site/instructions this session",
     "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2026/01/26f40esinstr.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-alabama-q4",
@@ -957,7 +1311,13 @@
     "description": "Q4 2026 state individual estimated tax payment. May be paid in full or in equal installments on or before April 15, 2026, June 15, 2026, September 15, 2026 and January 15, 2027.",
     "authority": "Direct fetch of Alabama's own tax agency site/instructions this session",
     "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2026/01/26f40esinstr.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-arkansas-q1",
@@ -973,7 +1333,13 @@
     "description": "Q1 2026 state individual estimated tax payment. Installment payments are due April 15th, June 15th, September 15th, and January 15th of the next year.",
     "authority": "Direct fetch of Arkansas's own tax agency site/instructions this session",
     "source_url": "https://www.dfa.arkansas.gov/wp-content/uploads/105-EstimatedTax.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-arkansas-q2",
@@ -989,7 +1355,13 @@
     "description": "Q2 2026 state individual estimated tax payment. Installment payments are due April 15th, June 15th, September 15th, and January 15th of the next year.",
     "authority": "Direct fetch of Arkansas's own tax agency site/instructions this session",
     "source_url": "https://www.dfa.arkansas.gov/wp-content/uploads/105-EstimatedTax.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 6,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-arkansas-q3",
@@ -1005,7 +1377,13 @@
     "description": "Q3 2026 state individual estimated tax payment. Installment payments are due April 15th, June 15th, September 15th, and January 15th of the next year.",
     "authority": "Direct fetch of Arkansas's own tax agency site/instructions this session",
     "source_url": "https://www.dfa.arkansas.gov/wp-content/uploads/105-EstimatedTax.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-arkansas-q4",
@@ -1021,7 +1399,13 @@
     "description": "Q4 2026 state individual estimated tax payment. Installment payments are due April 15th, June 15th, September 15th, and January 15th of the next year.",
     "authority": "Direct fetch of Arkansas's own tax agency site/instructions this session",
     "source_url": "https://www.dfa.arkansas.gov/wp-content/uploads/105-EstimatedTax.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-connecticut-q1",
@@ -1037,7 +1421,13 @@
     "description": "Q1 2026 state individual estimated tax payment. Apr 15 / Jun 15 / Sep 15 / Jan 15, 25% each installment.",
     "authority": "Direct fetch of Connecticut's own tax agency site/instructions this session",
     "source_url": "https://portal.ct.gov/drs/individuals/resident-income-tax/tax-information",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-connecticut-q2",
@@ -1053,7 +1443,13 @@
     "description": "Q2 2026 state individual estimated tax payment. Apr 15 / Jun 15 / Sep 15 / Jan 15, 25% each installment.",
     "authority": "Direct fetch of Connecticut's own tax agency site/instructions this session",
     "source_url": "https://portal.ct.gov/drs/individuals/resident-income-tax/tax-information",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 6,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-connecticut-q3",
@@ -1069,7 +1465,13 @@
     "description": "Q3 2026 state individual estimated tax payment. Apr 15 / Jun 15 / Sep 15 / Jan 15, 25% each installment.",
     "authority": "Direct fetch of Connecticut's own tax agency site/instructions this session",
     "source_url": "https://portal.ct.gov/drs/individuals/resident-income-tax/tax-information",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-connecticut-q4",
@@ -1085,7 +1487,13 @@
     "description": "Q4 2026 state individual estimated tax payment. Apr 15 / Jun 15 / Sep 15 / Jan 15, 25% each installment.",
     "authority": "Direct fetch of Connecticut's own tax agency site/instructions this session",
     "source_url": "https://portal.ct.gov/drs/individuals/resident-income-tax/tax-information",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-district-of-columbia-q1",
@@ -1101,7 +1509,13 @@
     "description": "Q1 2026 state individual estimated tax payment. Voucher 1-4: April 15, June 15, September 15, 2026; January 15, 2027.",
     "authority": "Direct fetch of District of Columbia's own tax agency site/instructions this session",
     "source_url": "https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/publication/attachments/2026_D40ES_Book_wLinks04012026.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-district-of-columbia-q2",
@@ -1117,7 +1531,13 @@
     "description": "Q2 2026 state individual estimated tax payment. Voucher 1-4: April 15, June 15, September 15, 2026; January 15, 2027.",
     "authority": "Direct fetch of District of Columbia's own tax agency site/instructions this session",
     "source_url": "https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/publication/attachments/2026_D40ES_Book_wLinks04012026.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 6,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-district-of-columbia-q3",
@@ -1133,7 +1553,13 @@
     "description": "Q3 2026 state individual estimated tax payment. Voucher 1-4: April 15, June 15, September 15, 2026; January 15, 2027.",
     "authority": "Direct fetch of District of Columbia's own tax agency site/instructions this session",
     "source_url": "https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/publication/attachments/2026_D40ES_Book_wLinks04012026.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-district-of-columbia-q4",
@@ -1149,7 +1575,13 @@
     "description": "Q4 2026 state individual estimated tax payment. Voucher 1-4: April 15, June 15, September 15, 2026; January 15, 2027.",
     "authority": "Direct fetch of District of Columbia's own tax agency site/instructions this session",
     "source_url": "https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/publication/attachments/2026_D40ES_Book_wLinks04012026.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-indiana-q1",
@@ -1165,7 +1597,13 @@
     "description": "Q1 2026 state individual estimated tax payment. April 15, June 15, September 15, January 15 (following year).",
     "authority": "Direct fetch of Indiana's own tax agency site/instructions this session",
     "source_url": "https://www.in.gov/dor/individual-income-taxes/payments-and-billing/estimated-tax/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-indiana-q2",
@@ -1181,7 +1619,13 @@
     "description": "Q2 2026 state individual estimated tax payment. April 15, June 15, September 15, January 15 (following year).",
     "authority": "Direct fetch of Indiana's own tax agency site/instructions this session",
     "source_url": "https://www.in.gov/dor/individual-income-taxes/payments-and-billing/estimated-tax/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 6,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-indiana-q3",
@@ -1197,7 +1641,13 @@
     "description": "Q3 2026 state individual estimated tax payment. April 15, June 15, September 15, January 15 (following year).",
     "authority": "Direct fetch of Indiana's own tax agency site/instructions this session",
     "source_url": "https://www.in.gov/dor/individual-income-taxes/payments-and-billing/estimated-tax/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-indiana-q4",
@@ -1213,7 +1663,13 @@
     "description": "Q4 2026 state individual estimated tax payment. April 15, June 15, September 15, January 15 (following year).",
     "authority": "Direct fetch of Indiana's own tax agency site/instructions this session",
     "source_url": "https://www.in.gov/dor/individual-income-taxes/payments-and-billing/estimated-tax/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-kansas-q1",
@@ -1229,7 +1685,13 @@
     "description": "Q1 2026 state individual estimated tax payment. April 15, June 15, September 15, 2026; January 15, 2027.",
     "authority": "Direct fetch of Kansas's own tax agency site/instructions this session",
     "source_url": "https://www.ksrevenue.gov/pdf/k-40es26.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-kansas-q2",
@@ -1245,7 +1707,13 @@
     "description": "Q2 2026 state individual estimated tax payment. April 15, June 15, September 15, 2026; January 15, 2027.",
     "authority": "Direct fetch of Kansas's own tax agency site/instructions this session",
     "source_url": "https://www.ksrevenue.gov/pdf/k-40es26.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 6,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-kansas-q3",
@@ -1261,7 +1729,13 @@
     "description": "Q3 2026 state individual estimated tax payment. April 15, June 15, September 15, 2026; January 15, 2027.",
     "authority": "Direct fetch of Kansas's own tax agency site/instructions this session",
     "source_url": "https://www.ksrevenue.gov/pdf/k-40es26.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-kansas-q4",
@@ -1277,7 +1751,13 @@
     "description": "Q4 2026 state individual estimated tax payment. April 15, June 15, September 15, 2026; January 15, 2027.",
     "authority": "Direct fetch of Kansas's own tax agency site/instructions this session",
     "source_url": "https://www.ksrevenue.gov/pdf/k-40es26.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-kentucky-q1",
@@ -1293,7 +1773,13 @@
     "description": "Q1 2026 state individual estimated tax payment. Due April 15, June 15, September 15, 2026, and January 15, 2027.",
     "authority": "Direct fetch of Kentucky's own tax agency site/instructions this session",
     "source_url": "https://revenue.ky.gov/Forms/740es%202026.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-kentucky-q2",
@@ -1309,7 +1795,13 @@
     "description": "Q2 2026 state individual estimated tax payment. Due April 15, June 15, September 15, 2026, and January 15, 2027.",
     "authority": "Direct fetch of Kentucky's own tax agency site/instructions this session",
     "source_url": "https://revenue.ky.gov/Forms/740es%202026.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 6,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-kentucky-q3",
@@ -1325,7 +1817,13 @@
     "description": "Q3 2026 state individual estimated tax payment. Due April 15, June 15, September 15, 2026, and January 15, 2027.",
     "authority": "Direct fetch of Kentucky's own tax agency site/instructions this session",
     "source_url": "https://revenue.ky.gov/Forms/740es%202026.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-kentucky-q4",
@@ -1341,7 +1839,13 @@
     "description": "Q4 2026 state individual estimated tax payment. Due April 15, June 15, September 15, 2026, and January 15, 2027.",
     "authority": "Direct fetch of Kentucky's own tax agency site/instructions this session",
     "source_url": "https://revenue.ky.gov/Forms/740es%202026.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-louisiana-q1",
@@ -1357,7 +1861,13 @@
     "description": "Q1 2026 state individual estimated tax payment. April 15, June 15, September 15, 2026; January 15, 2027.",
     "authority": "Direct fetch of Louisiana's own tax agency site/instructions this session",
     "source_url": "https://dam.ldr.la.gov/taxforms/IT540ESi-2026.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-louisiana-q2",
@@ -1373,7 +1883,13 @@
     "description": "Q2 2026 state individual estimated tax payment. April 15, June 15, September 15, 2026; January 15, 2027.",
     "authority": "Direct fetch of Louisiana's own tax agency site/instructions this session",
     "source_url": "https://dam.ldr.la.gov/taxforms/IT540ESi-2026.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 6,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-louisiana-q3",
@@ -1389,7 +1905,13 @@
     "description": "Q3 2026 state individual estimated tax payment. April 15, June 15, September 15, 2026; January 15, 2027.",
     "authority": "Direct fetch of Louisiana's own tax agency site/instructions this session",
     "source_url": "https://dam.ldr.la.gov/taxforms/IT540ESi-2026.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-louisiana-q4",
@@ -1405,7 +1927,13 @@
     "description": "Q4 2026 state individual estimated tax payment. April 15, June 15, September 15, 2026; January 15, 2027.",
     "authority": "Direct fetch of Louisiana's own tax agency site/instructions this session",
     "source_url": "https://dam.ldr.la.gov/taxforms/IT540ESi-2026.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-maine-q1",
@@ -1421,7 +1949,13 @@
     "description": "Q1 2026 state individual estimated tax payment. April 15, June 15, September 15, January 15.",
     "authority": "Direct fetch of Maine's own tax agency site/instructions this session",
     "source_url": "https://www.maine.gov/revenue/tax-return-forms/due-dates",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-maine-q2",
@@ -1437,7 +1971,13 @@
     "description": "Q2 2026 state individual estimated tax payment. April 15, June 15, September 15, January 15.",
     "authority": "Direct fetch of Maine's own tax agency site/instructions this session",
     "source_url": "https://www.maine.gov/revenue/tax-return-forms/due-dates",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 6,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-maine-q3",
@@ -1453,7 +1993,13 @@
     "description": "Q3 2026 state individual estimated tax payment. April 15, June 15, September 15, January 15.",
     "authority": "Direct fetch of Maine's own tax agency site/instructions this session",
     "source_url": "https://www.maine.gov/revenue/tax-return-forms/due-dates",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-maine-q4",
@@ -1469,7 +2015,13 @@
     "description": "Q4 2026 state individual estimated tax payment. April 15, June 15, September 15, January 15.",
     "authority": "Direct fetch of Maine's own tax agency site/instructions this session",
     "source_url": "https://www.maine.gov/revenue/tax-return-forms/due-dates",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-maryland-q1",
@@ -1485,7 +2037,13 @@
     "description": "Q1 2026 state individual estimated tax payment. Payment of 1/4 due at April 15, June 15, September 15, January 15 (COMAR 03.04.01.02).",
     "authority": "Direct fetch of Maryland's own tax agency site/instructions this session",
     "source_url": "https://regs.maryland.gov/us/md/exec/comar/03.04.01.02",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-maryland-q2",
@@ -1501,7 +2059,13 @@
     "description": "Q2 2026 state individual estimated tax payment. Payment of 1/4 due at April 15, June 15, September 15, January 15 (COMAR 03.04.01.02).",
     "authority": "Direct fetch of Maryland's own tax agency site/instructions this session",
     "source_url": "https://regs.maryland.gov/us/md/exec/comar/03.04.01.02",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 6,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-maryland-q3",
@@ -1517,7 +2081,13 @@
     "description": "Q3 2026 state individual estimated tax payment. Payment of 1/4 due at April 15, June 15, September 15, January 15 (COMAR 03.04.01.02).",
     "authority": "Direct fetch of Maryland's own tax agency site/instructions this session",
     "source_url": "https://regs.maryland.gov/us/md/exec/comar/03.04.01.02",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-maryland-q4",
@@ -1533,7 +2103,13 @@
     "description": "Q4 2026 state individual estimated tax payment. Payment of 1/4 due at April 15, June 15, September 15, January 15 (COMAR 03.04.01.02).",
     "authority": "Direct fetch of Maryland's own tax agency site/instructions this session",
     "source_url": "https://regs.maryland.gov/us/md/exec/comar/03.04.01.02",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-mississippi-q1",
@@ -1549,7 +2125,13 @@
     "description": "Q1 2026 state individual estimated tax payment. April 15th, June 15th, September 15th, and January 15th.",
     "authority": "Direct fetch of Mississippi's own tax agency site/instructions this session",
     "source_url": "https://www.dor.ms.gov/individual/individual-income-tax-frequently-asked-questions",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-mississippi-q2",
@@ -1565,7 +2147,13 @@
     "description": "Q2 2026 state individual estimated tax payment. April 15th, June 15th, September 15th, and January 15th.",
     "authority": "Direct fetch of Mississippi's own tax agency site/instructions this session",
     "source_url": "https://www.dor.ms.gov/individual/individual-income-tax-frequently-asked-questions",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 6,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-mississippi-q3",
@@ -1581,7 +2169,13 @@
     "description": "Q3 2026 state individual estimated tax payment. April 15th, June 15th, September 15th, and January 15th.",
     "authority": "Direct fetch of Mississippi's own tax agency site/instructions this session",
     "source_url": "https://www.dor.ms.gov/individual/individual-income-tax-frequently-asked-questions",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-mississippi-q4",
@@ -1597,7 +2191,13 @@
     "description": "Q4 2026 state individual estimated tax payment. April 15th, June 15th, September 15th, and January 15th.",
     "authority": "Direct fetch of Mississippi's own tax agency site/instructions this session",
     "source_url": "https://www.dor.ms.gov/individual/individual-income-tax-frequently-asked-questions",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-missouri-q1",
@@ -1613,7 +2213,13 @@
     "description": "Q1 2026 state individual estimated tax payment. April 15, June 15, September 15, January 15.",
     "authority": "Direct fetch of Missouri's own tax agency site/instructions this session",
     "source_url": "https://dor.mo.gov/forms/MO-1040ES_2026.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-missouri-q2",
@@ -1629,7 +2235,13 @@
     "description": "Q2 2026 state individual estimated tax payment. April 15, June 15, September 15, January 15.",
     "authority": "Direct fetch of Missouri's own tax agency site/instructions this session",
     "source_url": "https://dor.mo.gov/forms/MO-1040ES_2026.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 6,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-missouri-q3",
@@ -1645,7 +2257,13 @@
     "description": "Q3 2026 state individual estimated tax payment. April 15, June 15, September 15, January 15.",
     "authority": "Direct fetch of Missouri's own tax agency site/instructions this session",
     "source_url": "https://dor.mo.gov/forms/MO-1040ES_2026.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-missouri-q4",
@@ -1661,7 +2279,13 @@
     "description": "Q4 2026 state individual estimated tax payment. April 15, June 15, September 15, January 15.",
     "authority": "Direct fetch of Missouri's own tax agency site/instructions this session",
     "source_url": "https://dor.mo.gov/forms/MO-1040ES_2026.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-montana-q1",
@@ -1677,7 +2301,13 @@
     "description": "Q1 2026 state individual estimated tax payment. April 15, June 15, September 15, January 15.",
     "authority": "Direct fetch of Montana's own tax agency site/instructions this session",
     "source_url": "https://revenue.mt.gov/taxes/estimated-tax-payments",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-montana-q2",
@@ -1693,7 +2323,13 @@
     "description": "Q2 2026 state individual estimated tax payment. April 15, June 15, September 15, January 15.",
     "authority": "Direct fetch of Montana's own tax agency site/instructions this session",
     "source_url": "https://revenue.mt.gov/taxes/estimated-tax-payments",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 6,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-montana-q3",
@@ -1709,7 +2345,13 @@
     "description": "Q3 2026 state individual estimated tax payment. April 15, June 15, September 15, January 15.",
     "authority": "Direct fetch of Montana's own tax agency site/instructions this session",
     "source_url": "https://revenue.mt.gov/taxes/estimated-tax-payments",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-montana-q4",
@@ -1725,7 +2367,13 @@
     "description": "Q4 2026 state individual estimated tax payment. April 15, June 15, September 15, January 15.",
     "authority": "Direct fetch of Montana's own tax agency site/instructions this session",
     "source_url": "https://revenue.mt.gov/taxes/estimated-tax-payments",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-nebraska-q1",
@@ -1741,7 +2389,13 @@
     "description": "Q1 2026 state individual estimated tax payment. April 15, June 15, September 15 (current year), January 15 (next year).",
     "authority": "Direct fetch of Nebraska's own tax agency site/instructions this session",
     "source_url": "https://revenue.nebraska.gov/individuals/instructions-paying-your-estimated-individual-income-tax",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-nebraska-q2",
@@ -1757,7 +2411,13 @@
     "description": "Q2 2026 state individual estimated tax payment. April 15, June 15, September 15 (current year), January 15 (next year).",
     "authority": "Direct fetch of Nebraska's own tax agency site/instructions this session",
     "source_url": "https://revenue.nebraska.gov/individuals/instructions-paying-your-estimated-individual-income-tax",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 6,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-nebraska-q3",
@@ -1773,7 +2433,13 @@
     "description": "Q3 2026 state individual estimated tax payment. April 15, June 15, September 15 (current year), January 15 (next year).",
     "authority": "Direct fetch of Nebraska's own tax agency site/instructions this session",
     "source_url": "https://revenue.nebraska.gov/individuals/instructions-paying-your-estimated-individual-income-tax",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-nebraska-q4",
@@ -1789,7 +2455,13 @@
     "description": "Q4 2026 state individual estimated tax payment. April 15, June 15, September 15 (current year), January 15 (next year).",
     "authority": "Direct fetch of Nebraska's own tax agency site/instructions this session",
     "source_url": "https://revenue.nebraska.gov/individuals/instructions-paying-your-estimated-individual-income-tax",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-new-mexico-q1",
@@ -1805,7 +2477,13 @@
     "description": "Q1 2026 state individual estimated tax payment. April 15, June 15, September 15, January 15.",
     "authority": "Direct fetch of New Mexico's own tax agency site/instructions this session",
     "source_url": "https://www.tax.newmexico.gov/individuals/file-your-taxes-overview/estimated-payments/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-new-mexico-q2",
@@ -1821,7 +2499,13 @@
     "description": "Q2 2026 state individual estimated tax payment. April 15, June 15, September 15, January 15.",
     "authority": "Direct fetch of New Mexico's own tax agency site/instructions this session",
     "source_url": "https://www.tax.newmexico.gov/individuals/file-your-taxes-overview/estimated-payments/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 6,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-new-mexico-q3",
@@ -1837,7 +2521,13 @@
     "description": "Q3 2026 state individual estimated tax payment. April 15, June 15, September 15, January 15.",
     "authority": "Direct fetch of New Mexico's own tax agency site/instructions this session",
     "source_url": "https://www.tax.newmexico.gov/individuals/file-your-taxes-overview/estimated-payments/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-new-mexico-q4",
@@ -1853,7 +2543,13 @@
     "description": "Q4 2026 state individual estimated tax payment. April 15, June 15, September 15, January 15.",
     "authority": "Direct fetch of New Mexico's own tax agency site/instructions this session",
     "source_url": "https://www.tax.newmexico.gov/individuals/file-your-taxes-overview/estimated-payments/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-oklahoma-q1",
@@ -1869,7 +2565,13 @@
     "description": "Q1 2026 state individual estimated tax payment. 1st-4th Quarter: April 15, June 15, September 15, January 15.",
     "authority": "Direct fetch of Oklahoma's own tax agency site/instructions this session",
     "source_url": "https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/individuals/past-year/2023/OW-8-ES-2022.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-oklahoma-q2",
@@ -1885,7 +2587,13 @@
     "description": "Q2 2026 state individual estimated tax payment. 1st-4th Quarter: April 15, June 15, September 15, January 15.",
     "authority": "Direct fetch of Oklahoma's own tax agency site/instructions this session",
     "source_url": "https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/individuals/past-year/2023/OW-8-ES-2022.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 6,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-oklahoma-q3",
@@ -1901,7 +2609,13 @@
     "description": "Q3 2026 state individual estimated tax payment. 1st-4th Quarter: April 15, June 15, September 15, January 15.",
     "authority": "Direct fetch of Oklahoma's own tax agency site/instructions this session",
     "source_url": "https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/individuals/past-year/2023/OW-8-ES-2022.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-oklahoma-q4",
@@ -1917,7 +2631,13 @@
     "description": "Q4 2026 state individual estimated tax payment. 1st-4th Quarter: April 15, June 15, September 15, January 15.",
     "authority": "Direct fetch of Oklahoma's own tax agency site/instructions this session",
     "source_url": "https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/individuals/past-year/2023/OW-8-ES-2022.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-oregon-q1",
@@ -1933,7 +2653,13 @@
     "description": "Q1 2026 state individual estimated tax payment. April 15, June 15, September 15, January 15 (following year).",
     "authority": "Direct fetch of Oregon's own tax agency site/instructions this session",
     "source_url": "https://www.oregon.gov/dor/forms/FormsPubs/publication-or-estimate_101-026_2020.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-oregon-q2",
@@ -1949,7 +2675,13 @@
     "description": "Q2 2026 state individual estimated tax payment. April 15, June 15, September 15, January 15 (following year).",
     "authority": "Direct fetch of Oregon's own tax agency site/instructions this session",
     "source_url": "https://www.oregon.gov/dor/forms/FormsPubs/publication-or-estimate_101-026_2020.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 6,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-oregon-q3",
@@ -1965,7 +2697,13 @@
     "description": "Q3 2026 state individual estimated tax payment. April 15, June 15, September 15, January 15 (following year).",
     "authority": "Direct fetch of Oregon's own tax agency site/instructions this session",
     "source_url": "https://www.oregon.gov/dor/forms/FormsPubs/publication-or-estimate_101-026_2020.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-oregon-q4",
@@ -1981,7 +2719,13 @@
     "description": "Q4 2026 state individual estimated tax payment. April 15, June 15, September 15, January 15 (following year).",
     "authority": "Direct fetch of Oregon's own tax agency site/instructions this session",
     "source_url": "https://www.oregon.gov/dor/forms/FormsPubs/publication-or-estimate_101-026_2020.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-rhode-island-q1",
@@ -1997,7 +2741,13 @@
     "description": "Q1 2026 state individual estimated tax payment. April 15, June 15, September 15, 2026; January 15, 2027.",
     "authority": "Direct fetch of Rhode Island's own tax agency site/instructions this session",
     "source_url": "https://tax.ri.gov/sites/g/files/xkgbur541/files/2026-01/2026%20RI-1040ES_w.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-rhode-island-q2",
@@ -2013,7 +2763,13 @@
     "description": "Q2 2026 state individual estimated tax payment. April 15, June 15, September 15, 2026; January 15, 2027.",
     "authority": "Direct fetch of Rhode Island's own tax agency site/instructions this session",
     "source_url": "https://tax.ri.gov/sites/g/files/xkgbur541/files/2026-01/2026%20RI-1040ES_w.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 6,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-rhode-island-q3",
@@ -2029,7 +2785,13 @@
     "description": "Q3 2026 state individual estimated tax payment. April 15, June 15, September 15, 2026; January 15, 2027.",
     "authority": "Direct fetch of Rhode Island's own tax agency site/instructions this session",
     "source_url": "https://tax.ri.gov/sites/g/files/xkgbur541/files/2026-01/2026%20RI-1040ES_w.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-rhode-island-q4",
@@ -2045,7 +2807,13 @@
     "description": "Q4 2026 state individual estimated tax payment. April 15, June 15, September 15, 2026; January 15, 2027.",
     "authority": "Direct fetch of Rhode Island's own tax agency site/instructions this session",
     "source_url": "https://tax.ri.gov/sites/g/files/xkgbur541/files/2026-01/2026%20RI-1040ES_w.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-south-carolina-q1",
@@ -2061,7 +2829,13 @@
     "description": "Q1 2026 state individual estimated tax payment. Due April 15, June 15, September 15, 2026; due January 15, 2027.",
     "authority": "Direct fetch of South Carolina's own tax agency site/instructions this session",
     "source_url": "https://dor.sc.gov/sites/dor/files/forms/SC1040ES_2026.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-south-carolina-q2",
@@ -2077,7 +2851,13 @@
     "description": "Q2 2026 state individual estimated tax payment. Due April 15, June 15, September 15, 2026; due January 15, 2027.",
     "authority": "Direct fetch of South Carolina's own tax agency site/instructions this session",
     "source_url": "https://dor.sc.gov/sites/dor/files/forms/SC1040ES_2026.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 6,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-south-carolina-q3",
@@ -2093,7 +2873,13 @@
     "description": "Q3 2026 state individual estimated tax payment. Due April 15, June 15, September 15, 2026; due January 15, 2027.",
     "authority": "Direct fetch of South Carolina's own tax agency site/instructions this session",
     "source_url": "https://dor.sc.gov/sites/dor/files/forms/SC1040ES_2026.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-south-carolina-q4",
@@ -2109,7 +2895,13 @@
     "description": "Q4 2026 state individual estimated tax payment. Due April 15, June 15, September 15, 2026; due January 15, 2027.",
     "authority": "Direct fetch of South Carolina's own tax agency site/instructions this session",
     "source_url": "https://dor.sc.gov/sites/dor/files/forms/SC1040ES_2026.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-vermont-q1",
@@ -2125,7 +2917,13 @@
     "description": "Q1 2026 state individual estimated tax payment. Q1 April 15, Q2 June 15, Q3 September 15, 2026; Q4 January 15, 2027.",
     "authority": "Direct fetch of Vermont's own tax agency site/instructions this session",
     "source_url": "https://tax.vermont.gov/individuals/estimated-income-tax",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-vermont-q2",
@@ -2141,7 +2939,13 @@
     "description": "Q2 2026 state individual estimated tax payment. Q1 April 15, Q2 June 15, Q3 September 15, 2026; Q4 January 15, 2027.",
     "authority": "Direct fetch of Vermont's own tax agency site/instructions this session",
     "source_url": "https://tax.vermont.gov/individuals/estimated-income-tax",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 6,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-vermont-q3",
@@ -2157,7 +2961,13 @@
     "description": "Q3 2026 state individual estimated tax payment. Q1 April 15, Q2 June 15, Q3 September 15, 2026; Q4 January 15, 2027.",
     "authority": "Direct fetch of Vermont's own tax agency site/instructions this session",
     "source_url": "https://tax.vermont.gov/individuals/estimated-income-tax",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-vermont-q4",
@@ -2173,7 +2983,13 @@
     "description": "Q4 2026 state individual estimated tax payment. Q1 April 15, Q2 June 15, Q3 September 15, 2026; Q4 January 15, 2027.",
     "authority": "Direct fetch of Vermont's own tax agency site/instructions this session",
     "source_url": "https://tax.vermont.gov/individuals/estimated-income-tax",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-west-virginia-q1",
@@ -2189,7 +3005,13 @@
     "description": "Q1 2026 state individual estimated tax payment. April 15, June 15, September 15, January 15 (following year).",
     "authority": "Direct fetch of West Virginia's own tax agency site/instructions this session",
     "source_url": "https://tax.wv.gov/Documents/TaxForms/it140esi.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-west-virginia-q2",
@@ -2205,7 +3027,13 @@
     "description": "Q2 2026 state individual estimated tax payment. April 15, June 15, September 15, January 15 (following year).",
     "authority": "Direct fetch of West Virginia's own tax agency site/instructions this session",
     "source_url": "https://tax.wv.gov/Documents/TaxForms/it140esi.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 6,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-west-virginia-q3",
@@ -2221,7 +3049,13 @@
     "description": "Q3 2026 state individual estimated tax payment. April 15, June 15, September 15, January 15 (following year).",
     "authority": "Direct fetch of West Virginia's own tax agency site/instructions this session",
     "source_url": "https://tax.wv.gov/Documents/TaxForms/it140esi.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-west-virginia-q4",
@@ -2237,7 +3071,13 @@
     "description": "Q4 2026 state individual estimated tax payment. April 15, June 15, September 15, January 15 (following year).",
     "authority": "Direct fetch of West Virginia's own tax agency site/instructions this session",
     "source_url": "https://tax.wv.gov/Documents/TaxForms/it140esi.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-virginia-q1",
@@ -2253,7 +3093,13 @@
     "description": "Q1 2026 state individual estimated tax payment. DEVIATES from the federal pattern: first installment due May 1, 2026 (matching Virginia's own May 1 individual filing deadline), not April 15; remaining installments match the federal pattern.",
     "authority": "Direct fetch of Virginia's own tax agency instructions this session",
     "source_url": "https://www.tax.virginia.gov/sites/default/files/taxforms/individual-income-tax/2026/760es-2026.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 5,
+      "day": 1,
+      "shift": true
+    }
   },
   {
     "id": "state-est-virginia-q2",
@@ -2269,7 +3115,13 @@
     "description": "Q2 2026 state individual estimated tax payment. DEVIATES from the federal pattern: first installment due May 1, 2026 (matching Virginia's own May 1 individual filing deadline), not April 15; remaining installments match the federal pattern.",
     "authority": "Direct fetch of Virginia's own tax agency instructions this session",
     "source_url": "https://www.tax.virginia.gov/sites/default/files/taxforms/individual-income-tax/2026/760es-2026.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 6,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-virginia-q3",
@@ -2285,7 +3137,13 @@
     "description": "Q3 2026 state individual estimated tax payment. DEVIATES from the federal pattern: first installment due May 1, 2026 (matching Virginia's own May 1 individual filing deadline), not April 15; remaining installments match the federal pattern.",
     "authority": "Direct fetch of Virginia's own tax agency instructions this session",
     "source_url": "https://www.tax.virginia.gov/sites/default/files/taxforms/individual-income-tax/2026/760es-2026.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-virginia-q4",
@@ -2301,7 +3159,13 @@
     "description": "Q4 2026 state individual estimated tax payment. DEVIATES from the federal pattern: first installment due May 1, 2026 (matching Virginia's own May 1 individual filing deadline), not April 15; remaining installments match the federal pattern.",
     "authority": "Direct fetch of Virginia's own tax agency instructions this session",
     "source_url": "https://www.tax.virginia.gov/sites/default/files/taxforms/individual-income-tax/2026/760es-2026.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-delaware-q1",
@@ -2317,7 +3181,13 @@
     "description": "Q1 2026 state individual estimated tax payment. DEVIATES from the federal pattern: first installment due April 30, 2026, not April 15; remaining installments match the federal pattern. Confirmed via Form 200-ES instructions.",
     "authority": "Direct fetch of Delaware's own tax agency instructions this session",
     "source_url": "https://revenuefiles.delaware.gov/2020/200ESi.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": true
+    }
   },
   {
     "id": "state-est-delaware-q2",
@@ -2333,7 +3203,13 @@
     "description": "Q2 2026 state individual estimated tax payment. DEVIATES from the federal pattern: first installment due April 30, 2026, not April 15; remaining installments match the federal pattern. Confirmed via Form 200-ES instructions.",
     "authority": "Direct fetch of Delaware's own tax agency instructions this session",
     "source_url": "https://revenuefiles.delaware.gov/2020/200ESi.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 6,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-delaware-q3",
@@ -2349,7 +3225,13 @@
     "description": "Q3 2026 state individual estimated tax payment. DEVIATES from the federal pattern: first installment due April 30, 2026, not April 15; remaining installments match the federal pattern. Confirmed via Form 200-ES instructions.",
     "authority": "Direct fetch of Delaware's own tax agency instructions this session",
     "source_url": "https://revenuefiles.delaware.gov/2020/200ESi.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-delaware-q4",
@@ -2365,7 +3247,13 @@
     "description": "Q4 2026 state individual estimated tax payment. DEVIATES from the federal pattern: first installment due April 30, 2026, not April 15; remaining installments match the federal pattern. Confirmed via Form 200-ES instructions.",
     "authority": "Direct fetch of Delaware's own tax agency instructions this session",
     "source_url": "https://revenuefiles.delaware.gov/2020/200ESi.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 15,
+      "shift": true
+    }
   },
   {
     "id": "state-est-hawaii-q1",
@@ -2381,7 +3269,13 @@
     "description": "Q1 2026 state individual estimated tax payment. DEVIATES from the federal pattern: all four installments due on the 20th, not the 15th (April 20, June 20, September 20, January 20).",
     "authority": "Direct fetch of Hawaii's own tax agency instructions this session",
     "source_url": "https://files.hawaii.gov/tax/legal/taxfacts/tf2019-3.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 20,
+      "shift": false
+    }
   },
   {
     "id": "state-est-hawaii-q2",
@@ -2397,7 +3291,13 @@
     "description": "Q2 2026 state individual estimated tax payment. DEVIATES from the federal pattern: all four installments due on the 20th, not the 15th (April 20, June 20, September 20, January 20).",
     "authority": "Direct fetch of Hawaii's own tax agency instructions this session",
     "source_url": "https://files.hawaii.gov/tax/legal/taxfacts/tf2019-3.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 6,
+      "day": 20,
+      "shift": false
+    }
   },
   {
     "id": "state-est-hawaii-q3",
@@ -2413,7 +3313,13 @@
     "description": "Q3 2026 state individual estimated tax payment. DEVIATES from the federal pattern: all four installments due on the 20th, not the 15th (April 20, June 20, September 20, January 20).",
     "authority": "Direct fetch of Hawaii's own tax agency instructions this session",
     "source_url": "https://files.hawaii.gov/tax/legal/taxfacts/tf2019-3.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 20,
+      "shift": false
+    }
   },
   {
     "id": "state-est-hawaii-q4",
@@ -2429,7 +3335,13 @@
     "description": "Q4 2026 state individual estimated tax payment. DEVIATES from the federal pattern: all four installments due on the 20th, not the 15th (April 20, June 20, September 20, January 20).",
     "authority": "Direct fetch of Hawaii's own tax agency instructions this session",
     "source_url": "https://files.hawaii.gov/tax/legal/taxfacts/tf2019-3.pdf",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 1,
+      "day": 20,
+      "shift": false
+    }
   },
   {
     "id": "state-est-iowa-q1",
@@ -2445,7 +3357,13 @@
     "description": "Q1 2026 state individual estimated tax payment. DEVIATES from the federal pattern: all four installments due on the last day of the month (April 30, June 30, September 30, January 31), not the 15th.",
     "authority": "Direct fetch of Iowa's own tax agency instructions this session",
     "source_url": "https://revenue.iowa.gov/media/2725/download?inline=",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 4,
+      "shift": false
+    }
   },
   {
     "id": "state-est-iowa-q2",
@@ -2461,7 +3379,13 @@
     "description": "Q2 2026 state individual estimated tax payment. DEVIATES from the federal pattern: all four installments due on the last day of the month (April 30, June 30, September 30, January 31), not the 15th.",
     "authority": "Direct fetch of Iowa's own tax agency instructions this session",
     "source_url": "https://revenue.iowa.gov/media/2725/download?inline=",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 6,
+      "shift": false
+    }
   },
   {
     "id": "state-est-iowa-q3",
@@ -2477,7 +3401,13 @@
     "description": "Q3 2026 state individual estimated tax payment. DEVIATES from the federal pattern: all four installments due on the last day of the month (April 30, June 30, September 30, January 31), not the 15th.",
     "authority": "Direct fetch of Iowa's own tax agency instructions this session",
     "source_url": "https://revenue.iowa.gov/media/2725/download?inline=",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 9,
+      "shift": false
+    }
   },
   {
     "id": "state-est-iowa-q4",
@@ -2493,7 +3423,13 @@
     "description": "Q4 2026 state individual estimated tax payment. DEVIATES from the federal pattern: all four installments due on the last day of the month (April 30, June 30, September 30, January 31), not the 15th.",
     "authority": "Direct fetch of Iowa's own tax agency instructions this session",
     "source_url": "https://revenue.iowa.gov/media/2725/download?inline=",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 1,
+      "shift": false
+    }
   },
   {
     "id": "state-est-idaho-note",
@@ -2509,7 +3445,8 @@
     "description": "Idaho does not require individuals to make estimated tax payments at all - no underpayment penalty applies. Payments can be made voluntarily at any time. No fixed quarterly due dates exist to represent on the calendar.",
     "authority": "Direct fetch of Idaho's own tax agency instructions this session",
     "source_url": "https://tax.idaho.gov/taxes/income-tax/withholding/help/",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": null
   },
   {
     "id": "state-est-utah-note",
@@ -2525,6 +3462,12 @@
     "description": "Utah has no quarterly-installment estimated tax regime. Instead, individuals must prepay (via withholding or a single payment) by the return's original due date (April 15, 2026) to avoid a penalty - a single prepayment threshold, not four quarterly vouchers.",
     "authority": "Direct fetch of Utah's own tax agency instructions this session",
     "source_url": "https://incometax.utah.gov/filing/extensions-and-prepayments",
-    "verification_status": "primary-source verified this session"
+    "verification_status": "primary-source verified this session",
+    "recurrence": {
+      "type": "fixed_date",
+      "month": 4,
+      "day": 15,
+      "shift": true
+    }
   }
 ]
