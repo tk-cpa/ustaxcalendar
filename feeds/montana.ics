@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:state-corp-montana-2025-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250515
 DTEND;VALUE=DATE:20250516
 SUMMARY:Montana: State corporate income/franchise tax return due
@@ -27,7 +27,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-montana-2026-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
 SUMMARY:Montana: State corporate income/franchise tax return due
@@ -44,7 +44,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-montana-2027-05-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270517
 DTEND;VALUE=DATE:20270518
 SUMMARY:Montana: State corporate income/franchise tax return due
@@ -61,7 +61,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-montana-2028-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280515
 DTEND;VALUE=DATE:20280516
 SUMMARY:Montana: State corporate income/franchise tax return due
@@ -78,7 +78,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-montana-2029-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290515
 DTEND;VALUE=DATE:20290516
 SUMMARY:Montana: State corporate income/franchise tax return due
@@ -95,7 +95,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-montana-2030-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300515
 DTEND;VALUE=DATE:20300516
 SUMMARY:Montana: State corporate income/franchise tax return due
@@ -112,7 +112,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-montana-2031-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310515
 DTEND;VALUE=DATE:20310516
 SUMMARY:Montana: State corporate income/franchise tax return due
@@ -129,7 +129,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-montana-2032-05-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320517
 DTEND;VALUE=DATE:20320518
 SUMMARY:Montana: State corporate income/franchise tax return due
@@ -145,8 +145,136 @@ DESCRIPTION:Montana's C-corp due date is one month later than the federal d
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:state-corp-montana-2025-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20251115
+DTEND;VALUE=DATE:20251116
+SUMMARY:Montana: State corporate income/franchise tax return extended due d
+ ate
+DESCRIPTION:Extended due date\, via None. | Montana's C-corp due date is on
+ e month later than the federal due date (May 15)\; automatic 6-month extens
+ ion\, payment still due by the original date. | Authority: Direct fetch of 
+ Montana's own tax agency site/publication this session | Source: https://re
+ venue.mt.gov/taxes/corporate-income-tax | This date is computed from a recu
+ rrence rule and may not reflect a later-announced change\; confirm against 
+ the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-montana-2026-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Montana: State corporate income/franchise tax return extended due d
+ ate
+DESCRIPTION:Extended due date\, via None. | Montana's C-corp due date is on
+ e month later than the federal due date (May 15)\; automatic 6-month extens
+ ion\, payment still due by the original date. | Authority: Direct fetch of 
+ Montana's own tax agency site/publication this session | Source: https://re
+ venue.mt.gov/taxes/corporate-income-tax | This date is computed from a recu
+ rrence rule and may not reflect a later-announced change\; confirm against 
+ the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-montana-2027-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20271115
+DTEND;VALUE=DATE:20271116
+SUMMARY:Montana: State corporate income/franchise tax return extended due d
+ ate
+DESCRIPTION:Extended due date\, via None. | Montana's C-corp due date is on
+ e month later than the federal due date (May 15)\; automatic 6-month extens
+ ion\, payment still due by the original date. | Authority: Direct fetch of 
+ Montana's own tax agency site/publication this session | Source: https://re
+ venue.mt.gov/taxes/corporate-income-tax | This date is computed from a recu
+ rrence rule and may not reflect a later-announced change\; confirm against 
+ the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-montana-2028-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20281115
+DTEND;VALUE=DATE:20281116
+SUMMARY:Montana: State corporate income/franchise tax return extended due d
+ ate
+DESCRIPTION:Extended due date\, via None. | Montana's C-corp due date is on
+ e month later than the federal due date (May 15)\; automatic 6-month extens
+ ion\, payment still due by the original date. | Authority: Direct fetch of 
+ Montana's own tax agency site/publication this session | Source: https://re
+ venue.mt.gov/taxes/corporate-income-tax | This date is computed from a recu
+ rrence rule and may not reflect a later-announced change\; confirm against 
+ the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-montana-2029-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20291115
+DTEND;VALUE=DATE:20291116
+SUMMARY:Montana: State corporate income/franchise tax return extended due d
+ ate
+DESCRIPTION:Extended due date\, via None. | Montana's C-corp due date is on
+ e month later than the federal due date (May 15)\; automatic 6-month extens
+ ion\, payment still due by the original date. | Authority: Direct fetch of 
+ Montana's own tax agency site/publication this session | Source: https://re
+ venue.mt.gov/taxes/corporate-income-tax | This date is computed from a recu
+ rrence rule and may not reflect a later-announced change\; confirm against 
+ the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-montana-2030-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20301115
+DTEND;VALUE=DATE:20301116
+SUMMARY:Montana: State corporate income/franchise tax return extended due d
+ ate
+DESCRIPTION:Extended due date\, via None. | Montana's C-corp due date is on
+ e month later than the federal due date (May 15)\; automatic 6-month extens
+ ion\, payment still due by the original date. | Authority: Direct fetch of 
+ Montana's own tax agency site/publication this session | Source: https://re
+ venue.mt.gov/taxes/corporate-income-tax | This date is computed from a recu
+ rrence rule and may not reflect a later-announced change\; confirm against 
+ the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-montana-2031-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20311115
+DTEND;VALUE=DATE:20311116
+SUMMARY:Montana: State corporate income/franchise tax return extended due d
+ ate
+DESCRIPTION:Extended due date\, via None. | Montana's C-corp due date is on
+ e month later than the federal due date (May 15)\; automatic 6-month extens
+ ion\, payment still due by the original date. | Authority: Direct fetch of 
+ Montana's own tax agency site/publication this session | Source: https://re
+ venue.mt.gov/taxes/corporate-income-tax | This date is computed from a recu
+ rrence rule and may not reflect a later-announced change\; confirm against 
+ the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-montana-2032-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20321115
+DTEND;VALUE=DATE:20321116
+SUMMARY:Montana: State corporate income/franchise tax return extended due d
+ ate
+DESCRIPTION:Extended due date\, via None. | Montana's C-corp due date is on
+ e month later than the federal due date (May 15)\; automatic 6-month extens
+ ion\, payment still due by the original date. | Authority: Direct fetch of 
+ Montana's own tax agency site/publication this session | Source: https://re
+ venue.mt.gov/taxes/corporate-income-tax | This date is computed from a recu
+ rrence rule and may not reflect a later-announced change\; confirm against 
+ the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:state-est-montana-q1-2025-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250415
 DTEND;VALUE=DATE:20250416
 SUMMARY:Montana: State individual quarterly estimated tax payment due
@@ -161,7 +289,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-montana-q1-2026-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260416
 SUMMARY:Montana: State individual quarterly estimated tax payment due
@@ -176,7 +304,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-montana-q1-2027-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:Montana: State individual quarterly estimated tax payment due
@@ -191,7 +319,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-montana-q1-2028-04-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280417
 DTEND;VALUE=DATE:20280418
 SUMMARY:Montana: State individual quarterly estimated tax payment due
@@ -206,7 +334,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-montana-q1-2029-04-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290416
 DTEND;VALUE=DATE:20290417
 SUMMARY:Montana: State individual quarterly estimated tax payment due
@@ -221,7 +349,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-montana-q1-2030-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300415
 DTEND;VALUE=DATE:20300416
 SUMMARY:Montana: State individual quarterly estimated tax payment due
@@ -236,7 +364,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-montana-q1-2031-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310415
 DTEND;VALUE=DATE:20310416
 SUMMARY:Montana: State individual quarterly estimated tax payment due
@@ -251,7 +379,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-montana-q1-2032-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320415
 DTEND;VALUE=DATE:20320416
 SUMMARY:Montana: State individual quarterly estimated tax payment due
@@ -266,7 +394,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-montana-q2-2025-06-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250616
 DTEND;VALUE=DATE:20250617
 SUMMARY:Montana: State individual quarterly estimated tax payment due
@@ -281,7 +409,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-montana-q2-2026-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260615
 DTEND;VALUE=DATE:20260616
 SUMMARY:Montana: State individual quarterly estimated tax payment due
@@ -296,7 +424,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-montana-q2-2027-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270615
 DTEND;VALUE=DATE:20270616
 SUMMARY:Montana: State individual quarterly estimated tax payment due
@@ -311,7 +439,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-montana-q2-2028-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280615
 DTEND;VALUE=DATE:20280616
 SUMMARY:Montana: State individual quarterly estimated tax payment due
@@ -326,7 +454,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-montana-q2-2029-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290615
 DTEND;VALUE=DATE:20290616
 SUMMARY:Montana: State individual quarterly estimated tax payment due
@@ -341,7 +469,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-montana-q2-2030-06-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300617
 DTEND;VALUE=DATE:20300618
 SUMMARY:Montana: State individual quarterly estimated tax payment due
@@ -356,7 +484,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-montana-q2-2031-06-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310616
 DTEND;VALUE=DATE:20310617
 SUMMARY:Montana: State individual quarterly estimated tax payment due
@@ -371,7 +499,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-montana-q2-2032-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320615
 DTEND;VALUE=DATE:20320616
 SUMMARY:Montana: State individual quarterly estimated tax payment due
@@ -386,7 +514,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-montana-q3-2025-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250915
 DTEND;VALUE=DATE:20250916
 SUMMARY:Montana: State individual quarterly estimated tax payment due
@@ -401,7 +529,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-montana-q3-2026-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Montana: State individual quarterly estimated tax payment due
@@ -416,7 +544,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-montana-q3-2027-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270915
 DTEND;VALUE=DATE:20270916
 SUMMARY:Montana: State individual quarterly estimated tax payment due
@@ -431,7 +559,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-montana-q3-2028-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280915
 DTEND;VALUE=DATE:20280916
 SUMMARY:Montana: State individual quarterly estimated tax payment due
@@ -446,7 +574,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-montana-q3-2029-09-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290917
 DTEND;VALUE=DATE:20290918
 SUMMARY:Montana: State individual quarterly estimated tax payment due
@@ -461,7 +589,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-montana-q3-2030-09-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300916
 DTEND;VALUE=DATE:20300917
 SUMMARY:Montana: State individual quarterly estimated tax payment due
@@ -476,7 +604,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-montana-q3-2031-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310915
 DTEND;VALUE=DATE:20310916
 SUMMARY:Montana: State individual quarterly estimated tax payment due
@@ -491,7 +619,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-montana-q3-2032-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320915
 DTEND;VALUE=DATE:20320916
 SUMMARY:Montana: State individual quarterly estimated tax payment due
@@ -506,7 +634,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-montana-q4-2025-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250115
 DTEND;VALUE=DATE:20250116
 SUMMARY:Montana: State individual quarterly estimated tax payment due
@@ -521,7 +649,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-montana-q4-2026-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260115
 DTEND;VALUE=DATE:20260116
 SUMMARY:Montana: State individual quarterly estimated tax payment due
@@ -536,7 +664,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-montana-q4-2027-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Montana: State individual quarterly estimated tax payment due
@@ -551,7 +679,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-montana-q4-2028-01-18@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280118
 DTEND;VALUE=DATE:20280119
 SUMMARY:Montana: State individual quarterly estimated tax payment due
@@ -566,7 +694,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-montana-q4-2029-01-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290116
 DTEND;VALUE=DATE:20290117
 SUMMARY:Montana: State individual quarterly estimated tax payment due
@@ -581,7 +709,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-montana-q4-2030-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300115
 DTEND;VALUE=DATE:20300116
 SUMMARY:Montana: State individual quarterly estimated tax payment due
@@ -596,7 +724,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-montana-q4-2031-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310115
 DTEND;VALUE=DATE:20310116
 SUMMARY:Montana: State individual quarterly estimated tax payment due
@@ -611,7 +739,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-montana-q4-2032-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320115
 DTEND;VALUE=DATE:20320116
 SUMMARY:Montana: State individual quarterly estimated tax payment due
@@ -626,7 +754,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-mo-2025-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250415
 DTEND;VALUE=DATE:20250416
 SUMMARY:Montana: State individual income tax return due
@@ -641,7 +769,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-mo-2026-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260416
 SUMMARY:Montana: State individual income tax return due
@@ -656,7 +784,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-mo-2027-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:Montana: State individual income tax return due
@@ -671,7 +799,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-mo-2028-04-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280417
 DTEND;VALUE=DATE:20280418
 SUMMARY:Montana: State individual income tax return due
@@ -686,7 +814,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-mo-2029-04-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290416
 DTEND;VALUE=DATE:20290417
 SUMMARY:Montana: State individual income tax return due
@@ -701,7 +829,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-mo-2030-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300415
 DTEND;VALUE=DATE:20300416
 SUMMARY:Montana: State individual income tax return due
@@ -716,7 +844,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-mo-2031-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310415
 DTEND;VALUE=DATE:20310416
 SUMMARY:Montana: State individual income tax return due
@@ -731,7 +859,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-mo-2032-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320415
 DTEND;VALUE=DATE:20320416
 SUMMARY:Montana: State individual income tax return due
@@ -745,8 +873,128 @@ DESCRIPTION:Conforms to the federal April 15 due date | State individual in
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:state-inc-mo-2025-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20251015
+DTEND;VALUE=DATE:20251016
+SUMMARY:Montana: State individual income tax return extended due date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. | Authority: Direct fetch of https://revenue.mt.gov
+ /taxes/individual-income-tax this session | Source: https://revenue.mt.gov/
+ taxes/individual-income-tax | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-mo-2026-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Montana: State individual income tax return extended due date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. | Authority: Direct fetch of https://revenue.mt.gov
+ /taxes/individual-income-tax this session | Source: https://revenue.mt.gov/
+ taxes/individual-income-tax | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-mo-2027-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271016
+SUMMARY:Montana: State individual income tax return extended due date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. | Authority: Direct fetch of https://revenue.mt.gov
+ /taxes/individual-income-tax this session | Source: https://revenue.mt.gov/
+ taxes/individual-income-tax | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-mo-2028-10-16-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20281016
+DTEND;VALUE=DATE:20281017
+SUMMARY:Montana: State individual income tax return extended due date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. | Authority: Direct fetch of https://revenue.mt.gov
+ /taxes/individual-income-tax this session | Source: https://revenue.mt.gov/
+ taxes/individual-income-tax | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-mo-2029-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20291015
+DTEND;VALUE=DATE:20291016
+SUMMARY:Montana: State individual income tax return extended due date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. | Authority: Direct fetch of https://revenue.mt.gov
+ /taxes/individual-income-tax this session | Source: https://revenue.mt.gov/
+ taxes/individual-income-tax | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-mo-2030-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20301015
+DTEND;VALUE=DATE:20301016
+SUMMARY:Montana: State individual income tax return extended due date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. | Authority: Direct fetch of https://revenue.mt.gov
+ /taxes/individual-income-tax this session | Source: https://revenue.mt.gov/
+ taxes/individual-income-tax | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-mo-2031-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20311015
+DTEND;VALUE=DATE:20311016
+SUMMARY:Montana: State individual income tax return extended due date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. | Authority: Direct fetch of https://revenue.mt.gov
+ /taxes/individual-income-tax this session | Source: https://revenue.mt.gov/
+ taxes/individual-income-tax | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-mo-2032-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20321015
+DTEND;VALUE=DATE:20321016
+SUMMARY:Montana: State individual income tax return extended due date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. | Authority: Direct fetch of https://revenue.mt.gov
+ /taxes/individual-income-tax this session | Source: https://revenue.mt.gov/
+ taxes/individual-income-tax | This date is computed from a recurrence rule 
+ and may not reflect a later-announced change\; confirm against the cited so
+ urce before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:state-pte-montana-2025-03-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250317
 DTEND;VALUE=DATE:20250318
 SUMMARY:Montana: Form PTE due
@@ -767,7 +1015,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-montana-2026-03-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260316
 DTEND;VALUE=DATE:20260317
 SUMMARY:Montana: Form PTE due
@@ -788,7 +1036,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-montana-2027-03-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270316
 SUMMARY:Montana: Form PTE due
@@ -809,7 +1057,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-montana-2028-03-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280315
 DTEND;VALUE=DATE:20280316
 SUMMARY:Montana: Form PTE due
@@ -830,7 +1078,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-montana-2029-03-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290315
 DTEND;VALUE=DATE:20290316
 SUMMARY:Montana: Form PTE due
@@ -851,7 +1099,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-montana-2030-03-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300315
 DTEND;VALUE=DATE:20300316
 SUMMARY:Montana: Form PTE due
@@ -872,7 +1120,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-montana-2031-03-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310317
 DTEND;VALUE=DATE:20310318
 SUMMARY:Montana: Form PTE due
@@ -893,7 +1141,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-montana-2032-03-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320315
 DTEND;VALUE=DATE:20320316
 SUMMARY:Montana: Form PTE due
@@ -913,8 +1161,176 @@ DESCRIPTION:Montana Pass-Through Entity Tax Return (replaced the older Form
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:state-pte-montana-2025-09-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20250916
+SUMMARY:Montana: Form PTE extended due date
+DESCRIPTION:Extended due date\, via Automatic 6-month extension for filing 
+ only\; payment still due by the original date.. | Montana Pass-Through Enti
+ ty Tax Return (replaced the older Form PR-1) due the 15th day of the 3rd mo
+ nth after year-end (weekend-adjusted for the 2025 tax year). Automatic 6-mo
+ nth extension for filing only\; payment still due by the original date. | A
+ uthority: Montana Department of Revenue\, direct fetch this session: "File 
+ Form PTE and pay the tax due by March 16\, 2026" and "An automatic extensio
+ n of six months applies for filing the return\, but this extension does not
+  apply to payments." | Source: https://revenuefiles.mt.gov/files/Forms/Mont
+ ana-Form-PTE-Instructions-Booklet/2025_Montana_Form_PTE_Instructions_Bookle
+ t.pdf | This date is computed from a recurrence rule and may not reflect a 
+ later-announced change\; confirm against the cited source before relying on
+  it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-montana-2026-09-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Montana: Form PTE extended due date
+DESCRIPTION:Extended due date\, via Automatic 6-month extension for filing 
+ only\; payment still due by the original date.. | Montana Pass-Through Enti
+ ty Tax Return (replaced the older Form PR-1) due the 15th day of the 3rd mo
+ nth after year-end (weekend-adjusted for the 2025 tax year). Automatic 6-mo
+ nth extension for filing only\; payment still due by the original date. | A
+ uthority: Montana Department of Revenue\, direct fetch this session: "File 
+ Form PTE and pay the tax due by March 16\, 2026" and "An automatic extensio
+ n of six months applies for filing the return\, but this extension does not
+  apply to payments." | Source: https://revenuefiles.mt.gov/files/Forms/Mont
+ ana-Form-PTE-Instructions-Booklet/2025_Montana_Form_PTE_Instructions_Bookle
+ t.pdf | This date is computed from a recurrence rule and may not reflect a 
+ later-announced change\; confirm against the cited source before relying on
+  it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-montana-2027-09-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:Montana: Form PTE extended due date
+DESCRIPTION:Extended due date\, via Automatic 6-month extension for filing 
+ only\; payment still due by the original date.. | Montana Pass-Through Enti
+ ty Tax Return (replaced the older Form PR-1) due the 15th day of the 3rd mo
+ nth after year-end (weekend-adjusted for the 2025 tax year). Automatic 6-mo
+ nth extension for filing only\; payment still due by the original date. | A
+ uthority: Montana Department of Revenue\, direct fetch this session: "File 
+ Form PTE and pay the tax due by March 16\, 2026" and "An automatic extensio
+ n of six months applies for filing the return\, but this extension does not
+  apply to payments." | Source: https://revenuefiles.mt.gov/files/Forms/Mont
+ ana-Form-PTE-Instructions-Booklet/2025_Montana_Form_PTE_Instructions_Bookle
+ t.pdf | This date is computed from a recurrence rule and may not reflect a 
+ later-announced change\; confirm against the cited source before relying on
+  it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-montana-2028-09-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20280915
+DTEND;VALUE=DATE:20280916
+SUMMARY:Montana: Form PTE extended due date
+DESCRIPTION:Extended due date\, via Automatic 6-month extension for filing 
+ only\; payment still due by the original date.. | Montana Pass-Through Enti
+ ty Tax Return (replaced the older Form PR-1) due the 15th day of the 3rd mo
+ nth after year-end (weekend-adjusted for the 2025 tax year). Automatic 6-mo
+ nth extension for filing only\; payment still due by the original date. | A
+ uthority: Montana Department of Revenue\, direct fetch this session: "File 
+ Form PTE and pay the tax due by March 16\, 2026" and "An automatic extensio
+ n of six months applies for filing the return\, but this extension does not
+  apply to payments." | Source: https://revenuefiles.mt.gov/files/Forms/Mont
+ ana-Form-PTE-Instructions-Booklet/2025_Montana_Form_PTE_Instructions_Bookle
+ t.pdf | This date is computed from a recurrence rule and may not reflect a 
+ later-announced change\; confirm against the cited source before relying on
+  it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-montana-2029-09-17-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20290917
+DTEND;VALUE=DATE:20290918
+SUMMARY:Montana: Form PTE extended due date
+DESCRIPTION:Extended due date\, via Automatic 6-month extension for filing 
+ only\; payment still due by the original date.. | Montana Pass-Through Enti
+ ty Tax Return (replaced the older Form PR-1) due the 15th day of the 3rd mo
+ nth after year-end (weekend-adjusted for the 2025 tax year). Automatic 6-mo
+ nth extension for filing only\; payment still due by the original date. | A
+ uthority: Montana Department of Revenue\, direct fetch this session: "File 
+ Form PTE and pay the tax due by March 16\, 2026" and "An automatic extensio
+ n of six months applies for filing the return\, but this extension does not
+  apply to payments." | Source: https://revenuefiles.mt.gov/files/Forms/Mont
+ ana-Form-PTE-Instructions-Booklet/2025_Montana_Form_PTE_Instructions_Bookle
+ t.pdf | This date is computed from a recurrence rule and may not reflect a 
+ later-announced change\; confirm against the cited source before relying on
+  it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-montana-2030-09-16-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20300916
+DTEND;VALUE=DATE:20300917
+SUMMARY:Montana: Form PTE extended due date
+DESCRIPTION:Extended due date\, via Automatic 6-month extension for filing 
+ only\; payment still due by the original date.. | Montana Pass-Through Enti
+ ty Tax Return (replaced the older Form PR-1) due the 15th day of the 3rd mo
+ nth after year-end (weekend-adjusted for the 2025 tax year). Automatic 6-mo
+ nth extension for filing only\; payment still due by the original date. | A
+ uthority: Montana Department of Revenue\, direct fetch this session: "File 
+ Form PTE and pay the tax due by March 16\, 2026" and "An automatic extensio
+ n of six months applies for filing the return\, but this extension does not
+  apply to payments." | Source: https://revenuefiles.mt.gov/files/Forms/Mont
+ ana-Form-PTE-Instructions-Booklet/2025_Montana_Form_PTE_Instructions_Bookle
+ t.pdf | This date is computed from a recurrence rule and may not reflect a 
+ later-announced change\; confirm against the cited source before relying on
+  it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-montana-2031-09-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20310915
+DTEND;VALUE=DATE:20310916
+SUMMARY:Montana: Form PTE extended due date
+DESCRIPTION:Extended due date\, via Automatic 6-month extension for filing 
+ only\; payment still due by the original date.. | Montana Pass-Through Enti
+ ty Tax Return (replaced the older Form PR-1) due the 15th day of the 3rd mo
+ nth after year-end (weekend-adjusted for the 2025 tax year). Automatic 6-mo
+ nth extension for filing only\; payment still due by the original date. | A
+ uthority: Montana Department of Revenue\, direct fetch this session: "File 
+ Form PTE and pay the tax due by March 16\, 2026" and "An automatic extensio
+ n of six months applies for filing the return\, but this extension does not
+  apply to payments." | Source: https://revenuefiles.mt.gov/files/Forms/Mont
+ ana-Form-PTE-Instructions-Booklet/2025_Montana_Form_PTE_Instructions_Bookle
+ t.pdf | This date is computed from a recurrence rule and may not reflect a 
+ later-announced change\; confirm against the cited source before relying on
+  it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-montana-2032-09-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20320915
+DTEND;VALUE=DATE:20320916
+SUMMARY:Montana: Form PTE extended due date
+DESCRIPTION:Extended due date\, via Automatic 6-month extension for filing 
+ only\; payment still due by the original date.. | Montana Pass-Through Enti
+ ty Tax Return (replaced the older Form PR-1) due the 15th day of the 3rd mo
+ nth after year-end (weekend-adjusted for the 2025 tax year). Automatic 6-mo
+ nth extension for filing only\; payment still due by the original date. | A
+ uthority: Montana Department of Revenue\, direct fetch this session: "File 
+ Form PTE and pay the tax due by March 16\, 2026" and "An automatic extensio
+ n of six months applies for filing the return\, but this extension does not
+  apply to payments." | Source: https://revenuefiles.mt.gov/files/Forms/Mont
+ ana-Form-PTE-Instructions-Booklet/2025_Montana_Form_PTE_Instructions_Bookle
+ t.pdf | This date is computed from a recurrence rule and may not reflect a 
+ later-announced change\; confirm against the cited source before relying on
+  it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:state-sui-montana-q1-2025-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250430
 DTEND;VALUE=DATE:20250501
 SUMMARY:Montana: State unemployment insurance quarterly return due
@@ -931,7 +1347,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-montana-q1-2026-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260501
 SUMMARY:Montana: State unemployment insurance quarterly return due
@@ -948,7 +1364,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-montana-q1-2027-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270501
 SUMMARY:Montana: State unemployment insurance quarterly return due
@@ -965,7 +1381,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-montana-q1-2028-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280430
 DTEND;VALUE=DATE:20280501
 SUMMARY:Montana: State unemployment insurance quarterly return due
@@ -982,7 +1398,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-montana-q1-2029-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290430
 DTEND;VALUE=DATE:20290501
 SUMMARY:Montana: State unemployment insurance quarterly return due
@@ -999,7 +1415,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-montana-q1-2030-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300430
 DTEND;VALUE=DATE:20300501
 SUMMARY:Montana: State unemployment insurance quarterly return due
@@ -1016,7 +1432,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-montana-q1-2031-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310430
 DTEND;VALUE=DATE:20310501
 SUMMARY:Montana: State unemployment insurance quarterly return due
@@ -1033,7 +1449,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-montana-q1-2032-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320430
 DTEND;VALUE=DATE:20320501
 SUMMARY:Montana: State unemployment insurance quarterly return due
@@ -1050,7 +1466,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-montana-q2-2025-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250731
 DTEND;VALUE=DATE:20250801
 SUMMARY:Montana: State unemployment insurance quarterly return due
@@ -1067,7 +1483,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-montana-q2-2026-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
 SUMMARY:Montana: State unemployment insurance quarterly return due
@@ -1084,7 +1500,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-montana-q2-2027-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270731
 DTEND;VALUE=DATE:20270801
 SUMMARY:Montana: State unemployment insurance quarterly return due
@@ -1101,7 +1517,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-montana-q2-2028-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280731
 DTEND;VALUE=DATE:20280801
 SUMMARY:Montana: State unemployment insurance quarterly return due
@@ -1118,7 +1534,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-montana-q2-2029-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290731
 DTEND;VALUE=DATE:20290801
 SUMMARY:Montana: State unemployment insurance quarterly return due
@@ -1135,7 +1551,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-montana-q2-2030-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300731
 DTEND;VALUE=DATE:20300801
 SUMMARY:Montana: State unemployment insurance quarterly return due
@@ -1152,7 +1568,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-montana-q2-2031-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310731
 DTEND;VALUE=DATE:20310801
 SUMMARY:Montana: State unemployment insurance quarterly return due
@@ -1169,7 +1585,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-montana-q2-2032-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320731
 DTEND;VALUE=DATE:20320801
 SUMMARY:Montana: State unemployment insurance quarterly return due
@@ -1186,7 +1602,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-montana-q3-2025-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20251031
 DTEND;VALUE=DATE:20251101
 SUMMARY:Montana: State unemployment insurance quarterly return due
@@ -1203,7 +1619,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-montana-q3-2026-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Montana: State unemployment insurance quarterly return due
@@ -1220,7 +1636,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-montana-q3-2027-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20271031
 DTEND;VALUE=DATE:20271101
 SUMMARY:Montana: State unemployment insurance quarterly return due
@@ -1237,7 +1653,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-montana-q3-2028-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20281031
 DTEND;VALUE=DATE:20281101
 SUMMARY:Montana: State unemployment insurance quarterly return due
@@ -1254,7 +1670,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-montana-q3-2029-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20291031
 DTEND;VALUE=DATE:20291101
 SUMMARY:Montana: State unemployment insurance quarterly return due
@@ -1271,7 +1687,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-montana-q3-2030-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20301031
 DTEND;VALUE=DATE:20301101
 SUMMARY:Montana: State unemployment insurance quarterly return due
@@ -1288,7 +1704,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-montana-q3-2031-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20311031
 DTEND;VALUE=DATE:20311101
 SUMMARY:Montana: State unemployment insurance quarterly return due
@@ -1305,7 +1721,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-montana-q3-2032-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20321031
 DTEND;VALUE=DATE:20321101
 SUMMARY:Montana: State unemployment insurance quarterly return due
@@ -1322,7 +1738,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-montana-q4-2025-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250131
 DTEND;VALUE=DATE:20250201
 SUMMARY:Montana: State unemployment insurance quarterly return due
@@ -1339,7 +1755,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-montana-q4-2026-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260131
 DTEND;VALUE=DATE:20260201
 SUMMARY:Montana: State unemployment insurance quarterly return due
@@ -1356,7 +1772,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-montana-q4-2027-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:Montana: State unemployment insurance quarterly return due
@@ -1373,7 +1789,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-montana-q4-2028-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280131
 DTEND;VALUE=DATE:20280201
 SUMMARY:Montana: State unemployment insurance quarterly return due
@@ -1390,7 +1806,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-montana-q4-2029-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290131
 DTEND;VALUE=DATE:20290201
 SUMMARY:Montana: State unemployment insurance quarterly return due
@@ -1407,7 +1823,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-montana-q4-2030-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300131
 DTEND;VALUE=DATE:20300201
 SUMMARY:Montana: State unemployment insurance quarterly return due
@@ -1424,7 +1840,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-montana-q4-2031-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310131
 DTEND;VALUE=DATE:20310201
 SUMMARY:Montana: State unemployment insurance quarterly return due
@@ -1441,7 +1857,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-montana-q4-2032-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320131
 DTEND;VALUE=DATE:20320201
 SUMMARY:Montana: State unemployment insurance quarterly return due

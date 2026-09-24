@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:fed-990-2025-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250515
 DTEND;VALUE=DATE:20250516
 SUMMARY:Federal: 990 / 990-EZ / 990-PF due
@@ -28,7 +28,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fed-990-2026-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
 SUMMARY:Federal: 990 / 990-EZ / 990-PF due
@@ -46,7 +46,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fed-990-2027-05-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270517
 DTEND;VALUE=DATE:20270518
 SUMMARY:Federal: 990 / 990-EZ / 990-PF due
@@ -64,7 +64,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fed-990-2028-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280515
 DTEND;VALUE=DATE:20280516
 SUMMARY:Federal: 990 / 990-EZ / 990-PF due
@@ -82,7 +82,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fed-990-2029-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290515
 DTEND;VALUE=DATE:20290516
 SUMMARY:Federal: 990 / 990-EZ / 990-PF due
@@ -100,7 +100,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fed-990-2030-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300515
 DTEND;VALUE=DATE:20300516
 SUMMARY:Federal: 990 / 990-EZ / 990-PF due
@@ -118,7 +118,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fed-990-2031-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310515
 DTEND;VALUE=DATE:20310516
 SUMMARY:Federal: 990 / 990-EZ / 990-PF due
@@ -136,7 +136,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fed-990-2032-05-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320517
 DTEND;VALUE=DATE:20320518
 SUMMARY:Federal: 990 / 990-EZ / 990-PF due
@@ -153,8 +153,152 @@ DESCRIPTION:15th day of the 5th month after the close of the accounting per
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fed-990-2025-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20251115
+DTEND;VALUE=DATE:20251116
+SUMMARY:Federal: 990 / 990-EZ / 990-PF extended due date
+DESCRIPTION:Extended due date\, via Form 8868 (automatic 6-month extension)
+ . | For a calendar-year exempt organization\, Form 990\, 990-EZ\, or 990-PF
+  for tax year 2025 is due May 15\, 2026. Form 8868 provides an automatic 6-
+ month extension to November 15\, 2026. | Authority: IRS: "Form 990\, 990-EZ
+ \, or 990-PF must be filed by the 15th day of the 5th month after the end o
+ f your organization's accounting period." Form 8868 grants an automatic 6-m
+ onth extension. | Source: https://www.irs.gov/charities-non-profits/annual-
+ exempt-organization-return-due-date | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-990-2026-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Federal: 990 / 990-EZ / 990-PF extended due date
+DESCRIPTION:Extended due date\, via Form 8868 (automatic 6-month extension)
+ . | For a calendar-year exempt organization\, Form 990\, 990-EZ\, or 990-PF
+  for tax year 2025 is due May 15\, 2026. Form 8868 provides an automatic 6-
+ month extension to November 15\, 2026. | Authority: IRS: "Form 990\, 990-EZ
+ \, or 990-PF must be filed by the 15th day of the 5th month after the end o
+ f your organization's accounting period." Form 8868 grants an automatic 6-m
+ onth extension. | Source: https://www.irs.gov/charities-non-profits/annual-
+ exempt-organization-return-due-date | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-990-2027-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20271115
+DTEND;VALUE=DATE:20271116
+SUMMARY:Federal: 990 / 990-EZ / 990-PF extended due date
+DESCRIPTION:Extended due date\, via Form 8868 (automatic 6-month extension)
+ . | For a calendar-year exempt organization\, Form 990\, 990-EZ\, or 990-PF
+  for tax year 2025 is due May 15\, 2026. Form 8868 provides an automatic 6-
+ month extension to November 15\, 2026. | Authority: IRS: "Form 990\, 990-EZ
+ \, or 990-PF must be filed by the 15th day of the 5th month after the end o
+ f your organization's accounting period." Form 8868 grants an automatic 6-m
+ onth extension. | Source: https://www.irs.gov/charities-non-profits/annual-
+ exempt-organization-return-due-date | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-990-2028-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20281115
+DTEND;VALUE=DATE:20281116
+SUMMARY:Federal: 990 / 990-EZ / 990-PF extended due date
+DESCRIPTION:Extended due date\, via Form 8868 (automatic 6-month extension)
+ . | For a calendar-year exempt organization\, Form 990\, 990-EZ\, or 990-PF
+  for tax year 2025 is due May 15\, 2026. Form 8868 provides an automatic 6-
+ month extension to November 15\, 2026. | Authority: IRS: "Form 990\, 990-EZ
+ \, or 990-PF must be filed by the 15th day of the 5th month after the end o
+ f your organization's accounting period." Form 8868 grants an automatic 6-m
+ onth extension. | Source: https://www.irs.gov/charities-non-profits/annual-
+ exempt-organization-return-due-date | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-990-2029-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20291115
+DTEND;VALUE=DATE:20291116
+SUMMARY:Federal: 990 / 990-EZ / 990-PF extended due date
+DESCRIPTION:Extended due date\, via Form 8868 (automatic 6-month extension)
+ . | For a calendar-year exempt organization\, Form 990\, 990-EZ\, or 990-PF
+  for tax year 2025 is due May 15\, 2026. Form 8868 provides an automatic 6-
+ month extension to November 15\, 2026. | Authority: IRS: "Form 990\, 990-EZ
+ \, or 990-PF must be filed by the 15th day of the 5th month after the end o
+ f your organization's accounting period." Form 8868 grants an automatic 6-m
+ onth extension. | Source: https://www.irs.gov/charities-non-profits/annual-
+ exempt-organization-return-due-date | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-990-2030-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20301115
+DTEND;VALUE=DATE:20301116
+SUMMARY:Federal: 990 / 990-EZ / 990-PF extended due date
+DESCRIPTION:Extended due date\, via Form 8868 (automatic 6-month extension)
+ . | For a calendar-year exempt organization\, Form 990\, 990-EZ\, or 990-PF
+  for tax year 2025 is due May 15\, 2026. Form 8868 provides an automatic 6-
+ month extension to November 15\, 2026. | Authority: IRS: "Form 990\, 990-EZ
+ \, or 990-PF must be filed by the 15th day of the 5th month after the end o
+ f your organization's accounting period." Form 8868 grants an automatic 6-m
+ onth extension. | Source: https://www.irs.gov/charities-non-profits/annual-
+ exempt-organization-return-due-date | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-990-2031-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20311115
+DTEND;VALUE=DATE:20311116
+SUMMARY:Federal: 990 / 990-EZ / 990-PF extended due date
+DESCRIPTION:Extended due date\, via Form 8868 (automatic 6-month extension)
+ . | For a calendar-year exempt organization\, Form 990\, 990-EZ\, or 990-PF
+  for tax year 2025 is due May 15\, 2026. Form 8868 provides an automatic 6-
+ month extension to November 15\, 2026. | Authority: IRS: "Form 990\, 990-EZ
+ \, or 990-PF must be filed by the 15th day of the 5th month after the end o
+ f your organization's accounting period." Form 8868 grants an automatic 6-m
+ onth extension. | Source: https://www.irs.gov/charities-non-profits/annual-
+ exempt-organization-return-due-date | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-990-2032-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20321115
+DTEND;VALUE=DATE:20321116
+SUMMARY:Federal: 990 / 990-EZ / 990-PF extended due date
+DESCRIPTION:Extended due date\, via Form 8868 (automatic 6-month extension)
+ . | For a calendar-year exempt organization\, Form 990\, 990-EZ\, or 990-PF
+  for tax year 2025 is due May 15\, 2026. Form 8868 provides an automatic 6-
+ month extension to November 15\, 2026. | Authority: IRS: "Form 990\, 990-EZ
+ \, or 990-PF must be filed by the 15th day of the 5th month after the end o
+ f your organization's accounting period." Form 8868 grants an automatic 6-m
+ onth extension. | Source: https://www.irs.gov/charities-non-profits/annual-
+ exempt-organization-return-due-date | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fed-990-n-2025-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250515
 DTEND;VALUE=DATE:20250516
 SUMMARY:Federal: 990-N due
@@ -174,7 +318,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fed-990-n-2026-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
 SUMMARY:Federal: 990-N due
@@ -194,7 +338,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fed-990-n-2027-05-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270517
 DTEND;VALUE=DATE:20270518
 SUMMARY:Federal: 990-N due
@@ -214,7 +358,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fed-990-n-2028-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280515
 DTEND;VALUE=DATE:20280516
 SUMMARY:Federal: 990-N due
@@ -234,7 +378,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fed-990-n-2029-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290515
 DTEND;VALUE=DATE:20290516
 SUMMARY:Federal: 990-N due
@@ -254,7 +398,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fed-990-n-2030-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300515
 DTEND;VALUE=DATE:20300516
 SUMMARY:Federal: 990-N due
@@ -274,7 +418,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fed-990-n-2031-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310515
 DTEND;VALUE=DATE:20310516
 SUMMARY:Federal: 990-N due
@@ -294,7 +438,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fed-990-n-2032-05-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320517
 DTEND;VALUE=DATE:20320518
 SUMMARY:Federal: 990-N due

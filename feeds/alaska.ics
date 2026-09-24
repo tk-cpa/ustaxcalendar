@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:state-corp-alaska-2025-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250515
 DTEND;VALUE=DATE:20250516
 SUMMARY:Alaska: State corporate income/franchise tax return due
@@ -30,7 +30,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-alaska-2026-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
 SUMMARY:Alaska: State corporate income/franchise tax return due
@@ -50,7 +50,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-alaska-2027-05-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270517
 DTEND;VALUE=DATE:20270518
 SUMMARY:Alaska: State corporate income/franchise tax return due
@@ -70,7 +70,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-alaska-2028-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280515
 DTEND;VALUE=DATE:20280516
 SUMMARY:Alaska: State corporate income/franchise tax return due
@@ -90,7 +90,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-alaska-2029-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290515
 DTEND;VALUE=DATE:20290516
 SUMMARY:Alaska: State corporate income/franchise tax return due
@@ -110,7 +110,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-alaska-2030-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300515
 DTEND;VALUE=DATE:20300516
 SUMMARY:Alaska: State corporate income/franchise tax return due
@@ -130,7 +130,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-alaska-2031-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310515
 DTEND;VALUE=DATE:20310516
 SUMMARY:Alaska: State corporate income/franchise tax return due
@@ -150,7 +150,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-alaska-2032-05-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320517
 DTEND;VALUE=DATE:20320518
 SUMMARY:Alaska: State corporate income/franchise tax return due
@@ -169,8 +169,168 @@ DESCRIPTION:Due 15th day of 5th month after year end (May 15)\; automatic e
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:state-corp-alaska-2025-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20251115
+DTEND;VALUE=DATE:20251116
+SUMMARY:Alaska: State corporate income/franchise tax return extended due da
+ te
+DESCRIPTION:Extended due date\, via None. | Due 15th day of 5th month after
+  year end (May 15)\; automatic extension to 15th day of month following the
+  federal extended due date (November 15). | Authority: Direct fetch of Alas
+ ka DOR Form 6000 Instructions PDF this session (accessed directly via the d
+ ocument viewer URL\, bypassing a robots.txt block on the HTML site)\, corro
+ borated by a 2024 mirror of the same official instructions: "C Corporations
+ \, generally - Filing due date: 15th of the fifth month\; Extended due date
+ : 15th of the eleventh month." | Source: https://tax.alaska.gov/programs/do
+ cumentviewer/viewer.aspx?6661f | This date is computed from a recurrence ru
+ le and may not reflect a later-announced change\; confirm against the cited
+  source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-alaska-2026-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Alaska: State corporate income/franchise tax return extended due da
+ te
+DESCRIPTION:Extended due date\, via None. | Due 15th day of 5th month after
+  year end (May 15)\; automatic extension to 15th day of month following the
+  federal extended due date (November 15). | Authority: Direct fetch of Alas
+ ka DOR Form 6000 Instructions PDF this session (accessed directly via the d
+ ocument viewer URL\, bypassing a robots.txt block on the HTML site)\, corro
+ borated by a 2024 mirror of the same official instructions: "C Corporations
+ \, generally - Filing due date: 15th of the fifth month\; Extended due date
+ : 15th of the eleventh month." | Source: https://tax.alaska.gov/programs/do
+ cumentviewer/viewer.aspx?6661f | This date is computed from a recurrence ru
+ le and may not reflect a later-announced change\; confirm against the cited
+  source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-alaska-2027-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20271115
+DTEND;VALUE=DATE:20271116
+SUMMARY:Alaska: State corporate income/franchise tax return extended due da
+ te
+DESCRIPTION:Extended due date\, via None. | Due 15th day of 5th month after
+  year end (May 15)\; automatic extension to 15th day of month following the
+  federal extended due date (November 15). | Authority: Direct fetch of Alas
+ ka DOR Form 6000 Instructions PDF this session (accessed directly via the d
+ ocument viewer URL\, bypassing a robots.txt block on the HTML site)\, corro
+ borated by a 2024 mirror of the same official instructions: "C Corporations
+ \, generally - Filing due date: 15th of the fifth month\; Extended due date
+ : 15th of the eleventh month." | Source: https://tax.alaska.gov/programs/do
+ cumentviewer/viewer.aspx?6661f | This date is computed from a recurrence ru
+ le and may not reflect a later-announced change\; confirm against the cited
+  source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-alaska-2028-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20281115
+DTEND;VALUE=DATE:20281116
+SUMMARY:Alaska: State corporate income/franchise tax return extended due da
+ te
+DESCRIPTION:Extended due date\, via None. | Due 15th day of 5th month after
+  year end (May 15)\; automatic extension to 15th day of month following the
+  federal extended due date (November 15). | Authority: Direct fetch of Alas
+ ka DOR Form 6000 Instructions PDF this session (accessed directly via the d
+ ocument viewer URL\, bypassing a robots.txt block on the HTML site)\, corro
+ borated by a 2024 mirror of the same official instructions: "C Corporations
+ \, generally - Filing due date: 15th of the fifth month\; Extended due date
+ : 15th of the eleventh month." | Source: https://tax.alaska.gov/programs/do
+ cumentviewer/viewer.aspx?6661f | This date is computed from a recurrence ru
+ le and may not reflect a later-announced change\; confirm against the cited
+  source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-alaska-2029-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20291115
+DTEND;VALUE=DATE:20291116
+SUMMARY:Alaska: State corporate income/franchise tax return extended due da
+ te
+DESCRIPTION:Extended due date\, via None. | Due 15th day of 5th month after
+  year end (May 15)\; automatic extension to 15th day of month following the
+  federal extended due date (November 15). | Authority: Direct fetch of Alas
+ ka DOR Form 6000 Instructions PDF this session (accessed directly via the d
+ ocument viewer URL\, bypassing a robots.txt block on the HTML site)\, corro
+ borated by a 2024 mirror of the same official instructions: "C Corporations
+ \, generally - Filing due date: 15th of the fifth month\; Extended due date
+ : 15th of the eleventh month." | Source: https://tax.alaska.gov/programs/do
+ cumentviewer/viewer.aspx?6661f | This date is computed from a recurrence ru
+ le and may not reflect a later-announced change\; confirm against the cited
+  source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-alaska-2030-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20301115
+DTEND;VALUE=DATE:20301116
+SUMMARY:Alaska: State corporate income/franchise tax return extended due da
+ te
+DESCRIPTION:Extended due date\, via None. | Due 15th day of 5th month after
+  year end (May 15)\; automatic extension to 15th day of month following the
+  federal extended due date (November 15). | Authority: Direct fetch of Alas
+ ka DOR Form 6000 Instructions PDF this session (accessed directly via the d
+ ocument viewer URL\, bypassing a robots.txt block on the HTML site)\, corro
+ borated by a 2024 mirror of the same official instructions: "C Corporations
+ \, generally - Filing due date: 15th of the fifth month\; Extended due date
+ : 15th of the eleventh month." | Source: https://tax.alaska.gov/programs/do
+ cumentviewer/viewer.aspx?6661f | This date is computed from a recurrence ru
+ le and may not reflect a later-announced change\; confirm against the cited
+  source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-alaska-2031-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20311115
+DTEND;VALUE=DATE:20311116
+SUMMARY:Alaska: State corporate income/franchise tax return extended due da
+ te
+DESCRIPTION:Extended due date\, via None. | Due 15th day of 5th month after
+  year end (May 15)\; automatic extension to 15th day of month following the
+  federal extended due date (November 15). | Authority: Direct fetch of Alas
+ ka DOR Form 6000 Instructions PDF this session (accessed directly via the d
+ ocument viewer URL\, bypassing a robots.txt block on the HTML site)\, corro
+ borated by a 2024 mirror of the same official instructions: "C Corporations
+ \, generally - Filing due date: 15th of the fifth month\; Extended due date
+ : 15th of the eleventh month." | Source: https://tax.alaska.gov/programs/do
+ cumentviewer/viewer.aspx?6661f | This date is computed from a recurrence ru
+ le and may not reflect a later-announced change\; confirm against the cited
+  source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-alaska-2032-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20321115
+DTEND;VALUE=DATE:20321116
+SUMMARY:Alaska: State corporate income/franchise tax return extended due da
+ te
+DESCRIPTION:Extended due date\, via None. | Due 15th day of 5th month after
+  year end (May 15)\; automatic extension to 15th day of month following the
+  federal extended due date (November 15). | Authority: Direct fetch of Alas
+ ka DOR Form 6000 Instructions PDF this session (accessed directly via the d
+ ocument viewer URL\, bypassing a robots.txt block on the HTML site)\, corro
+ borated by a 2024 mirror of the same official instructions: "C Corporations
+ \, generally - Filing due date: 15th of the fifth month\; Extended due date
+ : 15th of the eleventh month." | Source: https://tax.alaska.gov/programs/do
+ cumentviewer/viewer.aspx?6661f | This date is computed from a recurrence ru
+ le and may not reflect a later-announced change\; confirm against the cited
+  source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:state-pte-alaska-2025-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250415
 DTEND;VALUE=DATE:20250416
 SUMMARY:Alaska: Form 6900 due
@@ -222,7 +382,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-alaska-2026-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260416
 SUMMARY:Alaska: Form 6900 due
@@ -274,7 +434,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-alaska-2027-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:Alaska: Form 6900 due
@@ -326,7 +486,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-alaska-2028-04-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280417
 DTEND;VALUE=DATE:20280418
 SUMMARY:Alaska: Form 6900 due
@@ -378,7 +538,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-alaska-2029-04-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290416
 DTEND;VALUE=DATE:20290417
 SUMMARY:Alaska: Form 6900 due
@@ -430,7 +590,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-alaska-2030-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300415
 DTEND;VALUE=DATE:20300416
 SUMMARY:Alaska: Form 6900 due
@@ -482,7 +642,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-alaska-2031-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310415
 DTEND;VALUE=DATE:20310416
 SUMMARY:Alaska: Form 6900 due
@@ -534,7 +694,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-alaska-2032-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320415
 DTEND;VALUE=DATE:20320416
 SUMMARY:Alaska: Form 6900 due
@@ -585,8 +745,344 @@ DESCRIPTION:Alaska requires a partnership (or LLC taxed as a partnership) w
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:state-pte-alaska-2025-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20251015
+DTEND;VALUE=DATE:20251016
+SUMMARY:Alaska: Form 6900 extended due date
+DESCRIPTION:Extended due date\, via A federal extension (Form 7004) automat
+ ically extends the Alaska Form 6900 due date to 30 days after the federal e
+ xtended due date\; attach a copy of the federal extension.. | Alaska Form 6
+ 900 (Partnership Information Return) is due 30 days after the federal partn
+ ership return's due date - April 15\, 2026 for the 2025 tax year (30 days a
+ fter the federal 1065 due date of March 16\, 2026) - and is required only w
+ hen at least one partner is a corporation or another partnership\; a partne
+ rship with only natural-person partners has no Alaska filing requirement. A
+  federal extension automatically extends the Alaska due date to 30 days aft
+ er the federal extended due date (October 15\, 2026). S corporations doing 
+ business in Alaska separately file Form 6000 (the corporate return)\, thoug
+ h Alaska generally does not tax S corporations on pass-through income. | Au
+ thority: Alaska Department of Revenue\, Instructions for Form 6900 (Alaska 
+ Partnership Information Return): "A partnership or an LLC treated as a part
+ nership for tax purposes ... which conducts business in the state (also kno
+ wn as having 'nexus' with the state) is required to file Form 6900. If all 
+ of the partners or LLC members ... are natural persons or are effectively t
+ reated as natural persons\, the partnership is not required to file Form 69
+ 00." "The Alaska partnership return must be filed within 30 days of the dat
+ e on which the partnership's federal return is required to be filed." "A fe
+ deral extension automatically extends the Alaska filing due date to 30 days
+  after the federal extended due date." S-corp treatment per Instructions fo
+ r Form 6000: "An S Corporation doing business in Alaska is required to file
+  an Alaska return\, but Alaska does not impose a tax on the S Corporation f
+ or pass-through items of income\," subject to the built-in-gains and excess
+ -net-passive-income exceptions. Direct access to tax.alaska.gov is blocked 
+ by robots.txt for automated fetch (confirmed again this session)\; the quot
+ ed language above is from the Department's own Form 6900i and 6000i instruc
+ tion PDFs\, accessed via two independently-hosted verbatim mirrors of the s
+ ame official documents (identical wording on both)\, rather than a direct t
+ ax.alaska.gov fetch. | Source: https://www.taxformfinder.org/forms/2024/202
+ 4-alaska-form-6900i.pdf | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-alaska-2026-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Alaska: Form 6900 extended due date
+DESCRIPTION:Extended due date\, via A federal extension (Form 7004) automat
+ ically extends the Alaska Form 6900 due date to 30 days after the federal e
+ xtended due date\; attach a copy of the federal extension.. | Alaska Form 6
+ 900 (Partnership Information Return) is due 30 days after the federal partn
+ ership return's due date - April 15\, 2026 for the 2025 tax year (30 days a
+ fter the federal 1065 due date of March 16\, 2026) - and is required only w
+ hen at least one partner is a corporation or another partnership\; a partne
+ rship with only natural-person partners has no Alaska filing requirement. A
+  federal extension automatically extends the Alaska due date to 30 days aft
+ er the federal extended due date (October 15\, 2026). S corporations doing 
+ business in Alaska separately file Form 6000 (the corporate return)\, thoug
+ h Alaska generally does not tax S corporations on pass-through income. | Au
+ thority: Alaska Department of Revenue\, Instructions for Form 6900 (Alaska 
+ Partnership Information Return): "A partnership or an LLC treated as a part
+ nership for tax purposes ... which conducts business in the state (also kno
+ wn as having 'nexus' with the state) is required to file Form 6900. If all 
+ of the partners or LLC members ... are natural persons or are effectively t
+ reated as natural persons\, the partnership is not required to file Form 69
+ 00." "The Alaska partnership return must be filed within 30 days of the dat
+ e on which the partnership's federal return is required to be filed." "A fe
+ deral extension automatically extends the Alaska filing due date to 30 days
+  after the federal extended due date." S-corp treatment per Instructions fo
+ r Form 6000: "An S Corporation doing business in Alaska is required to file
+  an Alaska return\, but Alaska does not impose a tax on the S Corporation f
+ or pass-through items of income\," subject to the built-in-gains and excess
+ -net-passive-income exceptions. Direct access to tax.alaska.gov is blocked 
+ by robots.txt for automated fetch (confirmed again this session)\; the quot
+ ed language above is from the Department's own Form 6900i and 6000i instruc
+ tion PDFs\, accessed via two independently-hosted verbatim mirrors of the s
+ ame official documents (identical wording on both)\, rather than a direct t
+ ax.alaska.gov fetch. | Source: https://www.taxformfinder.org/forms/2024/202
+ 4-alaska-form-6900i.pdf | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-alaska-2027-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271016
+SUMMARY:Alaska: Form 6900 extended due date
+DESCRIPTION:Extended due date\, via A federal extension (Form 7004) automat
+ ically extends the Alaska Form 6900 due date to 30 days after the federal e
+ xtended due date\; attach a copy of the federal extension.. | Alaska Form 6
+ 900 (Partnership Information Return) is due 30 days after the federal partn
+ ership return's due date - April 15\, 2026 for the 2025 tax year (30 days a
+ fter the federal 1065 due date of March 16\, 2026) - and is required only w
+ hen at least one partner is a corporation or another partnership\; a partne
+ rship with only natural-person partners has no Alaska filing requirement. A
+  federal extension automatically extends the Alaska due date to 30 days aft
+ er the federal extended due date (October 15\, 2026). S corporations doing 
+ business in Alaska separately file Form 6000 (the corporate return)\, thoug
+ h Alaska generally does not tax S corporations on pass-through income. | Au
+ thority: Alaska Department of Revenue\, Instructions for Form 6900 (Alaska 
+ Partnership Information Return): "A partnership or an LLC treated as a part
+ nership for tax purposes ... which conducts business in the state (also kno
+ wn as having 'nexus' with the state) is required to file Form 6900. If all 
+ of the partners or LLC members ... are natural persons or are effectively t
+ reated as natural persons\, the partnership is not required to file Form 69
+ 00." "The Alaska partnership return must be filed within 30 days of the dat
+ e on which the partnership's federal return is required to be filed." "A fe
+ deral extension automatically extends the Alaska filing due date to 30 days
+  after the federal extended due date." S-corp treatment per Instructions fo
+ r Form 6000: "An S Corporation doing business in Alaska is required to file
+  an Alaska return\, but Alaska does not impose a tax on the S Corporation f
+ or pass-through items of income\," subject to the built-in-gains and excess
+ -net-passive-income exceptions. Direct access to tax.alaska.gov is blocked 
+ by robots.txt for automated fetch (confirmed again this session)\; the quot
+ ed language above is from the Department's own Form 6900i and 6000i instruc
+ tion PDFs\, accessed via two independently-hosted verbatim mirrors of the s
+ ame official documents (identical wording on both)\, rather than a direct t
+ ax.alaska.gov fetch. | Source: https://www.taxformfinder.org/forms/2024/202
+ 4-alaska-form-6900i.pdf | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-alaska-2028-10-16-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20281016
+DTEND;VALUE=DATE:20281017
+SUMMARY:Alaska: Form 6900 extended due date
+DESCRIPTION:Extended due date\, via A federal extension (Form 7004) automat
+ ically extends the Alaska Form 6900 due date to 30 days after the federal e
+ xtended due date\; attach a copy of the federal extension.. | Alaska Form 6
+ 900 (Partnership Information Return) is due 30 days after the federal partn
+ ership return's due date - April 15\, 2026 for the 2025 tax year (30 days a
+ fter the federal 1065 due date of March 16\, 2026) - and is required only w
+ hen at least one partner is a corporation or another partnership\; a partne
+ rship with only natural-person partners has no Alaska filing requirement. A
+  federal extension automatically extends the Alaska due date to 30 days aft
+ er the federal extended due date (October 15\, 2026). S corporations doing 
+ business in Alaska separately file Form 6000 (the corporate return)\, thoug
+ h Alaska generally does not tax S corporations on pass-through income. | Au
+ thority: Alaska Department of Revenue\, Instructions for Form 6900 (Alaska 
+ Partnership Information Return): "A partnership or an LLC treated as a part
+ nership for tax purposes ... which conducts business in the state (also kno
+ wn as having 'nexus' with the state) is required to file Form 6900. If all 
+ of the partners or LLC members ... are natural persons or are effectively t
+ reated as natural persons\, the partnership is not required to file Form 69
+ 00." "The Alaska partnership return must be filed within 30 days of the dat
+ e on which the partnership's federal return is required to be filed." "A fe
+ deral extension automatically extends the Alaska filing due date to 30 days
+  after the federal extended due date." S-corp treatment per Instructions fo
+ r Form 6000: "An S Corporation doing business in Alaska is required to file
+  an Alaska return\, but Alaska does not impose a tax on the S Corporation f
+ or pass-through items of income\," subject to the built-in-gains and excess
+ -net-passive-income exceptions. Direct access to tax.alaska.gov is blocked 
+ by robots.txt for automated fetch (confirmed again this session)\; the quot
+ ed language above is from the Department's own Form 6900i and 6000i instruc
+ tion PDFs\, accessed via two independently-hosted verbatim mirrors of the s
+ ame official documents (identical wording on both)\, rather than a direct t
+ ax.alaska.gov fetch. | Source: https://www.taxformfinder.org/forms/2024/202
+ 4-alaska-form-6900i.pdf | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-alaska-2029-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20291015
+DTEND;VALUE=DATE:20291016
+SUMMARY:Alaska: Form 6900 extended due date
+DESCRIPTION:Extended due date\, via A federal extension (Form 7004) automat
+ ically extends the Alaska Form 6900 due date to 30 days after the federal e
+ xtended due date\; attach a copy of the federal extension.. | Alaska Form 6
+ 900 (Partnership Information Return) is due 30 days after the federal partn
+ ership return's due date - April 15\, 2026 for the 2025 tax year (30 days a
+ fter the federal 1065 due date of March 16\, 2026) - and is required only w
+ hen at least one partner is a corporation or another partnership\; a partne
+ rship with only natural-person partners has no Alaska filing requirement. A
+  federal extension automatically extends the Alaska due date to 30 days aft
+ er the federal extended due date (October 15\, 2026). S corporations doing 
+ business in Alaska separately file Form 6000 (the corporate return)\, thoug
+ h Alaska generally does not tax S corporations on pass-through income. | Au
+ thority: Alaska Department of Revenue\, Instructions for Form 6900 (Alaska 
+ Partnership Information Return): "A partnership or an LLC treated as a part
+ nership for tax purposes ... which conducts business in the state (also kno
+ wn as having 'nexus' with the state) is required to file Form 6900. If all 
+ of the partners or LLC members ... are natural persons or are effectively t
+ reated as natural persons\, the partnership is not required to file Form 69
+ 00." "The Alaska partnership return must be filed within 30 days of the dat
+ e on which the partnership's federal return is required to be filed." "A fe
+ deral extension automatically extends the Alaska filing due date to 30 days
+  after the federal extended due date." S-corp treatment per Instructions fo
+ r Form 6000: "An S Corporation doing business in Alaska is required to file
+  an Alaska return\, but Alaska does not impose a tax on the S Corporation f
+ or pass-through items of income\," subject to the built-in-gains and excess
+ -net-passive-income exceptions. Direct access to tax.alaska.gov is blocked 
+ by robots.txt for automated fetch (confirmed again this session)\; the quot
+ ed language above is from the Department's own Form 6900i and 6000i instruc
+ tion PDFs\, accessed via two independently-hosted verbatim mirrors of the s
+ ame official documents (identical wording on both)\, rather than a direct t
+ ax.alaska.gov fetch. | Source: https://www.taxformfinder.org/forms/2024/202
+ 4-alaska-form-6900i.pdf | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-alaska-2030-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20301015
+DTEND;VALUE=DATE:20301016
+SUMMARY:Alaska: Form 6900 extended due date
+DESCRIPTION:Extended due date\, via A federal extension (Form 7004) automat
+ ically extends the Alaska Form 6900 due date to 30 days after the federal e
+ xtended due date\; attach a copy of the federal extension.. | Alaska Form 6
+ 900 (Partnership Information Return) is due 30 days after the federal partn
+ ership return's due date - April 15\, 2026 for the 2025 tax year (30 days a
+ fter the federal 1065 due date of March 16\, 2026) - and is required only w
+ hen at least one partner is a corporation or another partnership\; a partne
+ rship with only natural-person partners has no Alaska filing requirement. A
+  federal extension automatically extends the Alaska due date to 30 days aft
+ er the federal extended due date (October 15\, 2026). S corporations doing 
+ business in Alaska separately file Form 6000 (the corporate return)\, thoug
+ h Alaska generally does not tax S corporations on pass-through income. | Au
+ thority: Alaska Department of Revenue\, Instructions for Form 6900 (Alaska 
+ Partnership Information Return): "A partnership or an LLC treated as a part
+ nership for tax purposes ... which conducts business in the state (also kno
+ wn as having 'nexus' with the state) is required to file Form 6900. If all 
+ of the partners or LLC members ... are natural persons or are effectively t
+ reated as natural persons\, the partnership is not required to file Form 69
+ 00." "The Alaska partnership return must be filed within 30 days of the dat
+ e on which the partnership's federal return is required to be filed." "A fe
+ deral extension automatically extends the Alaska filing due date to 30 days
+  after the federal extended due date." S-corp treatment per Instructions fo
+ r Form 6000: "An S Corporation doing business in Alaska is required to file
+  an Alaska return\, but Alaska does not impose a tax on the S Corporation f
+ or pass-through items of income\," subject to the built-in-gains and excess
+ -net-passive-income exceptions. Direct access to tax.alaska.gov is blocked 
+ by robots.txt for automated fetch (confirmed again this session)\; the quot
+ ed language above is from the Department's own Form 6900i and 6000i instruc
+ tion PDFs\, accessed via two independently-hosted verbatim mirrors of the s
+ ame official documents (identical wording on both)\, rather than a direct t
+ ax.alaska.gov fetch. | Source: https://www.taxformfinder.org/forms/2024/202
+ 4-alaska-form-6900i.pdf | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-alaska-2031-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20311015
+DTEND;VALUE=DATE:20311016
+SUMMARY:Alaska: Form 6900 extended due date
+DESCRIPTION:Extended due date\, via A federal extension (Form 7004) automat
+ ically extends the Alaska Form 6900 due date to 30 days after the federal e
+ xtended due date\; attach a copy of the federal extension.. | Alaska Form 6
+ 900 (Partnership Information Return) is due 30 days after the federal partn
+ ership return's due date - April 15\, 2026 for the 2025 tax year (30 days a
+ fter the federal 1065 due date of March 16\, 2026) - and is required only w
+ hen at least one partner is a corporation or another partnership\; a partne
+ rship with only natural-person partners has no Alaska filing requirement. A
+  federal extension automatically extends the Alaska due date to 30 days aft
+ er the federal extended due date (October 15\, 2026). S corporations doing 
+ business in Alaska separately file Form 6000 (the corporate return)\, thoug
+ h Alaska generally does not tax S corporations on pass-through income. | Au
+ thority: Alaska Department of Revenue\, Instructions for Form 6900 (Alaska 
+ Partnership Information Return): "A partnership or an LLC treated as a part
+ nership for tax purposes ... which conducts business in the state (also kno
+ wn as having 'nexus' with the state) is required to file Form 6900. If all 
+ of the partners or LLC members ... are natural persons or are effectively t
+ reated as natural persons\, the partnership is not required to file Form 69
+ 00." "The Alaska partnership return must be filed within 30 days of the dat
+ e on which the partnership's federal return is required to be filed." "A fe
+ deral extension automatically extends the Alaska filing due date to 30 days
+  after the federal extended due date." S-corp treatment per Instructions fo
+ r Form 6000: "An S Corporation doing business in Alaska is required to file
+  an Alaska return\, but Alaska does not impose a tax on the S Corporation f
+ or pass-through items of income\," subject to the built-in-gains and excess
+ -net-passive-income exceptions. Direct access to tax.alaska.gov is blocked 
+ by robots.txt for automated fetch (confirmed again this session)\; the quot
+ ed language above is from the Department's own Form 6900i and 6000i instruc
+ tion PDFs\, accessed via two independently-hosted verbatim mirrors of the s
+ ame official documents (identical wording on both)\, rather than a direct t
+ ax.alaska.gov fetch. | Source: https://www.taxformfinder.org/forms/2024/202
+ 4-alaska-form-6900i.pdf | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-alaska-2032-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20321015
+DTEND;VALUE=DATE:20321016
+SUMMARY:Alaska: Form 6900 extended due date
+DESCRIPTION:Extended due date\, via A federal extension (Form 7004) automat
+ ically extends the Alaska Form 6900 due date to 30 days after the federal e
+ xtended due date\; attach a copy of the federal extension.. | Alaska Form 6
+ 900 (Partnership Information Return) is due 30 days after the federal partn
+ ership return's due date - April 15\, 2026 for the 2025 tax year (30 days a
+ fter the federal 1065 due date of March 16\, 2026) - and is required only w
+ hen at least one partner is a corporation or another partnership\; a partne
+ rship with only natural-person partners has no Alaska filing requirement. A
+  federal extension automatically extends the Alaska due date to 30 days aft
+ er the federal extended due date (October 15\, 2026). S corporations doing 
+ business in Alaska separately file Form 6000 (the corporate return)\, thoug
+ h Alaska generally does not tax S corporations on pass-through income. | Au
+ thority: Alaska Department of Revenue\, Instructions for Form 6900 (Alaska 
+ Partnership Information Return): "A partnership or an LLC treated as a part
+ nership for tax purposes ... which conducts business in the state (also kno
+ wn as having 'nexus' with the state) is required to file Form 6900. If all 
+ of the partners or LLC members ... are natural persons or are effectively t
+ reated as natural persons\, the partnership is not required to file Form 69
+ 00." "The Alaska partnership return must be filed within 30 days of the dat
+ e on which the partnership's federal return is required to be filed." "A fe
+ deral extension automatically extends the Alaska filing due date to 30 days
+  after the federal extended due date." S-corp treatment per Instructions fo
+ r Form 6000: "An S Corporation doing business in Alaska is required to file
+  an Alaska return\, but Alaska does not impose a tax on the S Corporation f
+ or pass-through items of income\," subject to the built-in-gains and excess
+ -net-passive-income exceptions. Direct access to tax.alaska.gov is blocked 
+ by robots.txt for automated fetch (confirmed again this session)\; the quot
+ ed language above is from the Department's own Form 6900i and 6000i instruc
+ tion PDFs\, accessed via two independently-hosted verbatim mirrors of the s
+ ame official documents (identical wording on both)\, rather than a direct t
+ ax.alaska.gov fetch. | Source: https://www.taxformfinder.org/forms/2024/202
+ 4-alaska-form-6900i.pdf | This date is computed from a recurrence rule and 
+ may not reflect a later-announced change\; confirm against the cited source
+  before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:state-sui-alaska-q1-2025-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250430
 DTEND;VALUE=DATE:20250501
 SUMMARY:Alaska: State unemployment insurance quarterly return due
@@ -602,7 +1098,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-alaska-q1-2026-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260501
 SUMMARY:Alaska: State unemployment insurance quarterly return due
@@ -618,7 +1114,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-alaska-q1-2027-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270501
 SUMMARY:Alaska: State unemployment insurance quarterly return due
@@ -634,7 +1130,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-alaska-q1-2028-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280430
 DTEND;VALUE=DATE:20280501
 SUMMARY:Alaska: State unemployment insurance quarterly return due
@@ -650,7 +1146,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-alaska-q1-2029-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290430
 DTEND;VALUE=DATE:20290501
 SUMMARY:Alaska: State unemployment insurance quarterly return due
@@ -666,7 +1162,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-alaska-q1-2030-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300430
 DTEND;VALUE=DATE:20300501
 SUMMARY:Alaska: State unemployment insurance quarterly return due
@@ -682,7 +1178,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-alaska-q1-2031-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310430
 DTEND;VALUE=DATE:20310501
 SUMMARY:Alaska: State unemployment insurance quarterly return due
@@ -698,7 +1194,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-alaska-q1-2032-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320430
 DTEND;VALUE=DATE:20320501
 SUMMARY:Alaska: State unemployment insurance quarterly return due
@@ -714,7 +1210,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-alaska-q2-2025-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250731
 DTEND;VALUE=DATE:20250801
 SUMMARY:Alaska: State unemployment insurance quarterly return due
@@ -730,7 +1226,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-alaska-q2-2026-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
 SUMMARY:Alaska: State unemployment insurance quarterly return due
@@ -746,7 +1242,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-alaska-q2-2027-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270731
 DTEND;VALUE=DATE:20270801
 SUMMARY:Alaska: State unemployment insurance quarterly return due
@@ -762,7 +1258,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-alaska-q2-2028-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280731
 DTEND;VALUE=DATE:20280801
 SUMMARY:Alaska: State unemployment insurance quarterly return due
@@ -778,7 +1274,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-alaska-q2-2029-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290731
 DTEND;VALUE=DATE:20290801
 SUMMARY:Alaska: State unemployment insurance quarterly return due
@@ -794,7 +1290,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-alaska-q2-2030-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300731
 DTEND;VALUE=DATE:20300801
 SUMMARY:Alaska: State unemployment insurance quarterly return due
@@ -810,7 +1306,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-alaska-q2-2031-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310731
 DTEND;VALUE=DATE:20310801
 SUMMARY:Alaska: State unemployment insurance quarterly return due
@@ -826,7 +1322,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-alaska-q2-2032-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320731
 DTEND;VALUE=DATE:20320801
 SUMMARY:Alaska: State unemployment insurance quarterly return due
@@ -842,7 +1338,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-alaska-q3-2025-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20251031
 DTEND;VALUE=DATE:20251101
 SUMMARY:Alaska: State unemployment insurance quarterly return due
@@ -858,7 +1354,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-alaska-q3-2026-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Alaska: State unemployment insurance quarterly return due
@@ -874,7 +1370,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-alaska-q3-2027-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20271031
 DTEND;VALUE=DATE:20271101
 SUMMARY:Alaska: State unemployment insurance quarterly return due
@@ -890,7 +1386,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-alaska-q3-2028-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20281031
 DTEND;VALUE=DATE:20281101
 SUMMARY:Alaska: State unemployment insurance quarterly return due
@@ -906,7 +1402,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-alaska-q3-2029-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20291031
 DTEND;VALUE=DATE:20291101
 SUMMARY:Alaska: State unemployment insurance quarterly return due
@@ -922,7 +1418,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-alaska-q3-2030-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20301031
 DTEND;VALUE=DATE:20301101
 SUMMARY:Alaska: State unemployment insurance quarterly return due
@@ -938,7 +1434,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-alaska-q3-2031-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20311031
 DTEND;VALUE=DATE:20311101
 SUMMARY:Alaska: State unemployment insurance quarterly return due
@@ -954,7 +1450,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-alaska-q3-2032-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20321031
 DTEND;VALUE=DATE:20321101
 SUMMARY:Alaska: State unemployment insurance quarterly return due
@@ -970,7 +1466,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-alaska-q4-2025-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250131
 DTEND;VALUE=DATE:20250201
 SUMMARY:Alaska: State unemployment insurance quarterly return due
@@ -986,7 +1482,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-alaska-q4-2026-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260131
 DTEND;VALUE=DATE:20260201
 SUMMARY:Alaska: State unemployment insurance quarterly return due
@@ -1002,7 +1498,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-alaska-q4-2027-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:Alaska: State unemployment insurance quarterly return due
@@ -1018,7 +1514,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-alaska-q4-2028-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280131
 DTEND;VALUE=DATE:20280201
 SUMMARY:Alaska: State unemployment insurance quarterly return due
@@ -1034,7 +1530,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-alaska-q4-2029-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290131
 DTEND;VALUE=DATE:20290201
 SUMMARY:Alaska: State unemployment insurance quarterly return due
@@ -1050,7 +1546,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-alaska-q4-2030-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300131
 DTEND;VALUE=DATE:20300201
 SUMMARY:Alaska: State unemployment insurance quarterly return due
@@ -1066,7 +1562,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-alaska-q4-2031-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310131
 DTEND;VALUE=DATE:20310201
 SUMMARY:Alaska: State unemployment insurance quarterly return due
@@ -1082,7 +1578,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-alaska-q4-2032-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320131
 DTEND;VALUE=DATE:20320201
 SUMMARY:Alaska: State unemployment insurance quarterly return due

@@ -36,6 +36,12 @@
       "month": 4,
       "day": 15,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 15,
+      "shift": true
     }
   },
   {
@@ -58,6 +64,12 @@
       "day": 15,
       "month_offset": 5,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 11,
+      "day": 15,
+      "shift": false
     }
   },
   {

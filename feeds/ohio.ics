@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:state-est-ohio-q1-2025-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250415
 DTEND;VALUE=DATE:20250416
 SUMMARY:Ohio: State individual quarterly estimated tax payment due
@@ -27,7 +27,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-ohio-q1-2026-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260416
 SUMMARY:Ohio: State individual quarterly estimated tax payment due
@@ -44,7 +44,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-ohio-q1-2027-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:Ohio: State individual quarterly estimated tax payment due
@@ -61,7 +61,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-ohio-q1-2028-04-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280417
 DTEND;VALUE=DATE:20280418
 SUMMARY:Ohio: State individual quarterly estimated tax payment due
@@ -78,7 +78,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-ohio-q1-2029-04-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290416
 DTEND;VALUE=DATE:20290417
 SUMMARY:Ohio: State individual quarterly estimated tax payment due
@@ -95,7 +95,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-ohio-q1-2030-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300415
 DTEND;VALUE=DATE:20300416
 SUMMARY:Ohio: State individual quarterly estimated tax payment due
@@ -112,7 +112,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-ohio-q1-2031-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310415
 DTEND;VALUE=DATE:20310416
 SUMMARY:Ohio: State individual quarterly estimated tax payment due
@@ -129,7 +129,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-ohio-q1-2032-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320415
 DTEND;VALUE=DATE:20320416
 SUMMARY:Ohio: State individual quarterly estimated tax payment due
@@ -146,7 +146,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-ohio-q2-2025-06-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250616
 DTEND;VALUE=DATE:20250617
 SUMMARY:Ohio: State individual quarterly estimated tax payment due
@@ -163,7 +163,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-ohio-q2-2026-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260615
 DTEND;VALUE=DATE:20260616
 SUMMARY:Ohio: State individual quarterly estimated tax payment due
@@ -180,7 +180,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-ohio-q2-2027-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270615
 DTEND;VALUE=DATE:20270616
 SUMMARY:Ohio: State individual quarterly estimated tax payment due
@@ -197,7 +197,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-ohio-q2-2028-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280615
 DTEND;VALUE=DATE:20280616
 SUMMARY:Ohio: State individual quarterly estimated tax payment due
@@ -214,7 +214,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-ohio-q2-2029-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290615
 DTEND;VALUE=DATE:20290616
 SUMMARY:Ohio: State individual quarterly estimated tax payment due
@@ -231,7 +231,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-ohio-q2-2030-06-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300617
 DTEND;VALUE=DATE:20300618
 SUMMARY:Ohio: State individual quarterly estimated tax payment due
@@ -248,7 +248,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-ohio-q2-2031-06-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310616
 DTEND;VALUE=DATE:20310617
 SUMMARY:Ohio: State individual quarterly estimated tax payment due
@@ -265,7 +265,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-ohio-q2-2032-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320615
 DTEND;VALUE=DATE:20320616
 SUMMARY:Ohio: State individual quarterly estimated tax payment due
@@ -282,7 +282,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-ohio-q3-2025-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250915
 DTEND;VALUE=DATE:20250916
 SUMMARY:Ohio: State individual quarterly estimated tax payment due
@@ -299,7 +299,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-ohio-q3-2026-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Ohio: State individual quarterly estimated tax payment due
@@ -316,7 +316,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-ohio-q3-2027-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270915
 DTEND;VALUE=DATE:20270916
 SUMMARY:Ohio: State individual quarterly estimated tax payment due
@@ -333,7 +333,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-ohio-q3-2028-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280915
 DTEND;VALUE=DATE:20280916
 SUMMARY:Ohio: State individual quarterly estimated tax payment due
@@ -350,7 +350,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-ohio-q3-2029-09-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290917
 DTEND;VALUE=DATE:20290918
 SUMMARY:Ohio: State individual quarterly estimated tax payment due
@@ -367,7 +367,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-ohio-q3-2030-09-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300916
 DTEND;VALUE=DATE:20300917
 SUMMARY:Ohio: State individual quarterly estimated tax payment due
@@ -384,7 +384,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-ohio-q3-2031-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310915
 DTEND;VALUE=DATE:20310916
 SUMMARY:Ohio: State individual quarterly estimated tax payment due
@@ -401,7 +401,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-ohio-q3-2032-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320915
 DTEND;VALUE=DATE:20320916
 SUMMARY:Ohio: State individual quarterly estimated tax payment due
@@ -418,7 +418,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-ohio-q4-2025-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250115
 DTEND;VALUE=DATE:20250116
 SUMMARY:Ohio: State individual quarterly estimated tax payment due
@@ -435,7 +435,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-ohio-q4-2026-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260115
 DTEND;VALUE=DATE:20260116
 SUMMARY:Ohio: State individual quarterly estimated tax payment due
@@ -452,7 +452,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-ohio-q4-2027-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Ohio: State individual quarterly estimated tax payment due
@@ -469,7 +469,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-ohio-q4-2028-01-18@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280118
 DTEND;VALUE=DATE:20280119
 SUMMARY:Ohio: State individual quarterly estimated tax payment due
@@ -486,7 +486,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-ohio-q4-2029-01-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290116
 DTEND;VALUE=DATE:20290117
 SUMMARY:Ohio: State individual quarterly estimated tax payment due
@@ -503,7 +503,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-ohio-q4-2030-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300115
 DTEND;VALUE=DATE:20300116
 SUMMARY:Ohio: State individual quarterly estimated tax payment due
@@ -520,7 +520,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-ohio-q4-2031-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310115
 DTEND;VALUE=DATE:20310116
 SUMMARY:Ohio: State individual quarterly estimated tax payment due
@@ -537,7 +537,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-ohio-q4-2032-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320115
 DTEND;VALUE=DATE:20320116
 SUMMARY:Ohio: State individual quarterly estimated tax payment due
@@ -554,7 +554,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-oh-2025-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250415
 DTEND;VALUE=DATE:20250416
 SUMMARY:Ohio: State individual income tax return due
@@ -570,7 +570,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-oh-2026-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260416
 SUMMARY:Ohio: State individual income tax return due
@@ -586,7 +586,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-oh-2027-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:Ohio: State individual income tax return due
@@ -602,7 +602,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-oh-2028-04-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280417
 DTEND;VALUE=DATE:20280418
 SUMMARY:Ohio: State individual income tax return due
@@ -618,7 +618,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-oh-2029-04-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290416
 DTEND;VALUE=DATE:20290417
 SUMMARY:Ohio: State individual income tax return due
@@ -634,7 +634,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-oh-2030-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300415
 DTEND;VALUE=DATE:20300416
 SUMMARY:Ohio: State individual income tax return due
@@ -650,7 +650,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-oh-2031-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310415
 DTEND;VALUE=DATE:20310416
 SUMMARY:Ohio: State individual income tax return due
@@ -666,7 +666,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-oh-2032-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320415
 DTEND;VALUE=DATE:20320416
 SUMMARY:Ohio: State individual income tax return due
@@ -681,8 +681,136 @@ DESCRIPTION:Conforms to the federal April 15 due date | State individual in
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:state-inc-oh-2025-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20251015
+DTEND;VALUE=DATE:20251016
+SUMMARY:Ohio: State individual income tax return extended due date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. Ohio honors the IRS extension\; all payments are st
+ ill due April 15. | Authority: Direct fetch of https://tax.ohio.gov/individ
+ ual/who-must-file/filing-season-tip this session | Source: https://tax.ohio
+ .gov/individual/who-must-file/filing-season-tip | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-oh-2026-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Ohio: State individual income tax return extended due date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. Ohio honors the IRS extension\; all payments are st
+ ill due April 15. | Authority: Direct fetch of https://tax.ohio.gov/individ
+ ual/who-must-file/filing-season-tip this session | Source: https://tax.ohio
+ .gov/individual/who-must-file/filing-season-tip | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-oh-2027-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271016
+SUMMARY:Ohio: State individual income tax return extended due date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. Ohio honors the IRS extension\; all payments are st
+ ill due April 15. | Authority: Direct fetch of https://tax.ohio.gov/individ
+ ual/who-must-file/filing-season-tip this session | Source: https://tax.ohio
+ .gov/individual/who-must-file/filing-season-tip | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-oh-2028-10-16-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20281016
+DTEND;VALUE=DATE:20281017
+SUMMARY:Ohio: State individual income tax return extended due date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. Ohio honors the IRS extension\; all payments are st
+ ill due April 15. | Authority: Direct fetch of https://tax.ohio.gov/individ
+ ual/who-must-file/filing-season-tip this session | Source: https://tax.ohio
+ .gov/individual/who-must-file/filing-season-tip | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-oh-2029-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20291015
+DTEND;VALUE=DATE:20291016
+SUMMARY:Ohio: State individual income tax return extended due date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. Ohio honors the IRS extension\; all payments are st
+ ill due April 15. | Authority: Direct fetch of https://tax.ohio.gov/individ
+ ual/who-must-file/filing-season-tip this session | Source: https://tax.ohio
+ .gov/individual/who-must-file/filing-season-tip | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-oh-2030-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20301015
+DTEND;VALUE=DATE:20301016
+SUMMARY:Ohio: State individual income tax return extended due date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. Ohio honors the IRS extension\; all payments are st
+ ill due April 15. | Authority: Direct fetch of https://tax.ohio.gov/individ
+ ual/who-must-file/filing-season-tip this session | Source: https://tax.ohio
+ .gov/individual/who-must-file/filing-season-tip | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-oh-2031-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20311015
+DTEND;VALUE=DATE:20311016
+SUMMARY:Ohio: State individual income tax return extended due date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. Ohio honors the IRS extension\; all payments are st
+ ill due April 15. | Authority: Direct fetch of https://tax.ohio.gov/individ
+ ual/who-must-file/filing-season-tip this session | Source: https://tax.ohio
+ .gov/individual/who-must-file/filing-season-tip | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-oh-2032-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20321015
+DTEND;VALUE=DATE:20321016
+SUMMARY:Ohio: State individual income tax return extended due date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. Ohio honors the IRS extension\; all payments are st
+ ill due April 15. | Authority: Direct fetch of https://tax.ohio.gov/individ
+ ual/who-must-file/filing-season-tip this session | Source: https://tax.ohio
+ .gov/individual/who-must-file/filing-season-tip | This date is computed fro
+ m a recurrence rule and may not reflect a later-announced change\; confirm 
+ against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:state-pte-ohio-2025-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250415
 DTEND;VALUE=DATE:20250416
 SUMMARY:Ohio: IT 4708 (composite) / IT 1140 (withholding-based) due
@@ -704,7 +832,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-ohio-2026-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260416
 SUMMARY:Ohio: IT 4708 (composite) / IT 1140 (withholding-based) due
@@ -726,7 +854,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-ohio-2027-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:Ohio: IT 4708 (composite) / IT 1140 (withholding-based) due
@@ -748,7 +876,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-ohio-2028-04-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280417
 DTEND;VALUE=DATE:20280418
 SUMMARY:Ohio: IT 4708 (composite) / IT 1140 (withholding-based) due
@@ -770,7 +898,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-ohio-2029-04-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290416
 DTEND;VALUE=DATE:20290417
 SUMMARY:Ohio: IT 4708 (composite) / IT 1140 (withholding-based) due
@@ -792,7 +920,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-ohio-2030-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300415
 DTEND;VALUE=DATE:20300416
 SUMMARY:Ohio: IT 4708 (composite) / IT 1140 (withholding-based) due
@@ -814,7 +942,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-ohio-2031-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310415
 DTEND;VALUE=DATE:20310416
 SUMMARY:Ohio: IT 4708 (composite) / IT 1140 (withholding-based) due
@@ -836,7 +964,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-ohio-2032-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320415
 DTEND;VALUE=DATE:20320416
 SUMMARY:Ohio: IT 4708 (composite) / IT 1140 (withholding-based) due
@@ -858,7 +986,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-ohio-q1-2025-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250430
 DTEND;VALUE=DATE:20250501
 SUMMARY:Ohio: State unemployment insurance quarterly return due
@@ -875,7 +1003,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-ohio-q1-2026-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260501
 SUMMARY:Ohio: State unemployment insurance quarterly return due
@@ -892,7 +1020,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-ohio-q1-2027-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270501
 SUMMARY:Ohio: State unemployment insurance quarterly return due
@@ -909,7 +1037,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-ohio-q1-2028-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280430
 DTEND;VALUE=DATE:20280501
 SUMMARY:Ohio: State unemployment insurance quarterly return due
@@ -926,7 +1054,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-ohio-q1-2029-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290430
 DTEND;VALUE=DATE:20290501
 SUMMARY:Ohio: State unemployment insurance quarterly return due
@@ -943,7 +1071,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-ohio-q1-2030-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300430
 DTEND;VALUE=DATE:20300501
 SUMMARY:Ohio: State unemployment insurance quarterly return due
@@ -960,7 +1088,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-ohio-q1-2031-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310430
 DTEND;VALUE=DATE:20310501
 SUMMARY:Ohio: State unemployment insurance quarterly return due
@@ -977,7 +1105,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-ohio-q1-2032-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320430
 DTEND;VALUE=DATE:20320501
 SUMMARY:Ohio: State unemployment insurance quarterly return due
@@ -994,7 +1122,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-ohio-q2-2025-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250731
 DTEND;VALUE=DATE:20250801
 SUMMARY:Ohio: State unemployment insurance quarterly return due
@@ -1011,7 +1139,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-ohio-q2-2026-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
 SUMMARY:Ohio: State unemployment insurance quarterly return due
@@ -1028,7 +1156,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-ohio-q2-2027-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270731
 DTEND;VALUE=DATE:20270801
 SUMMARY:Ohio: State unemployment insurance quarterly return due
@@ -1045,7 +1173,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-ohio-q2-2028-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280731
 DTEND;VALUE=DATE:20280801
 SUMMARY:Ohio: State unemployment insurance quarterly return due
@@ -1062,7 +1190,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-ohio-q2-2029-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290731
 DTEND;VALUE=DATE:20290801
 SUMMARY:Ohio: State unemployment insurance quarterly return due
@@ -1079,7 +1207,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-ohio-q2-2030-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300731
 DTEND;VALUE=DATE:20300801
 SUMMARY:Ohio: State unemployment insurance quarterly return due
@@ -1096,7 +1224,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-ohio-q2-2031-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310731
 DTEND;VALUE=DATE:20310801
 SUMMARY:Ohio: State unemployment insurance quarterly return due
@@ -1113,7 +1241,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-ohio-q2-2032-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320731
 DTEND;VALUE=DATE:20320801
 SUMMARY:Ohio: State unemployment insurance quarterly return due
@@ -1130,7 +1258,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-ohio-q3-2025-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20251031
 DTEND;VALUE=DATE:20251101
 SUMMARY:Ohio: State unemployment insurance quarterly return due
@@ -1147,7 +1275,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-ohio-q3-2026-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Ohio: State unemployment insurance quarterly return due
@@ -1164,7 +1292,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-ohio-q3-2027-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20271031
 DTEND;VALUE=DATE:20271101
 SUMMARY:Ohio: State unemployment insurance quarterly return due
@@ -1181,7 +1309,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-ohio-q3-2028-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20281031
 DTEND;VALUE=DATE:20281101
 SUMMARY:Ohio: State unemployment insurance quarterly return due
@@ -1198,7 +1326,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-ohio-q3-2029-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20291031
 DTEND;VALUE=DATE:20291101
 SUMMARY:Ohio: State unemployment insurance quarterly return due
@@ -1215,7 +1343,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-ohio-q3-2030-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20301031
 DTEND;VALUE=DATE:20301101
 SUMMARY:Ohio: State unemployment insurance quarterly return due
@@ -1232,7 +1360,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-ohio-q3-2031-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20311031
 DTEND;VALUE=DATE:20311101
 SUMMARY:Ohio: State unemployment insurance quarterly return due
@@ -1249,7 +1377,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-ohio-q3-2032-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20321031
 DTEND;VALUE=DATE:20321101
 SUMMARY:Ohio: State unemployment insurance quarterly return due
@@ -1266,7 +1394,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-ohio-q4-2025-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250131
 DTEND;VALUE=DATE:20250201
 SUMMARY:Ohio: State unemployment insurance quarterly return due
@@ -1283,7 +1411,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-ohio-q4-2026-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260131
 DTEND;VALUE=DATE:20260201
 SUMMARY:Ohio: State unemployment insurance quarterly return due
@@ -1300,7 +1428,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-ohio-q4-2027-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:Ohio: State unemployment insurance quarterly return due
@@ -1317,7 +1445,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-ohio-q4-2028-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280131
 DTEND;VALUE=DATE:20280201
 SUMMARY:Ohio: State unemployment insurance quarterly return due
@@ -1334,7 +1462,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-ohio-q4-2029-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290131
 DTEND;VALUE=DATE:20290201
 SUMMARY:Ohio: State unemployment insurance quarterly return due
@@ -1351,7 +1479,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-ohio-q4-2030-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300131
 DTEND;VALUE=DATE:20300201
 SUMMARY:Ohio: State unemployment insurance quarterly return due
@@ -1368,7 +1496,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-ohio-q4-2031-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310131
 DTEND;VALUE=DATE:20310201
 SUMMARY:Ohio: State unemployment insurance quarterly return due
@@ -1385,7 +1513,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-ohio-q4-2032-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320131
 DTEND;VALUE=DATE:20320201
 SUMMARY:Ohio: State unemployment insurance quarterly return due
@@ -1402,7 +1530,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-ohio-q1-2025-04-23@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250423
 DTEND;VALUE=DATE:20250424
 SUMMARY:Ohio: State sales & use tax return due
@@ -1420,7 +1548,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-ohio-q1-2026-04-23@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260424
 SUMMARY:Ohio: State sales & use tax return due
@@ -1438,7 +1566,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-ohio-q1-2027-04-23@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270423
 DTEND;VALUE=DATE:20270424
 SUMMARY:Ohio: State sales & use tax return due
@@ -1456,7 +1584,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-ohio-q1-2028-04-23@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280423
 DTEND;VALUE=DATE:20280424
 SUMMARY:Ohio: State sales & use tax return due
@@ -1474,7 +1602,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-ohio-q1-2029-04-23@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290423
 DTEND;VALUE=DATE:20290424
 SUMMARY:Ohio: State sales & use tax return due
@@ -1492,7 +1620,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-ohio-q1-2030-04-23@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300423
 DTEND;VALUE=DATE:20300424
 SUMMARY:Ohio: State sales & use tax return due
@@ -1510,7 +1638,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-ohio-q1-2031-04-23@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310423
 DTEND;VALUE=DATE:20310424
 SUMMARY:Ohio: State sales & use tax return due
@@ -1528,7 +1656,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-ohio-q1-2032-04-23@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320423
 DTEND;VALUE=DATE:20320424
 SUMMARY:Ohio: State sales & use tax return due
@@ -1546,7 +1674,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-ohio-q2-2025-07-23@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250723
 DTEND;VALUE=DATE:20250724
 SUMMARY:Ohio: State sales & use tax return due
@@ -1564,7 +1692,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-ohio-q2-2026-07-23@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
 SUMMARY:Ohio: State sales & use tax return due
@@ -1582,7 +1710,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-ohio-q2-2027-07-23@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270723
 DTEND;VALUE=DATE:20270724
 SUMMARY:Ohio: State sales & use tax return due
@@ -1600,7 +1728,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-ohio-q2-2028-07-23@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280723
 DTEND;VALUE=DATE:20280724
 SUMMARY:Ohio: State sales & use tax return due
@@ -1618,7 +1746,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-ohio-q2-2029-07-23@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290723
 DTEND;VALUE=DATE:20290724
 SUMMARY:Ohio: State sales & use tax return due
@@ -1636,7 +1764,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-ohio-q2-2030-07-23@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300723
 DTEND;VALUE=DATE:20300724
 SUMMARY:Ohio: State sales & use tax return due
@@ -1654,7 +1782,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-ohio-q2-2031-07-23@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310723
 DTEND;VALUE=DATE:20310724
 SUMMARY:Ohio: State sales & use tax return due
@@ -1672,7 +1800,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-ohio-q2-2032-07-23@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320723
 DTEND;VALUE=DATE:20320724
 SUMMARY:Ohio: State sales & use tax return due
@@ -1690,7 +1818,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-ohio-q3-2025-10-23@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20251023
 DTEND;VALUE=DATE:20251024
 SUMMARY:Ohio: State sales & use tax return due
@@ -1708,7 +1836,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-ohio-q3-2026-10-23@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Ohio: State sales & use tax return due
@@ -1726,7 +1854,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-ohio-q3-2027-10-23@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20271023
 DTEND;VALUE=DATE:20271024
 SUMMARY:Ohio: State sales & use tax return due
@@ -1744,7 +1872,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-ohio-q3-2028-10-23@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20281023
 DTEND;VALUE=DATE:20281024
 SUMMARY:Ohio: State sales & use tax return due
@@ -1762,7 +1890,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-ohio-q3-2029-10-23@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20291023
 DTEND;VALUE=DATE:20291024
 SUMMARY:Ohio: State sales & use tax return due
@@ -1780,7 +1908,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-ohio-q3-2030-10-23@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20301023
 DTEND;VALUE=DATE:20301024
 SUMMARY:Ohio: State sales & use tax return due
@@ -1798,7 +1926,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-ohio-q3-2031-10-23@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20311023
 DTEND;VALUE=DATE:20311024
 SUMMARY:Ohio: State sales & use tax return due
@@ -1816,7 +1944,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-ohio-q3-2032-10-23@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20321023
 DTEND;VALUE=DATE:20321024
 SUMMARY:Ohio: State sales & use tax return due
@@ -1834,7 +1962,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-ohio-q4-2025-01-23@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250123
 DTEND;VALUE=DATE:20250124
 SUMMARY:Ohio: State sales & use tax return due
@@ -1852,7 +1980,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-ohio-q4-2026-01-23@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260123
 DTEND;VALUE=DATE:20260124
 SUMMARY:Ohio: State sales & use tax return due
@@ -1870,7 +1998,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-ohio-q4-2027-01-23@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:Ohio: State sales & use tax return due
@@ -1888,7 +2016,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-ohio-q4-2028-01-23@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280123
 DTEND;VALUE=DATE:20280124
 SUMMARY:Ohio: State sales & use tax return due
@@ -1906,7 +2034,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-ohio-q4-2029-01-23@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290123
 DTEND;VALUE=DATE:20290124
 SUMMARY:Ohio: State sales & use tax return due
@@ -1924,7 +2052,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-ohio-q4-2030-01-23@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300123
 DTEND;VALUE=DATE:20300124
 SUMMARY:Ohio: State sales & use tax return due
@@ -1942,7 +2070,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-ohio-q4-2031-01-23@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310123
 DTEND;VALUE=DATE:20310124
 SUMMARY:Ohio: State sales & use tax return due
@@ -1960,7 +2088,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-ohio-q4-2032-01-23@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320123
 DTEND;VALUE=DATE:20320124
 SUMMARY:Ohio: State sales & use tax return due

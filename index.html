@@ -82,6 +82,7 @@
   .day-items{flex:1;display:flex;flex-direction:column;gap:8px;min-width:0;}
 
   .item{background:var(--paper-white);border:1px solid var(--ink-20);border-radius:5px;padding:10px 12px;cursor:pointer;transition:border-color var(--t-base),box-shadow var(--t-base);}
+  .item.is-extended{background:var(--amber-bg);border:1px dashed var(--amber-b);}
   .item:hover{border-color:var(--ink-40);box-shadow:0 1px 4px rgba(0,0,0,.05);}
   .item-top{display:flex;justify-content:space-between;gap:10px;align-items:flex-start;}
   .item-form{font-weight:600;font-size:14px;color:var(--ink);}
@@ -156,6 +157,7 @@
     <div class="filterbar-row">
       <input type="search" id="f-search" placeholder="Search a form, rule, or filer (e.g. 1099, 941, partnership)&hellip;">
       <button class="filter-toggle" id="juris-toggle" aria-expanded="false">Jurisdictions &darr;</button>
+      <button class="chip active" id="ext-toggle" style="text-transform:none;font-family:var(--font-sans);font-size:12.5px;">Show extended deadlines</button>
     </div>
     <div class="chip-row" id="cat-chips"></div>
     <div class="juris-panel" id="juris-panel">
@@ -203,6 +205,7 @@ let activeCats = new Set();  // empty set = all categories
 let activeJuris = new Set(); // empty set = all jurisdictions
 let searchTerm = '';
 let monthsAhead = 12;        // rolling window size, grows via "load more"
+let showExtended = true;     // include extended-deadline occurrences alongside originals
 const WINDOW_START = new Date(); WINDOW_START.setHours(0,0,0,0);
 
 const DOW = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
@@ -254,7 +257,13 @@ function rebuildOccurrences(){
   for (const def of ALL){
     const occs = TaxRecurrence.occurrencesInRange(def.recurrence, WINDOW_START, end);
     for (const o of occs){
-      OCC.push({def, date:o.date});
+      OCC.push({def, date:o.date, isExtended:false});
+    }
+    if (def.extended_recurrence && showExtended){
+      const extOccs = TaxRecurrence.occurrencesInRange(def.extended_recurrence, WINDOW_START, end);
+      for (const o of extOccs){
+        OCC.push({def, date:o.date, isExtended:true});
+      }
     }
   }
   OCC.sort((a,b)=> a.date - b.date);
@@ -312,6 +321,12 @@ function buildFilterChips(){
     rebuildOccurrences();
     render();
   };
+  document.getElementById('ext-toggle').onclick = (e)=>{
+    showExtended = !showExtended;
+    e.target.classList.toggle('active', showExtended);
+    rebuildOccurrences();
+    render();
+  };
 }
 
 function matches(def){
@@ -363,35 +378,36 @@ function render(){
     }
     const itemsBox = dayWrap.querySelector('.day-items');
     const item = document.createElement('div');
-    item.className = 'item';
+    item.className = 'item' + (occ.isExtended ? ' is-extended' : '');
     const def = occ.def;
     const fedTag = def.jurisdiction === 'Federal' ? '<span class="tag fed">Federal</span>' : `<span class="tag">${def.jurisdiction}</span>`;
     item.innerHTML = `
       <div class="item-top">
         <div>
-          <div class="item-form">${def.form || def.form_name}</div>
-          <div class="item-rule">${def.rule || ''}</div>
+          <div class="item-form">${def.form || def.form_name}${occ.isExtended ? ' <span style="color:var(--amber);font-weight:500;">(extended)</span>' : ''}</div>
+          <div class="item-rule">${occ.isExtended ? 'Extended due date - original filing deadline was extended via ' + (def.extension_form || 'an extension request') : (def.rule || '')}</div>
         </div>
       </div>
       <div class="tags">
         ${fedTag}
         <span class="tag">${def.category}</span>
-        ${def.extended_date_2026 ? '<span class="tag ext">Extension available</span>' : ''}
+        ${occ.isExtended ? '<span class="tag ext">Extended deadline</span>' : (def.extended_date_2026 ? '<span class="tag ext">Extension available</span>' : '')}
       </div>`;
-    item.onclick = ()=> showModal(def, d);
+    item.onclick = ()=> showModal(def, d, occ.isExtended);
     itemsBox.appendChild(item);
   }
 }
 
-function showModal(def, occurrenceDate){
+function showModal(def, occurrenceDate, isExtended){
   document.getElementById('modal-body').innerHTML = `
-    <h3>${def.form || def.form_name}</h3>
+    <h3>${def.form || def.form_name}${isExtended ? ' (extended)' : ''}</h3>
     <div class="tags" style="margin-bottom:10px;">
       <span class="tag ${def.jurisdiction==='Federal'?'fed':''}">${def.jurisdiction}</span>
       <span class="tag">${def.category}</span>
     </div>
     <dl>
-      <dt>Due date (this occurrence)</dt><dd>${occurrenceDate.toDateString()}</dd>
+      <dt>${isExtended ? 'Extended due date (this occurrence)' : 'Due date (this occurrence)'}</dt><dd>${occurrenceDate.toDateString()}</dd>
+      ${isExtended ? `<dt>Extension mechanism</dt><dd>${def.extension_form || '-'}</dd>` : ''}
       <dt>Filer</dt><dd>${def.filer || '-'}</dd>
       <dt>Rule</dt><dd>${def.rule || '-'}</dd>
       <dt>Description</dt><dd>${def.description || '-'}</dd>

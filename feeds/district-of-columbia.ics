@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:state-corp-district-of-columbia-2025-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250415
 DTEND;VALUE=DATE:20250416
 SUMMARY:District of Columbia: State corporate income/franchise tax return d
@@ -26,7 +26,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-district-of-columbia-2026-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260416
 SUMMARY:District of Columbia: State corporate income/franchise tax return d
@@ -42,7 +42,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-district-of-columbia-2027-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:District of Columbia: State corporate income/franchise tax return d
@@ -58,7 +58,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-district-of-columbia-2028-04-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280417
 DTEND;VALUE=DATE:20280418
 SUMMARY:District of Columbia: State corporate income/franchise tax return d
@@ -74,7 +74,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-district-of-columbia-2029-04-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290416
 DTEND;VALUE=DATE:20290417
 SUMMARY:District of Columbia: State corporate income/franchise tax return d
@@ -90,7 +90,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-district-of-columbia-2030-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300415
 DTEND;VALUE=DATE:20300416
 SUMMARY:District of Columbia: State corporate income/franchise tax return d
@@ -106,7 +106,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-district-of-columbia-2031-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310415
 DTEND;VALUE=DATE:20310416
 SUMMARY:District of Columbia: State corporate income/franchise tax return d
@@ -122,7 +122,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-district-of-columbia-2032-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320415
 DTEND;VALUE=DATE:20320416
 SUMMARY:District of Columbia: State corporate income/franchise tax return d
@@ -137,8 +137,128 @@ DESCRIPTION:Calendar-year filers due April 15\; automatic 6-month extension
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:state-corp-district-of-columbia-2025-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20251015
+DTEND;VALUE=DATE:20251016
+SUMMARY:District of Columbia: State corporate income/franchise tax return e
+ xtended due date
+DESCRIPTION:Extended due date\, via None. | Calendar-year filers due April 
+ 15\; automatic 6-month extension to October 15. | Authority: Direct fetch o
+ f District of Columbia's own tax agency site/publication this session | Sou
+ rce: https://otr.cfo.dc.gov/page/franchise-tax-faqs | This date is computed
+  from a recurrence rule and may not reflect a later-announced change\; conf
+ irm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-district-of-columbia-2026-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:District of Columbia: State corporate income/franchise tax return e
+ xtended due date
+DESCRIPTION:Extended due date\, via None. | Calendar-year filers due April 
+ 15\; automatic 6-month extension to October 15. | Authority: Direct fetch o
+ f District of Columbia's own tax agency site/publication this session | Sou
+ rce: https://otr.cfo.dc.gov/page/franchise-tax-faqs | This date is computed
+  from a recurrence rule and may not reflect a later-announced change\; conf
+ irm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-district-of-columbia-2027-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271016
+SUMMARY:District of Columbia: State corporate income/franchise tax return e
+ xtended due date
+DESCRIPTION:Extended due date\, via None. | Calendar-year filers due April 
+ 15\; automatic 6-month extension to October 15. | Authority: Direct fetch o
+ f District of Columbia's own tax agency site/publication this session | Sou
+ rce: https://otr.cfo.dc.gov/page/franchise-tax-faqs | This date is computed
+  from a recurrence rule and may not reflect a later-announced change\; conf
+ irm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-district-of-columbia-2028-10-16-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20281016
+DTEND;VALUE=DATE:20281017
+SUMMARY:District of Columbia: State corporate income/franchise tax return e
+ xtended due date
+DESCRIPTION:Extended due date\, via None. | Calendar-year filers due April 
+ 15\; automatic 6-month extension to October 15. | Authority: Direct fetch o
+ f District of Columbia's own tax agency site/publication this session | Sou
+ rce: https://otr.cfo.dc.gov/page/franchise-tax-faqs | This date is computed
+  from a recurrence rule and may not reflect a later-announced change\; conf
+ irm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-district-of-columbia-2029-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20291015
+DTEND;VALUE=DATE:20291016
+SUMMARY:District of Columbia: State corporate income/franchise tax return e
+ xtended due date
+DESCRIPTION:Extended due date\, via None. | Calendar-year filers due April 
+ 15\; automatic 6-month extension to October 15. | Authority: Direct fetch o
+ f District of Columbia's own tax agency site/publication this session | Sou
+ rce: https://otr.cfo.dc.gov/page/franchise-tax-faqs | This date is computed
+  from a recurrence rule and may not reflect a later-announced change\; conf
+ irm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-district-of-columbia-2030-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20301015
+DTEND;VALUE=DATE:20301016
+SUMMARY:District of Columbia: State corporate income/franchise tax return e
+ xtended due date
+DESCRIPTION:Extended due date\, via None. | Calendar-year filers due April 
+ 15\; automatic 6-month extension to October 15. | Authority: Direct fetch o
+ f District of Columbia's own tax agency site/publication this session | Sou
+ rce: https://otr.cfo.dc.gov/page/franchise-tax-faqs | This date is computed
+  from a recurrence rule and may not reflect a later-announced change\; conf
+ irm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-district-of-columbia-2031-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20311015
+DTEND;VALUE=DATE:20311016
+SUMMARY:District of Columbia: State corporate income/franchise tax return e
+ xtended due date
+DESCRIPTION:Extended due date\, via None. | Calendar-year filers due April 
+ 15\; automatic 6-month extension to October 15. | Authority: Direct fetch o
+ f District of Columbia's own tax agency site/publication this session | Sou
+ rce: https://otr.cfo.dc.gov/page/franchise-tax-faqs | This date is computed
+  from a recurrence rule and may not reflect a later-announced change\; conf
+ irm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-district-of-columbia-2032-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20321015
+DTEND;VALUE=DATE:20321016
+SUMMARY:District of Columbia: State corporate income/franchise tax return e
+ xtended due date
+DESCRIPTION:Extended due date\, via None. | Calendar-year filers due April 
+ 15\; automatic 6-month extension to October 15. | Authority: Direct fetch o
+ f District of Columbia's own tax agency site/publication this session | Sou
+ rce: https://otr.cfo.dc.gov/page/franchise-tax-faqs | This date is computed
+  from a recurrence rule and may not reflect a later-announced change\; conf
+ irm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:state-est-district-of-columbia-q1-2025-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250415
 DTEND;VALUE=DATE:20250416
 SUMMARY:District of Columbia: State individual quarterly estimated tax paym
@@ -155,7 +275,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-district-of-columbia-q1-2026-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260416
 SUMMARY:District of Columbia: State individual quarterly estimated tax paym
@@ -172,7 +292,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-district-of-columbia-q1-2027-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:District of Columbia: State individual quarterly estimated tax paym
@@ -189,7 +309,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-district-of-columbia-q1-2028-04-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280417
 DTEND;VALUE=DATE:20280418
 SUMMARY:District of Columbia: State individual quarterly estimated tax paym
@@ -206,7 +326,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-district-of-columbia-q1-2029-04-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290416
 DTEND;VALUE=DATE:20290417
 SUMMARY:District of Columbia: State individual quarterly estimated tax paym
@@ -223,7 +343,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-district-of-columbia-q1-2030-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300415
 DTEND;VALUE=DATE:20300416
 SUMMARY:District of Columbia: State individual quarterly estimated tax paym
@@ -240,7 +360,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-district-of-columbia-q1-2031-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310415
 DTEND;VALUE=DATE:20310416
 SUMMARY:District of Columbia: State individual quarterly estimated tax paym
@@ -257,7 +377,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-district-of-columbia-q1-2032-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320415
 DTEND;VALUE=DATE:20320416
 SUMMARY:District of Columbia: State individual quarterly estimated tax paym
@@ -274,7 +394,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-district-of-columbia-q2-2025-06-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250616
 DTEND;VALUE=DATE:20250617
 SUMMARY:District of Columbia: State individual quarterly estimated tax paym
@@ -291,7 +411,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-district-of-columbia-q2-2026-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260615
 DTEND;VALUE=DATE:20260616
 SUMMARY:District of Columbia: State individual quarterly estimated tax paym
@@ -308,7 +428,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-district-of-columbia-q2-2027-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270615
 DTEND;VALUE=DATE:20270616
 SUMMARY:District of Columbia: State individual quarterly estimated tax paym
@@ -325,7 +445,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-district-of-columbia-q2-2028-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280615
 DTEND;VALUE=DATE:20280616
 SUMMARY:District of Columbia: State individual quarterly estimated tax paym
@@ -342,7 +462,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-district-of-columbia-q2-2029-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290615
 DTEND;VALUE=DATE:20290616
 SUMMARY:District of Columbia: State individual quarterly estimated tax paym
@@ -359,7 +479,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-district-of-columbia-q2-2030-06-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300617
 DTEND;VALUE=DATE:20300618
 SUMMARY:District of Columbia: State individual quarterly estimated tax paym
@@ -376,7 +496,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-district-of-columbia-q2-2031-06-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310616
 DTEND;VALUE=DATE:20310617
 SUMMARY:District of Columbia: State individual quarterly estimated tax paym
@@ -393,7 +513,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-district-of-columbia-q2-2032-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320615
 DTEND;VALUE=DATE:20320616
 SUMMARY:District of Columbia: State individual quarterly estimated tax paym
@@ -410,7 +530,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-district-of-columbia-q3-2025-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250915
 DTEND;VALUE=DATE:20250916
 SUMMARY:District of Columbia: State individual quarterly estimated tax paym
@@ -427,7 +547,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-district-of-columbia-q3-2026-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:District of Columbia: State individual quarterly estimated tax paym
@@ -444,7 +564,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-district-of-columbia-q3-2027-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270915
 DTEND;VALUE=DATE:20270916
 SUMMARY:District of Columbia: State individual quarterly estimated tax paym
@@ -461,7 +581,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-district-of-columbia-q3-2028-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280915
 DTEND;VALUE=DATE:20280916
 SUMMARY:District of Columbia: State individual quarterly estimated tax paym
@@ -478,7 +598,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-district-of-columbia-q3-2029-09-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290917
 DTEND;VALUE=DATE:20290918
 SUMMARY:District of Columbia: State individual quarterly estimated tax paym
@@ -495,7 +615,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-district-of-columbia-q3-2030-09-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300916
 DTEND;VALUE=DATE:20300917
 SUMMARY:District of Columbia: State individual quarterly estimated tax paym
@@ -512,7 +632,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-district-of-columbia-q3-2031-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310915
 DTEND;VALUE=DATE:20310916
 SUMMARY:District of Columbia: State individual quarterly estimated tax paym
@@ -529,7 +649,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-district-of-columbia-q3-2032-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320915
 DTEND;VALUE=DATE:20320916
 SUMMARY:District of Columbia: State individual quarterly estimated tax paym
@@ -546,7 +666,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-district-of-columbia-q4-2025-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250115
 DTEND;VALUE=DATE:20250116
 SUMMARY:District of Columbia: State individual quarterly estimated tax paym
@@ -563,7 +683,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-district-of-columbia-q4-2026-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260115
 DTEND;VALUE=DATE:20260116
 SUMMARY:District of Columbia: State individual quarterly estimated tax paym
@@ -580,7 +700,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-district-of-columbia-q4-2027-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:District of Columbia: State individual quarterly estimated tax paym
@@ -597,7 +717,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-district-of-columbia-q4-2028-01-18@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280118
 DTEND;VALUE=DATE:20280119
 SUMMARY:District of Columbia: State individual quarterly estimated tax paym
@@ -614,7 +734,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-district-of-columbia-q4-2029-01-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290116
 DTEND;VALUE=DATE:20290117
 SUMMARY:District of Columbia: State individual quarterly estimated tax paym
@@ -631,7 +751,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-district-of-columbia-q4-2030-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300115
 DTEND;VALUE=DATE:20300116
 SUMMARY:District of Columbia: State individual quarterly estimated tax paym
@@ -648,7 +768,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-district-of-columbia-q4-2031-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310115
 DTEND;VALUE=DATE:20310116
 SUMMARY:District of Columbia: State individual quarterly estimated tax paym
@@ -665,7 +785,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-district-of-columbia-q4-2032-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320115
 DTEND;VALUE=DATE:20320116
 SUMMARY:District of Columbia: State individual quarterly estimated tax paym
@@ -682,7 +802,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-dc-2025-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250415
 DTEND;VALUE=DATE:20250416
 SUMMARY:District of Columbia: State individual income tax return due
@@ -699,7 +819,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-dc-2026-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260416
 SUMMARY:District of Columbia: State individual income tax return due
@@ -716,7 +836,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-dc-2027-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:District of Columbia: State individual income tax return due
@@ -733,7 +853,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-dc-2028-04-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280417
 DTEND;VALUE=DATE:20280418
 SUMMARY:District of Columbia: State individual income tax return due
@@ -750,7 +870,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-dc-2029-04-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290416
 DTEND;VALUE=DATE:20290417
 SUMMARY:District of Columbia: State individual income tax return due
@@ -767,7 +887,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-dc-2030-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300415
 DTEND;VALUE=DATE:20300416
 SUMMARY:District of Columbia: State individual income tax return due
@@ -784,7 +904,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-dc-2031-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310415
 DTEND;VALUE=DATE:20310416
 SUMMARY:District of Columbia: State individual income tax return due
@@ -801,7 +921,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-dc-2032-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320415
 DTEND;VALUE=DATE:20320416
 SUMMARY:District of Columbia: State individual income tax return due
@@ -817,8 +937,152 @@ DESCRIPTION:Conforms to the federal April 15 due date | State individual in
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:state-inc-dc-2025-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20251015
+DTEND;VALUE=DATE:20251016
+SUMMARY:District of Columbia: State individual income tax return extended d
+ ue date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. Form FR-127 requests the extension\; tax owed is st
+ ill due April 15. A further extension may be available for filers living or
+  traveling outside the U.S. | Authority: Direct fetch of https://otr.cfo.dc
+ .gov/page/individual-filings-faqs this session | Source: https://otr.cfo.dc
+ .gov/page/individual-filings-faqs | This date is computed from a recurrence
+  rule and may not reflect a later-announced change\; confirm against the ci
+ ted source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-dc-2026-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:District of Columbia: State individual income tax return extended d
+ ue date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. Form FR-127 requests the extension\; tax owed is st
+ ill due April 15. A further extension may be available for filers living or
+  traveling outside the U.S. | Authority: Direct fetch of https://otr.cfo.dc
+ .gov/page/individual-filings-faqs this session | Source: https://otr.cfo.dc
+ .gov/page/individual-filings-faqs | This date is computed from a recurrence
+  rule and may not reflect a later-announced change\; confirm against the ci
+ ted source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-dc-2027-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271016
+SUMMARY:District of Columbia: State individual income tax return extended d
+ ue date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. Form FR-127 requests the extension\; tax owed is st
+ ill due April 15. A further extension may be available for filers living or
+  traveling outside the U.S. | Authority: Direct fetch of https://otr.cfo.dc
+ .gov/page/individual-filings-faqs this session | Source: https://otr.cfo.dc
+ .gov/page/individual-filings-faqs | This date is computed from a recurrence
+  rule and may not reflect a later-announced change\; confirm against the ci
+ ted source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-dc-2028-10-16-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20281016
+DTEND;VALUE=DATE:20281017
+SUMMARY:District of Columbia: State individual income tax return extended d
+ ue date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. Form FR-127 requests the extension\; tax owed is st
+ ill due April 15. A further extension may be available for filers living or
+  traveling outside the U.S. | Authority: Direct fetch of https://otr.cfo.dc
+ .gov/page/individual-filings-faqs this session | Source: https://otr.cfo.dc
+ .gov/page/individual-filings-faqs | This date is computed from a recurrence
+  rule and may not reflect a later-announced change\; confirm against the ci
+ ted source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-dc-2029-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20291015
+DTEND;VALUE=DATE:20291016
+SUMMARY:District of Columbia: State individual income tax return extended d
+ ue date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. Form FR-127 requests the extension\; tax owed is st
+ ill due April 15. A further extension may be available for filers living or
+  traveling outside the U.S. | Authority: Direct fetch of https://otr.cfo.dc
+ .gov/page/individual-filings-faqs this session | Source: https://otr.cfo.dc
+ .gov/page/individual-filings-faqs | This date is computed from a recurrence
+  rule and may not reflect a later-announced change\; confirm against the ci
+ ted source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-dc-2030-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20301015
+DTEND;VALUE=DATE:20301016
+SUMMARY:District of Columbia: State individual income tax return extended d
+ ue date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. Form FR-127 requests the extension\; tax owed is st
+ ill due April 15. A further extension may be available for filers living or
+  traveling outside the U.S. | Authority: Direct fetch of https://otr.cfo.dc
+ .gov/page/individual-filings-faqs this session | Source: https://otr.cfo.dc
+ .gov/page/individual-filings-faqs | This date is computed from a recurrence
+  rule and may not reflect a later-announced change\; confirm against the ci
+ ted source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-dc-2031-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20311015
+DTEND;VALUE=DATE:20311016
+SUMMARY:District of Columbia: State individual income tax return extended d
+ ue date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. Form FR-127 requests the extension\; tax owed is st
+ ill due April 15. A further extension may be available for filers living or
+  traveling outside the U.S. | Authority: Direct fetch of https://otr.cfo.dc
+ .gov/page/individual-filings-faqs this session | Source: https://otr.cfo.dc
+ .gov/page/individual-filings-faqs | This date is computed from a recurrence
+  rule and may not reflect a later-announced change\; confirm against the ci
+ ted source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-dc-2032-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20321015
+DTEND;VALUE=DATE:20321016
+SUMMARY:District of Columbia: State individual income tax return extended d
+ ue date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. Form FR-127 requests the extension\; tax owed is st
+ ill due April 15. A further extension may be available for filers living or
+  traveling outside the U.S. | Authority: Direct fetch of https://otr.cfo.dc
+ .gov/page/individual-filings-faqs this session | Source: https://otr.cfo.dc
+ .gov/page/individual-filings-faqs | This date is computed from a recurrence
+  rule and may not reflect a later-announced change\; confirm against the ci
+ ted source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:state-pte-district-of-columbia-2025-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250415
 DTEND;VALUE=DATE:20250416
 SUMMARY:District of Columbia: D-65 (partnership) / D-30 (unincorporated bus
@@ -851,7 +1115,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-district-of-columbia-2026-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260416
 SUMMARY:District of Columbia: D-65 (partnership) / D-30 (unincorporated bus
@@ -884,7 +1148,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-district-of-columbia-2027-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:District of Columbia: D-65 (partnership) / D-30 (unincorporated bus
@@ -917,7 +1181,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-district-of-columbia-2028-04-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280417
 DTEND;VALUE=DATE:20280418
 SUMMARY:District of Columbia: D-65 (partnership) / D-30 (unincorporated bus
@@ -950,7 +1214,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-district-of-columbia-2029-04-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290416
 DTEND;VALUE=DATE:20290417
 SUMMARY:District of Columbia: D-65 (partnership) / D-30 (unincorporated bus
@@ -983,7 +1247,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-district-of-columbia-2030-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300415
 DTEND;VALUE=DATE:20300416
 SUMMARY:District of Columbia: D-65 (partnership) / D-30 (unincorporated bus
@@ -1016,7 +1280,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-district-of-columbia-2031-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310415
 DTEND;VALUE=DATE:20310416
 SUMMARY:District of Columbia: D-65 (partnership) / D-30 (unincorporated bus
@@ -1049,7 +1313,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-district-of-columbia-2032-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320415
 DTEND;VALUE=DATE:20320416
 SUMMARY:District of Columbia: D-65 (partnership) / D-30 (unincorporated bus
@@ -1081,8 +1345,240 @@ DESCRIPTION:DC's partnership return (D-65) and unincorporated business fran
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:state-pte-district-of-columbia-2025-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20251015
+DTEND;VALUE=DATE:20251016
+SUMMARY:District of Columbia: D-65 (partnership) / D-30 (unincorporated bus
+ iness) extended due date
+DESCRIPTION:Extended due date\, via File Form FR-165 (D-65) or FR-130 (D-30
+ ) by the original due date for an automatic 6-month extension (to October 1
+ 5\, 2026)\; not automatic with a federal extension - "Do not use the federa
+ l extension of time to file form to request a DC extension.". | DC's partne
+ rship return (D-65) and unincorporated business franchise tax return (D-30)
+  are both due April 15\, 2026 for a calendar-year filer. DC does not recogn
+ ize federal S-corp status for franchise tax purposes - S corporations gener
+ ally file the D-20 corporate return instead. File Form FR-165 (D-65) or FR-
+ 130 (D-30) by the original due date for an automatic 6-month extension (to 
+ October 15\, 2026)\; a federal extension does not automatically extend the 
+ DC due date. | Authority: DC Office of Tax and Revenue\, direct fetch this 
+ session of the current-year form booklets: D-65 booklet - "Calendar year fi
+ ler - April 15\, 2026"\, "A 6-month extension of time to file will be allow
+ ed if you complete this form properly\, and file it on time" (Form FR-165)\
+ ; D-30 booklet - "Non-exempt organizations must file their return and pay a
+ ny tax due by: Calendar year filer - April 15\, 2026." | Source: https://ot
+ r.cfo.dc.gov/sites/default/files/dc/sites/otr/publication/attachments/2025_
+ D-65_Book_Final_wLinks_02232026.pdf | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-district-of-columbia-2026-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:District of Columbia: D-65 (partnership) / D-30 (unincorporated bus
+ iness) extended due date
+DESCRIPTION:Extended due date\, via File Form FR-165 (D-65) or FR-130 (D-30
+ ) by the original due date for an automatic 6-month extension (to October 1
+ 5\, 2026)\; not automatic with a federal extension - "Do not use the federa
+ l extension of time to file form to request a DC extension.". | DC's partne
+ rship return (D-65) and unincorporated business franchise tax return (D-30)
+  are both due April 15\, 2026 for a calendar-year filer. DC does not recogn
+ ize federal S-corp status for franchise tax purposes - S corporations gener
+ ally file the D-20 corporate return instead. File Form FR-165 (D-65) or FR-
+ 130 (D-30) by the original due date for an automatic 6-month extension (to 
+ October 15\, 2026)\; a federal extension does not automatically extend the 
+ DC due date. | Authority: DC Office of Tax and Revenue\, direct fetch this 
+ session of the current-year form booklets: D-65 booklet - "Calendar year fi
+ ler - April 15\, 2026"\, "A 6-month extension of time to file will be allow
+ ed if you complete this form properly\, and file it on time" (Form FR-165)\
+ ; D-30 booklet - "Non-exempt organizations must file their return and pay a
+ ny tax due by: Calendar year filer - April 15\, 2026." | Source: https://ot
+ r.cfo.dc.gov/sites/default/files/dc/sites/otr/publication/attachments/2025_
+ D-65_Book_Final_wLinks_02232026.pdf | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-district-of-columbia-2027-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271016
+SUMMARY:District of Columbia: D-65 (partnership) / D-30 (unincorporated bus
+ iness) extended due date
+DESCRIPTION:Extended due date\, via File Form FR-165 (D-65) or FR-130 (D-30
+ ) by the original due date for an automatic 6-month extension (to October 1
+ 5\, 2026)\; not automatic with a federal extension - "Do not use the federa
+ l extension of time to file form to request a DC extension.". | DC's partne
+ rship return (D-65) and unincorporated business franchise tax return (D-30)
+  are both due April 15\, 2026 for a calendar-year filer. DC does not recogn
+ ize federal S-corp status for franchise tax purposes - S corporations gener
+ ally file the D-20 corporate return instead. File Form FR-165 (D-65) or FR-
+ 130 (D-30) by the original due date for an automatic 6-month extension (to 
+ October 15\, 2026)\; a federal extension does not automatically extend the 
+ DC due date. | Authority: DC Office of Tax and Revenue\, direct fetch this 
+ session of the current-year form booklets: D-65 booklet - "Calendar year fi
+ ler - April 15\, 2026"\, "A 6-month extension of time to file will be allow
+ ed if you complete this form properly\, and file it on time" (Form FR-165)\
+ ; D-30 booklet - "Non-exempt organizations must file their return and pay a
+ ny tax due by: Calendar year filer - April 15\, 2026." | Source: https://ot
+ r.cfo.dc.gov/sites/default/files/dc/sites/otr/publication/attachments/2025_
+ D-65_Book_Final_wLinks_02232026.pdf | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-district-of-columbia-2028-10-16-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20281016
+DTEND;VALUE=DATE:20281017
+SUMMARY:District of Columbia: D-65 (partnership) / D-30 (unincorporated bus
+ iness) extended due date
+DESCRIPTION:Extended due date\, via File Form FR-165 (D-65) or FR-130 (D-30
+ ) by the original due date for an automatic 6-month extension (to October 1
+ 5\, 2026)\; not automatic with a federal extension - "Do not use the federa
+ l extension of time to file form to request a DC extension.". | DC's partne
+ rship return (D-65) and unincorporated business franchise tax return (D-30)
+  are both due April 15\, 2026 for a calendar-year filer. DC does not recogn
+ ize federal S-corp status for franchise tax purposes - S corporations gener
+ ally file the D-20 corporate return instead. File Form FR-165 (D-65) or FR-
+ 130 (D-30) by the original due date for an automatic 6-month extension (to 
+ October 15\, 2026)\; a federal extension does not automatically extend the 
+ DC due date. | Authority: DC Office of Tax and Revenue\, direct fetch this 
+ session of the current-year form booklets: D-65 booklet - "Calendar year fi
+ ler - April 15\, 2026"\, "A 6-month extension of time to file will be allow
+ ed if you complete this form properly\, and file it on time" (Form FR-165)\
+ ; D-30 booklet - "Non-exempt organizations must file their return and pay a
+ ny tax due by: Calendar year filer - April 15\, 2026." | Source: https://ot
+ r.cfo.dc.gov/sites/default/files/dc/sites/otr/publication/attachments/2025_
+ D-65_Book_Final_wLinks_02232026.pdf | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-district-of-columbia-2029-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20291015
+DTEND;VALUE=DATE:20291016
+SUMMARY:District of Columbia: D-65 (partnership) / D-30 (unincorporated bus
+ iness) extended due date
+DESCRIPTION:Extended due date\, via File Form FR-165 (D-65) or FR-130 (D-30
+ ) by the original due date for an automatic 6-month extension (to October 1
+ 5\, 2026)\; not automatic with a federal extension - "Do not use the federa
+ l extension of time to file form to request a DC extension.". | DC's partne
+ rship return (D-65) and unincorporated business franchise tax return (D-30)
+  are both due April 15\, 2026 for a calendar-year filer. DC does not recogn
+ ize federal S-corp status for franchise tax purposes - S corporations gener
+ ally file the D-20 corporate return instead. File Form FR-165 (D-65) or FR-
+ 130 (D-30) by the original due date for an automatic 6-month extension (to 
+ October 15\, 2026)\; a federal extension does not automatically extend the 
+ DC due date. | Authority: DC Office of Tax and Revenue\, direct fetch this 
+ session of the current-year form booklets: D-65 booklet - "Calendar year fi
+ ler - April 15\, 2026"\, "A 6-month extension of time to file will be allow
+ ed if you complete this form properly\, and file it on time" (Form FR-165)\
+ ; D-30 booklet - "Non-exempt organizations must file their return and pay a
+ ny tax due by: Calendar year filer - April 15\, 2026." | Source: https://ot
+ r.cfo.dc.gov/sites/default/files/dc/sites/otr/publication/attachments/2025_
+ D-65_Book_Final_wLinks_02232026.pdf | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-district-of-columbia-2030-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20301015
+DTEND;VALUE=DATE:20301016
+SUMMARY:District of Columbia: D-65 (partnership) / D-30 (unincorporated bus
+ iness) extended due date
+DESCRIPTION:Extended due date\, via File Form FR-165 (D-65) or FR-130 (D-30
+ ) by the original due date for an automatic 6-month extension (to October 1
+ 5\, 2026)\; not automatic with a federal extension - "Do not use the federa
+ l extension of time to file form to request a DC extension.". | DC's partne
+ rship return (D-65) and unincorporated business franchise tax return (D-30)
+  are both due April 15\, 2026 for a calendar-year filer. DC does not recogn
+ ize federal S-corp status for franchise tax purposes - S corporations gener
+ ally file the D-20 corporate return instead. File Form FR-165 (D-65) or FR-
+ 130 (D-30) by the original due date for an automatic 6-month extension (to 
+ October 15\, 2026)\; a federal extension does not automatically extend the 
+ DC due date. | Authority: DC Office of Tax and Revenue\, direct fetch this 
+ session of the current-year form booklets: D-65 booklet - "Calendar year fi
+ ler - April 15\, 2026"\, "A 6-month extension of time to file will be allow
+ ed if you complete this form properly\, and file it on time" (Form FR-165)\
+ ; D-30 booklet - "Non-exempt organizations must file their return and pay a
+ ny tax due by: Calendar year filer - April 15\, 2026." | Source: https://ot
+ r.cfo.dc.gov/sites/default/files/dc/sites/otr/publication/attachments/2025_
+ D-65_Book_Final_wLinks_02232026.pdf | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-district-of-columbia-2031-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20311015
+DTEND;VALUE=DATE:20311016
+SUMMARY:District of Columbia: D-65 (partnership) / D-30 (unincorporated bus
+ iness) extended due date
+DESCRIPTION:Extended due date\, via File Form FR-165 (D-65) or FR-130 (D-30
+ ) by the original due date for an automatic 6-month extension (to October 1
+ 5\, 2026)\; not automatic with a federal extension - "Do not use the federa
+ l extension of time to file form to request a DC extension.". | DC's partne
+ rship return (D-65) and unincorporated business franchise tax return (D-30)
+  are both due April 15\, 2026 for a calendar-year filer. DC does not recogn
+ ize federal S-corp status for franchise tax purposes - S corporations gener
+ ally file the D-20 corporate return instead. File Form FR-165 (D-65) or FR-
+ 130 (D-30) by the original due date for an automatic 6-month extension (to 
+ October 15\, 2026)\; a federal extension does not automatically extend the 
+ DC due date. | Authority: DC Office of Tax and Revenue\, direct fetch this 
+ session of the current-year form booklets: D-65 booklet - "Calendar year fi
+ ler - April 15\, 2026"\, "A 6-month extension of time to file will be allow
+ ed if you complete this form properly\, and file it on time" (Form FR-165)\
+ ; D-30 booklet - "Non-exempt organizations must file their return and pay a
+ ny tax due by: Calendar year filer - April 15\, 2026." | Source: https://ot
+ r.cfo.dc.gov/sites/default/files/dc/sites/otr/publication/attachments/2025_
+ D-65_Book_Final_wLinks_02232026.pdf | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-district-of-columbia-2032-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20321015
+DTEND;VALUE=DATE:20321016
+SUMMARY:District of Columbia: D-65 (partnership) / D-30 (unincorporated bus
+ iness) extended due date
+DESCRIPTION:Extended due date\, via File Form FR-165 (D-65) or FR-130 (D-30
+ ) by the original due date for an automatic 6-month extension (to October 1
+ 5\, 2026)\; not automatic with a federal extension - "Do not use the federa
+ l extension of time to file form to request a DC extension.". | DC's partne
+ rship return (D-65) and unincorporated business franchise tax return (D-30)
+  are both due April 15\, 2026 for a calendar-year filer. DC does not recogn
+ ize federal S-corp status for franchise tax purposes - S corporations gener
+ ally file the D-20 corporate return instead. File Form FR-165 (D-65) or FR-
+ 130 (D-30) by the original due date for an automatic 6-month extension (to 
+ October 15\, 2026)\; a federal extension does not automatically extend the 
+ DC due date. | Authority: DC Office of Tax and Revenue\, direct fetch this 
+ session of the current-year form booklets: D-65 booklet - "Calendar year fi
+ ler - April 15\, 2026"\, "A 6-month extension of time to file will be allow
+ ed if you complete this form properly\, and file it on time" (Form FR-165)\
+ ; D-30 booklet - "Non-exempt organizations must file their return and pay a
+ ny tax due by: Calendar year filer - April 15\, 2026." | Source: https://ot
+ r.cfo.dc.gov/sites/default/files/dc/sites/otr/publication/attachments/2025_
+ D-65_Book_Final_wLinks_02232026.pdf | This date is computed from a recurren
+ ce rule and may not reflect a later-announced change\; confirm against the 
+ cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:state-sui-district-of-columbia-q1-2025-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250430
 DTEND;VALUE=DATE:20250501
 SUMMARY:District of Columbia: State unemployment insurance quarterly return
@@ -1100,7 +1596,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-district-of-columbia-q1-2026-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260501
 SUMMARY:District of Columbia: State unemployment insurance quarterly return
@@ -1118,7 +1614,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-district-of-columbia-q1-2027-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270501
 SUMMARY:District of Columbia: State unemployment insurance quarterly return
@@ -1136,7 +1632,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-district-of-columbia-q1-2028-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280430
 DTEND;VALUE=DATE:20280501
 SUMMARY:District of Columbia: State unemployment insurance quarterly return
@@ -1154,7 +1650,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-district-of-columbia-q1-2029-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290430
 DTEND;VALUE=DATE:20290501
 SUMMARY:District of Columbia: State unemployment insurance quarterly return
@@ -1172,7 +1668,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-district-of-columbia-q1-2030-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300430
 DTEND;VALUE=DATE:20300501
 SUMMARY:District of Columbia: State unemployment insurance quarterly return
@@ -1190,7 +1686,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-district-of-columbia-q1-2031-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310430
 DTEND;VALUE=DATE:20310501
 SUMMARY:District of Columbia: State unemployment insurance quarterly return
@@ -1208,7 +1704,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-district-of-columbia-q1-2032-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320430
 DTEND;VALUE=DATE:20320501
 SUMMARY:District of Columbia: State unemployment insurance quarterly return
@@ -1226,7 +1722,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-district-of-columbia-q2-2025-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250731
 DTEND;VALUE=DATE:20250801
 SUMMARY:District of Columbia: State unemployment insurance quarterly return
@@ -1244,7 +1740,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-district-of-columbia-q2-2026-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
 SUMMARY:District of Columbia: State unemployment insurance quarterly return
@@ -1262,7 +1758,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-district-of-columbia-q2-2027-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270731
 DTEND;VALUE=DATE:20270801
 SUMMARY:District of Columbia: State unemployment insurance quarterly return
@@ -1280,7 +1776,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-district-of-columbia-q2-2028-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280731
 DTEND;VALUE=DATE:20280801
 SUMMARY:District of Columbia: State unemployment insurance quarterly return
@@ -1298,7 +1794,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-district-of-columbia-q2-2029-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290731
 DTEND;VALUE=DATE:20290801
 SUMMARY:District of Columbia: State unemployment insurance quarterly return
@@ -1316,7 +1812,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-district-of-columbia-q2-2030-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300731
 DTEND;VALUE=DATE:20300801
 SUMMARY:District of Columbia: State unemployment insurance quarterly return
@@ -1334,7 +1830,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-district-of-columbia-q2-2031-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310731
 DTEND;VALUE=DATE:20310801
 SUMMARY:District of Columbia: State unemployment insurance quarterly return
@@ -1352,7 +1848,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-district-of-columbia-q2-2032-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320731
 DTEND;VALUE=DATE:20320801
 SUMMARY:District of Columbia: State unemployment insurance quarterly return
@@ -1370,7 +1866,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-district-of-columbia-q3-2025-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20251031
 DTEND;VALUE=DATE:20251101
 SUMMARY:District of Columbia: State unemployment insurance quarterly return
@@ -1388,7 +1884,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-district-of-columbia-q3-2026-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:District of Columbia: State unemployment insurance quarterly return
@@ -1406,7 +1902,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-district-of-columbia-q3-2027-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20271031
 DTEND;VALUE=DATE:20271101
 SUMMARY:District of Columbia: State unemployment insurance quarterly return
@@ -1424,7 +1920,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-district-of-columbia-q3-2028-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20281031
 DTEND;VALUE=DATE:20281101
 SUMMARY:District of Columbia: State unemployment insurance quarterly return
@@ -1442,7 +1938,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-district-of-columbia-q3-2029-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20291031
 DTEND;VALUE=DATE:20291101
 SUMMARY:District of Columbia: State unemployment insurance quarterly return
@@ -1460,7 +1956,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-district-of-columbia-q3-2030-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20301031
 DTEND;VALUE=DATE:20301101
 SUMMARY:District of Columbia: State unemployment insurance quarterly return
@@ -1478,7 +1974,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-district-of-columbia-q3-2031-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20311031
 DTEND;VALUE=DATE:20311101
 SUMMARY:District of Columbia: State unemployment insurance quarterly return
@@ -1496,7 +1992,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-district-of-columbia-q3-2032-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20321031
 DTEND;VALUE=DATE:20321101
 SUMMARY:District of Columbia: State unemployment insurance quarterly return
@@ -1514,7 +2010,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-district-of-columbia-q4-2025-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250131
 DTEND;VALUE=DATE:20250201
 SUMMARY:District of Columbia: State unemployment insurance quarterly return
@@ -1532,7 +2028,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-district-of-columbia-q4-2026-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260131
 DTEND;VALUE=DATE:20260201
 SUMMARY:District of Columbia: State unemployment insurance quarterly return
@@ -1550,7 +2046,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-district-of-columbia-q4-2027-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:District of Columbia: State unemployment insurance quarterly return
@@ -1568,7 +2064,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-district-of-columbia-q4-2028-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280131
 DTEND;VALUE=DATE:20280201
 SUMMARY:District of Columbia: State unemployment insurance quarterly return
@@ -1586,7 +2082,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-district-of-columbia-q4-2029-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290131
 DTEND;VALUE=DATE:20290201
 SUMMARY:District of Columbia: State unemployment insurance quarterly return
@@ -1604,7 +2100,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-district-of-columbia-q4-2030-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300131
 DTEND;VALUE=DATE:20300201
 SUMMARY:District of Columbia: State unemployment insurance quarterly return
@@ -1622,7 +2118,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-district-of-columbia-q4-2031-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310131
 DTEND;VALUE=DATE:20310201
 SUMMARY:District of Columbia: State unemployment insurance quarterly return
@@ -1640,7 +2136,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-district-of-columbia-q4-2032-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320131
 DTEND;VALUE=DATE:20320201
 SUMMARY:District of Columbia: State unemployment insurance quarterly return
@@ -1658,7 +2154,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-district-of-columbia-q1-2025-04-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250421
 DTEND;VALUE=DATE:20250422
 SUMMARY:District of Columbia: State sales & use tax return due
@@ -1676,7 +2172,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-district-of-columbia-q1-2026-04-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260421
 SUMMARY:District of Columbia: State sales & use tax return due
@@ -1694,7 +2190,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-district-of-columbia-q1-2027-04-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270421
 SUMMARY:District of Columbia: State sales & use tax return due
@@ -1712,7 +2208,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-district-of-columbia-q1-2028-04-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280420
 DTEND;VALUE=DATE:20280421
 SUMMARY:District of Columbia: State sales & use tax return due
@@ -1730,7 +2226,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-district-of-columbia-q1-2029-04-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290420
 DTEND;VALUE=DATE:20290421
 SUMMARY:District of Columbia: State sales & use tax return due
@@ -1748,7 +2244,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-district-of-columbia-q1-2030-04-22@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300422
 DTEND;VALUE=DATE:20300423
 SUMMARY:District of Columbia: State sales & use tax return due
@@ -1766,7 +2262,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-district-of-columbia-q1-2031-04-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310421
 DTEND;VALUE=DATE:20310422
 SUMMARY:District of Columbia: State sales & use tax return due
@@ -1784,7 +2280,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-district-of-columbia-q1-2032-04-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320420
 DTEND;VALUE=DATE:20320421
 SUMMARY:District of Columbia: State sales & use tax return due
@@ -1802,7 +2298,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-district-of-columbia-q2-2025-07-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250721
 DTEND;VALUE=DATE:20250722
 SUMMARY:District of Columbia: State sales & use tax return due
@@ -1820,7 +2316,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-district-of-columbia-q2-2026-07-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260720
 DTEND;VALUE=DATE:20260721
 SUMMARY:District of Columbia: State sales & use tax return due
@@ -1838,7 +2334,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-district-of-columbia-q2-2027-07-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270720
 DTEND;VALUE=DATE:20270721
 SUMMARY:District of Columbia: State sales & use tax return due
@@ -1856,7 +2352,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-district-of-columbia-q2-2028-07-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280720
 DTEND;VALUE=DATE:20280721
 SUMMARY:District of Columbia: State sales & use tax return due
@@ -1874,7 +2370,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-district-of-columbia-q2-2029-07-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290720
 DTEND;VALUE=DATE:20290721
 SUMMARY:District of Columbia: State sales & use tax return due
@@ -1892,7 +2388,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-district-of-columbia-q2-2030-07-22@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300722
 DTEND;VALUE=DATE:20300723
 SUMMARY:District of Columbia: State sales & use tax return due
@@ -1910,7 +2406,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-district-of-columbia-q2-2031-07-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310721
 DTEND;VALUE=DATE:20310722
 SUMMARY:District of Columbia: State sales & use tax return due
@@ -1928,7 +2424,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-district-of-columbia-q2-2032-07-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320720
 DTEND;VALUE=DATE:20320721
 SUMMARY:District of Columbia: State sales & use tax return due
@@ -1946,7 +2442,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-district-of-columbia-q3-2025-10-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20251020
 DTEND;VALUE=DATE:20251021
 SUMMARY:District of Columbia: State sales & use tax return due
@@ -1964,7 +2460,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-district-of-columbia-q3-2026-10-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:District of Columbia: State sales & use tax return due
@@ -1982,7 +2478,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-district-of-columbia-q3-2027-10-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20271020
 DTEND;VALUE=DATE:20271021
 SUMMARY:District of Columbia: State sales & use tax return due
@@ -2000,7 +2496,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-district-of-columbia-q3-2028-10-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20281020
 DTEND;VALUE=DATE:20281021
 SUMMARY:District of Columbia: State sales & use tax return due
@@ -2018,7 +2514,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-district-of-columbia-q3-2029-10-22@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20291022
 DTEND;VALUE=DATE:20291023
 SUMMARY:District of Columbia: State sales & use tax return due
@@ -2036,7 +2532,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-district-of-columbia-q3-2030-10-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20301021
 DTEND;VALUE=DATE:20301022
 SUMMARY:District of Columbia: State sales & use tax return due
@@ -2054,7 +2550,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-district-of-columbia-q3-2031-10-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20311020
 DTEND;VALUE=DATE:20311021
 SUMMARY:District of Columbia: State sales & use tax return due
@@ -2072,7 +2568,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-district-of-columbia-q3-2032-10-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20321020
 DTEND;VALUE=DATE:20321021
 SUMMARY:District of Columbia: State sales & use tax return due
@@ -2090,7 +2586,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-district-of-columbia-q4-2025-01-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250121
 DTEND;VALUE=DATE:20250122
 SUMMARY:District of Columbia: State sales & use tax return due
@@ -2108,7 +2604,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-district-of-columbia-q4-2026-01-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260120
 DTEND;VALUE=DATE:20260121
 SUMMARY:District of Columbia: State sales & use tax return due
@@ -2126,7 +2622,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-district-of-columbia-q4-2027-01-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
 SUMMARY:District of Columbia: State sales & use tax return due
@@ -2144,7 +2640,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-district-of-columbia-q4-2028-01-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280120
 DTEND;VALUE=DATE:20280121
 SUMMARY:District of Columbia: State sales & use tax return due
@@ -2162,7 +2658,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-district-of-columbia-q4-2029-01-22@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290122
 DTEND;VALUE=DATE:20290123
 SUMMARY:District of Columbia: State sales & use tax return due
@@ -2180,7 +2676,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-district-of-columbia-q4-2030-01-22@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300122
 DTEND;VALUE=DATE:20300123
 SUMMARY:District of Columbia: State sales & use tax return due
@@ -2198,7 +2694,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-district-of-columbia-q4-2031-01-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310121
 DTEND;VALUE=DATE:20310122
 SUMMARY:District of Columbia: State sales & use tax return due
@@ -2216,7 +2712,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-district-of-columbia-q4-2032-01-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320120
 DTEND;VALUE=DATE:20320121
 SUMMARY:District of Columbia: State sales & use tax return due

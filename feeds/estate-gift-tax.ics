@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:fed-709-2025-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250415
 DTEND;VALUE=DATE:20250416
 SUMMARY:Federal: 709 due
@@ -29,7 +29,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fed-709-2026-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260416
 SUMMARY:Federal: 709 due
@@ -48,7 +48,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fed-709-2027-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:Federal: 709 due
@@ -67,7 +67,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fed-709-2028-04-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280417
 DTEND;VALUE=DATE:20280418
 SUMMARY:Federal: 709 due
@@ -86,7 +86,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fed-709-2029-04-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290416
 DTEND;VALUE=DATE:20290417
 SUMMARY:Federal: 709 due
@@ -105,7 +105,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fed-709-2030-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300415
 DTEND;VALUE=DATE:20300416
 SUMMARY:Federal: 709 due
@@ -124,7 +124,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fed-709-2031-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310415
 DTEND;VALUE=DATE:20310416
 SUMMARY:Federal: 709 due
@@ -143,7 +143,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fed-709-2032-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320415
 DTEND;VALUE=DATE:20320416
 SUMMARY:Federal: 709 due
@@ -158,6 +158,158 @@ DESCRIPTION:Same due date as the individual income tax return | Form 709 fo
  tions/i709 | This date is computed from a recurrence rule and may not refle
  ct a later-announced change\; confirm against the cited source before relyi
  ng on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-709-2025-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20251015
+DTEND;VALUE=DATE:20251016
+SUMMARY:Federal: 709 extended due date
+DESCRIPTION:Extended due date\, via Automatic with a 1040 extension\, or Fo
+ rm 8892 if not extending the income tax return. | Form 709 for 2025 gifts i
+ s due April 15\, 2026. An extension of the donor's 2025 Form 1040 automatic
+ ally extends the Form 709 due date\; if the income tax return is not being 
+ extended\, Form 8892 requests a separate automatic 6-month extension. Exten
+ sions to file do not extend the deadline to pay any gift or GST tax due. | 
+ Authority: IRS Instructions for Form 709: "Generally\, you must file Form 7
+ 09 no earlier than January 1\, but not later than April 15\, of the year af
+ ter the gift was made." | Source: https://www.irs.gov/instructions/i709 | T
+ his date is computed from a recurrence rule and may not reflect a later-ann
+ ounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-709-2026-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Federal: 709 extended due date
+DESCRIPTION:Extended due date\, via Automatic with a 1040 extension\, or Fo
+ rm 8892 if not extending the income tax return. | Form 709 for 2025 gifts i
+ s due April 15\, 2026. An extension of the donor's 2025 Form 1040 automatic
+ ally extends the Form 709 due date\; if the income tax return is not being 
+ extended\, Form 8892 requests a separate automatic 6-month extension. Exten
+ sions to file do not extend the deadline to pay any gift or GST tax due. | 
+ Authority: IRS Instructions for Form 709: "Generally\, you must file Form 7
+ 09 no earlier than January 1\, but not later than April 15\, of the year af
+ ter the gift was made." | Source: https://www.irs.gov/instructions/i709 | T
+ his date is computed from a recurrence rule and may not reflect a later-ann
+ ounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-709-2027-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271016
+SUMMARY:Federal: 709 extended due date
+DESCRIPTION:Extended due date\, via Automatic with a 1040 extension\, or Fo
+ rm 8892 if not extending the income tax return. | Form 709 for 2025 gifts i
+ s due April 15\, 2026. An extension of the donor's 2025 Form 1040 automatic
+ ally extends the Form 709 due date\; if the income tax return is not being 
+ extended\, Form 8892 requests a separate automatic 6-month extension. Exten
+ sions to file do not extend the deadline to pay any gift or GST tax due. | 
+ Authority: IRS Instructions for Form 709: "Generally\, you must file Form 7
+ 09 no earlier than January 1\, but not later than April 15\, of the year af
+ ter the gift was made." | Source: https://www.irs.gov/instructions/i709 | T
+ his date is computed from a recurrence rule and may not reflect a later-ann
+ ounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-709-2028-10-16-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20281016
+DTEND;VALUE=DATE:20281017
+SUMMARY:Federal: 709 extended due date
+DESCRIPTION:Extended due date\, via Automatic with a 1040 extension\, or Fo
+ rm 8892 if not extending the income tax return. | Form 709 for 2025 gifts i
+ s due April 15\, 2026. An extension of the donor's 2025 Form 1040 automatic
+ ally extends the Form 709 due date\; if the income tax return is not being 
+ extended\, Form 8892 requests a separate automatic 6-month extension. Exten
+ sions to file do not extend the deadline to pay any gift or GST tax due. | 
+ Authority: IRS Instructions for Form 709: "Generally\, you must file Form 7
+ 09 no earlier than January 1\, but not later than April 15\, of the year af
+ ter the gift was made." | Source: https://www.irs.gov/instructions/i709 | T
+ his date is computed from a recurrence rule and may not reflect a later-ann
+ ounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-709-2029-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20291015
+DTEND;VALUE=DATE:20291016
+SUMMARY:Federal: 709 extended due date
+DESCRIPTION:Extended due date\, via Automatic with a 1040 extension\, or Fo
+ rm 8892 if not extending the income tax return. | Form 709 for 2025 gifts i
+ s due April 15\, 2026. An extension of the donor's 2025 Form 1040 automatic
+ ally extends the Form 709 due date\; if the income tax return is not being 
+ extended\, Form 8892 requests a separate automatic 6-month extension. Exten
+ sions to file do not extend the deadline to pay any gift or GST tax due. | 
+ Authority: IRS Instructions for Form 709: "Generally\, you must file Form 7
+ 09 no earlier than January 1\, but not later than April 15\, of the year af
+ ter the gift was made." | Source: https://www.irs.gov/instructions/i709 | T
+ his date is computed from a recurrence rule and may not reflect a later-ann
+ ounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-709-2030-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20301015
+DTEND;VALUE=DATE:20301016
+SUMMARY:Federal: 709 extended due date
+DESCRIPTION:Extended due date\, via Automatic with a 1040 extension\, or Fo
+ rm 8892 if not extending the income tax return. | Form 709 for 2025 gifts i
+ s due April 15\, 2026. An extension of the donor's 2025 Form 1040 automatic
+ ally extends the Form 709 due date\; if the income tax return is not being 
+ extended\, Form 8892 requests a separate automatic 6-month extension. Exten
+ sions to file do not extend the deadline to pay any gift or GST tax due. | 
+ Authority: IRS Instructions for Form 709: "Generally\, you must file Form 7
+ 09 no earlier than January 1\, but not later than April 15\, of the year af
+ ter the gift was made." | Source: https://www.irs.gov/instructions/i709 | T
+ his date is computed from a recurrence rule and may not reflect a later-ann
+ ounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-709-2031-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20311015
+DTEND;VALUE=DATE:20311016
+SUMMARY:Federal: 709 extended due date
+DESCRIPTION:Extended due date\, via Automatic with a 1040 extension\, or Fo
+ rm 8892 if not extending the income tax return. | Form 709 for 2025 gifts i
+ s due April 15\, 2026. An extension of the donor's 2025 Form 1040 automatic
+ ally extends the Form 709 due date\; if the income tax return is not being 
+ extended\, Form 8892 requests a separate automatic 6-month extension. Exten
+ sions to file do not extend the deadline to pay any gift or GST tax due. | 
+ Authority: IRS Instructions for Form 709: "Generally\, you must file Form 7
+ 09 no earlier than January 1\, but not later than April 15\, of the year af
+ ter the gift was made." | Source: https://www.irs.gov/instructions/i709 | T
+ his date is computed from a recurrence rule and may not reflect a later-ann
+ ounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-709-2032-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20321015
+DTEND;VALUE=DATE:20321016
+SUMMARY:Federal: 709 extended due date
+DESCRIPTION:Extended due date\, via Automatic with a 1040 extension\, or Fo
+ rm 8892 if not extending the income tax return. | Form 709 for 2025 gifts i
+ s due April 15\, 2026. An extension of the donor's 2025 Form 1040 automatic
+ ally extends the Form 709 due date\; if the income tax return is not being 
+ extended\, Form 8892 requests a separate automatic 6-month extension. Exten
+ sions to file do not extend the deadline to pay any gift or GST tax due. | 
+ Authority: IRS Instructions for Form 709: "Generally\, you must file Form 7
+ 09 no earlier than January 1\, but not later than April 15\, of the year af
+ ter the gift was made." | Source: https://www.irs.gov/instructions/i709 | T
+ his date is computed from a recurrence rule and may not reflect a later-ann
+ ounced change\; confirm against the cited source before relying on it.
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

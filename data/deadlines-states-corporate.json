@@ -19,6 +19,12 @@
       "month": 5,
       "day": 15,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 11,
+      "day": 15,
+      "shift": false
     }
   },
   {
@@ -41,6 +47,12 @@
       "day": 15,
       "month_offset": 5,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 11,
+      "day": 15,
+      "shift": false
     }
   },
   {
@@ -63,6 +75,12 @@
       "day": 15,
       "month_offset": 4,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 11,
+      "day": 15,
+      "shift": false
     }
   },
   {
@@ -85,6 +103,12 @@
       "month": 4,
       "day": 15,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 11,
+      "day": 15,
+      "shift": false
     }
   },
   {
@@ -107,6 +131,12 @@
       "day": 15,
       "month_offset": 4,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 11,
+      "day": 15,
+      "shift": false
     }
   },
   {
@@ -129,6 +159,12 @@
       "day": 15,
       "month_offset": 5,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 11,
+      "day": 15,
+      "shift": false
     }
   },
   {
@@ -151,6 +187,12 @@
       "month": 5,
       "day": 15,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "annual_offset",
+      "day": 15,
+      "month_offset": 11,
+      "shift": false
     }
   },
   {
@@ -173,6 +215,12 @@
       "day": 15,
       "month_offset": 4,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 15,
+      "shift": true
     }
   },
   {
@@ -193,6 +241,12 @@
     "recurrence": {
       "type": "fixed_date",
       "month": 4,
+      "day": 15,
+      "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 10,
       "day": 15,
       "shift": true
     }
@@ -217,6 +271,12 @@
       "month": 5,
       "day": 1,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 12,
+      "shift": true
     }
   },
   {
@@ -239,6 +299,12 @@
       "day": 15,
       "month_offset": 4,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 11,
+      "day": 15,
+      "shift": false
     }
   },
   {
@@ -260,6 +326,12 @@
       "type": "annual_offset",
       "day": 20,
       "month_offset": 4,
+      "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 20,
       "shift": true
     }
   },
@@ -283,6 +355,12 @@
       "day": 15,
       "month_offset": 4,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 15,
+      "shift": true
     }
   },
   {
@@ -305,6 +383,12 @@
       "day": 15,
       "month_offset": 4,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 11,
+      "day": 15,
+      "shift": false
     }
   },
   {
@@ -327,6 +411,12 @@
       "day": 15,
       "month_offset": 5,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 11,
+      "day": 15,
+      "shift": false
     }
   },
   {
@@ -348,6 +438,12 @@
       "type": "annual_offset",
       "day": "last",
       "month_offset": 4,
+      "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 30,
       "shift": true
     }
   },
@@ -371,6 +467,12 @@
       "month": 4,
       "day": 15,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 11,
+      "day": 15,
+      "shift": false
     }
   },
   {
@@ -415,6 +517,12 @@
       "day": 15,
       "month_offset": 5,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 11,
+      "day": 15,
+      "shift": false
     }
   },
   {
@@ -436,6 +544,12 @@
       "type": "annual_offset",
       "day": 15,
       "month_offset": 4,
+      "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 15,
       "shift": true
     }
   },
@@ -459,6 +573,12 @@
       "day": 15,
       "month_offset": 4,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 11,
+      "day": 15,
+      "shift": false
     }
   },
   {
@@ -479,6 +599,12 @@
     "recurrence": {
       "type": "fixed_date",
       "month": 4,
+      "day": 15,
+      "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 10,
       "day": 15,
       "shift": true
     }
@@ -503,6 +629,12 @@
       "day": "last",
       "month_offset": 4,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "annual_offset",
+      "day": "last",
+      "month_offset": 8,
+      "shift": true
     }
   },
   {
@@ -523,6 +655,12 @@
     "recurrence": {
       "type": "fixed_date",
       "month": 4,
+      "day": 15,
+      "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 11,
       "day": 15,
       "shift": true
     }
@@ -591,6 +729,12 @@
       "month": 5,
       "day": 15,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 11,
+      "day": 15,
+      "shift": false
     }
   },
   {
@@ -613,6 +757,12 @@
       "day": 15,
       "month_offset": 4,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 11,
+      "day": 15,
+      "shift": false
     }
   },
   {
@@ -674,6 +824,12 @@
       "month": 5,
       "day": 15,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 11,
+      "day": 15,
+      "shift": false
     }
   },
   {
@@ -696,6 +852,12 @@
       "day": 15,
       "month_offset": 4,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 15,
+      "shift": true
     }
   },
   {
@@ -716,6 +878,12 @@
     "recurrence": {
       "type": "fixed_date",
       "month": 4,
+      "day": 15,
+      "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 10,
       "day": 15,
       "shift": true
     }
@@ -740,6 +908,12 @@
       "day": 15,
       "month_offset": 4,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 11,
+      "day": 15,
+      "shift": false
     }
   },
   {
@@ -760,6 +934,12 @@
     "recurrence": {
       "type": "fixed_date",
       "month": 4,
+      "day": 15,
+      "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 11,
       "day": 15,
       "shift": true
     }
@@ -823,6 +1003,12 @@
       "month": 5,
       "day": 15,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 11,
+      "day": 15,
+      "shift": true
     }
   },
   {
@@ -867,6 +1053,12 @@
       "day": 15,
       "month_offset": 4,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 15,
+      "shift": true
     }
   },
   {
@@ -888,6 +1080,12 @@
       "type": "annual_offset",
       "day": 15,
       "month_offset": 4,
+      "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 15,
       "shift": true
     }
   },
@@ -928,6 +1126,12 @@
       "day": 15,
       "month_offset": 4,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 11,
+      "day": 15,
+      "shift": false
     }
   },
   {
@@ -950,6 +1154,12 @@
       "month": 5,
       "day": 15,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 11,
+      "day": 15,
+      "shift": false
     }
   },
   {
@@ -970,6 +1180,12 @@
     "recurrence": {
       "type": "fixed_date",
       "month": 4,
+      "day": 15,
+      "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 10,
       "day": 15,
       "shift": true
     }
@@ -994,6 +1210,12 @@
       "month": 4,
       "day": 15,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 11,
+      "day": 14,
+      "shift": false
     }
   },
   {
@@ -1016,6 +1238,12 @@
       "month": 4,
       "day": 15,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 11,
+      "day": 15,
+      "shift": false
     }
   },
   {
@@ -1060,6 +1288,12 @@
       "month": 4,
       "day": 15,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 15,
+      "shift": true
     }
   },
   {
@@ -1082,6 +1316,12 @@
       "month": 4,
       "day": 15,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 11,
+      "day": 15,
+      "shift": false
     }
   },
   {

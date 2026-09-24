@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:state-corp-michigan-2025-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250430
 DTEND;VALUE=DATE:20250501
 SUMMARY:Michigan: State corporate income/franchise tax return due
@@ -28,7 +28,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-michigan-2026-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260501
 SUMMARY:Michigan: State corporate income/franchise tax return due
@@ -46,7 +46,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-michigan-2027-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270501
 SUMMARY:Michigan: State corporate income/franchise tax return due
@@ -64,7 +64,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-michigan-2028-05-01@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280501
 DTEND;VALUE=DATE:20280502
 SUMMARY:Michigan: State corporate income/franchise tax return due
@@ -82,7 +82,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-michigan-2029-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290430
 DTEND;VALUE=DATE:20290501
 SUMMARY:Michigan: State corporate income/franchise tax return due
@@ -100,7 +100,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-michigan-2030-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300430
 DTEND;VALUE=DATE:20300501
 SUMMARY:Michigan: State corporate income/franchise tax return due
@@ -118,7 +118,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-michigan-2031-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310430
 DTEND;VALUE=DATE:20310501
 SUMMARY:Michigan: State corporate income/franchise tax return due
@@ -136,7 +136,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-michigan-2032-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320430
 DTEND;VALUE=DATE:20320501
 SUMMARY:Michigan: State corporate income/franchise tax return due
@@ -153,8 +153,144 @@ DESCRIPTION:CIT annual return due the last day of the 4th month after year
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:state-corp-michigan-2025-09-02-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20250902
+DTEND;VALUE=DATE:20250903
+SUMMARY:Michigan: State corporate income/franchise tax return extended due 
+ date
+DESCRIPTION:Extended due date\, via None. | CIT annual return due the last 
+ day of the 4th month after year end\; automatic extension to the last day o
+ f the 8th month\, conditioned on a federal extension plus a tentative retur
+ n/payment. | Authority: Direct fetch of Michigan's own tax agency site/publ
+ ication this session | Source: https://www.michigan.gov/taxes/business-taxe
+ s/cit/detail/filing-requirements | This date is computed from a recurrence 
+ rule and may not reflect a later-announced change\; confirm against the cit
+ ed source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-michigan-2026-08-31-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:Michigan: State corporate income/franchise tax return extended due 
+ date
+DESCRIPTION:Extended due date\, via None. | CIT annual return due the last 
+ day of the 4th month after year end\; automatic extension to the last day o
+ f the 8th month\, conditioned on a federal extension plus a tentative retur
+ n/payment. | Authority: Direct fetch of Michigan's own tax agency site/publ
+ ication this session | Source: https://www.michigan.gov/taxes/business-taxe
+ s/cit/detail/filing-requirements | This date is computed from a recurrence 
+ rule and may not reflect a later-announced change\; confirm against the cit
+ ed source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-michigan-2027-08-31-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:Michigan: State corporate income/franchise tax return extended due 
+ date
+DESCRIPTION:Extended due date\, via None. | CIT annual return due the last 
+ day of the 4th month after year end\; automatic extension to the last day o
+ f the 8th month\, conditioned on a federal extension plus a tentative retur
+ n/payment. | Authority: Direct fetch of Michigan's own tax agency site/publ
+ ication this session | Source: https://www.michigan.gov/taxes/business-taxe
+ s/cit/detail/filing-requirements | This date is computed from a recurrence 
+ rule and may not reflect a later-announced change\; confirm against the cit
+ ed source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-michigan-2028-08-31-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20280831
+DTEND;VALUE=DATE:20280901
+SUMMARY:Michigan: State corporate income/franchise tax return extended due 
+ date
+DESCRIPTION:Extended due date\, via None. | CIT annual return due the last 
+ day of the 4th month after year end\; automatic extension to the last day o
+ f the 8th month\, conditioned on a federal extension plus a tentative retur
+ n/payment. | Authority: Direct fetch of Michigan's own tax agency site/publ
+ ication this session | Source: https://www.michigan.gov/taxes/business-taxe
+ s/cit/detail/filing-requirements | This date is computed from a recurrence 
+ rule and may not reflect a later-announced change\; confirm against the cit
+ ed source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-michigan-2029-08-31-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20290831
+DTEND;VALUE=DATE:20290901
+SUMMARY:Michigan: State corporate income/franchise tax return extended due 
+ date
+DESCRIPTION:Extended due date\, via None. | CIT annual return due the last 
+ day of the 4th month after year end\; automatic extension to the last day o
+ f the 8th month\, conditioned on a federal extension plus a tentative retur
+ n/payment. | Authority: Direct fetch of Michigan's own tax agency site/publ
+ ication this session | Source: https://www.michigan.gov/taxes/business-taxe
+ s/cit/detail/filing-requirements | This date is computed from a recurrence 
+ rule and may not reflect a later-announced change\; confirm against the cit
+ ed source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-michigan-2030-09-03-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20300903
+DTEND;VALUE=DATE:20300904
+SUMMARY:Michigan: State corporate income/franchise tax return extended due 
+ date
+DESCRIPTION:Extended due date\, via None. | CIT annual return due the last 
+ day of the 4th month after year end\; automatic extension to the last day o
+ f the 8th month\, conditioned on a federal extension plus a tentative retur
+ n/payment. | Authority: Direct fetch of Michigan's own tax agency site/publ
+ ication this session | Source: https://www.michigan.gov/taxes/business-taxe
+ s/cit/detail/filing-requirements | This date is computed from a recurrence 
+ rule and may not reflect a later-announced change\; confirm against the cit
+ ed source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-michigan-2031-09-02-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20310902
+DTEND;VALUE=DATE:20310903
+SUMMARY:Michigan: State corporate income/franchise tax return extended due 
+ date
+DESCRIPTION:Extended due date\, via None. | CIT annual return due the last 
+ day of the 4th month after year end\; automatic extension to the last day o
+ f the 8th month\, conditioned on a federal extension plus a tentative retur
+ n/payment. | Authority: Direct fetch of Michigan's own tax agency site/publ
+ ication this session | Source: https://www.michigan.gov/taxes/business-taxe
+ s/cit/detail/filing-requirements | This date is computed from a recurrence 
+ rule and may not reflect a later-announced change\; confirm against the cit
+ ed source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-michigan-2032-08-31-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20320831
+DTEND;VALUE=DATE:20320901
+SUMMARY:Michigan: State corporate income/franchise tax return extended due 
+ date
+DESCRIPTION:Extended due date\, via None. | CIT annual return due the last 
+ day of the 4th month after year end\; automatic extension to the last day o
+ f the 8th month\, conditioned on a federal extension plus a tentative retur
+ n/payment. | Authority: Direct fetch of Michigan's own tax agency site/publ
+ ication this session | Source: https://www.michigan.gov/taxes/business-taxe
+ s/cit/detail/filing-requirements | This date is computed from a recurrence 
+ rule and may not reflect a later-announced change\; confirm against the cit
+ ed source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:state-est-michigan-q1-2025-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250415
 DTEND;VALUE=DATE:20250416
 SUMMARY:Michigan: State individual quarterly estimated tax payment due
@@ -171,7 +307,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-michigan-q1-2026-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260416
 SUMMARY:Michigan: State individual quarterly estimated tax payment due
@@ -188,7 +324,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-michigan-q1-2027-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:Michigan: State individual quarterly estimated tax payment due
@@ -205,7 +341,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-michigan-q1-2028-04-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280417
 DTEND;VALUE=DATE:20280418
 SUMMARY:Michigan: State individual quarterly estimated tax payment due
@@ -222,7 +358,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-michigan-q1-2029-04-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290416
 DTEND;VALUE=DATE:20290417
 SUMMARY:Michigan: State individual quarterly estimated tax payment due
@@ -239,7 +375,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-michigan-q1-2030-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300415
 DTEND;VALUE=DATE:20300416
 SUMMARY:Michigan: State individual quarterly estimated tax payment due
@@ -256,7 +392,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-michigan-q1-2031-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310415
 DTEND;VALUE=DATE:20310416
 SUMMARY:Michigan: State individual quarterly estimated tax payment due
@@ -273,7 +409,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-michigan-q1-2032-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320415
 DTEND;VALUE=DATE:20320416
 SUMMARY:Michigan: State individual quarterly estimated tax payment due
@@ -290,7 +426,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-michigan-q2-2025-06-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250616
 DTEND;VALUE=DATE:20250617
 SUMMARY:Michigan: State individual quarterly estimated tax payment due
@@ -307,7 +443,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-michigan-q2-2026-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260615
 DTEND;VALUE=DATE:20260616
 SUMMARY:Michigan: State individual quarterly estimated tax payment due
@@ -324,7 +460,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-michigan-q2-2027-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270615
 DTEND;VALUE=DATE:20270616
 SUMMARY:Michigan: State individual quarterly estimated tax payment due
@@ -341,7 +477,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-michigan-q2-2028-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280615
 DTEND;VALUE=DATE:20280616
 SUMMARY:Michigan: State individual quarterly estimated tax payment due
@@ -358,7 +494,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-michigan-q2-2029-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290615
 DTEND;VALUE=DATE:20290616
 SUMMARY:Michigan: State individual quarterly estimated tax payment due
@@ -375,7 +511,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-michigan-q2-2030-06-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300617
 DTEND;VALUE=DATE:20300618
 SUMMARY:Michigan: State individual quarterly estimated tax payment due
@@ -392,7 +528,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-michigan-q2-2031-06-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310616
 DTEND;VALUE=DATE:20310617
 SUMMARY:Michigan: State individual quarterly estimated tax payment due
@@ -409,7 +545,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-michigan-q2-2032-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320615
 DTEND;VALUE=DATE:20320616
 SUMMARY:Michigan: State individual quarterly estimated tax payment due
@@ -426,7 +562,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-michigan-q3-2025-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250915
 DTEND;VALUE=DATE:20250916
 SUMMARY:Michigan: State individual quarterly estimated tax payment due
@@ -443,7 +579,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-michigan-q3-2026-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Michigan: State individual quarterly estimated tax payment due
@@ -460,7 +596,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-michigan-q3-2027-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270915
 DTEND;VALUE=DATE:20270916
 SUMMARY:Michigan: State individual quarterly estimated tax payment due
@@ -477,7 +613,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-michigan-q3-2028-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280915
 DTEND;VALUE=DATE:20280916
 SUMMARY:Michigan: State individual quarterly estimated tax payment due
@@ -494,7 +630,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-michigan-q3-2029-09-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290917
 DTEND;VALUE=DATE:20290918
 SUMMARY:Michigan: State individual quarterly estimated tax payment due
@@ -511,7 +647,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-michigan-q3-2030-09-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300916
 DTEND;VALUE=DATE:20300917
 SUMMARY:Michigan: State individual quarterly estimated tax payment due
@@ -528,7 +664,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-michigan-q3-2031-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310915
 DTEND;VALUE=DATE:20310916
 SUMMARY:Michigan: State individual quarterly estimated tax payment due
@@ -545,7 +681,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-michigan-q3-2032-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320915
 DTEND;VALUE=DATE:20320916
 SUMMARY:Michigan: State individual quarterly estimated tax payment due
@@ -562,7 +698,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-michigan-q4-2025-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250115
 DTEND;VALUE=DATE:20250116
 SUMMARY:Michigan: State individual quarterly estimated tax payment due
@@ -579,7 +715,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-michigan-q4-2026-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260115
 DTEND;VALUE=DATE:20260116
 SUMMARY:Michigan: State individual quarterly estimated tax payment due
@@ -596,7 +732,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-michigan-q4-2027-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Michigan: State individual quarterly estimated tax payment due
@@ -613,7 +749,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-michigan-q4-2028-01-18@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280118
 DTEND;VALUE=DATE:20280119
 SUMMARY:Michigan: State individual quarterly estimated tax payment due
@@ -630,7 +766,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-michigan-q4-2029-01-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290116
 DTEND;VALUE=DATE:20290117
 SUMMARY:Michigan: State individual quarterly estimated tax payment due
@@ -647,7 +783,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-michigan-q4-2030-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300115
 DTEND;VALUE=DATE:20300116
 SUMMARY:Michigan: State individual quarterly estimated tax payment due
@@ -664,7 +800,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-michigan-q4-2031-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310115
 DTEND;VALUE=DATE:20310116
 SUMMARY:Michigan: State individual quarterly estimated tax payment due
@@ -681,7 +817,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-michigan-q4-2032-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320115
 DTEND;VALUE=DATE:20320116
 SUMMARY:Michigan: State individual quarterly estimated tax payment due
@@ -698,7 +834,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-mi-2025-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250415
 DTEND;VALUE=DATE:20250416
 SUMMARY:Michigan: State individual income tax return due
@@ -715,7 +851,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-mi-2026-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260416
 SUMMARY:Michigan: State individual income tax return due
@@ -732,7 +868,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-mi-2027-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:Michigan: State individual income tax return due
@@ -749,7 +885,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-mi-2028-04-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280417
 DTEND;VALUE=DATE:20280418
 SUMMARY:Michigan: State individual income tax return due
@@ -766,7 +902,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-mi-2029-04-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290416
 DTEND;VALUE=DATE:20290417
 SUMMARY:Michigan: State individual income tax return due
@@ -783,7 +919,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-mi-2030-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300415
 DTEND;VALUE=DATE:20300416
 SUMMARY:Michigan: State individual income tax return due
@@ -800,7 +936,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-mi-2031-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310415
 DTEND;VALUE=DATE:20310416
 SUMMARY:Michigan: State individual income tax return due
@@ -817,7 +953,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-mi-2032-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320415
 DTEND;VALUE=DATE:20320416
 SUMMARY:Michigan: State individual income tax return due
@@ -834,7 +970,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-michigan-2025-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250415
 DTEND;VALUE=DATE:20250416
 SUMMARY:Michigan: Form 807 (composite) due
@@ -858,7 +994,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-michigan-2026-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260416
 SUMMARY:Michigan: Form 807 (composite) due
@@ -882,7 +1018,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-michigan-2027-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:Michigan: Form 807 (composite) due
@@ -906,7 +1042,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-michigan-2028-04-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280417
 DTEND;VALUE=DATE:20280418
 SUMMARY:Michigan: Form 807 (composite) due
@@ -930,7 +1066,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-michigan-2029-04-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290416
 DTEND;VALUE=DATE:20290417
 SUMMARY:Michigan: Form 807 (composite) due
@@ -954,7 +1090,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-michigan-2030-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300415
 DTEND;VALUE=DATE:20300416
 SUMMARY:Michigan: Form 807 (composite) due
@@ -978,7 +1114,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-michigan-2031-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310415
 DTEND;VALUE=DATE:20310416
 SUMMARY:Michigan: Form 807 (composite) due
@@ -1002,7 +1138,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-michigan-2032-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320415
 DTEND;VALUE=DATE:20320416
 SUMMARY:Michigan: Form 807 (composite) due
@@ -1026,7 +1162,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-michigan-q1-2025-04-25@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250425
 DTEND;VALUE=DATE:20250426
 SUMMARY:Michigan: State unemployment insurance quarterly return due
@@ -1045,7 +1181,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-michigan-q1-2026-04-25@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260426
 SUMMARY:Michigan: State unemployment insurance quarterly return due
@@ -1064,7 +1200,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-michigan-q1-2027-04-25@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
 SUMMARY:Michigan: State unemployment insurance quarterly return due
@@ -1083,7 +1219,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-michigan-q1-2028-04-25@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280425
 DTEND;VALUE=DATE:20280426
 SUMMARY:Michigan: State unemployment insurance quarterly return due
@@ -1102,7 +1238,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-michigan-q1-2029-04-25@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290425
 DTEND;VALUE=DATE:20290426
 SUMMARY:Michigan: State unemployment insurance quarterly return due
@@ -1121,7 +1257,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-michigan-q1-2030-04-25@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300425
 DTEND;VALUE=DATE:20300426
 SUMMARY:Michigan: State unemployment insurance quarterly return due
@@ -1140,7 +1276,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-michigan-q1-2031-04-25@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310425
 DTEND;VALUE=DATE:20310426
 SUMMARY:Michigan: State unemployment insurance quarterly return due
@@ -1159,7 +1295,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-michigan-q1-2032-04-25@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320425
 DTEND;VALUE=DATE:20320426
 SUMMARY:Michigan: State unemployment insurance quarterly return due
@@ -1178,7 +1314,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-michigan-q2-2025-07-25@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250725
 DTEND;VALUE=DATE:20250726
 SUMMARY:Michigan: State unemployment insurance quarterly return due
@@ -1197,7 +1333,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-michigan-q2-2026-07-25@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
 SUMMARY:Michigan: State unemployment insurance quarterly return due
@@ -1216,7 +1352,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-michigan-q2-2027-07-25@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270725
 DTEND;VALUE=DATE:20270726
 SUMMARY:Michigan: State unemployment insurance quarterly return due
@@ -1235,7 +1371,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-michigan-q2-2028-07-25@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280725
 DTEND;VALUE=DATE:20280726
 SUMMARY:Michigan: State unemployment insurance quarterly return due
@@ -1254,7 +1390,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-michigan-q2-2029-07-25@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290725
 DTEND;VALUE=DATE:20290726
 SUMMARY:Michigan: State unemployment insurance quarterly return due
@@ -1273,7 +1409,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-michigan-q2-2030-07-25@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300725
 DTEND;VALUE=DATE:20300726
 SUMMARY:Michigan: State unemployment insurance quarterly return due
@@ -1292,7 +1428,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-michigan-q2-2031-07-25@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310725
 DTEND;VALUE=DATE:20310726
 SUMMARY:Michigan: State unemployment insurance quarterly return due
@@ -1311,7 +1447,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-michigan-q2-2032-07-25@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320725
 DTEND;VALUE=DATE:20320726
 SUMMARY:Michigan: State unemployment insurance quarterly return due
@@ -1330,7 +1466,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-michigan-q3-2025-10-25@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20251025
 DTEND;VALUE=DATE:20251026
 SUMMARY:Michigan: State unemployment insurance quarterly return due
@@ -1349,7 +1485,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-michigan-q3-2026-10-25@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:Michigan: State unemployment insurance quarterly return due
@@ -1368,7 +1504,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-michigan-q3-2027-10-25@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20271025
 DTEND;VALUE=DATE:20271026
 SUMMARY:Michigan: State unemployment insurance quarterly return due
@@ -1387,7 +1523,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-michigan-q3-2028-10-25@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20281025
 DTEND;VALUE=DATE:20281026
 SUMMARY:Michigan: State unemployment insurance quarterly return due
@@ -1406,7 +1542,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-michigan-q3-2029-10-25@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20291025
 DTEND;VALUE=DATE:20291026
 SUMMARY:Michigan: State unemployment insurance quarterly return due
@@ -1425,7 +1561,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-michigan-q3-2030-10-25@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20301025
 DTEND;VALUE=DATE:20301026
 SUMMARY:Michigan: State unemployment insurance quarterly return due
@@ -1444,7 +1580,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-michigan-q3-2031-10-25@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20311025
 DTEND;VALUE=DATE:20311026
 SUMMARY:Michigan: State unemployment insurance quarterly return due
@@ -1463,7 +1599,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-michigan-q3-2032-10-25@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20321025
 DTEND;VALUE=DATE:20321026
 SUMMARY:Michigan: State unemployment insurance quarterly return due
@@ -1482,7 +1618,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-michigan-q4-2025-01-25@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250125
 DTEND;VALUE=DATE:20250126
 SUMMARY:Michigan: State unemployment insurance quarterly return due
@@ -1501,7 +1637,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-michigan-q4-2026-01-25@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260125
 DTEND;VALUE=DATE:20260126
 SUMMARY:Michigan: State unemployment insurance quarterly return due
@@ -1520,7 +1656,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-michigan-q4-2027-01-25@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270126
 SUMMARY:Michigan: State unemployment insurance quarterly return due
@@ -1539,7 +1675,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-michigan-q4-2028-01-25@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280125
 DTEND;VALUE=DATE:20280126
 SUMMARY:Michigan: State unemployment insurance quarterly return due
@@ -1558,7 +1694,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-michigan-q4-2029-01-25@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290125
 DTEND;VALUE=DATE:20290126
 SUMMARY:Michigan: State unemployment insurance quarterly return due
@@ -1577,7 +1713,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-michigan-q4-2030-01-25@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300125
 DTEND;VALUE=DATE:20300126
 SUMMARY:Michigan: State unemployment insurance quarterly return due
@@ -1596,7 +1732,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-michigan-q4-2031-01-25@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310125
 DTEND;VALUE=DATE:20310126
 SUMMARY:Michigan: State unemployment insurance quarterly return due
@@ -1615,7 +1751,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-michigan-q4-2032-01-25@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320125
 DTEND;VALUE=DATE:20320126
 SUMMARY:Michigan: State unemployment insurance quarterly return due
@@ -1634,7 +1770,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-michigan-q1-2025-04-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250421
 DTEND;VALUE=DATE:20250422
 SUMMARY:Michigan: State sales & use tax return due
@@ -1653,7 +1789,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-michigan-q1-2026-04-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260421
 SUMMARY:Michigan: State sales & use tax return due
@@ -1672,7 +1808,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-michigan-q1-2027-04-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270421
 SUMMARY:Michigan: State sales & use tax return due
@@ -1691,7 +1827,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-michigan-q1-2028-04-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280420
 DTEND;VALUE=DATE:20280421
 SUMMARY:Michigan: State sales & use tax return due
@@ -1710,7 +1846,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-michigan-q1-2029-04-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290420
 DTEND;VALUE=DATE:20290421
 SUMMARY:Michigan: State sales & use tax return due
@@ -1729,7 +1865,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-michigan-q1-2030-04-22@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300422
 DTEND;VALUE=DATE:20300423
 SUMMARY:Michigan: State sales & use tax return due
@@ -1748,7 +1884,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-michigan-q1-2031-04-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310421
 DTEND;VALUE=DATE:20310422
 SUMMARY:Michigan: State sales & use tax return due
@@ -1767,7 +1903,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-michigan-q1-2032-04-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320420
 DTEND;VALUE=DATE:20320421
 SUMMARY:Michigan: State sales & use tax return due
@@ -1786,7 +1922,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-michigan-q2-2025-07-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250721
 DTEND;VALUE=DATE:20250722
 SUMMARY:Michigan: State sales & use tax return due
@@ -1805,7 +1941,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-michigan-q2-2026-07-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260720
 DTEND;VALUE=DATE:20260721
 SUMMARY:Michigan: State sales & use tax return due
@@ -1824,7 +1960,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-michigan-q2-2027-07-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270720
 DTEND;VALUE=DATE:20270721
 SUMMARY:Michigan: State sales & use tax return due
@@ -1843,7 +1979,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-michigan-q2-2028-07-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280720
 DTEND;VALUE=DATE:20280721
 SUMMARY:Michigan: State sales & use tax return due
@@ -1862,7 +1998,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-michigan-q2-2029-07-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290720
 DTEND;VALUE=DATE:20290721
 SUMMARY:Michigan: State sales & use tax return due
@@ -1881,7 +2017,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-michigan-q2-2030-07-22@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300722
 DTEND;VALUE=DATE:20300723
 SUMMARY:Michigan: State sales & use tax return due
@@ -1900,7 +2036,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-michigan-q2-2031-07-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310721
 DTEND;VALUE=DATE:20310722
 SUMMARY:Michigan: State sales & use tax return due
@@ -1919,7 +2055,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-michigan-q2-2032-07-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320720
 DTEND;VALUE=DATE:20320721
 SUMMARY:Michigan: State sales & use tax return due
@@ -1938,7 +2074,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-michigan-q3-2025-10-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20251020
 DTEND;VALUE=DATE:20251021
 SUMMARY:Michigan: State sales & use tax return due
@@ -1957,7 +2093,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-michigan-q3-2026-10-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Michigan: State sales & use tax return due
@@ -1976,7 +2112,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-michigan-q3-2027-10-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20271020
 DTEND;VALUE=DATE:20271021
 SUMMARY:Michigan: State sales & use tax return due
@@ -1995,7 +2131,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-michigan-q3-2028-10-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20281020
 DTEND;VALUE=DATE:20281021
 SUMMARY:Michigan: State sales & use tax return due
@@ -2014,7 +2150,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-michigan-q3-2029-10-22@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20291022
 DTEND;VALUE=DATE:20291023
 SUMMARY:Michigan: State sales & use tax return due
@@ -2033,7 +2169,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-michigan-q3-2030-10-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20301021
 DTEND;VALUE=DATE:20301022
 SUMMARY:Michigan: State sales & use tax return due
@@ -2052,7 +2188,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-michigan-q3-2031-10-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20311020
 DTEND;VALUE=DATE:20311021
 SUMMARY:Michigan: State sales & use tax return due
@@ -2071,7 +2207,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-michigan-q3-2032-10-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20321020
 DTEND;VALUE=DATE:20321021
 SUMMARY:Michigan: State sales & use tax return due
@@ -2090,7 +2226,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-michigan-q4-2025-01-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250121
 DTEND;VALUE=DATE:20250122
 SUMMARY:Michigan: State sales & use tax return due
@@ -2109,7 +2245,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-michigan-q4-2026-01-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260120
 DTEND;VALUE=DATE:20260121
 SUMMARY:Michigan: State sales & use tax return due
@@ -2128,7 +2264,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-michigan-q4-2027-01-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
 SUMMARY:Michigan: State sales & use tax return due
@@ -2147,7 +2283,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-michigan-q4-2028-01-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280120
 DTEND;VALUE=DATE:20280121
 SUMMARY:Michigan: State sales & use tax return due
@@ -2166,7 +2302,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-michigan-q4-2029-01-22@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290122
 DTEND;VALUE=DATE:20290123
 SUMMARY:Michigan: State sales & use tax return due
@@ -2185,7 +2321,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-michigan-q4-2030-01-22@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300122
 DTEND;VALUE=DATE:20300123
 SUMMARY:Michigan: State sales & use tax return due
@@ -2204,7 +2340,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-michigan-q4-2031-01-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310121
 DTEND;VALUE=DATE:20310122
 SUMMARY:Michigan: State sales & use tax return due
@@ -2223,7 +2359,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-michigan-q4-2032-01-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320120
 DTEND;VALUE=DATE:20320121
 SUMMARY:Michigan: State sales & use tax return due

@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:state-corp-louisiana-2025-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250515
 DTEND;VALUE=DATE:20250516
 SUMMARY:Louisiana: State corporate income/franchise tax return due
@@ -27,7 +27,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-louisiana-2026-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
 SUMMARY:Louisiana: State corporate income/franchise tax return due
@@ -44,7 +44,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-louisiana-2027-05-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270517
 DTEND;VALUE=DATE:20270518
 SUMMARY:Louisiana: State corporate income/franchise tax return due
@@ -61,7 +61,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-louisiana-2028-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280515
 DTEND;VALUE=DATE:20280516
 SUMMARY:Louisiana: State corporate income/franchise tax return due
@@ -78,7 +78,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-louisiana-2029-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290515
 DTEND;VALUE=DATE:20290516
 SUMMARY:Louisiana: State corporate income/franchise tax return due
@@ -95,7 +95,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-louisiana-2030-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300515
 DTEND;VALUE=DATE:20300516
 SUMMARY:Louisiana: State corporate income/franchise tax return due
@@ -112,7 +112,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-louisiana-2031-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310515
 DTEND;VALUE=DATE:20310516
 SUMMARY:Louisiana: State corporate income/franchise tax return due
@@ -129,7 +129,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-louisiana-2032-05-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320517
 DTEND;VALUE=DATE:20320518
 SUMMARY:Louisiana: State corporate income/franchise tax return due
@@ -145,8 +145,136 @@ DESCRIPTION:Due 15th day of 5th month after year end (Form CIFT-620)\; auto
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:state-corp-louisiana-2025-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20251115
+DTEND;VALUE=DATE:20251116
+SUMMARY:Louisiana: State corporate income/franchise tax return extended due
+  date
+DESCRIPTION:Extended due date\, via None. | Due 15th day of 5th month after
+  year end (Form CIFT-620)\; automatic 6-month extension if a federal extens
+ ion was timely requested\, filing only. | Authority: Direct fetch of Louisi
+ ana's own tax agency site/publication this session | Source: https://revenu
+ e.louisiana.gov/businesses/business-taxes/coporate-income-franchise-tax/ | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-louisiana-2026-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Louisiana: State corporate income/franchise tax return extended due
+  date
+DESCRIPTION:Extended due date\, via None. | Due 15th day of 5th month after
+  year end (Form CIFT-620)\; automatic 6-month extension if a federal extens
+ ion was timely requested\, filing only. | Authority: Direct fetch of Louisi
+ ana's own tax agency site/publication this session | Source: https://revenu
+ e.louisiana.gov/businesses/business-taxes/coporate-income-franchise-tax/ | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-louisiana-2027-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20271115
+DTEND;VALUE=DATE:20271116
+SUMMARY:Louisiana: State corporate income/franchise tax return extended due
+  date
+DESCRIPTION:Extended due date\, via None. | Due 15th day of 5th month after
+  year end (Form CIFT-620)\; automatic 6-month extension if a federal extens
+ ion was timely requested\, filing only. | Authority: Direct fetch of Louisi
+ ana's own tax agency site/publication this session | Source: https://revenu
+ e.louisiana.gov/businesses/business-taxes/coporate-income-franchise-tax/ | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-louisiana-2028-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20281115
+DTEND;VALUE=DATE:20281116
+SUMMARY:Louisiana: State corporate income/franchise tax return extended due
+  date
+DESCRIPTION:Extended due date\, via None. | Due 15th day of 5th month after
+  year end (Form CIFT-620)\; automatic 6-month extension if a federal extens
+ ion was timely requested\, filing only. | Authority: Direct fetch of Louisi
+ ana's own tax agency site/publication this session | Source: https://revenu
+ e.louisiana.gov/businesses/business-taxes/coporate-income-franchise-tax/ | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-louisiana-2029-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20291115
+DTEND;VALUE=DATE:20291116
+SUMMARY:Louisiana: State corporate income/franchise tax return extended due
+  date
+DESCRIPTION:Extended due date\, via None. | Due 15th day of 5th month after
+  year end (Form CIFT-620)\; automatic 6-month extension if a federal extens
+ ion was timely requested\, filing only. | Authority: Direct fetch of Louisi
+ ana's own tax agency site/publication this session | Source: https://revenu
+ e.louisiana.gov/businesses/business-taxes/coporate-income-franchise-tax/ | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-louisiana-2030-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20301115
+DTEND;VALUE=DATE:20301116
+SUMMARY:Louisiana: State corporate income/franchise tax return extended due
+  date
+DESCRIPTION:Extended due date\, via None. | Due 15th day of 5th month after
+  year end (Form CIFT-620)\; automatic 6-month extension if a federal extens
+ ion was timely requested\, filing only. | Authority: Direct fetch of Louisi
+ ana's own tax agency site/publication this session | Source: https://revenu
+ e.louisiana.gov/businesses/business-taxes/coporate-income-franchise-tax/ | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-louisiana-2031-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20311115
+DTEND;VALUE=DATE:20311116
+SUMMARY:Louisiana: State corporate income/franchise tax return extended due
+  date
+DESCRIPTION:Extended due date\, via None. | Due 15th day of 5th month after
+  year end (Form CIFT-620)\; automatic 6-month extension if a federal extens
+ ion was timely requested\, filing only. | Authority: Direct fetch of Louisi
+ ana's own tax agency site/publication this session | Source: https://revenu
+ e.louisiana.gov/businesses/business-taxes/coporate-income-franchise-tax/ | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-louisiana-2032-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20321115
+DTEND;VALUE=DATE:20321116
+SUMMARY:Louisiana: State corporate income/franchise tax return extended due
+  date
+DESCRIPTION:Extended due date\, via None. | Due 15th day of 5th month after
+  year end (Form CIFT-620)\; automatic 6-month extension if a federal extens
+ ion was timely requested\, filing only. | Authority: Direct fetch of Louisi
+ ana's own tax agency site/publication this session | Source: https://revenu
+ e.louisiana.gov/businesses/business-taxes/coporate-income-franchise-tax/ | 
+ This date is computed from a recurrence rule and may not reflect a later-an
+ nounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:state-est-louisiana-q1-2025-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250415
 DTEND;VALUE=DATE:20250416
 SUMMARY:Louisiana: State individual quarterly estimated tax payment due
@@ -161,7 +289,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-louisiana-q1-2026-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260416
 SUMMARY:Louisiana: State individual quarterly estimated tax payment due
@@ -176,7 +304,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-louisiana-q1-2027-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:Louisiana: State individual quarterly estimated tax payment due
@@ -191,7 +319,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-louisiana-q1-2028-04-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280417
 DTEND;VALUE=DATE:20280418
 SUMMARY:Louisiana: State individual quarterly estimated tax payment due
@@ -206,7 +334,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-louisiana-q1-2029-04-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290416
 DTEND;VALUE=DATE:20290417
 SUMMARY:Louisiana: State individual quarterly estimated tax payment due
@@ -221,7 +349,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-louisiana-q1-2030-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300415
 DTEND;VALUE=DATE:20300416
 SUMMARY:Louisiana: State individual quarterly estimated tax payment due
@@ -236,7 +364,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-louisiana-q1-2031-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310415
 DTEND;VALUE=DATE:20310416
 SUMMARY:Louisiana: State individual quarterly estimated tax payment due
@@ -251,7 +379,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-louisiana-q1-2032-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320415
 DTEND;VALUE=DATE:20320416
 SUMMARY:Louisiana: State individual quarterly estimated tax payment due
@@ -266,7 +394,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-louisiana-q2-2025-06-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250616
 DTEND;VALUE=DATE:20250617
 SUMMARY:Louisiana: State individual quarterly estimated tax payment due
@@ -281,7 +409,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-louisiana-q2-2026-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260615
 DTEND;VALUE=DATE:20260616
 SUMMARY:Louisiana: State individual quarterly estimated tax payment due
@@ -296,7 +424,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-louisiana-q2-2027-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270615
 DTEND;VALUE=DATE:20270616
 SUMMARY:Louisiana: State individual quarterly estimated tax payment due
@@ -311,7 +439,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-louisiana-q2-2028-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280615
 DTEND;VALUE=DATE:20280616
 SUMMARY:Louisiana: State individual quarterly estimated tax payment due
@@ -326,7 +454,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-louisiana-q2-2029-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290615
 DTEND;VALUE=DATE:20290616
 SUMMARY:Louisiana: State individual quarterly estimated tax payment due
@@ -341,7 +469,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-louisiana-q2-2030-06-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300617
 DTEND;VALUE=DATE:20300618
 SUMMARY:Louisiana: State individual quarterly estimated tax payment due
@@ -356,7 +484,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-louisiana-q2-2031-06-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310616
 DTEND;VALUE=DATE:20310617
 SUMMARY:Louisiana: State individual quarterly estimated tax payment due
@@ -371,7 +499,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-louisiana-q2-2032-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320615
 DTEND;VALUE=DATE:20320616
 SUMMARY:Louisiana: State individual quarterly estimated tax payment due
@@ -386,7 +514,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-louisiana-q3-2025-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250915
 DTEND;VALUE=DATE:20250916
 SUMMARY:Louisiana: State individual quarterly estimated tax payment due
@@ -401,7 +529,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-louisiana-q3-2026-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Louisiana: State individual quarterly estimated tax payment due
@@ -416,7 +544,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-louisiana-q3-2027-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270915
 DTEND;VALUE=DATE:20270916
 SUMMARY:Louisiana: State individual quarterly estimated tax payment due
@@ -431,7 +559,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-louisiana-q3-2028-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280915
 DTEND;VALUE=DATE:20280916
 SUMMARY:Louisiana: State individual quarterly estimated tax payment due
@@ -446,7 +574,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-louisiana-q3-2029-09-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290917
 DTEND;VALUE=DATE:20290918
 SUMMARY:Louisiana: State individual quarterly estimated tax payment due
@@ -461,7 +589,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-louisiana-q3-2030-09-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300916
 DTEND;VALUE=DATE:20300917
 SUMMARY:Louisiana: State individual quarterly estimated tax payment due
@@ -476,7 +604,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-louisiana-q3-2031-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310915
 DTEND;VALUE=DATE:20310916
 SUMMARY:Louisiana: State individual quarterly estimated tax payment due
@@ -491,7 +619,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-louisiana-q3-2032-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320915
 DTEND;VALUE=DATE:20320916
 SUMMARY:Louisiana: State individual quarterly estimated tax payment due
@@ -506,7 +634,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-louisiana-q4-2025-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250115
 DTEND;VALUE=DATE:20250116
 SUMMARY:Louisiana: State individual quarterly estimated tax payment due
@@ -521,7 +649,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-louisiana-q4-2026-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260115
 DTEND;VALUE=DATE:20260116
 SUMMARY:Louisiana: State individual quarterly estimated tax payment due
@@ -536,7 +664,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-louisiana-q4-2027-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Louisiana: State individual quarterly estimated tax payment due
@@ -551,7 +679,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-louisiana-q4-2028-01-18@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280118
 DTEND;VALUE=DATE:20280119
 SUMMARY:Louisiana: State individual quarterly estimated tax payment due
@@ -566,7 +694,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-louisiana-q4-2029-01-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290116
 DTEND;VALUE=DATE:20290117
 SUMMARY:Louisiana: State individual quarterly estimated tax payment due
@@ -581,7 +709,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-louisiana-q4-2030-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300115
 DTEND;VALUE=DATE:20300116
 SUMMARY:Louisiana: State individual quarterly estimated tax payment due
@@ -596,7 +724,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-louisiana-q4-2031-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310115
 DTEND;VALUE=DATE:20310116
 SUMMARY:Louisiana: State individual quarterly estimated tax payment due
@@ -611,7 +739,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-louisiana-q4-2032-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320115
 DTEND;VALUE=DATE:20320116
 SUMMARY:Louisiana: State individual quarterly estimated tax payment due
@@ -626,7 +754,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-lo-2025-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250515
 DTEND;VALUE=DATE:20250516
 SUMMARY:Louisiana: State individual income tax return due
@@ -643,7 +771,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-lo-2026-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
 SUMMARY:Louisiana: State individual income tax return due
@@ -660,7 +788,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-lo-2027-05-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270517
 DTEND;VALUE=DATE:20270518
 SUMMARY:Louisiana: State individual income tax return due
@@ -677,7 +805,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-lo-2028-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280515
 DTEND;VALUE=DATE:20280516
 SUMMARY:Louisiana: State individual income tax return due
@@ -694,7 +822,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-lo-2029-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290515
 DTEND;VALUE=DATE:20290516
 SUMMARY:Louisiana: State individual income tax return due
@@ -711,7 +839,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-lo-2030-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300515
 DTEND;VALUE=DATE:20300516
 SUMMARY:Louisiana: State individual income tax return due
@@ -728,7 +856,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-lo-2031-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310515
 DTEND;VALUE=DATE:20310516
 SUMMARY:Louisiana: State individual income tax return due
@@ -745,7 +873,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-lo-2032-05-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320517
 DTEND;VALUE=DATE:20320518
 SUMMARY:Louisiana: State individual income tax return due
@@ -761,8 +889,144 @@ DESCRIPTION:State-specific due date\, primary-source verified this session
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:state-inc-lo-2025-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20251115
+DTEND;VALUE=DATE:20251116
+SUMMARY:Louisiana: State individual income tax return extended due date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. Automatic 6-month extension under La. R.S. 47:103\,
+  effective for tax year 2022 forward\; no extension form required\, but the
+  extension does not extend time to pay. | Authority: Direct fetch of https:
+ //revenue.louisiana.gov/IndividualIncomeTax this session | Source: https://
+ revenue.louisiana.gov/IndividualIncomeTax | This date is computed from a re
+ currence rule and may not reflect a later-announced change\; confirm agains
+ t the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-lo-2026-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Louisiana: State individual income tax return extended due date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. Automatic 6-month extension under La. R.S. 47:103\,
+  effective for tax year 2022 forward\; no extension form required\, but the
+  extension does not extend time to pay. | Authority: Direct fetch of https:
+ //revenue.louisiana.gov/IndividualIncomeTax this session | Source: https://
+ revenue.louisiana.gov/IndividualIncomeTax | This date is computed from a re
+ currence rule and may not reflect a later-announced change\; confirm agains
+ t the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-lo-2027-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20271115
+DTEND;VALUE=DATE:20271116
+SUMMARY:Louisiana: State individual income tax return extended due date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. Automatic 6-month extension under La. R.S. 47:103\,
+  effective for tax year 2022 forward\; no extension form required\, but the
+  extension does not extend time to pay. | Authority: Direct fetch of https:
+ //revenue.louisiana.gov/IndividualIncomeTax this session | Source: https://
+ revenue.louisiana.gov/IndividualIncomeTax | This date is computed from a re
+ currence rule and may not reflect a later-announced change\; confirm agains
+ t the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-lo-2028-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20281115
+DTEND;VALUE=DATE:20281116
+SUMMARY:Louisiana: State individual income tax return extended due date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. Automatic 6-month extension under La. R.S. 47:103\,
+  effective for tax year 2022 forward\; no extension form required\, but the
+  extension does not extend time to pay. | Authority: Direct fetch of https:
+ //revenue.louisiana.gov/IndividualIncomeTax this session | Source: https://
+ revenue.louisiana.gov/IndividualIncomeTax | This date is computed from a re
+ currence rule and may not reflect a later-announced change\; confirm agains
+ t the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-lo-2029-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20291115
+DTEND;VALUE=DATE:20291116
+SUMMARY:Louisiana: State individual income tax return extended due date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. Automatic 6-month extension under La. R.S. 47:103\,
+  effective for tax year 2022 forward\; no extension form required\, but the
+  extension does not extend time to pay. | Authority: Direct fetch of https:
+ //revenue.louisiana.gov/IndividualIncomeTax this session | Source: https://
+ revenue.louisiana.gov/IndividualIncomeTax | This date is computed from a re
+ currence rule and may not reflect a later-announced change\; confirm agains
+ t the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-lo-2030-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20301115
+DTEND;VALUE=DATE:20301116
+SUMMARY:Louisiana: State individual income tax return extended due date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. Automatic 6-month extension under La. R.S. 47:103\,
+  effective for tax year 2022 forward\; no extension form required\, but the
+  extension does not extend time to pay. | Authority: Direct fetch of https:
+ //revenue.louisiana.gov/IndividualIncomeTax this session | Source: https://
+ revenue.louisiana.gov/IndividualIncomeTax | This date is computed from a re
+ currence rule and may not reflect a later-announced change\; confirm agains
+ t the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-lo-2031-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20311115
+DTEND;VALUE=DATE:20311116
+SUMMARY:Louisiana: State individual income tax return extended due date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. Automatic 6-month extension under La. R.S. 47:103\,
+  effective for tax year 2022 forward\; no extension form required\, but the
+  extension does not extend time to pay. | Authority: Direct fetch of https:
+ //revenue.louisiana.gov/IndividualIncomeTax this session | Source: https://
+ revenue.louisiana.gov/IndividualIncomeTax | This date is computed from a re
+ currence rule and may not reflect a later-announced change\; confirm agains
+ t the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-lo-2032-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20321115
+DTEND;VALUE=DATE:20321116
+SUMMARY:Louisiana: State individual income tax return extended due date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. Automatic 6-month extension under La. R.S. 47:103\,
+  effective for tax year 2022 forward\; no extension form required\, but the
+  extension does not extend time to pay. | Authority: Direct fetch of https:
+ //revenue.louisiana.gov/IndividualIncomeTax this session | Source: https://
+ revenue.louisiana.gov/IndividualIncomeTax | This date is computed from a re
+ currence rule and may not reflect a later-announced change\; confirm agains
+ t the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:state-pte-louisiana-2025-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250515
 DTEND;VALUE=DATE:20250516
 SUMMARY:Louisiana: IT-565 due
@@ -782,7 +1046,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-louisiana-2026-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
 SUMMARY:Louisiana: IT-565 due
@@ -802,7 +1066,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-louisiana-2027-05-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270517
 DTEND;VALUE=DATE:20270518
 SUMMARY:Louisiana: IT-565 due
@@ -822,7 +1086,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-louisiana-2028-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280515
 DTEND;VALUE=DATE:20280516
 SUMMARY:Louisiana: IT-565 due
@@ -842,7 +1106,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-louisiana-2029-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290515
 DTEND;VALUE=DATE:20290516
 SUMMARY:Louisiana: IT-565 due
@@ -862,7 +1126,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-louisiana-2030-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300515
 DTEND;VALUE=DATE:20300516
 SUMMARY:Louisiana: IT-565 due
@@ -882,7 +1146,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-louisiana-2031-05-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310515
 DTEND;VALUE=DATE:20310516
 SUMMARY:Louisiana: IT-565 due
@@ -902,7 +1166,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-louisiana-2032-05-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320517
 DTEND;VALUE=DATE:20320518
 SUMMARY:Louisiana: IT-565 due
@@ -921,8 +1185,168 @@ DESCRIPTION:Louisiana partnership return due the 15th day of the 5th month
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:state-pte-louisiana-2025-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20251115
+DTEND;VALUE=DATE:20251116
+SUMMARY:Louisiana: IT-565 extended due date
+DESCRIPTION:Extended due date\, via Automatic - no extension form required\
+ , effective for tax year 2022 forward. Extension does not extend time to pa
+ y.. | Louisiana partnership return due the 15th day of the 5th month after 
+ year-end (May 15) - a real outlier from the common 3rd/4th-month pattern. A
+ utomatic - no extension form required\, effective for tax year 2022 forward
+ . Extension does not extend time to pay. | Authority: Louisiana Department 
+ of Revenue\, direct fetch this session: "Returns for a calendar year must b
+ e filed with the Department of Revenue... on or before May 15 of the year f
+ ollowing the close of the calendar year." | Source: https://dam.ldr.la.gov/
+ taxforms/IT565i%20(1_24%20revised%202-6-2024).pdf | This date is computed f
+ rom a recurrence rule and may not reflect a later-announced change\; confir
+ m against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-louisiana-2026-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Louisiana: IT-565 extended due date
+DESCRIPTION:Extended due date\, via Automatic - no extension form required\
+ , effective for tax year 2022 forward. Extension does not extend time to pa
+ y.. | Louisiana partnership return due the 15th day of the 5th month after 
+ year-end (May 15) - a real outlier from the common 3rd/4th-month pattern. A
+ utomatic - no extension form required\, effective for tax year 2022 forward
+ . Extension does not extend time to pay. | Authority: Louisiana Department 
+ of Revenue\, direct fetch this session: "Returns for a calendar year must b
+ e filed with the Department of Revenue... on or before May 15 of the year f
+ ollowing the close of the calendar year." | Source: https://dam.ldr.la.gov/
+ taxforms/IT565i%20(1_24%20revised%202-6-2024).pdf | This date is computed f
+ rom a recurrence rule and may not reflect a later-announced change\; confir
+ m against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-louisiana-2027-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20271115
+DTEND;VALUE=DATE:20271116
+SUMMARY:Louisiana: IT-565 extended due date
+DESCRIPTION:Extended due date\, via Automatic - no extension form required\
+ , effective for tax year 2022 forward. Extension does not extend time to pa
+ y.. | Louisiana partnership return due the 15th day of the 5th month after 
+ year-end (May 15) - a real outlier from the common 3rd/4th-month pattern. A
+ utomatic - no extension form required\, effective for tax year 2022 forward
+ . Extension does not extend time to pay. | Authority: Louisiana Department 
+ of Revenue\, direct fetch this session: "Returns for a calendar year must b
+ e filed with the Department of Revenue... on or before May 15 of the year f
+ ollowing the close of the calendar year." | Source: https://dam.ldr.la.gov/
+ taxforms/IT565i%20(1_24%20revised%202-6-2024).pdf | This date is computed f
+ rom a recurrence rule and may not reflect a later-announced change\; confir
+ m against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-louisiana-2028-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20281115
+DTEND;VALUE=DATE:20281116
+SUMMARY:Louisiana: IT-565 extended due date
+DESCRIPTION:Extended due date\, via Automatic - no extension form required\
+ , effective for tax year 2022 forward. Extension does not extend time to pa
+ y.. | Louisiana partnership return due the 15th day of the 5th month after 
+ year-end (May 15) - a real outlier from the common 3rd/4th-month pattern. A
+ utomatic - no extension form required\, effective for tax year 2022 forward
+ . Extension does not extend time to pay. | Authority: Louisiana Department 
+ of Revenue\, direct fetch this session: "Returns for a calendar year must b
+ e filed with the Department of Revenue... on or before May 15 of the year f
+ ollowing the close of the calendar year." | Source: https://dam.ldr.la.gov/
+ taxforms/IT565i%20(1_24%20revised%202-6-2024).pdf | This date is computed f
+ rom a recurrence rule and may not reflect a later-announced change\; confir
+ m against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-louisiana-2029-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20291115
+DTEND;VALUE=DATE:20291116
+SUMMARY:Louisiana: IT-565 extended due date
+DESCRIPTION:Extended due date\, via Automatic - no extension form required\
+ , effective for tax year 2022 forward. Extension does not extend time to pa
+ y.. | Louisiana partnership return due the 15th day of the 5th month after 
+ year-end (May 15) - a real outlier from the common 3rd/4th-month pattern. A
+ utomatic - no extension form required\, effective for tax year 2022 forward
+ . Extension does not extend time to pay. | Authority: Louisiana Department 
+ of Revenue\, direct fetch this session: "Returns for a calendar year must b
+ e filed with the Department of Revenue... on or before May 15 of the year f
+ ollowing the close of the calendar year." | Source: https://dam.ldr.la.gov/
+ taxforms/IT565i%20(1_24%20revised%202-6-2024).pdf | This date is computed f
+ rom a recurrence rule and may not reflect a later-announced change\; confir
+ m against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-louisiana-2030-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20301115
+DTEND;VALUE=DATE:20301116
+SUMMARY:Louisiana: IT-565 extended due date
+DESCRIPTION:Extended due date\, via Automatic - no extension form required\
+ , effective for tax year 2022 forward. Extension does not extend time to pa
+ y.. | Louisiana partnership return due the 15th day of the 5th month after 
+ year-end (May 15) - a real outlier from the common 3rd/4th-month pattern. A
+ utomatic - no extension form required\, effective for tax year 2022 forward
+ . Extension does not extend time to pay. | Authority: Louisiana Department 
+ of Revenue\, direct fetch this session: "Returns for a calendar year must b
+ e filed with the Department of Revenue... on or before May 15 of the year f
+ ollowing the close of the calendar year." | Source: https://dam.ldr.la.gov/
+ taxforms/IT565i%20(1_24%20revised%202-6-2024).pdf | This date is computed f
+ rom a recurrence rule and may not reflect a later-announced change\; confir
+ m against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-louisiana-2031-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20311115
+DTEND;VALUE=DATE:20311116
+SUMMARY:Louisiana: IT-565 extended due date
+DESCRIPTION:Extended due date\, via Automatic - no extension form required\
+ , effective for tax year 2022 forward. Extension does not extend time to pa
+ y.. | Louisiana partnership return due the 15th day of the 5th month after 
+ year-end (May 15) - a real outlier from the common 3rd/4th-month pattern. A
+ utomatic - no extension form required\, effective for tax year 2022 forward
+ . Extension does not extend time to pay. | Authority: Louisiana Department 
+ of Revenue\, direct fetch this session: "Returns for a calendar year must b
+ e filed with the Department of Revenue... on or before May 15 of the year f
+ ollowing the close of the calendar year." | Source: https://dam.ldr.la.gov/
+ taxforms/IT565i%20(1_24%20revised%202-6-2024).pdf | This date is computed f
+ rom a recurrence rule and may not reflect a later-announced change\; confir
+ m against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-louisiana-2032-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20321115
+DTEND;VALUE=DATE:20321116
+SUMMARY:Louisiana: IT-565 extended due date
+DESCRIPTION:Extended due date\, via Automatic - no extension form required\
+ , effective for tax year 2022 forward. Extension does not extend time to pa
+ y.. | Louisiana partnership return due the 15th day of the 5th month after 
+ year-end (May 15) - a real outlier from the common 3rd/4th-month pattern. A
+ utomatic - no extension form required\, effective for tax year 2022 forward
+ . Extension does not extend time to pay. | Authority: Louisiana Department 
+ of Revenue\, direct fetch this session: "Returns for a calendar year must b
+ e filed with the Department of Revenue... on or before May 15 of the year f
+ ollowing the close of the calendar year." | Source: https://dam.ldr.la.gov/
+ taxforms/IT565i%20(1_24%20revised%202-6-2024).pdf | This date is computed f
+ rom a recurrence rule and may not reflect a later-announced change\; confir
+ m against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:state-sui-louisiana-q1-2025-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250430
 DTEND;VALUE=DATE:20250501
 SUMMARY:Louisiana: State unemployment insurance quarterly return due
@@ -939,7 +1363,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-louisiana-q1-2026-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260501
 SUMMARY:Louisiana: State unemployment insurance quarterly return due
@@ -956,7 +1380,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-louisiana-q1-2027-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270501
 SUMMARY:Louisiana: State unemployment insurance quarterly return due
@@ -973,7 +1397,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-louisiana-q1-2028-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280430
 DTEND;VALUE=DATE:20280501
 SUMMARY:Louisiana: State unemployment insurance quarterly return due
@@ -990,7 +1414,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-louisiana-q1-2029-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290430
 DTEND;VALUE=DATE:20290501
 SUMMARY:Louisiana: State unemployment insurance quarterly return due
@@ -1007,7 +1431,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-louisiana-q1-2030-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300430
 DTEND;VALUE=DATE:20300501
 SUMMARY:Louisiana: State unemployment insurance quarterly return due
@@ -1024,7 +1448,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-louisiana-q1-2031-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310430
 DTEND;VALUE=DATE:20310501
 SUMMARY:Louisiana: State unemployment insurance quarterly return due
@@ -1041,7 +1465,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-louisiana-q1-2032-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320430
 DTEND;VALUE=DATE:20320501
 SUMMARY:Louisiana: State unemployment insurance quarterly return due
@@ -1058,7 +1482,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-louisiana-q2-2025-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250731
 DTEND;VALUE=DATE:20250801
 SUMMARY:Louisiana: State unemployment insurance quarterly return due
@@ -1075,7 +1499,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-louisiana-q2-2026-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
 SUMMARY:Louisiana: State unemployment insurance quarterly return due
@@ -1092,7 +1516,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-louisiana-q2-2027-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270731
 DTEND;VALUE=DATE:20270801
 SUMMARY:Louisiana: State unemployment insurance quarterly return due
@@ -1109,7 +1533,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-louisiana-q2-2028-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280731
 DTEND;VALUE=DATE:20280801
 SUMMARY:Louisiana: State unemployment insurance quarterly return due
@@ -1126,7 +1550,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-louisiana-q2-2029-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290731
 DTEND;VALUE=DATE:20290801
 SUMMARY:Louisiana: State unemployment insurance quarterly return due
@@ -1143,7 +1567,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-louisiana-q2-2030-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300731
 DTEND;VALUE=DATE:20300801
 SUMMARY:Louisiana: State unemployment insurance quarterly return due
@@ -1160,7 +1584,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-louisiana-q2-2031-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310731
 DTEND;VALUE=DATE:20310801
 SUMMARY:Louisiana: State unemployment insurance quarterly return due
@@ -1177,7 +1601,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-louisiana-q2-2032-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320731
 DTEND;VALUE=DATE:20320801
 SUMMARY:Louisiana: State unemployment insurance quarterly return due
@@ -1194,7 +1618,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-louisiana-q3-2025-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20251031
 DTEND;VALUE=DATE:20251101
 SUMMARY:Louisiana: State unemployment insurance quarterly return due
@@ -1211,7 +1635,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-louisiana-q3-2026-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Louisiana: State unemployment insurance quarterly return due
@@ -1228,7 +1652,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-louisiana-q3-2027-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20271031
 DTEND;VALUE=DATE:20271101
 SUMMARY:Louisiana: State unemployment insurance quarterly return due
@@ -1245,7 +1669,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-louisiana-q3-2028-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20281031
 DTEND;VALUE=DATE:20281101
 SUMMARY:Louisiana: State unemployment insurance quarterly return due
@@ -1262,7 +1686,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-louisiana-q3-2029-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20291031
 DTEND;VALUE=DATE:20291101
 SUMMARY:Louisiana: State unemployment insurance quarterly return due
@@ -1279,7 +1703,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-louisiana-q3-2030-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20301031
 DTEND;VALUE=DATE:20301101
 SUMMARY:Louisiana: State unemployment insurance quarterly return due
@@ -1296,7 +1720,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-louisiana-q3-2031-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20311031
 DTEND;VALUE=DATE:20311101
 SUMMARY:Louisiana: State unemployment insurance quarterly return due
@@ -1313,7 +1737,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-louisiana-q3-2032-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20321031
 DTEND;VALUE=DATE:20321101
 SUMMARY:Louisiana: State unemployment insurance quarterly return due
@@ -1330,7 +1754,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-louisiana-q4-2025-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250131
 DTEND;VALUE=DATE:20250201
 SUMMARY:Louisiana: State unemployment insurance quarterly return due
@@ -1347,7 +1771,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-louisiana-q4-2026-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260131
 DTEND;VALUE=DATE:20260201
 SUMMARY:Louisiana: State unemployment insurance quarterly return due
@@ -1364,7 +1788,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-louisiana-q4-2027-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:Louisiana: State unemployment insurance quarterly return due
@@ -1381,7 +1805,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-louisiana-q4-2028-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280131
 DTEND;VALUE=DATE:20280201
 SUMMARY:Louisiana: State unemployment insurance quarterly return due
@@ -1398,7 +1822,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-louisiana-q4-2029-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290131
 DTEND;VALUE=DATE:20290201
 SUMMARY:Louisiana: State unemployment insurance quarterly return due
@@ -1415,7 +1839,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-louisiana-q4-2030-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300131
 DTEND;VALUE=DATE:20300201
 SUMMARY:Louisiana: State unemployment insurance quarterly return due
@@ -1432,7 +1856,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-louisiana-q4-2031-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310131
 DTEND;VALUE=DATE:20310201
 SUMMARY:Louisiana: State unemployment insurance quarterly return due
@@ -1449,7 +1873,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-louisiana-q4-2032-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320131
 DTEND;VALUE=DATE:20320201
 SUMMARY:Louisiana: State unemployment insurance quarterly return due
@@ -1466,7 +1890,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-louisiana-q1-2025-04-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250421
 DTEND;VALUE=DATE:20250422
 SUMMARY:Louisiana: State sales & use tax return due
@@ -1484,7 +1908,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-louisiana-q1-2026-04-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260421
 SUMMARY:Louisiana: State sales & use tax return due
@@ -1502,7 +1926,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-louisiana-q1-2027-04-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270421
 SUMMARY:Louisiana: State sales & use tax return due
@@ -1520,7 +1944,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-louisiana-q1-2028-04-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280420
 DTEND;VALUE=DATE:20280421
 SUMMARY:Louisiana: State sales & use tax return due
@@ -1538,7 +1962,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-louisiana-q1-2029-04-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290420
 DTEND;VALUE=DATE:20290421
 SUMMARY:Louisiana: State sales & use tax return due
@@ -1556,7 +1980,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-louisiana-q1-2030-04-22@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300422
 DTEND;VALUE=DATE:20300423
 SUMMARY:Louisiana: State sales & use tax return due
@@ -1574,7 +1998,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-louisiana-q1-2031-04-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310421
 DTEND;VALUE=DATE:20310422
 SUMMARY:Louisiana: State sales & use tax return due
@@ -1592,7 +2016,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-louisiana-q1-2032-04-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320420
 DTEND;VALUE=DATE:20320421
 SUMMARY:Louisiana: State sales & use tax return due
@@ -1610,7 +2034,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-louisiana-q2-2025-07-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250721
 DTEND;VALUE=DATE:20250722
 SUMMARY:Louisiana: State sales & use tax return due
@@ -1628,7 +2052,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-louisiana-q2-2026-07-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260720
 DTEND;VALUE=DATE:20260721
 SUMMARY:Louisiana: State sales & use tax return due
@@ -1646,7 +2070,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-louisiana-q2-2027-07-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270720
 DTEND;VALUE=DATE:20270721
 SUMMARY:Louisiana: State sales & use tax return due
@@ -1664,7 +2088,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-louisiana-q2-2028-07-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280720
 DTEND;VALUE=DATE:20280721
 SUMMARY:Louisiana: State sales & use tax return due
@@ -1682,7 +2106,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-louisiana-q2-2029-07-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290720
 DTEND;VALUE=DATE:20290721
 SUMMARY:Louisiana: State sales & use tax return due
@@ -1700,7 +2124,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-louisiana-q2-2030-07-22@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300722
 DTEND;VALUE=DATE:20300723
 SUMMARY:Louisiana: State sales & use tax return due
@@ -1718,7 +2142,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-louisiana-q2-2031-07-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310721
 DTEND;VALUE=DATE:20310722
 SUMMARY:Louisiana: State sales & use tax return due
@@ -1736,7 +2160,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-louisiana-q2-2032-07-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320720
 DTEND;VALUE=DATE:20320721
 SUMMARY:Louisiana: State sales & use tax return due
@@ -1754,7 +2178,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-louisiana-q3-2025-10-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20251020
 DTEND;VALUE=DATE:20251021
 SUMMARY:Louisiana: State sales & use tax return due
@@ -1772,7 +2196,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-louisiana-q3-2026-10-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Louisiana: State sales & use tax return due
@@ -1790,7 +2214,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-louisiana-q3-2027-10-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20271020
 DTEND;VALUE=DATE:20271021
 SUMMARY:Louisiana: State sales & use tax return due
@@ -1808,7 +2232,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-louisiana-q3-2028-10-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20281020
 DTEND;VALUE=DATE:20281021
 SUMMARY:Louisiana: State sales & use tax return due
@@ -1826,7 +2250,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-louisiana-q3-2029-10-22@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20291022
 DTEND;VALUE=DATE:20291023
 SUMMARY:Louisiana: State sales & use tax return due
@@ -1844,7 +2268,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-louisiana-q3-2030-10-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20301021
 DTEND;VALUE=DATE:20301022
 SUMMARY:Louisiana: State sales & use tax return due
@@ -1862,7 +2286,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-louisiana-q3-2031-10-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20311020
 DTEND;VALUE=DATE:20311021
 SUMMARY:Louisiana: State sales & use tax return due
@@ -1880,7 +2304,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-louisiana-q3-2032-10-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20321020
 DTEND;VALUE=DATE:20321021
 SUMMARY:Louisiana: State sales & use tax return due
@@ -1898,7 +2322,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-louisiana-q4-2025-01-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250121
 DTEND;VALUE=DATE:20250122
 SUMMARY:Louisiana: State sales & use tax return due
@@ -1916,7 +2340,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-louisiana-q4-2026-01-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260120
 DTEND;VALUE=DATE:20260121
 SUMMARY:Louisiana: State sales & use tax return due
@@ -1934,7 +2358,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-louisiana-q4-2027-01-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
 SUMMARY:Louisiana: State sales & use tax return due
@@ -1952,7 +2376,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-louisiana-q4-2028-01-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280120
 DTEND;VALUE=DATE:20280121
 SUMMARY:Louisiana: State sales & use tax return due
@@ -1970,7 +2394,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-louisiana-q4-2029-01-22@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290122
 DTEND;VALUE=DATE:20290123
 SUMMARY:Louisiana: State sales & use tax return due
@@ -1988,7 +2412,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-louisiana-q4-2030-01-22@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300122
 DTEND;VALUE=DATE:20300123
 SUMMARY:Louisiana: State sales & use tax return due
@@ -2006,7 +2430,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-louisiana-q4-2031-01-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310121
 DTEND;VALUE=DATE:20310122
 SUMMARY:Louisiana: State sales & use tax return due
@@ -2024,7 +2448,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-louisiana-q4-2032-01-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320120
 DTEND;VALUE=DATE:20320121
 SUMMARY:Louisiana: State sales & use tax return due

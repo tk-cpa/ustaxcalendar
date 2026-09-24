@@ -19,6 +19,12 @@
       "month": 4,
       "day": 15,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 15,
+      "shift": true
     }
   },
   {
@@ -39,6 +45,12 @@
     "recurrence": {
       "type": "fixed_date",
       "month": 6,
+      "day": 15,
+      "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 10,
       "day": 15,
       "shift": true
     }
@@ -143,6 +155,12 @@
       "month": 4,
       "day": 15,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 15,
+      "shift": true
     }
   },
   {
@@ -245,6 +263,12 @@
       "day": 15,
       "month_offset": 3,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
     }
   },
   {
@@ -266,6 +290,12 @@
       "type": "annual_offset",
       "day": 15,
       "month_offset": 3,
+      "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
       "shift": true
     }
   },
@@ -309,6 +339,12 @@
       "month": 4,
       "day": 15,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 15,
+      "shift": true
     }
   },
   {
@@ -329,6 +365,12 @@
     "recurrence": {
       "type": "fixed_date",
       "month": 4,
+      "day": 15,
+      "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 10,
       "day": 15,
       "shift": true
     }
@@ -353,6 +395,12 @@
       "day": 15,
       "month_offset": 3,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
     }
   },
   {
@@ -375,6 +423,12 @@
       "month": 4,
       "day": 15,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 15,
+      "shift": true
     }
   },
   {
@@ -395,6 +449,12 @@
     "recurrence": {
       "type": "fixed_date",
       "month": 4,
+      "day": 15,
+      "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 10,
       "day": 15,
       "shift": true
     }
@@ -798,6 +858,12 @@
       "type": "annual_offset",
       "day": "last",
       "month_offset": 7,
+      "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 15,
       "shift": true
     }
   }

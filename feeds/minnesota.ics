@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:state-corp-minnesota-2025-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250415
 DTEND;VALUE=DATE:20250416
 SUMMARY:Minnesota: State corporate income/franchise tax return due
@@ -26,7 +26,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-minnesota-2026-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260416
 SUMMARY:Minnesota: State corporate income/franchise tax return due
@@ -42,7 +42,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-minnesota-2027-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:Minnesota: State corporate income/franchise tax return due
@@ -58,7 +58,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-minnesota-2028-04-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280417
 DTEND;VALUE=DATE:20280418
 SUMMARY:Minnesota: State corporate income/franchise tax return due
@@ -74,7 +74,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-minnesota-2029-04-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290416
 DTEND;VALUE=DATE:20290417
 SUMMARY:Minnesota: State corporate income/franchise tax return due
@@ -90,7 +90,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-minnesota-2030-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300415
 DTEND;VALUE=DATE:20300416
 SUMMARY:Minnesota: State corporate income/franchise tax return due
@@ -106,7 +106,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-minnesota-2031-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310415
 DTEND;VALUE=DATE:20310416
 SUMMARY:Minnesota: State corporate income/franchise tax return due
@@ -122,7 +122,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-minnesota-2032-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320415
 DTEND;VALUE=DATE:20320416
 SUMMARY:Minnesota: State corporate income/franchise tax return due
@@ -137,8 +137,128 @@ DESCRIPTION:C-corp franchise tax due April 15\; extension filing date liste
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:state-corp-minnesota-2025-11-17-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20251117
+DTEND;VALUE=DATE:20251118
+SUMMARY:Minnesota: State corporate income/franchise tax return extended due
+  date
+DESCRIPTION:Extended due date\, via None. | C-corp franchise tax due April 
+ 15\; extension filing date listed as November 16 (tax payment still due Apr
+ il 15). | Authority: Direct fetch of Minnesota's own tax agency site/public
+ ation this session | Source: https://www.revenue.state.mn.us/tax-due-dates 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-minnesota-2026-11-16-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Minnesota: State corporate income/franchise tax return extended due
+  date
+DESCRIPTION:Extended due date\, via None. | C-corp franchise tax due April 
+ 15\; extension filing date listed as November 16 (tax payment still due Apr
+ il 15). | Authority: Direct fetch of Minnesota's own tax agency site/public
+ ation this session | Source: https://www.revenue.state.mn.us/tax-due-dates 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-minnesota-2027-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20271115
+DTEND;VALUE=DATE:20271116
+SUMMARY:Minnesota: State corporate income/franchise tax return extended due
+  date
+DESCRIPTION:Extended due date\, via None. | C-corp franchise tax due April 
+ 15\; extension filing date listed as November 16 (tax payment still due Apr
+ il 15). | Authority: Direct fetch of Minnesota's own tax agency site/public
+ ation this session | Source: https://www.revenue.state.mn.us/tax-due-dates 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-minnesota-2028-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20281115
+DTEND;VALUE=DATE:20281116
+SUMMARY:Minnesota: State corporate income/franchise tax return extended due
+  date
+DESCRIPTION:Extended due date\, via None. | C-corp franchise tax due April 
+ 15\; extension filing date listed as November 16 (tax payment still due Apr
+ il 15). | Authority: Direct fetch of Minnesota's own tax agency site/public
+ ation this session | Source: https://www.revenue.state.mn.us/tax-due-dates 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-minnesota-2029-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20291115
+DTEND;VALUE=DATE:20291116
+SUMMARY:Minnesota: State corporate income/franchise tax return extended due
+  date
+DESCRIPTION:Extended due date\, via None. | C-corp franchise tax due April 
+ 15\; extension filing date listed as November 16 (tax payment still due Apr
+ il 15). | Authority: Direct fetch of Minnesota's own tax agency site/public
+ ation this session | Source: https://www.revenue.state.mn.us/tax-due-dates 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-minnesota-2030-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20301115
+DTEND;VALUE=DATE:20301116
+SUMMARY:Minnesota: State corporate income/franchise tax return extended due
+  date
+DESCRIPTION:Extended due date\, via None. | C-corp franchise tax due April 
+ 15\; extension filing date listed as November 16 (tax payment still due Apr
+ il 15). | Authority: Direct fetch of Minnesota's own tax agency site/public
+ ation this session | Source: https://www.revenue.state.mn.us/tax-due-dates 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-minnesota-2031-11-17-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20311117
+DTEND;VALUE=DATE:20311118
+SUMMARY:Minnesota: State corporate income/franchise tax return extended due
+  date
+DESCRIPTION:Extended due date\, via None. | C-corp franchise tax due April 
+ 15\; extension filing date listed as November 16 (tax payment still due Apr
+ il 15). | Authority: Direct fetch of Minnesota's own tax agency site/public
+ ation this session | Source: https://www.revenue.state.mn.us/tax-due-dates 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-minnesota-2032-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20321115
+DTEND;VALUE=DATE:20321116
+SUMMARY:Minnesota: State corporate income/franchise tax return extended due
+  date
+DESCRIPTION:Extended due date\, via None. | C-corp franchise tax due April 
+ 15\; extension filing date listed as November 16 (tax payment still due Apr
+ il 15). | Authority: Direct fetch of Minnesota's own tax agency site/public
+ ation this session | Source: https://www.revenue.state.mn.us/tax-due-dates 
+ | This date is computed from a recurrence rule and may not reflect a later-
+ announced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:state-est-minnesota-q1-2025-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250415
 DTEND;VALUE=DATE:20250416
 SUMMARY:Minnesota: State individual quarterly estimated tax payment due
@@ -154,7 +274,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-minnesota-q1-2026-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260416
 SUMMARY:Minnesota: State individual quarterly estimated tax payment due
@@ -170,7 +290,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-minnesota-q1-2027-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:Minnesota: State individual quarterly estimated tax payment due
@@ -186,7 +306,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-minnesota-q1-2028-04-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280417
 DTEND;VALUE=DATE:20280418
 SUMMARY:Minnesota: State individual quarterly estimated tax payment due
@@ -202,7 +322,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-minnesota-q1-2029-04-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290416
 DTEND;VALUE=DATE:20290417
 SUMMARY:Minnesota: State individual quarterly estimated tax payment due
@@ -218,7 +338,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-minnesota-q1-2030-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300415
 DTEND;VALUE=DATE:20300416
 SUMMARY:Minnesota: State individual quarterly estimated tax payment due
@@ -234,7 +354,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-minnesota-q1-2031-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310415
 DTEND;VALUE=DATE:20310416
 SUMMARY:Minnesota: State individual quarterly estimated tax payment due
@@ -250,7 +370,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-minnesota-q1-2032-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320415
 DTEND;VALUE=DATE:20320416
 SUMMARY:Minnesota: State individual quarterly estimated tax payment due
@@ -266,7 +386,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-minnesota-q2-2025-06-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250616
 DTEND;VALUE=DATE:20250617
 SUMMARY:Minnesota: State individual quarterly estimated tax payment due
@@ -282,7 +402,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-minnesota-q2-2026-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260615
 DTEND;VALUE=DATE:20260616
 SUMMARY:Minnesota: State individual quarterly estimated tax payment due
@@ -298,7 +418,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-minnesota-q2-2027-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270615
 DTEND;VALUE=DATE:20270616
 SUMMARY:Minnesota: State individual quarterly estimated tax payment due
@@ -314,7 +434,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-minnesota-q2-2028-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280615
 DTEND;VALUE=DATE:20280616
 SUMMARY:Minnesota: State individual quarterly estimated tax payment due
@@ -330,7 +450,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-minnesota-q2-2029-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290615
 DTEND;VALUE=DATE:20290616
 SUMMARY:Minnesota: State individual quarterly estimated tax payment due
@@ -346,7 +466,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-minnesota-q2-2030-06-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300617
 DTEND;VALUE=DATE:20300618
 SUMMARY:Minnesota: State individual quarterly estimated tax payment due
@@ -362,7 +482,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-minnesota-q2-2031-06-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310616
 DTEND;VALUE=DATE:20310617
 SUMMARY:Minnesota: State individual quarterly estimated tax payment due
@@ -378,7 +498,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-minnesota-q2-2032-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320615
 DTEND;VALUE=DATE:20320616
 SUMMARY:Minnesota: State individual quarterly estimated tax payment due
@@ -394,7 +514,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-minnesota-q3-2025-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250915
 DTEND;VALUE=DATE:20250916
 SUMMARY:Minnesota: State individual quarterly estimated tax payment due
@@ -410,7 +530,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-minnesota-q3-2026-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Minnesota: State individual quarterly estimated tax payment due
@@ -426,7 +546,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-minnesota-q3-2027-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270915
 DTEND;VALUE=DATE:20270916
 SUMMARY:Minnesota: State individual quarterly estimated tax payment due
@@ -442,7 +562,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-minnesota-q3-2028-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280915
 DTEND;VALUE=DATE:20280916
 SUMMARY:Minnesota: State individual quarterly estimated tax payment due
@@ -458,7 +578,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-minnesota-q3-2029-09-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290917
 DTEND;VALUE=DATE:20290918
 SUMMARY:Minnesota: State individual quarterly estimated tax payment due
@@ -474,7 +594,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-minnesota-q3-2030-09-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300916
 DTEND;VALUE=DATE:20300917
 SUMMARY:Minnesota: State individual quarterly estimated tax payment due
@@ -490,7 +610,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-minnesota-q3-2031-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310915
 DTEND;VALUE=DATE:20310916
 SUMMARY:Minnesota: State individual quarterly estimated tax payment due
@@ -506,7 +626,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-minnesota-q3-2032-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320915
 DTEND;VALUE=DATE:20320916
 SUMMARY:Minnesota: State individual quarterly estimated tax payment due
@@ -522,7 +642,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-minnesota-q4-2025-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250115
 DTEND;VALUE=DATE:20250116
 SUMMARY:Minnesota: State individual quarterly estimated tax payment due
@@ -538,7 +658,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-minnesota-q4-2026-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260115
 DTEND;VALUE=DATE:20260116
 SUMMARY:Minnesota: State individual quarterly estimated tax payment due
@@ -554,7 +674,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-minnesota-q4-2027-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Minnesota: State individual quarterly estimated tax payment due
@@ -570,7 +690,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-minnesota-q4-2028-01-18@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280118
 DTEND;VALUE=DATE:20280119
 SUMMARY:Minnesota: State individual quarterly estimated tax payment due
@@ -586,7 +706,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-minnesota-q4-2029-01-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290116
 DTEND;VALUE=DATE:20290117
 SUMMARY:Minnesota: State individual quarterly estimated tax payment due
@@ -602,7 +722,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-minnesota-q4-2030-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300115
 DTEND;VALUE=DATE:20300116
 SUMMARY:Minnesota: State individual quarterly estimated tax payment due
@@ -618,7 +738,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-minnesota-q4-2031-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310115
 DTEND;VALUE=DATE:20310116
 SUMMARY:Minnesota: State individual quarterly estimated tax payment due
@@ -634,7 +754,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-minnesota-q4-2032-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320115
 DTEND;VALUE=DATE:20320116
 SUMMARY:Minnesota: State individual quarterly estimated tax payment due
@@ -650,7 +770,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-mi-2025-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250415
 DTEND;VALUE=DATE:20250416
 SUMMARY:Minnesota: State individual income tax return due
@@ -665,7 +785,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-mi-2026-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260416
 SUMMARY:Minnesota: State individual income tax return due
@@ -680,7 +800,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-mi-2027-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:Minnesota: State individual income tax return due
@@ -695,7 +815,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-mi-2028-04-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280417
 DTEND;VALUE=DATE:20280418
 SUMMARY:Minnesota: State individual income tax return due
@@ -710,7 +830,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-mi-2029-04-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290416
 DTEND;VALUE=DATE:20290417
 SUMMARY:Minnesota: State individual income tax return due
@@ -725,7 +845,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-mi-2030-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300415
 DTEND;VALUE=DATE:20300416
 SUMMARY:Minnesota: State individual income tax return due
@@ -740,7 +860,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-mi-2031-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310415
 DTEND;VALUE=DATE:20310416
 SUMMARY:Minnesota: State individual income tax return due
@@ -755,7 +875,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-mi-2032-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320415
 DTEND;VALUE=DATE:20320416
 SUMMARY:Minnesota: State individual income tax return due
@@ -769,8 +889,128 @@ DESCRIPTION:Conforms to the federal April 15 due date | State individual in
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:state-inc-mi-2025-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20251015
+DTEND;VALUE=DATE:20251016
+SUMMARY:Minnesota: State individual income tax return extended due date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. | Authority: Direct fetch of https://www.revenue.st
+ ate.mn.us/income-tax-due-dates this session | Source: https://www.revenue.s
+ tate.mn.us/income-tax-due-dates | This date is computed from a recurrence r
+ ule and may not reflect a later-announced change\; confirm against the cite
+ d source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-mi-2026-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Minnesota: State individual income tax return extended due date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. | Authority: Direct fetch of https://www.revenue.st
+ ate.mn.us/income-tax-due-dates this session | Source: https://www.revenue.s
+ tate.mn.us/income-tax-due-dates | This date is computed from a recurrence r
+ ule and may not reflect a later-announced change\; confirm against the cite
+ d source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-mi-2027-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271016
+SUMMARY:Minnesota: State individual income tax return extended due date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. | Authority: Direct fetch of https://www.revenue.st
+ ate.mn.us/income-tax-due-dates this session | Source: https://www.revenue.s
+ tate.mn.us/income-tax-due-dates | This date is computed from a recurrence r
+ ule and may not reflect a later-announced change\; confirm against the cite
+ d source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-mi-2028-10-16-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20281016
+DTEND;VALUE=DATE:20281017
+SUMMARY:Minnesota: State individual income tax return extended due date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. | Authority: Direct fetch of https://www.revenue.st
+ ate.mn.us/income-tax-due-dates this session | Source: https://www.revenue.s
+ tate.mn.us/income-tax-due-dates | This date is computed from a recurrence r
+ ule and may not reflect a later-announced change\; confirm against the cite
+ d source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-mi-2029-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20291015
+DTEND;VALUE=DATE:20291016
+SUMMARY:Minnesota: State individual income tax return extended due date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. | Authority: Direct fetch of https://www.revenue.st
+ ate.mn.us/income-tax-due-dates this session | Source: https://www.revenue.s
+ tate.mn.us/income-tax-due-dates | This date is computed from a recurrence r
+ ule and may not reflect a later-announced change\; confirm against the cite
+ d source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-mi-2030-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20301015
+DTEND;VALUE=DATE:20301016
+SUMMARY:Minnesota: State individual income tax return extended due date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. | Authority: Direct fetch of https://www.revenue.st
+ ate.mn.us/income-tax-due-dates this session | Source: https://www.revenue.s
+ tate.mn.us/income-tax-due-dates | This date is computed from a recurrence r
+ ule and may not reflect a later-announced change\; confirm against the cite
+ d source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-mi-2031-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20311015
+DTEND;VALUE=DATE:20311016
+SUMMARY:Minnesota: State individual income tax return extended due date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. | Authority: Direct fetch of https://www.revenue.st
+ ate.mn.us/income-tax-due-dates this session | Source: https://www.revenue.s
+ tate.mn.us/income-tax-due-dates | This date is computed from a recurrence r
+ ule and may not reflect a later-announced change\; confirm against the cite
+ d source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-mi-2032-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20321015
+DTEND;VALUE=DATE:20321016
+SUMMARY:Minnesota: State individual income tax return extended due date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. | Authority: Direct fetch of https://www.revenue.st
+ ate.mn.us/income-tax-due-dates this session | Source: https://www.revenue.s
+ tate.mn.us/income-tax-due-dates | This date is computed from a recurrence r
+ ule and may not reflect a later-announced change\; confirm against the cite
+ d source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:state-pte-minnesota-2025-03-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250317
 DTEND;VALUE=DATE:20250318
 SUMMARY:Minnesota: M3 due
@@ -811,7 +1051,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-minnesota-2026-03-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260316
 DTEND;VALUE=DATE:20260317
 SUMMARY:Minnesota: M3 due
@@ -852,7 +1092,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-minnesota-2027-03-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270316
 SUMMARY:Minnesota: M3 due
@@ -893,7 +1133,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-minnesota-2028-03-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280315
 DTEND;VALUE=DATE:20280316
 SUMMARY:Minnesota: M3 due
@@ -934,7 +1174,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-minnesota-2029-03-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290315
 DTEND;VALUE=DATE:20290316
 SUMMARY:Minnesota: M3 due
@@ -975,7 +1215,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-minnesota-2030-03-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300315
 DTEND;VALUE=DATE:20300316
 SUMMARY:Minnesota: M3 due
@@ -1016,7 +1256,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-minnesota-2031-03-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310317
 DTEND;VALUE=DATE:20310318
 SUMMARY:Minnesota: M3 due
@@ -1057,7 +1297,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-minnesota-2032-03-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320315
 DTEND;VALUE=DATE:20320316
 SUMMARY:Minnesota: M3 due
@@ -1097,8 +1337,248 @@ DESCRIPTION:Minnesota partnership return due the 15th day of the 3rd month
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:state-pte-minnesota-2025-09-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20250916
+SUMMARY:Minnesota: M3 extended due date
+DESCRIPTION:Extended due date\, via Automatic - no application/form require
+ d (or later if the federal extension granted is longer).. | Minnesota partn
+ ership return due the 15th day of the 3rd month after year-end. MN's PTE ta
+ x is reported on the same Form M3. Automatic - no application/form required
+  (or later if the federal extension granted is longer). Correction (this re
+ build session): the cited source states the general rule (15th day of the 3
+ rd month) without addressing the 2026-specific weekend interaction - March 
+ 15\, 2026 is a Sunday. Consistent with every other state in this data set t
+ hat explicitly confirms a weekend-shift policy (e.g. Massachusetts\, New Yo
+ rk\, Vermont\, Delaware\, Montana\, Oregon all confirm shifting to March 16
+ \, 2026)\, and with the near-universal US government-deadline convention of
+  shifting to the next business day\, this entry's date_2026 was corrected f
+ rom an unshifted March 15\, 2026 to March 16\, 2026. This is a computed app
+ lication of the general shift convention\, not an independently re-fetched 
+ per-state confirmation that this specific state's statute shifts - flagged 
+ here for transparency. | Authority: Minnesota Department of Revenue\, direc
+ t fetch this session: "your tax return (Form M3\, Partnership Return) and p
+ ayment are due by March 15 of the following year" and "All partnerships are
+  granted an automatic six-month extension to file Form M3." | Source: https
+ ://www.revenue.state.mn.us/partnership-due-dates | This date is computed fr
+ om a recurrence rule and may not reflect a later-announced change\; confirm
+  against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-minnesota-2026-09-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Minnesota: M3 extended due date
+DESCRIPTION:Extended due date\, via Automatic - no application/form require
+ d (or later if the federal extension granted is longer).. | Minnesota partn
+ ership return due the 15th day of the 3rd month after year-end. MN's PTE ta
+ x is reported on the same Form M3. Automatic - no application/form required
+  (or later if the federal extension granted is longer). Correction (this re
+ build session): the cited source states the general rule (15th day of the 3
+ rd month) without addressing the 2026-specific weekend interaction - March 
+ 15\, 2026 is a Sunday. Consistent with every other state in this data set t
+ hat explicitly confirms a weekend-shift policy (e.g. Massachusetts\, New Yo
+ rk\, Vermont\, Delaware\, Montana\, Oregon all confirm shifting to March 16
+ \, 2026)\, and with the near-universal US government-deadline convention of
+  shifting to the next business day\, this entry's date_2026 was corrected f
+ rom an unshifted March 15\, 2026 to March 16\, 2026. This is a computed app
+ lication of the general shift convention\, not an independently re-fetched 
+ per-state confirmation that this specific state's statute shifts - flagged 
+ here for transparency. | Authority: Minnesota Department of Revenue\, direc
+ t fetch this session: "your tax return (Form M3\, Partnership Return) and p
+ ayment are due by March 15 of the following year" and "All partnerships are
+  granted an automatic six-month extension to file Form M3." | Source: https
+ ://www.revenue.state.mn.us/partnership-due-dates | This date is computed fr
+ om a recurrence rule and may not reflect a later-announced change\; confirm
+  against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-minnesota-2027-09-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:Minnesota: M3 extended due date
+DESCRIPTION:Extended due date\, via Automatic - no application/form require
+ d (or later if the federal extension granted is longer).. | Minnesota partn
+ ership return due the 15th day of the 3rd month after year-end. MN's PTE ta
+ x is reported on the same Form M3. Automatic - no application/form required
+  (or later if the federal extension granted is longer). Correction (this re
+ build session): the cited source states the general rule (15th day of the 3
+ rd month) without addressing the 2026-specific weekend interaction - March 
+ 15\, 2026 is a Sunday. Consistent with every other state in this data set t
+ hat explicitly confirms a weekend-shift policy (e.g. Massachusetts\, New Yo
+ rk\, Vermont\, Delaware\, Montana\, Oregon all confirm shifting to March 16
+ \, 2026)\, and with the near-universal US government-deadline convention of
+  shifting to the next business day\, this entry's date_2026 was corrected f
+ rom an unshifted March 15\, 2026 to March 16\, 2026. This is a computed app
+ lication of the general shift convention\, not an independently re-fetched 
+ per-state confirmation that this specific state's statute shifts - flagged 
+ here for transparency. | Authority: Minnesota Department of Revenue\, direc
+ t fetch this session: "your tax return (Form M3\, Partnership Return) and p
+ ayment are due by March 15 of the following year" and "All partnerships are
+  granted an automatic six-month extension to file Form M3." | Source: https
+ ://www.revenue.state.mn.us/partnership-due-dates | This date is computed fr
+ om a recurrence rule and may not reflect a later-announced change\; confirm
+  against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-minnesota-2028-09-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20280915
+DTEND;VALUE=DATE:20280916
+SUMMARY:Minnesota: M3 extended due date
+DESCRIPTION:Extended due date\, via Automatic - no application/form require
+ d (or later if the federal extension granted is longer).. | Minnesota partn
+ ership return due the 15th day of the 3rd month after year-end. MN's PTE ta
+ x is reported on the same Form M3. Automatic - no application/form required
+  (or later if the federal extension granted is longer). Correction (this re
+ build session): the cited source states the general rule (15th day of the 3
+ rd month) without addressing the 2026-specific weekend interaction - March 
+ 15\, 2026 is a Sunday. Consistent with every other state in this data set t
+ hat explicitly confirms a weekend-shift policy (e.g. Massachusetts\, New Yo
+ rk\, Vermont\, Delaware\, Montana\, Oregon all confirm shifting to March 16
+ \, 2026)\, and with the near-universal US government-deadline convention of
+  shifting to the next business day\, this entry's date_2026 was corrected f
+ rom an unshifted March 15\, 2026 to March 16\, 2026. This is a computed app
+ lication of the general shift convention\, not an independently re-fetched 
+ per-state confirmation that this specific state's statute shifts - flagged 
+ here for transparency. | Authority: Minnesota Department of Revenue\, direc
+ t fetch this session: "your tax return (Form M3\, Partnership Return) and p
+ ayment are due by March 15 of the following year" and "All partnerships are
+  granted an automatic six-month extension to file Form M3." | Source: https
+ ://www.revenue.state.mn.us/partnership-due-dates | This date is computed fr
+ om a recurrence rule and may not reflect a later-announced change\; confirm
+  against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-minnesota-2029-09-17-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20290917
+DTEND;VALUE=DATE:20290918
+SUMMARY:Minnesota: M3 extended due date
+DESCRIPTION:Extended due date\, via Automatic - no application/form require
+ d (or later if the federal extension granted is longer).. | Minnesota partn
+ ership return due the 15th day of the 3rd month after year-end. MN's PTE ta
+ x is reported on the same Form M3. Automatic - no application/form required
+  (or later if the federal extension granted is longer). Correction (this re
+ build session): the cited source states the general rule (15th day of the 3
+ rd month) without addressing the 2026-specific weekend interaction - March 
+ 15\, 2026 is a Sunday. Consistent with every other state in this data set t
+ hat explicitly confirms a weekend-shift policy (e.g. Massachusetts\, New Yo
+ rk\, Vermont\, Delaware\, Montana\, Oregon all confirm shifting to March 16
+ \, 2026)\, and with the near-universal US government-deadline convention of
+  shifting to the next business day\, this entry's date_2026 was corrected f
+ rom an unshifted March 15\, 2026 to March 16\, 2026. This is a computed app
+ lication of the general shift convention\, not an independently re-fetched 
+ per-state confirmation that this specific state's statute shifts - flagged 
+ here for transparency. | Authority: Minnesota Department of Revenue\, direc
+ t fetch this session: "your tax return (Form M3\, Partnership Return) and p
+ ayment are due by March 15 of the following year" and "All partnerships are
+  granted an automatic six-month extension to file Form M3." | Source: https
+ ://www.revenue.state.mn.us/partnership-due-dates | This date is computed fr
+ om a recurrence rule and may not reflect a later-announced change\; confirm
+  against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-minnesota-2030-09-16-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20300916
+DTEND;VALUE=DATE:20300917
+SUMMARY:Minnesota: M3 extended due date
+DESCRIPTION:Extended due date\, via Automatic - no application/form require
+ d (or later if the federal extension granted is longer).. | Minnesota partn
+ ership return due the 15th day of the 3rd month after year-end. MN's PTE ta
+ x is reported on the same Form M3. Automatic - no application/form required
+  (or later if the federal extension granted is longer). Correction (this re
+ build session): the cited source states the general rule (15th day of the 3
+ rd month) without addressing the 2026-specific weekend interaction - March 
+ 15\, 2026 is a Sunday. Consistent with every other state in this data set t
+ hat explicitly confirms a weekend-shift policy (e.g. Massachusetts\, New Yo
+ rk\, Vermont\, Delaware\, Montana\, Oregon all confirm shifting to March 16
+ \, 2026)\, and with the near-universal US government-deadline convention of
+  shifting to the next business day\, this entry's date_2026 was corrected f
+ rom an unshifted March 15\, 2026 to March 16\, 2026. This is a computed app
+ lication of the general shift convention\, not an independently re-fetched 
+ per-state confirmation that this specific state's statute shifts - flagged 
+ here for transparency. | Authority: Minnesota Department of Revenue\, direc
+ t fetch this session: "your tax return (Form M3\, Partnership Return) and p
+ ayment are due by March 15 of the following year" and "All partnerships are
+  granted an automatic six-month extension to file Form M3." | Source: https
+ ://www.revenue.state.mn.us/partnership-due-dates | This date is computed fr
+ om a recurrence rule and may not reflect a later-announced change\; confirm
+  against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-minnesota-2031-09-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20310915
+DTEND;VALUE=DATE:20310916
+SUMMARY:Minnesota: M3 extended due date
+DESCRIPTION:Extended due date\, via Automatic - no application/form require
+ d (or later if the federal extension granted is longer).. | Minnesota partn
+ ership return due the 15th day of the 3rd month after year-end. MN's PTE ta
+ x is reported on the same Form M3. Automatic - no application/form required
+  (or later if the federal extension granted is longer). Correction (this re
+ build session): the cited source states the general rule (15th day of the 3
+ rd month) without addressing the 2026-specific weekend interaction - March 
+ 15\, 2026 is a Sunday. Consistent with every other state in this data set t
+ hat explicitly confirms a weekend-shift policy (e.g. Massachusetts\, New Yo
+ rk\, Vermont\, Delaware\, Montana\, Oregon all confirm shifting to March 16
+ \, 2026)\, and with the near-universal US government-deadline convention of
+  shifting to the next business day\, this entry's date_2026 was corrected f
+ rom an unshifted March 15\, 2026 to March 16\, 2026. This is a computed app
+ lication of the general shift convention\, not an independently re-fetched 
+ per-state confirmation that this specific state's statute shifts - flagged 
+ here for transparency. | Authority: Minnesota Department of Revenue\, direc
+ t fetch this session: "your tax return (Form M3\, Partnership Return) and p
+ ayment are due by March 15 of the following year" and "All partnerships are
+  granted an automatic six-month extension to file Form M3." | Source: https
+ ://www.revenue.state.mn.us/partnership-due-dates | This date is computed fr
+ om a recurrence rule and may not reflect a later-announced change\; confirm
+  against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-minnesota-2032-09-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20320915
+DTEND;VALUE=DATE:20320916
+SUMMARY:Minnesota: M3 extended due date
+DESCRIPTION:Extended due date\, via Automatic - no application/form require
+ d (or later if the federal extension granted is longer).. | Minnesota partn
+ ership return due the 15th day of the 3rd month after year-end. MN's PTE ta
+ x is reported on the same Form M3. Automatic - no application/form required
+  (or later if the federal extension granted is longer). Correction (this re
+ build session): the cited source states the general rule (15th day of the 3
+ rd month) without addressing the 2026-specific weekend interaction - March 
+ 15\, 2026 is a Sunday. Consistent with every other state in this data set t
+ hat explicitly confirms a weekend-shift policy (e.g. Massachusetts\, New Yo
+ rk\, Vermont\, Delaware\, Montana\, Oregon all confirm shifting to March 16
+ \, 2026)\, and with the near-universal US government-deadline convention of
+  shifting to the next business day\, this entry's date_2026 was corrected f
+ rom an unshifted March 15\, 2026 to March 16\, 2026. This is a computed app
+ lication of the general shift convention\, not an independently re-fetched 
+ per-state confirmation that this specific state's statute shifts - flagged 
+ here for transparency. | Authority: Minnesota Department of Revenue\, direc
+ t fetch this session: "your tax return (Form M3\, Partnership Return) and p
+ ayment are due by March 15 of the following year" and "All partnerships are
+  granted an automatic six-month extension to file Form M3." | Source: https
+ ://www.revenue.state.mn.us/partnership-due-dates | This date is computed fr
+ om a recurrence rule and may not reflect a later-announced change\; confirm
+  against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:state-sui-minnesota-q1-2025-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250430
 DTEND;VALUE=DATE:20250501
 SUMMARY:Minnesota: State unemployment insurance quarterly return due
@@ -1115,7 +1595,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-minnesota-q1-2026-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260501
 SUMMARY:Minnesota: State unemployment insurance quarterly return due
@@ -1132,7 +1612,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-minnesota-q1-2027-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270501
 SUMMARY:Minnesota: State unemployment insurance quarterly return due
@@ -1149,7 +1629,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-minnesota-q1-2028-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280430
 DTEND;VALUE=DATE:20280501
 SUMMARY:Minnesota: State unemployment insurance quarterly return due
@@ -1166,7 +1646,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-minnesota-q1-2029-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290430
 DTEND;VALUE=DATE:20290501
 SUMMARY:Minnesota: State unemployment insurance quarterly return due
@@ -1183,7 +1663,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-minnesota-q1-2030-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300430
 DTEND;VALUE=DATE:20300501
 SUMMARY:Minnesota: State unemployment insurance quarterly return due
@@ -1200,7 +1680,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-minnesota-q1-2031-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310430
 DTEND;VALUE=DATE:20310501
 SUMMARY:Minnesota: State unemployment insurance quarterly return due
@@ -1217,7 +1697,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-minnesota-q1-2032-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320430
 DTEND;VALUE=DATE:20320501
 SUMMARY:Minnesota: State unemployment insurance quarterly return due
@@ -1234,7 +1714,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-minnesota-q2-2025-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250731
 DTEND;VALUE=DATE:20250801
 SUMMARY:Minnesota: State unemployment insurance quarterly return due
@@ -1251,7 +1731,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-minnesota-q2-2026-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
 SUMMARY:Minnesota: State unemployment insurance quarterly return due
@@ -1268,7 +1748,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-minnesota-q2-2027-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270731
 DTEND;VALUE=DATE:20270801
 SUMMARY:Minnesota: State unemployment insurance quarterly return due
@@ -1285,7 +1765,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-minnesota-q2-2028-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280731
 DTEND;VALUE=DATE:20280801
 SUMMARY:Minnesota: State unemployment insurance quarterly return due
@@ -1302,7 +1782,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-minnesota-q2-2029-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290731
 DTEND;VALUE=DATE:20290801
 SUMMARY:Minnesota: State unemployment insurance quarterly return due
@@ -1319,7 +1799,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-minnesota-q2-2030-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300731
 DTEND;VALUE=DATE:20300801
 SUMMARY:Minnesota: State unemployment insurance quarterly return due
@@ -1336,7 +1816,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-minnesota-q2-2031-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310731
 DTEND;VALUE=DATE:20310801
 SUMMARY:Minnesota: State unemployment insurance quarterly return due
@@ -1353,7 +1833,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-minnesota-q2-2032-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320731
 DTEND;VALUE=DATE:20320801
 SUMMARY:Minnesota: State unemployment insurance quarterly return due
@@ -1370,7 +1850,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-minnesota-q3-2025-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20251031
 DTEND;VALUE=DATE:20251101
 SUMMARY:Minnesota: State unemployment insurance quarterly return due
@@ -1387,7 +1867,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-minnesota-q3-2026-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Minnesota: State unemployment insurance quarterly return due
@@ -1404,7 +1884,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-minnesota-q3-2027-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20271031
 DTEND;VALUE=DATE:20271101
 SUMMARY:Minnesota: State unemployment insurance quarterly return due
@@ -1421,7 +1901,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-minnesota-q3-2028-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20281031
 DTEND;VALUE=DATE:20281101
 SUMMARY:Minnesota: State unemployment insurance quarterly return due
@@ -1438,7 +1918,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-minnesota-q3-2029-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20291031
 DTEND;VALUE=DATE:20291101
 SUMMARY:Minnesota: State unemployment insurance quarterly return due
@@ -1455,7 +1935,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-minnesota-q3-2030-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20301031
 DTEND;VALUE=DATE:20301101
 SUMMARY:Minnesota: State unemployment insurance quarterly return due
@@ -1472,7 +1952,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-minnesota-q3-2031-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20311031
 DTEND;VALUE=DATE:20311101
 SUMMARY:Minnesota: State unemployment insurance quarterly return due
@@ -1489,7 +1969,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-minnesota-q3-2032-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20321031
 DTEND;VALUE=DATE:20321101
 SUMMARY:Minnesota: State unemployment insurance quarterly return due
@@ -1506,7 +1986,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-minnesota-q4-2025-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250131
 DTEND;VALUE=DATE:20250201
 SUMMARY:Minnesota: State unemployment insurance quarterly return due
@@ -1523,7 +2003,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-minnesota-q4-2026-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260131
 DTEND;VALUE=DATE:20260201
 SUMMARY:Minnesota: State unemployment insurance quarterly return due
@@ -1540,7 +2020,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-minnesota-q4-2027-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:Minnesota: State unemployment insurance quarterly return due
@@ -1557,7 +2037,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-minnesota-q4-2028-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280131
 DTEND;VALUE=DATE:20280201
 SUMMARY:Minnesota: State unemployment insurance quarterly return due
@@ -1574,7 +2054,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-minnesota-q4-2029-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290131
 DTEND;VALUE=DATE:20290201
 SUMMARY:Minnesota: State unemployment insurance quarterly return due
@@ -1591,7 +2071,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-minnesota-q4-2030-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300131
 DTEND;VALUE=DATE:20300201
 SUMMARY:Minnesota: State unemployment insurance quarterly return due
@@ -1608,7 +2088,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-minnesota-q4-2031-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310131
 DTEND;VALUE=DATE:20310201
 SUMMARY:Minnesota: State unemployment insurance quarterly return due
@@ -1625,7 +2105,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-minnesota-q4-2032-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320131
 DTEND;VALUE=DATE:20320201
 SUMMARY:Minnesota: State unemployment insurance quarterly return due
@@ -1642,7 +2122,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-minnesota-q1-2025-04-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250421
 DTEND;VALUE=DATE:20250422
 SUMMARY:Minnesota: State sales & use tax return due
@@ -1660,7 +2140,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-minnesota-q1-2026-04-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260421
 SUMMARY:Minnesota: State sales & use tax return due
@@ -1678,7 +2158,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-minnesota-q1-2027-04-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270421
 SUMMARY:Minnesota: State sales & use tax return due
@@ -1696,7 +2176,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-minnesota-q1-2028-04-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280420
 DTEND;VALUE=DATE:20280421
 SUMMARY:Minnesota: State sales & use tax return due
@@ -1714,7 +2194,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-minnesota-q1-2029-04-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290420
 DTEND;VALUE=DATE:20290421
 SUMMARY:Minnesota: State sales & use tax return due
@@ -1732,7 +2212,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-minnesota-q1-2030-04-22@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300422
 DTEND;VALUE=DATE:20300423
 SUMMARY:Minnesota: State sales & use tax return due
@@ -1750,7 +2230,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-minnesota-q1-2031-04-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310421
 DTEND;VALUE=DATE:20310422
 SUMMARY:Minnesota: State sales & use tax return due
@@ -1768,7 +2248,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-minnesota-q1-2032-04-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320420
 DTEND;VALUE=DATE:20320421
 SUMMARY:Minnesota: State sales & use tax return due
@@ -1786,7 +2266,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-minnesota-q2-2025-07-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250721
 DTEND;VALUE=DATE:20250722
 SUMMARY:Minnesota: State sales & use tax return due
@@ -1804,7 +2284,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-minnesota-q2-2026-07-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260720
 DTEND;VALUE=DATE:20260721
 SUMMARY:Minnesota: State sales & use tax return due
@@ -1822,7 +2302,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-minnesota-q2-2027-07-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270720
 DTEND;VALUE=DATE:20270721
 SUMMARY:Minnesota: State sales & use tax return due
@@ -1840,7 +2320,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-minnesota-q2-2028-07-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280720
 DTEND;VALUE=DATE:20280721
 SUMMARY:Minnesota: State sales & use tax return due
@@ -1858,7 +2338,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-minnesota-q2-2029-07-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290720
 DTEND;VALUE=DATE:20290721
 SUMMARY:Minnesota: State sales & use tax return due
@@ -1876,7 +2356,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-minnesota-q2-2030-07-22@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300722
 DTEND;VALUE=DATE:20300723
 SUMMARY:Minnesota: State sales & use tax return due
@@ -1894,7 +2374,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-minnesota-q2-2031-07-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310721
 DTEND;VALUE=DATE:20310722
 SUMMARY:Minnesota: State sales & use tax return due
@@ -1912,7 +2392,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-minnesota-q2-2032-07-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320720
 DTEND;VALUE=DATE:20320721
 SUMMARY:Minnesota: State sales & use tax return due
@@ -1930,7 +2410,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-minnesota-q3-2025-10-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20251020
 DTEND;VALUE=DATE:20251021
 SUMMARY:Minnesota: State sales & use tax return due
@@ -1948,7 +2428,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-minnesota-q3-2026-10-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Minnesota: State sales & use tax return due
@@ -1966,7 +2446,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-minnesota-q3-2027-10-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20271020
 DTEND;VALUE=DATE:20271021
 SUMMARY:Minnesota: State sales & use tax return due
@@ -1984,7 +2464,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-minnesota-q3-2028-10-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20281020
 DTEND;VALUE=DATE:20281021
 SUMMARY:Minnesota: State sales & use tax return due
@@ -2002,7 +2482,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-minnesota-q3-2029-10-22@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20291022
 DTEND;VALUE=DATE:20291023
 SUMMARY:Minnesota: State sales & use tax return due
@@ -2020,7 +2500,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-minnesota-q3-2030-10-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20301021
 DTEND;VALUE=DATE:20301022
 SUMMARY:Minnesota: State sales & use tax return due
@@ -2038,7 +2518,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-minnesota-q3-2031-10-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20311020
 DTEND;VALUE=DATE:20311021
 SUMMARY:Minnesota: State sales & use tax return due
@@ -2056,7 +2536,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-minnesota-q3-2032-10-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20321020
 DTEND;VALUE=DATE:20321021
 SUMMARY:Minnesota: State sales & use tax return due
@@ -2074,7 +2554,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-minnesota-q4-2025-01-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250121
 DTEND;VALUE=DATE:20250122
 SUMMARY:Minnesota: State sales & use tax return due
@@ -2092,7 +2572,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-minnesota-q4-2026-01-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260120
 DTEND;VALUE=DATE:20260121
 SUMMARY:Minnesota: State sales & use tax return due
@@ -2110,7 +2590,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-minnesota-q4-2027-01-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
 SUMMARY:Minnesota: State sales & use tax return due
@@ -2128,7 +2608,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-minnesota-q4-2028-01-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280120
 DTEND;VALUE=DATE:20280121
 SUMMARY:Minnesota: State sales & use tax return due
@@ -2146,7 +2626,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-minnesota-q4-2029-01-22@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290122
 DTEND;VALUE=DATE:20290123
 SUMMARY:Minnesota: State sales & use tax return due
@@ -2164,7 +2644,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-minnesota-q4-2030-01-22@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300122
 DTEND;VALUE=DATE:20300123
 SUMMARY:Minnesota: State sales & use tax return due
@@ -2182,7 +2662,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-minnesota-q4-2031-01-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310121
 DTEND;VALUE=DATE:20310122
 SUMMARY:Minnesota: State sales & use tax return due
@@ -2200,7 +2680,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-minnesota-q4-2032-01-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320120
 DTEND;VALUE=DATE:20320121
 SUMMARY:Minnesota: State sales & use tax return due

@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:state-corp-maryland-2025-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250415
 DTEND;VALUE=DATE:20250416
 SUMMARY:Maryland: State corporate income/franchise tax return due
@@ -26,7 +26,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-maryland-2026-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260416
 SUMMARY:Maryland: State corporate income/franchise tax return due
@@ -42,7 +42,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-maryland-2027-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:Maryland: State corporate income/franchise tax return due
@@ -58,7 +58,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-maryland-2028-04-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280417
 DTEND;VALUE=DATE:20280418
 SUMMARY:Maryland: State corporate income/franchise tax return due
@@ -74,7 +74,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-maryland-2029-04-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290416
 DTEND;VALUE=DATE:20290417
 SUMMARY:Maryland: State corporate income/franchise tax return due
@@ -90,7 +90,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-maryland-2030-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300415
 DTEND;VALUE=DATE:20300416
 SUMMARY:Maryland: State corporate income/franchise tax return due
@@ -106,7 +106,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-maryland-2031-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310415
 DTEND;VALUE=DATE:20310416
 SUMMARY:Maryland: State corporate income/franchise tax return due
@@ -122,7 +122,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-maryland-2032-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320415
 DTEND;VALUE=DATE:20320416
 SUMMARY:Maryland: State corporate income/franchise tax return due
@@ -137,8 +137,136 @@ DESCRIPTION:Due 15th day of 4th month after year end\; Form 500E grants an
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:state-corp-maryland-2025-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20251115
+DTEND;VALUE=DATE:20251116
+SUMMARY:Maryland: State corporate income/franchise tax return extended due 
+ date
+DESCRIPTION:Extended due date\, via None. | Due 15th day of 4th month after
+  year end\; Form 500E grants an additional 7 months (payment still due on o
+ riginal date). | Authority: Direct fetch of Maryland's own tax agency site/
+ publication this session | Source: https://www.marylandcomptroller.gov/cont
+ ent/dam/mdcomp/tax/instructions/2025/corporate-booklet.pdf | This date is c
+ omputed from a recurrence rule and may not reflect a later-announced change
+ \; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-maryland-2026-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Maryland: State corporate income/franchise tax return extended due 
+ date
+DESCRIPTION:Extended due date\, via None. | Due 15th day of 4th month after
+  year end\; Form 500E grants an additional 7 months (payment still due on o
+ riginal date). | Authority: Direct fetch of Maryland's own tax agency site/
+ publication this session | Source: https://www.marylandcomptroller.gov/cont
+ ent/dam/mdcomp/tax/instructions/2025/corporate-booklet.pdf | This date is c
+ omputed from a recurrence rule and may not reflect a later-announced change
+ \; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-maryland-2027-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20271115
+DTEND;VALUE=DATE:20271116
+SUMMARY:Maryland: State corporate income/franchise tax return extended due 
+ date
+DESCRIPTION:Extended due date\, via None. | Due 15th day of 4th month after
+  year end\; Form 500E grants an additional 7 months (payment still due on o
+ riginal date). | Authority: Direct fetch of Maryland's own tax agency site/
+ publication this session | Source: https://www.marylandcomptroller.gov/cont
+ ent/dam/mdcomp/tax/instructions/2025/corporate-booklet.pdf | This date is c
+ omputed from a recurrence rule and may not reflect a later-announced change
+ \; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-maryland-2028-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20281115
+DTEND;VALUE=DATE:20281116
+SUMMARY:Maryland: State corporate income/franchise tax return extended due 
+ date
+DESCRIPTION:Extended due date\, via None. | Due 15th day of 4th month after
+  year end\; Form 500E grants an additional 7 months (payment still due on o
+ riginal date). | Authority: Direct fetch of Maryland's own tax agency site/
+ publication this session | Source: https://www.marylandcomptroller.gov/cont
+ ent/dam/mdcomp/tax/instructions/2025/corporate-booklet.pdf | This date is c
+ omputed from a recurrence rule and may not reflect a later-announced change
+ \; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-maryland-2029-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20291115
+DTEND;VALUE=DATE:20291116
+SUMMARY:Maryland: State corporate income/franchise tax return extended due 
+ date
+DESCRIPTION:Extended due date\, via None. | Due 15th day of 4th month after
+  year end\; Form 500E grants an additional 7 months (payment still due on o
+ riginal date). | Authority: Direct fetch of Maryland's own tax agency site/
+ publication this session | Source: https://www.marylandcomptroller.gov/cont
+ ent/dam/mdcomp/tax/instructions/2025/corporate-booklet.pdf | This date is c
+ omputed from a recurrence rule and may not reflect a later-announced change
+ \; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-maryland-2030-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20301115
+DTEND;VALUE=DATE:20301116
+SUMMARY:Maryland: State corporate income/franchise tax return extended due 
+ date
+DESCRIPTION:Extended due date\, via None. | Due 15th day of 4th month after
+  year end\; Form 500E grants an additional 7 months (payment still due on o
+ riginal date). | Authority: Direct fetch of Maryland's own tax agency site/
+ publication this session | Source: https://www.marylandcomptroller.gov/cont
+ ent/dam/mdcomp/tax/instructions/2025/corporate-booklet.pdf | This date is c
+ omputed from a recurrence rule and may not reflect a later-announced change
+ \; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-maryland-2031-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20311115
+DTEND;VALUE=DATE:20311116
+SUMMARY:Maryland: State corporate income/franchise tax return extended due 
+ date
+DESCRIPTION:Extended due date\, via None. | Due 15th day of 4th month after
+  year end\; Form 500E grants an additional 7 months (payment still due on o
+ riginal date). | Authority: Direct fetch of Maryland's own tax agency site/
+ publication this session | Source: https://www.marylandcomptroller.gov/cont
+ ent/dam/mdcomp/tax/instructions/2025/corporate-booklet.pdf | This date is c
+ omputed from a recurrence rule and may not reflect a later-announced change
+ \; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-maryland-2032-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20321115
+DTEND;VALUE=DATE:20321116
+SUMMARY:Maryland: State corporate income/franchise tax return extended due 
+ date
+DESCRIPTION:Extended due date\, via None. | Due 15th day of 4th month after
+  year end\; Form 500E grants an additional 7 months (payment still due on o
+ riginal date). | Authority: Direct fetch of Maryland's own tax agency site/
+ publication this session | Source: https://www.marylandcomptroller.gov/cont
+ ent/dam/mdcomp/tax/instructions/2025/corporate-booklet.pdf | This date is c
+ omputed from a recurrence rule and may not reflect a later-announced change
+ \; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:state-est-maryland-q1-2025-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250415
 DTEND;VALUE=DATE:20250416
 SUMMARY:Maryland: State individual quarterly estimated tax payment due
@@ -154,7 +282,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-maryland-q1-2026-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260416
 SUMMARY:Maryland: State individual quarterly estimated tax payment due
@@ -170,7 +298,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-maryland-q1-2027-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:Maryland: State individual quarterly estimated tax payment due
@@ -186,7 +314,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-maryland-q1-2028-04-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280417
 DTEND;VALUE=DATE:20280418
 SUMMARY:Maryland: State individual quarterly estimated tax payment due
@@ -202,7 +330,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-maryland-q1-2029-04-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290416
 DTEND;VALUE=DATE:20290417
 SUMMARY:Maryland: State individual quarterly estimated tax payment due
@@ -218,7 +346,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-maryland-q1-2030-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300415
 DTEND;VALUE=DATE:20300416
 SUMMARY:Maryland: State individual quarterly estimated tax payment due
@@ -234,7 +362,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-maryland-q1-2031-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310415
 DTEND;VALUE=DATE:20310416
 SUMMARY:Maryland: State individual quarterly estimated tax payment due
@@ -250,7 +378,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-maryland-q1-2032-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320415
 DTEND;VALUE=DATE:20320416
 SUMMARY:Maryland: State individual quarterly estimated tax payment due
@@ -266,7 +394,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-maryland-q2-2025-06-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250616
 DTEND;VALUE=DATE:20250617
 SUMMARY:Maryland: State individual quarterly estimated tax payment due
@@ -282,7 +410,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-maryland-q2-2026-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260615
 DTEND;VALUE=DATE:20260616
 SUMMARY:Maryland: State individual quarterly estimated tax payment due
@@ -298,7 +426,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-maryland-q2-2027-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270615
 DTEND;VALUE=DATE:20270616
 SUMMARY:Maryland: State individual quarterly estimated tax payment due
@@ -314,7 +442,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-maryland-q2-2028-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280615
 DTEND;VALUE=DATE:20280616
 SUMMARY:Maryland: State individual quarterly estimated tax payment due
@@ -330,7 +458,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-maryland-q2-2029-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290615
 DTEND;VALUE=DATE:20290616
 SUMMARY:Maryland: State individual quarterly estimated tax payment due
@@ -346,7 +474,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-maryland-q2-2030-06-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300617
 DTEND;VALUE=DATE:20300618
 SUMMARY:Maryland: State individual quarterly estimated tax payment due
@@ -362,7 +490,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-maryland-q2-2031-06-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310616
 DTEND;VALUE=DATE:20310617
 SUMMARY:Maryland: State individual quarterly estimated tax payment due
@@ -378,7 +506,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-maryland-q2-2032-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320615
 DTEND;VALUE=DATE:20320616
 SUMMARY:Maryland: State individual quarterly estimated tax payment due
@@ -394,7 +522,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-maryland-q3-2025-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250915
 DTEND;VALUE=DATE:20250916
 SUMMARY:Maryland: State individual quarterly estimated tax payment due
@@ -410,7 +538,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-maryland-q3-2026-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Maryland: State individual quarterly estimated tax payment due
@@ -426,7 +554,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-maryland-q3-2027-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270915
 DTEND;VALUE=DATE:20270916
 SUMMARY:Maryland: State individual quarterly estimated tax payment due
@@ -442,7 +570,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-maryland-q3-2028-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280915
 DTEND;VALUE=DATE:20280916
 SUMMARY:Maryland: State individual quarterly estimated tax payment due
@@ -458,7 +586,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-maryland-q3-2029-09-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290917
 DTEND;VALUE=DATE:20290918
 SUMMARY:Maryland: State individual quarterly estimated tax payment due
@@ -474,7 +602,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-maryland-q3-2030-09-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300916
 DTEND;VALUE=DATE:20300917
 SUMMARY:Maryland: State individual quarterly estimated tax payment due
@@ -490,7 +618,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-maryland-q3-2031-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310915
 DTEND;VALUE=DATE:20310916
 SUMMARY:Maryland: State individual quarterly estimated tax payment due
@@ -506,7 +634,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-maryland-q3-2032-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320915
 DTEND;VALUE=DATE:20320916
 SUMMARY:Maryland: State individual quarterly estimated tax payment due
@@ -522,7 +650,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-maryland-q4-2025-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250115
 DTEND;VALUE=DATE:20250116
 SUMMARY:Maryland: State individual quarterly estimated tax payment due
@@ -538,7 +666,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-maryland-q4-2026-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260115
 DTEND;VALUE=DATE:20260116
 SUMMARY:Maryland: State individual quarterly estimated tax payment due
@@ -554,7 +682,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-maryland-q4-2027-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Maryland: State individual quarterly estimated tax payment due
@@ -570,7 +698,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-maryland-q4-2028-01-18@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280118
 DTEND;VALUE=DATE:20280119
 SUMMARY:Maryland: State individual quarterly estimated tax payment due
@@ -586,7 +714,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-maryland-q4-2029-01-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290116
 DTEND;VALUE=DATE:20290117
 SUMMARY:Maryland: State individual quarterly estimated tax payment due
@@ -602,7 +730,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-maryland-q4-2030-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300115
 DTEND;VALUE=DATE:20300116
 SUMMARY:Maryland: State individual quarterly estimated tax payment due
@@ -618,7 +746,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-maryland-q4-2031-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310115
 DTEND;VALUE=DATE:20310116
 SUMMARY:Maryland: State individual quarterly estimated tax payment due
@@ -634,7 +762,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-maryland-q4-2032-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320115
 DTEND;VALUE=DATE:20320116
 SUMMARY:Maryland: State individual quarterly estimated tax payment due
@@ -650,7 +778,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-ma-2025-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250415
 DTEND;VALUE=DATE:20250416
 SUMMARY:Maryland: State individual income tax return due
@@ -669,7 +797,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-ma-2026-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260416
 SUMMARY:Maryland: State individual income tax return due
@@ -688,7 +816,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-ma-2027-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:Maryland: State individual income tax return due
@@ -707,7 +835,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-ma-2028-04-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280417
 DTEND;VALUE=DATE:20280418
 SUMMARY:Maryland: State individual income tax return due
@@ -726,7 +854,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-ma-2029-04-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290416
 DTEND;VALUE=DATE:20290417
 SUMMARY:Maryland: State individual income tax return due
@@ -745,7 +873,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-ma-2030-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300415
 DTEND;VALUE=DATE:20300416
 SUMMARY:Maryland: State individual income tax return due
@@ -764,7 +892,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-ma-2031-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310415
 DTEND;VALUE=DATE:20310416
 SUMMARY:Maryland: State individual income tax return due
@@ -783,7 +911,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-ma-2032-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320415
 DTEND;VALUE=DATE:20320416
 SUMMARY:Maryland: State individual income tax return due
@@ -802,7 +930,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-maryland-2025-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250415
 DTEND;VALUE=DATE:20250416
 SUMMARY:Maryland: Form 510 due
@@ -824,7 +952,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-maryland-2026-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260416
 SUMMARY:Maryland: Form 510 due
@@ -846,7 +974,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-maryland-2027-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:Maryland: Form 510 due
@@ -868,7 +996,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-maryland-2028-04-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280417
 DTEND;VALUE=DATE:20280418
 SUMMARY:Maryland: Form 510 due
@@ -890,7 +1018,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-maryland-2029-04-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290416
 DTEND;VALUE=DATE:20290417
 SUMMARY:Maryland: Form 510 due
@@ -912,7 +1040,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-maryland-2030-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300415
 DTEND;VALUE=DATE:20300416
 SUMMARY:Maryland: Form 510 due
@@ -934,7 +1062,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-maryland-2031-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310415
 DTEND;VALUE=DATE:20310416
 SUMMARY:Maryland: Form 510 due
@@ -956,7 +1084,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-maryland-2032-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320415
 DTEND;VALUE=DATE:20320416
 SUMMARY:Maryland: Form 510 due
@@ -977,8 +1105,184 @@ DESCRIPTION:Maryland pass-through entity return due the 15th day of the 4th
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:state-pte-maryland-2025-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20251015
+DTEND;VALUE=DATE:20251016
+SUMMARY:Maryland: Form 510 extended due date
+DESCRIPTION:Extended due date\, via Automatic upon timely filing Form 510/5
+ 11E\, with full payment of balance due (6 months for non-S-corp PTEs\, 7 mo
+ nths / November 15 for S corporations).. | Maryland pass-through entity ret
+ urn due the 15th day of the 4th month after year-end. MD allows an entity-l
+ evel elective PTE tax with quarterly estimated payments if expected tax exc
+ eeds $1\,000. Automatic upon timely filing Form 510/511E\, with full paymen
+ t of balance due (6 months for non-S-corp PTEs\, 7 months / November 15 for
+  S corporations). | Authority: Comptroller of Maryland\, direct fetch this 
+ session: "File Form 510 by the 15th day of the 4th month following the clos
+ e of the tax year or period" and "seven months for S corporations and six m
+ onths for other PTEs." | Source: https://www.marylandcomptroller.gov/conten
+ t/dam/mdcomp/tax/instructions/2025/pte-booklet-510.pdf | This date is compu
+ ted from a recurrence rule and may not reflect a later-announced change\; c
+ onfirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-maryland-2026-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Maryland: Form 510 extended due date
+DESCRIPTION:Extended due date\, via Automatic upon timely filing Form 510/5
+ 11E\, with full payment of balance due (6 months for non-S-corp PTEs\, 7 mo
+ nths / November 15 for S corporations).. | Maryland pass-through entity ret
+ urn due the 15th day of the 4th month after year-end. MD allows an entity-l
+ evel elective PTE tax with quarterly estimated payments if expected tax exc
+ eeds $1\,000. Automatic upon timely filing Form 510/511E\, with full paymen
+ t of balance due (6 months for non-S-corp PTEs\, 7 months / November 15 for
+  S corporations). | Authority: Comptroller of Maryland\, direct fetch this 
+ session: "File Form 510 by the 15th day of the 4th month following the clos
+ e of the tax year or period" and "seven months for S corporations and six m
+ onths for other PTEs." | Source: https://www.marylandcomptroller.gov/conten
+ t/dam/mdcomp/tax/instructions/2025/pte-booklet-510.pdf | This date is compu
+ ted from a recurrence rule and may not reflect a later-announced change\; c
+ onfirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-maryland-2027-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271016
+SUMMARY:Maryland: Form 510 extended due date
+DESCRIPTION:Extended due date\, via Automatic upon timely filing Form 510/5
+ 11E\, with full payment of balance due (6 months for non-S-corp PTEs\, 7 mo
+ nths / November 15 for S corporations).. | Maryland pass-through entity ret
+ urn due the 15th day of the 4th month after year-end. MD allows an entity-l
+ evel elective PTE tax with quarterly estimated payments if expected tax exc
+ eeds $1\,000. Automatic upon timely filing Form 510/511E\, with full paymen
+ t of balance due (6 months for non-S-corp PTEs\, 7 months / November 15 for
+  S corporations). | Authority: Comptroller of Maryland\, direct fetch this 
+ session: "File Form 510 by the 15th day of the 4th month following the clos
+ e of the tax year or period" and "seven months for S corporations and six m
+ onths for other PTEs." | Source: https://www.marylandcomptroller.gov/conten
+ t/dam/mdcomp/tax/instructions/2025/pte-booklet-510.pdf | This date is compu
+ ted from a recurrence rule and may not reflect a later-announced change\; c
+ onfirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-maryland-2028-10-16-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20281016
+DTEND;VALUE=DATE:20281017
+SUMMARY:Maryland: Form 510 extended due date
+DESCRIPTION:Extended due date\, via Automatic upon timely filing Form 510/5
+ 11E\, with full payment of balance due (6 months for non-S-corp PTEs\, 7 mo
+ nths / November 15 for S corporations).. | Maryland pass-through entity ret
+ urn due the 15th day of the 4th month after year-end. MD allows an entity-l
+ evel elective PTE tax with quarterly estimated payments if expected tax exc
+ eeds $1\,000. Automatic upon timely filing Form 510/511E\, with full paymen
+ t of balance due (6 months for non-S-corp PTEs\, 7 months / November 15 for
+  S corporations). | Authority: Comptroller of Maryland\, direct fetch this 
+ session: "File Form 510 by the 15th day of the 4th month following the clos
+ e of the tax year or period" and "seven months for S corporations and six m
+ onths for other PTEs." | Source: https://www.marylandcomptroller.gov/conten
+ t/dam/mdcomp/tax/instructions/2025/pte-booklet-510.pdf | This date is compu
+ ted from a recurrence rule and may not reflect a later-announced change\; c
+ onfirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-maryland-2029-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20291015
+DTEND;VALUE=DATE:20291016
+SUMMARY:Maryland: Form 510 extended due date
+DESCRIPTION:Extended due date\, via Automatic upon timely filing Form 510/5
+ 11E\, with full payment of balance due (6 months for non-S-corp PTEs\, 7 mo
+ nths / November 15 for S corporations).. | Maryland pass-through entity ret
+ urn due the 15th day of the 4th month after year-end. MD allows an entity-l
+ evel elective PTE tax with quarterly estimated payments if expected tax exc
+ eeds $1\,000. Automatic upon timely filing Form 510/511E\, with full paymen
+ t of balance due (6 months for non-S-corp PTEs\, 7 months / November 15 for
+  S corporations). | Authority: Comptroller of Maryland\, direct fetch this 
+ session: "File Form 510 by the 15th day of the 4th month following the clos
+ e of the tax year or period" and "seven months for S corporations and six m
+ onths for other PTEs." | Source: https://www.marylandcomptroller.gov/conten
+ t/dam/mdcomp/tax/instructions/2025/pte-booklet-510.pdf | This date is compu
+ ted from a recurrence rule and may not reflect a later-announced change\; c
+ onfirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-maryland-2030-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20301015
+DTEND;VALUE=DATE:20301016
+SUMMARY:Maryland: Form 510 extended due date
+DESCRIPTION:Extended due date\, via Automatic upon timely filing Form 510/5
+ 11E\, with full payment of balance due (6 months for non-S-corp PTEs\, 7 mo
+ nths / November 15 for S corporations).. | Maryland pass-through entity ret
+ urn due the 15th day of the 4th month after year-end. MD allows an entity-l
+ evel elective PTE tax with quarterly estimated payments if expected tax exc
+ eeds $1\,000. Automatic upon timely filing Form 510/511E\, with full paymen
+ t of balance due (6 months for non-S-corp PTEs\, 7 months / November 15 for
+  S corporations). | Authority: Comptroller of Maryland\, direct fetch this 
+ session: "File Form 510 by the 15th day of the 4th month following the clos
+ e of the tax year or period" and "seven months for S corporations and six m
+ onths for other PTEs." | Source: https://www.marylandcomptroller.gov/conten
+ t/dam/mdcomp/tax/instructions/2025/pte-booklet-510.pdf | This date is compu
+ ted from a recurrence rule and may not reflect a later-announced change\; c
+ onfirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-maryland-2031-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20311015
+DTEND;VALUE=DATE:20311016
+SUMMARY:Maryland: Form 510 extended due date
+DESCRIPTION:Extended due date\, via Automatic upon timely filing Form 510/5
+ 11E\, with full payment of balance due (6 months for non-S-corp PTEs\, 7 mo
+ nths / November 15 for S corporations).. | Maryland pass-through entity ret
+ urn due the 15th day of the 4th month after year-end. MD allows an entity-l
+ evel elective PTE tax with quarterly estimated payments if expected tax exc
+ eeds $1\,000. Automatic upon timely filing Form 510/511E\, with full paymen
+ t of balance due (6 months for non-S-corp PTEs\, 7 months / November 15 for
+  S corporations). | Authority: Comptroller of Maryland\, direct fetch this 
+ session: "File Form 510 by the 15th day of the 4th month following the clos
+ e of the tax year or period" and "seven months for S corporations and six m
+ onths for other PTEs." | Source: https://www.marylandcomptroller.gov/conten
+ t/dam/mdcomp/tax/instructions/2025/pte-booklet-510.pdf | This date is compu
+ ted from a recurrence rule and may not reflect a later-announced change\; c
+ onfirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-maryland-2032-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20321015
+DTEND;VALUE=DATE:20321016
+SUMMARY:Maryland: Form 510 extended due date
+DESCRIPTION:Extended due date\, via Automatic upon timely filing Form 510/5
+ 11E\, with full payment of balance due (6 months for non-S-corp PTEs\, 7 mo
+ nths / November 15 for S corporations).. | Maryland pass-through entity ret
+ urn due the 15th day of the 4th month after year-end. MD allows an entity-l
+ evel elective PTE tax with quarterly estimated payments if expected tax exc
+ eeds $1\,000. Automatic upon timely filing Form 510/511E\, with full paymen
+ t of balance due (6 months for non-S-corp PTEs\, 7 months / November 15 for
+  S corporations). | Authority: Comptroller of Maryland\, direct fetch this 
+ session: "File Form 510 by the 15th day of the 4th month following the clos
+ e of the tax year or period" and "seven months for S corporations and six m
+ onths for other PTEs." | Source: https://www.marylandcomptroller.gov/conten
+ t/dam/mdcomp/tax/instructions/2025/pte-booklet-510.pdf | This date is compu
+ ted from a recurrence rule and may not reflect a later-announced change\; c
+ onfirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:state-sui-maryland-q1-2025-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250430
 DTEND;VALUE=DATE:20250501
 SUMMARY:Maryland: State unemployment insurance quarterly return due
@@ -994,7 +1298,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-maryland-q1-2026-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260501
 SUMMARY:Maryland: State unemployment insurance quarterly return due
@@ -1010,7 +1314,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-maryland-q1-2027-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270501
 SUMMARY:Maryland: State unemployment insurance quarterly return due
@@ -1026,7 +1330,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-maryland-q1-2028-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280430
 DTEND;VALUE=DATE:20280501
 SUMMARY:Maryland: State unemployment insurance quarterly return due
@@ -1042,7 +1346,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-maryland-q1-2029-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290430
 DTEND;VALUE=DATE:20290501
 SUMMARY:Maryland: State unemployment insurance quarterly return due
@@ -1058,7 +1362,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-maryland-q1-2030-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300430
 DTEND;VALUE=DATE:20300501
 SUMMARY:Maryland: State unemployment insurance quarterly return due
@@ -1074,7 +1378,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-maryland-q1-2031-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310430
 DTEND;VALUE=DATE:20310501
 SUMMARY:Maryland: State unemployment insurance quarterly return due
@@ -1090,7 +1394,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-maryland-q1-2032-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320430
 DTEND;VALUE=DATE:20320501
 SUMMARY:Maryland: State unemployment insurance quarterly return due
@@ -1106,7 +1410,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-maryland-q2-2025-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250731
 DTEND;VALUE=DATE:20250801
 SUMMARY:Maryland: State unemployment insurance quarterly return due
@@ -1122,7 +1426,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-maryland-q2-2026-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
 SUMMARY:Maryland: State unemployment insurance quarterly return due
@@ -1138,7 +1442,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-maryland-q2-2027-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270731
 DTEND;VALUE=DATE:20270801
 SUMMARY:Maryland: State unemployment insurance quarterly return due
@@ -1154,7 +1458,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-maryland-q2-2028-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280731
 DTEND;VALUE=DATE:20280801
 SUMMARY:Maryland: State unemployment insurance quarterly return due
@@ -1170,7 +1474,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-maryland-q2-2029-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290731
 DTEND;VALUE=DATE:20290801
 SUMMARY:Maryland: State unemployment insurance quarterly return due
@@ -1186,7 +1490,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-maryland-q2-2030-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300731
 DTEND;VALUE=DATE:20300801
 SUMMARY:Maryland: State unemployment insurance quarterly return due
@@ -1202,7 +1506,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-maryland-q2-2031-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310731
 DTEND;VALUE=DATE:20310801
 SUMMARY:Maryland: State unemployment insurance quarterly return due
@@ -1218,7 +1522,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-maryland-q2-2032-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320731
 DTEND;VALUE=DATE:20320801
 SUMMARY:Maryland: State unemployment insurance quarterly return due
@@ -1234,7 +1538,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-maryland-q3-2025-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20251031
 DTEND;VALUE=DATE:20251101
 SUMMARY:Maryland: State unemployment insurance quarterly return due
@@ -1250,7 +1554,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-maryland-q3-2026-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Maryland: State unemployment insurance quarterly return due
@@ -1266,7 +1570,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-maryland-q3-2027-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20271031
 DTEND;VALUE=DATE:20271101
 SUMMARY:Maryland: State unemployment insurance quarterly return due
@@ -1282,7 +1586,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-maryland-q3-2028-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20281031
 DTEND;VALUE=DATE:20281101
 SUMMARY:Maryland: State unemployment insurance quarterly return due
@@ -1298,7 +1602,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-maryland-q3-2029-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20291031
 DTEND;VALUE=DATE:20291101
 SUMMARY:Maryland: State unemployment insurance quarterly return due
@@ -1314,7 +1618,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-maryland-q3-2030-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20301031
 DTEND;VALUE=DATE:20301101
 SUMMARY:Maryland: State unemployment insurance quarterly return due
@@ -1330,7 +1634,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-maryland-q3-2031-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20311031
 DTEND;VALUE=DATE:20311101
 SUMMARY:Maryland: State unemployment insurance quarterly return due
@@ -1346,7 +1650,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-maryland-q3-2032-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20321031
 DTEND;VALUE=DATE:20321101
 SUMMARY:Maryland: State unemployment insurance quarterly return due
@@ -1362,7 +1666,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-maryland-q4-2025-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250131
 DTEND;VALUE=DATE:20250201
 SUMMARY:Maryland: State unemployment insurance quarterly return due
@@ -1378,7 +1682,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-maryland-q4-2026-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260131
 DTEND;VALUE=DATE:20260201
 SUMMARY:Maryland: State unemployment insurance quarterly return due
@@ -1394,7 +1698,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-maryland-q4-2027-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:Maryland: State unemployment insurance quarterly return due
@@ -1410,7 +1714,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-maryland-q4-2028-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280131
 DTEND;VALUE=DATE:20280201
 SUMMARY:Maryland: State unemployment insurance quarterly return due
@@ -1426,7 +1730,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-maryland-q4-2029-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290131
 DTEND;VALUE=DATE:20290201
 SUMMARY:Maryland: State unemployment insurance quarterly return due
@@ -1442,7 +1746,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-maryland-q4-2030-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300131
 DTEND;VALUE=DATE:20300201
 SUMMARY:Maryland: State unemployment insurance quarterly return due
@@ -1458,7 +1762,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-maryland-q4-2031-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310131
 DTEND;VALUE=DATE:20310201
 SUMMARY:Maryland: State unemployment insurance quarterly return due
@@ -1474,7 +1778,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-maryland-q4-2032-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320131
 DTEND;VALUE=DATE:20320201
 SUMMARY:Maryland: State unemployment insurance quarterly return due
@@ -1490,7 +1794,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-maryland-q1-2025-04-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250421
 DTEND;VALUE=DATE:20250422
 SUMMARY:Maryland: State sales & use tax return due
@@ -1509,7 +1813,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-maryland-q1-2026-04-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260421
 SUMMARY:Maryland: State sales & use tax return due
@@ -1528,7 +1832,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-maryland-q1-2027-04-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270421
 SUMMARY:Maryland: State sales & use tax return due
@@ -1547,7 +1851,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-maryland-q1-2028-04-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280420
 DTEND;VALUE=DATE:20280421
 SUMMARY:Maryland: State sales & use tax return due
@@ -1566,7 +1870,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-maryland-q1-2029-04-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290420
 DTEND;VALUE=DATE:20290421
 SUMMARY:Maryland: State sales & use tax return due
@@ -1585,7 +1889,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-maryland-q1-2030-04-22@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300422
 DTEND;VALUE=DATE:20300423
 SUMMARY:Maryland: State sales & use tax return due
@@ -1604,7 +1908,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-maryland-q1-2031-04-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310421
 DTEND;VALUE=DATE:20310422
 SUMMARY:Maryland: State sales & use tax return due
@@ -1623,7 +1927,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-maryland-q1-2032-04-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320420
 DTEND;VALUE=DATE:20320421
 SUMMARY:Maryland: State sales & use tax return due
@@ -1642,7 +1946,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-maryland-q2-2025-07-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250721
 DTEND;VALUE=DATE:20250722
 SUMMARY:Maryland: State sales & use tax return due
@@ -1661,7 +1965,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-maryland-q2-2026-07-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260720
 DTEND;VALUE=DATE:20260721
 SUMMARY:Maryland: State sales & use tax return due
@@ -1680,7 +1984,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-maryland-q2-2027-07-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270720
 DTEND;VALUE=DATE:20270721
 SUMMARY:Maryland: State sales & use tax return due
@@ -1699,7 +2003,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-maryland-q2-2028-07-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280720
 DTEND;VALUE=DATE:20280721
 SUMMARY:Maryland: State sales & use tax return due
@@ -1718,7 +2022,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-maryland-q2-2029-07-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290720
 DTEND;VALUE=DATE:20290721
 SUMMARY:Maryland: State sales & use tax return due
@@ -1737,7 +2041,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-maryland-q2-2030-07-22@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300722
 DTEND;VALUE=DATE:20300723
 SUMMARY:Maryland: State sales & use tax return due
@@ -1756,7 +2060,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-maryland-q2-2031-07-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310721
 DTEND;VALUE=DATE:20310722
 SUMMARY:Maryland: State sales & use tax return due
@@ -1775,7 +2079,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-maryland-q2-2032-07-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320720
 DTEND;VALUE=DATE:20320721
 SUMMARY:Maryland: State sales & use tax return due
@@ -1794,7 +2098,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-maryland-q3-2025-10-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20251020
 DTEND;VALUE=DATE:20251021
 SUMMARY:Maryland: State sales & use tax return due
@@ -1813,7 +2117,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-maryland-q3-2026-10-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Maryland: State sales & use tax return due
@@ -1832,7 +2136,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-maryland-q3-2027-10-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20271020
 DTEND;VALUE=DATE:20271021
 SUMMARY:Maryland: State sales & use tax return due
@@ -1851,7 +2155,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-maryland-q3-2028-10-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20281020
 DTEND;VALUE=DATE:20281021
 SUMMARY:Maryland: State sales & use tax return due
@@ -1870,7 +2174,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-maryland-q3-2029-10-22@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20291022
 DTEND;VALUE=DATE:20291023
 SUMMARY:Maryland: State sales & use tax return due
@@ -1889,7 +2193,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-maryland-q3-2030-10-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20301021
 DTEND;VALUE=DATE:20301022
 SUMMARY:Maryland: State sales & use tax return due
@@ -1908,7 +2212,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-maryland-q3-2031-10-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20311020
 DTEND;VALUE=DATE:20311021
 SUMMARY:Maryland: State sales & use tax return due
@@ -1927,7 +2231,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-maryland-q3-2032-10-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20321020
 DTEND;VALUE=DATE:20321021
 SUMMARY:Maryland: State sales & use tax return due
@@ -1946,7 +2250,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-maryland-q4-2025-01-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250121
 DTEND;VALUE=DATE:20250122
 SUMMARY:Maryland: State sales & use tax return due
@@ -1965,7 +2269,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-maryland-q4-2026-01-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260120
 DTEND;VALUE=DATE:20260121
 SUMMARY:Maryland: State sales & use tax return due
@@ -1984,7 +2288,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-maryland-q4-2027-01-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
 SUMMARY:Maryland: State sales & use tax return due
@@ -2003,7 +2307,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-maryland-q4-2028-01-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280120
 DTEND;VALUE=DATE:20280121
 SUMMARY:Maryland: State sales & use tax return due
@@ -2022,7 +2326,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-maryland-q4-2029-01-22@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290122
 DTEND;VALUE=DATE:20290123
 SUMMARY:Maryland: State sales & use tax return due
@@ -2041,7 +2345,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-maryland-q4-2030-01-22@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300122
 DTEND;VALUE=DATE:20300123
 SUMMARY:Maryland: State sales & use tax return due
@@ -2060,7 +2364,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-maryland-q4-2031-01-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310121
 DTEND;VALUE=DATE:20310122
 SUMMARY:Maryland: State sales & use tax return due
@@ -2079,7 +2383,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-maryland-q4-2032-01-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320120
 DTEND;VALUE=DATE:20320121
 SUMMARY:Maryland: State sales & use tax return due

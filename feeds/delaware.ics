@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:state-corp-delaware-2025-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250415
 DTEND;VALUE=DATE:20250416
 SUMMARY:Delaware: State corporate income/franchise tax return due
@@ -27,7 +27,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-delaware-2026-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260416
 SUMMARY:Delaware: State corporate income/franchise tax return due
@@ -44,7 +44,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-delaware-2027-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:Delaware: State corporate income/franchise tax return due
@@ -61,7 +61,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-delaware-2028-04-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280417
 DTEND;VALUE=DATE:20280418
 SUMMARY:Delaware: State corporate income/franchise tax return due
@@ -78,7 +78,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-delaware-2029-04-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290416
 DTEND;VALUE=DATE:20290417
 SUMMARY:Delaware: State corporate income/franchise tax return due
@@ -95,7 +95,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-delaware-2030-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300415
 DTEND;VALUE=DATE:20300416
 SUMMARY:Delaware: State corporate income/franchise tax return due
@@ -112,7 +112,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-delaware-2031-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310415
 DTEND;VALUE=DATE:20310416
 SUMMARY:Delaware: State corporate income/franchise tax return due
@@ -129,7 +129,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-delaware-2032-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320415
 DTEND;VALUE=DATE:20320416
 SUMMARY:Delaware: State corporate income/franchise tax return due
@@ -145,8 +145,136 @@ DESCRIPTION:Form 1100 due 15th day of 4th month after year end\; a federal
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:state-corp-delaware-2025-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20251015
+DTEND;VALUE=DATE:20251016
+SUMMARY:Delaware: State corporate income/franchise tax return extended due 
+ date
+DESCRIPTION:Extended due date\, via None. | Form 1100 due 15th day of 4th m
+ onth after year end\; a federal 6-month extension automatically extends the
+  Delaware filing date by 6 months. | Authority: Direct fetch of Delaware's 
+ own tax agency site/publication this session | Source: https://revenuefiles
+ .delaware.gov/2022/1100_TY22Instructions.pdf | This date is computed from a
+  recurrence rule and may not reflect a later-announced change\; confirm aga
+ inst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-delaware-2026-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Delaware: State corporate income/franchise tax return extended due 
+ date
+DESCRIPTION:Extended due date\, via None. | Form 1100 due 15th day of 4th m
+ onth after year end\; a federal 6-month extension automatically extends the
+  Delaware filing date by 6 months. | Authority: Direct fetch of Delaware's 
+ own tax agency site/publication this session | Source: https://revenuefiles
+ .delaware.gov/2022/1100_TY22Instructions.pdf | This date is computed from a
+  recurrence rule and may not reflect a later-announced change\; confirm aga
+ inst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-delaware-2027-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271016
+SUMMARY:Delaware: State corporate income/franchise tax return extended due 
+ date
+DESCRIPTION:Extended due date\, via None. | Form 1100 due 15th day of 4th m
+ onth after year end\; a federal 6-month extension automatically extends the
+  Delaware filing date by 6 months. | Authority: Direct fetch of Delaware's 
+ own tax agency site/publication this session | Source: https://revenuefiles
+ .delaware.gov/2022/1100_TY22Instructions.pdf | This date is computed from a
+  recurrence rule and may not reflect a later-announced change\; confirm aga
+ inst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-delaware-2028-10-16-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20281016
+DTEND;VALUE=DATE:20281017
+SUMMARY:Delaware: State corporate income/franchise tax return extended due 
+ date
+DESCRIPTION:Extended due date\, via None. | Form 1100 due 15th day of 4th m
+ onth after year end\; a federal 6-month extension automatically extends the
+  Delaware filing date by 6 months. | Authority: Direct fetch of Delaware's 
+ own tax agency site/publication this session | Source: https://revenuefiles
+ .delaware.gov/2022/1100_TY22Instructions.pdf | This date is computed from a
+  recurrence rule and may not reflect a later-announced change\; confirm aga
+ inst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-delaware-2029-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20291015
+DTEND;VALUE=DATE:20291016
+SUMMARY:Delaware: State corporate income/franchise tax return extended due 
+ date
+DESCRIPTION:Extended due date\, via None. | Form 1100 due 15th day of 4th m
+ onth after year end\; a federal 6-month extension automatically extends the
+  Delaware filing date by 6 months. | Authority: Direct fetch of Delaware's 
+ own tax agency site/publication this session | Source: https://revenuefiles
+ .delaware.gov/2022/1100_TY22Instructions.pdf | This date is computed from a
+  recurrence rule and may not reflect a later-announced change\; confirm aga
+ inst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-delaware-2030-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20301015
+DTEND;VALUE=DATE:20301016
+SUMMARY:Delaware: State corporate income/franchise tax return extended due 
+ date
+DESCRIPTION:Extended due date\, via None. | Form 1100 due 15th day of 4th m
+ onth after year end\; a federal 6-month extension automatically extends the
+  Delaware filing date by 6 months. | Authority: Direct fetch of Delaware's 
+ own tax agency site/publication this session | Source: https://revenuefiles
+ .delaware.gov/2022/1100_TY22Instructions.pdf | This date is computed from a
+  recurrence rule and may not reflect a later-announced change\; confirm aga
+ inst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-delaware-2031-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20311015
+DTEND;VALUE=DATE:20311016
+SUMMARY:Delaware: State corporate income/franchise tax return extended due 
+ date
+DESCRIPTION:Extended due date\, via None. | Form 1100 due 15th day of 4th m
+ onth after year end\; a federal 6-month extension automatically extends the
+  Delaware filing date by 6 months. | Authority: Direct fetch of Delaware's 
+ own tax agency site/publication this session | Source: https://revenuefiles
+ .delaware.gov/2022/1100_TY22Instructions.pdf | This date is computed from a
+  recurrence rule and may not reflect a later-announced change\; confirm aga
+ inst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-delaware-2032-10-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20321015
+DTEND;VALUE=DATE:20321016
+SUMMARY:Delaware: State corporate income/franchise tax return extended due 
+ date
+DESCRIPTION:Extended due date\, via None. | Form 1100 due 15th day of 4th m
+ onth after year end\; a federal 6-month extension automatically extends the
+  Delaware filing date by 6 months. | Authority: Direct fetch of Delaware's 
+ own tax agency site/publication this session | Source: https://revenuefiles
+ .delaware.gov/2022/1100_TY22Instructions.pdf | This date is computed from a
+  recurrence rule and may not reflect a later-announced change\; confirm aga
+ inst the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:state-est-delaware-q1-2025-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250430
 DTEND;VALUE=DATE:20250501
 SUMMARY:Delaware: State individual quarterly estimated tax payment due
@@ -164,7 +292,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-delaware-q1-2026-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260501
 SUMMARY:Delaware: State individual quarterly estimated tax payment due
@@ -182,7 +310,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-delaware-q1-2027-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270501
 SUMMARY:Delaware: State individual quarterly estimated tax payment due
@@ -200,7 +328,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-delaware-q1-2028-05-01@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280501
 DTEND;VALUE=DATE:20280502
 SUMMARY:Delaware: State individual quarterly estimated tax payment due
@@ -218,7 +346,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-delaware-q1-2029-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290430
 DTEND;VALUE=DATE:20290501
 SUMMARY:Delaware: State individual quarterly estimated tax payment due
@@ -236,7 +364,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-delaware-q1-2030-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300430
 DTEND;VALUE=DATE:20300501
 SUMMARY:Delaware: State individual quarterly estimated tax payment due
@@ -254,7 +382,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-delaware-q1-2031-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310430
 DTEND;VALUE=DATE:20310501
 SUMMARY:Delaware: State individual quarterly estimated tax payment due
@@ -272,7 +400,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-delaware-q1-2032-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320430
 DTEND;VALUE=DATE:20320501
 SUMMARY:Delaware: State individual quarterly estimated tax payment due
@@ -290,7 +418,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-delaware-q2-2025-06-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250616
 DTEND;VALUE=DATE:20250617
 SUMMARY:Delaware: State individual quarterly estimated tax payment due
@@ -308,7 +436,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-delaware-q2-2026-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260615
 DTEND;VALUE=DATE:20260616
 SUMMARY:Delaware: State individual quarterly estimated tax payment due
@@ -326,7 +454,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-delaware-q2-2027-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270615
 DTEND;VALUE=DATE:20270616
 SUMMARY:Delaware: State individual quarterly estimated tax payment due
@@ -344,7 +472,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-delaware-q2-2028-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280615
 DTEND;VALUE=DATE:20280616
 SUMMARY:Delaware: State individual quarterly estimated tax payment due
@@ -362,7 +490,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-delaware-q2-2029-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290615
 DTEND;VALUE=DATE:20290616
 SUMMARY:Delaware: State individual quarterly estimated tax payment due
@@ -380,7 +508,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-delaware-q2-2030-06-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300617
 DTEND;VALUE=DATE:20300618
 SUMMARY:Delaware: State individual quarterly estimated tax payment due
@@ -398,7 +526,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-delaware-q2-2031-06-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310616
 DTEND;VALUE=DATE:20310617
 SUMMARY:Delaware: State individual quarterly estimated tax payment due
@@ -416,7 +544,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-delaware-q2-2032-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320615
 DTEND;VALUE=DATE:20320616
 SUMMARY:Delaware: State individual quarterly estimated tax payment due
@@ -434,7 +562,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-delaware-q3-2025-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250915
 DTEND;VALUE=DATE:20250916
 SUMMARY:Delaware: State individual quarterly estimated tax payment due
@@ -452,7 +580,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-delaware-q3-2026-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Delaware: State individual quarterly estimated tax payment due
@@ -470,7 +598,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-delaware-q3-2027-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270915
 DTEND;VALUE=DATE:20270916
 SUMMARY:Delaware: State individual quarterly estimated tax payment due
@@ -488,7 +616,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-delaware-q3-2028-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280915
 DTEND;VALUE=DATE:20280916
 SUMMARY:Delaware: State individual quarterly estimated tax payment due
@@ -506,7 +634,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-delaware-q3-2029-09-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290917
 DTEND;VALUE=DATE:20290918
 SUMMARY:Delaware: State individual quarterly estimated tax payment due
@@ -524,7 +652,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-delaware-q3-2030-09-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300916
 DTEND;VALUE=DATE:20300917
 SUMMARY:Delaware: State individual quarterly estimated tax payment due
@@ -542,7 +670,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-delaware-q3-2031-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310915
 DTEND;VALUE=DATE:20310916
 SUMMARY:Delaware: State individual quarterly estimated tax payment due
@@ -560,7 +688,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-delaware-q3-2032-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320915
 DTEND;VALUE=DATE:20320916
 SUMMARY:Delaware: State individual quarterly estimated tax payment due
@@ -578,7 +706,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-delaware-q4-2025-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250115
 DTEND;VALUE=DATE:20250116
 SUMMARY:Delaware: State individual quarterly estimated tax payment due
@@ -596,7 +724,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-delaware-q4-2026-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260115
 DTEND;VALUE=DATE:20260116
 SUMMARY:Delaware: State individual quarterly estimated tax payment due
@@ -614,7 +742,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-delaware-q4-2027-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Delaware: State individual quarterly estimated tax payment due
@@ -632,7 +760,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-delaware-q4-2028-01-18@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280118
 DTEND;VALUE=DATE:20280119
 SUMMARY:Delaware: State individual quarterly estimated tax payment due
@@ -650,7 +778,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-delaware-q4-2029-01-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290116
 DTEND;VALUE=DATE:20290117
 SUMMARY:Delaware: State individual quarterly estimated tax payment due
@@ -668,7 +796,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-delaware-q4-2030-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300115
 DTEND;VALUE=DATE:20300116
 SUMMARY:Delaware: State individual quarterly estimated tax payment due
@@ -686,7 +814,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-delaware-q4-2031-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310115
 DTEND;VALUE=DATE:20310116
 SUMMARY:Delaware: State individual quarterly estimated tax payment due
@@ -704,7 +832,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-delaware-q4-2032-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320115
 DTEND;VALUE=DATE:20320116
 SUMMARY:Delaware: State individual quarterly estimated tax payment due
@@ -722,7 +850,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-de-2025-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250430
 DTEND;VALUE=DATE:20250501
 SUMMARY:Delaware: State individual income tax return due
@@ -740,7 +868,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-de-2026-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260501
 SUMMARY:Delaware: State individual income tax return due
@@ -758,7 +886,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-de-2027-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270501
 SUMMARY:Delaware: State individual income tax return due
@@ -776,7 +904,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-de-2028-05-01@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280501
 DTEND;VALUE=DATE:20280502
 SUMMARY:Delaware: State individual income tax return due
@@ -794,7 +922,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-de-2029-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290430
 DTEND;VALUE=DATE:20290501
 SUMMARY:Delaware: State individual income tax return due
@@ -812,7 +940,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-de-2030-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300430
 DTEND;VALUE=DATE:20300501
 SUMMARY:Delaware: State individual income tax return due
@@ -830,7 +958,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-de-2031-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310430
 DTEND;VALUE=DATE:20310501
 SUMMARY:Delaware: State individual income tax return due
@@ -848,7 +976,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-de-2032-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320430
 DTEND;VALUE=DATE:20320501
 SUMMARY:Delaware: State individual income tax return due
@@ -866,7 +994,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-delaware-2025-03-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250317
 DTEND;VALUE=DATE:20250318
 SUMMARY:Delaware: Form 300 (partnership) / 1100S (S-corp) due
@@ -885,7 +1013,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-delaware-2026-03-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260316
 DTEND;VALUE=DATE:20260317
 SUMMARY:Delaware: Form 300 (partnership) / 1100S (S-corp) due
@@ -904,7 +1032,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-delaware-2027-03-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270316
 SUMMARY:Delaware: Form 300 (partnership) / 1100S (S-corp) due
@@ -923,7 +1051,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-delaware-2028-03-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280315
 DTEND;VALUE=DATE:20280316
 SUMMARY:Delaware: Form 300 (partnership) / 1100S (S-corp) due
@@ -942,7 +1070,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-delaware-2029-03-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290315
 DTEND;VALUE=DATE:20290316
 SUMMARY:Delaware: Form 300 (partnership) / 1100S (S-corp) due
@@ -961,7 +1089,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-delaware-2030-03-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300315
 DTEND;VALUE=DATE:20300316
 SUMMARY:Delaware: Form 300 (partnership) / 1100S (S-corp) due
@@ -980,7 +1108,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-delaware-2031-03-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310317
 DTEND;VALUE=DATE:20310318
 SUMMARY:Delaware: Form 300 (partnership) / 1100S (S-corp) due
@@ -999,7 +1127,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-delaware-2032-03-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320315
 DTEND;VALUE=DATE:20320316
 SUMMARY:Delaware: Form 300 (partnership) / 1100S (S-corp) due
@@ -1017,8 +1145,168 @@ DESCRIPTION:Delaware partnership return due the 15th day of the 3rd month a
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:state-pte-delaware-2025-09-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20250916
+SUMMARY:Delaware: Form 300 (partnership) / 1100S (S-corp) extended due date
+DESCRIPTION:Extended due date\, via Automatic if a federal extension is obt
+ ained - a copy of the approved federal extension must be attached to the De
+ laware return when filed.. | Delaware partnership return due the 15th day o
+ f the 3rd month after year-end (weekend-adjusted). Automatic if a federal e
+ xtension is obtained - a copy of the approved federal extension must be att
+ ached to the Delaware return when filed. | Authority: Delaware Division of 
+ Revenue\, direct fetch this session: "the 15th day of the third month follo
+ wing the expiration of the taxable period" and "a photocopy of the approved
+  Federal extension MUST be attached to the return when filed." | Source: ht
+ tps://revenuefiles.delaware.gov/2022/300_TY22Instructions.pdf | This date i
+ s computed from a recurrence rule and may not reflect a later-announced cha
+ nge\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-delaware-2026-09-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Delaware: Form 300 (partnership) / 1100S (S-corp) extended due date
+DESCRIPTION:Extended due date\, via Automatic if a federal extension is obt
+ ained - a copy of the approved federal extension must be attached to the De
+ laware return when filed.. | Delaware partnership return due the 15th day o
+ f the 3rd month after year-end (weekend-adjusted). Automatic if a federal e
+ xtension is obtained - a copy of the approved federal extension must be att
+ ached to the Delaware return when filed. | Authority: Delaware Division of 
+ Revenue\, direct fetch this session: "the 15th day of the third month follo
+ wing the expiration of the taxable period" and "a photocopy of the approved
+  Federal extension MUST be attached to the return when filed." | Source: ht
+ tps://revenuefiles.delaware.gov/2022/300_TY22Instructions.pdf | This date i
+ s computed from a recurrence rule and may not reflect a later-announced cha
+ nge\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-delaware-2027-09-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:Delaware: Form 300 (partnership) / 1100S (S-corp) extended due date
+DESCRIPTION:Extended due date\, via Automatic if a federal extension is obt
+ ained - a copy of the approved federal extension must be attached to the De
+ laware return when filed.. | Delaware partnership return due the 15th day o
+ f the 3rd month after year-end (weekend-adjusted). Automatic if a federal e
+ xtension is obtained - a copy of the approved federal extension must be att
+ ached to the Delaware return when filed. | Authority: Delaware Division of 
+ Revenue\, direct fetch this session: "the 15th day of the third month follo
+ wing the expiration of the taxable period" and "a photocopy of the approved
+  Federal extension MUST be attached to the return when filed." | Source: ht
+ tps://revenuefiles.delaware.gov/2022/300_TY22Instructions.pdf | This date i
+ s computed from a recurrence rule and may not reflect a later-announced cha
+ nge\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-delaware-2028-09-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20280915
+DTEND;VALUE=DATE:20280916
+SUMMARY:Delaware: Form 300 (partnership) / 1100S (S-corp) extended due date
+DESCRIPTION:Extended due date\, via Automatic if a federal extension is obt
+ ained - a copy of the approved federal extension must be attached to the De
+ laware return when filed.. | Delaware partnership return due the 15th day o
+ f the 3rd month after year-end (weekend-adjusted). Automatic if a federal e
+ xtension is obtained - a copy of the approved federal extension must be att
+ ached to the Delaware return when filed. | Authority: Delaware Division of 
+ Revenue\, direct fetch this session: "the 15th day of the third month follo
+ wing the expiration of the taxable period" and "a photocopy of the approved
+  Federal extension MUST be attached to the return when filed." | Source: ht
+ tps://revenuefiles.delaware.gov/2022/300_TY22Instructions.pdf | This date i
+ s computed from a recurrence rule and may not reflect a later-announced cha
+ nge\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-delaware-2029-09-17-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20290917
+DTEND;VALUE=DATE:20290918
+SUMMARY:Delaware: Form 300 (partnership) / 1100S (S-corp) extended due date
+DESCRIPTION:Extended due date\, via Automatic if a federal extension is obt
+ ained - a copy of the approved federal extension must be attached to the De
+ laware return when filed.. | Delaware partnership return due the 15th day o
+ f the 3rd month after year-end (weekend-adjusted). Automatic if a federal e
+ xtension is obtained - a copy of the approved federal extension must be att
+ ached to the Delaware return when filed. | Authority: Delaware Division of 
+ Revenue\, direct fetch this session: "the 15th day of the third month follo
+ wing the expiration of the taxable period" and "a photocopy of the approved
+  Federal extension MUST be attached to the return when filed." | Source: ht
+ tps://revenuefiles.delaware.gov/2022/300_TY22Instructions.pdf | This date i
+ s computed from a recurrence rule and may not reflect a later-announced cha
+ nge\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-delaware-2030-09-16-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20300916
+DTEND;VALUE=DATE:20300917
+SUMMARY:Delaware: Form 300 (partnership) / 1100S (S-corp) extended due date
+DESCRIPTION:Extended due date\, via Automatic if a federal extension is obt
+ ained - a copy of the approved federal extension must be attached to the De
+ laware return when filed.. | Delaware partnership return due the 15th day o
+ f the 3rd month after year-end (weekend-adjusted). Automatic if a federal e
+ xtension is obtained - a copy of the approved federal extension must be att
+ ached to the Delaware return when filed. | Authority: Delaware Division of 
+ Revenue\, direct fetch this session: "the 15th day of the third month follo
+ wing the expiration of the taxable period" and "a photocopy of the approved
+  Federal extension MUST be attached to the return when filed." | Source: ht
+ tps://revenuefiles.delaware.gov/2022/300_TY22Instructions.pdf | This date i
+ s computed from a recurrence rule and may not reflect a later-announced cha
+ nge\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-delaware-2031-09-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20310915
+DTEND;VALUE=DATE:20310916
+SUMMARY:Delaware: Form 300 (partnership) / 1100S (S-corp) extended due date
+DESCRIPTION:Extended due date\, via Automatic if a federal extension is obt
+ ained - a copy of the approved federal extension must be attached to the De
+ laware return when filed.. | Delaware partnership return due the 15th day o
+ f the 3rd month after year-end (weekend-adjusted). Automatic if a federal e
+ xtension is obtained - a copy of the approved federal extension must be att
+ ached to the Delaware return when filed. | Authority: Delaware Division of 
+ Revenue\, direct fetch this session: "the 15th day of the third month follo
+ wing the expiration of the taxable period" and "a photocopy of the approved
+  Federal extension MUST be attached to the return when filed." | Source: ht
+ tps://revenuefiles.delaware.gov/2022/300_TY22Instructions.pdf | This date i
+ s computed from a recurrence rule and may not reflect a later-announced cha
+ nge\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-delaware-2032-09-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20320915
+DTEND;VALUE=DATE:20320916
+SUMMARY:Delaware: Form 300 (partnership) / 1100S (S-corp) extended due date
+DESCRIPTION:Extended due date\, via Automatic if a federal extension is obt
+ ained - a copy of the approved federal extension must be attached to the De
+ laware return when filed.. | Delaware partnership return due the 15th day o
+ f the 3rd month after year-end (weekend-adjusted). Automatic if a federal e
+ xtension is obtained - a copy of the approved federal extension must be att
+ ached to the Delaware return when filed. | Authority: Delaware Division of 
+ Revenue\, direct fetch this session: "the 15th day of the third month follo
+ wing the expiration of the taxable period" and "a photocopy of the approved
+  Federal extension MUST be attached to the return when filed." | Source: ht
+ tps://revenuefiles.delaware.gov/2022/300_TY22Instructions.pdf | This date i
+ s computed from a recurrence rule and may not reflect a later-announced cha
+ nge\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:state-sui-delaware-q1-2025-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250430
 DTEND;VALUE=DATE:20250501
 SUMMARY:Delaware: State unemployment insurance quarterly return due
@@ -1034,7 +1322,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-delaware-q1-2026-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260501
 SUMMARY:Delaware: State unemployment insurance quarterly return due
@@ -1050,7 +1338,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-delaware-q1-2027-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270501
 SUMMARY:Delaware: State unemployment insurance quarterly return due
@@ -1066,7 +1354,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-delaware-q1-2028-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280430
 DTEND;VALUE=DATE:20280501
 SUMMARY:Delaware: State unemployment insurance quarterly return due
@@ -1082,7 +1370,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-delaware-q1-2029-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290430
 DTEND;VALUE=DATE:20290501
 SUMMARY:Delaware: State unemployment insurance quarterly return due
@@ -1098,7 +1386,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-delaware-q1-2030-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300430
 DTEND;VALUE=DATE:20300501
 SUMMARY:Delaware: State unemployment insurance quarterly return due
@@ -1114,7 +1402,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-delaware-q1-2031-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310430
 DTEND;VALUE=DATE:20310501
 SUMMARY:Delaware: State unemployment insurance quarterly return due
@@ -1130,7 +1418,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-delaware-q1-2032-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320430
 DTEND;VALUE=DATE:20320501
 SUMMARY:Delaware: State unemployment insurance quarterly return due
@@ -1146,7 +1434,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-delaware-q2-2025-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250731
 DTEND;VALUE=DATE:20250801
 SUMMARY:Delaware: State unemployment insurance quarterly return due
@@ -1162,7 +1450,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-delaware-q2-2026-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
 SUMMARY:Delaware: State unemployment insurance quarterly return due
@@ -1178,7 +1466,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-delaware-q2-2027-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270731
 DTEND;VALUE=DATE:20270801
 SUMMARY:Delaware: State unemployment insurance quarterly return due
@@ -1194,7 +1482,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-delaware-q2-2028-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280731
 DTEND;VALUE=DATE:20280801
 SUMMARY:Delaware: State unemployment insurance quarterly return due
@@ -1210,7 +1498,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-delaware-q2-2029-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290731
 DTEND;VALUE=DATE:20290801
 SUMMARY:Delaware: State unemployment insurance quarterly return due
@@ -1226,7 +1514,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-delaware-q2-2030-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300731
 DTEND;VALUE=DATE:20300801
 SUMMARY:Delaware: State unemployment insurance quarterly return due
@@ -1242,7 +1530,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-delaware-q2-2031-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310731
 DTEND;VALUE=DATE:20310801
 SUMMARY:Delaware: State unemployment insurance quarterly return due
@@ -1258,7 +1546,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-delaware-q2-2032-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320731
 DTEND;VALUE=DATE:20320801
 SUMMARY:Delaware: State unemployment insurance quarterly return due
@@ -1274,7 +1562,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-delaware-q3-2025-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20251031
 DTEND;VALUE=DATE:20251101
 SUMMARY:Delaware: State unemployment insurance quarterly return due
@@ -1290,7 +1578,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-delaware-q3-2026-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Delaware: State unemployment insurance quarterly return due
@@ -1306,7 +1594,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-delaware-q3-2027-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20271031
 DTEND;VALUE=DATE:20271101
 SUMMARY:Delaware: State unemployment insurance quarterly return due
@@ -1322,7 +1610,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-delaware-q3-2028-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20281031
 DTEND;VALUE=DATE:20281101
 SUMMARY:Delaware: State unemployment insurance quarterly return due
@@ -1338,7 +1626,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-delaware-q3-2029-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20291031
 DTEND;VALUE=DATE:20291101
 SUMMARY:Delaware: State unemployment insurance quarterly return due
@@ -1354,7 +1642,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-delaware-q3-2030-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20301031
 DTEND;VALUE=DATE:20301101
 SUMMARY:Delaware: State unemployment insurance quarterly return due
@@ -1370,7 +1658,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-delaware-q3-2031-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20311031
 DTEND;VALUE=DATE:20311101
 SUMMARY:Delaware: State unemployment insurance quarterly return due
@@ -1386,7 +1674,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-delaware-q3-2032-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20321031
 DTEND;VALUE=DATE:20321101
 SUMMARY:Delaware: State unemployment insurance quarterly return due
@@ -1402,7 +1690,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-delaware-q4-2025-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250131
 DTEND;VALUE=DATE:20250201
 SUMMARY:Delaware: State unemployment insurance quarterly return due
@@ -1418,7 +1706,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-delaware-q4-2026-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260131
 DTEND;VALUE=DATE:20260201
 SUMMARY:Delaware: State unemployment insurance quarterly return due
@@ -1434,7 +1722,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-delaware-q4-2027-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:Delaware: State unemployment insurance quarterly return due
@@ -1450,7 +1738,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-delaware-q4-2028-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280131
 DTEND;VALUE=DATE:20280201
 SUMMARY:Delaware: State unemployment insurance quarterly return due
@@ -1466,7 +1754,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-delaware-q4-2029-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290131
 DTEND;VALUE=DATE:20290201
 SUMMARY:Delaware: State unemployment insurance quarterly return due
@@ -1482,7 +1770,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-delaware-q4-2030-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300131
 DTEND;VALUE=DATE:20300201
 SUMMARY:Delaware: State unemployment insurance quarterly return due
@@ -1498,7 +1786,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-delaware-q4-2031-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310131
 DTEND;VALUE=DATE:20310201
 SUMMARY:Delaware: State unemployment insurance quarterly return due
@@ -1514,7 +1802,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-delaware-q4-2032-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320131
 DTEND;VALUE=DATE:20320201
 SUMMARY:Delaware: State unemployment insurance quarterly return due

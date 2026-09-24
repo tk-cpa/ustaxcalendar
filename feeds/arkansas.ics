@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:state-corp-arkansas-2025-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250415
 DTEND;VALUE=DATE:20250416
 SUMMARY:Arkansas: State corporate income/franchise tax return due
@@ -26,7 +26,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-arkansas-2026-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260416
 SUMMARY:Arkansas: State corporate income/franchise tax return due
@@ -42,7 +42,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-arkansas-2027-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:Arkansas: State corporate income/franchise tax return due
@@ -58,7 +58,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-arkansas-2028-04-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280417
 DTEND;VALUE=DATE:20280418
 SUMMARY:Arkansas: State corporate income/franchise tax return due
@@ -74,7 +74,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-arkansas-2029-04-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290416
 DTEND;VALUE=DATE:20290417
 SUMMARY:Arkansas: State corporate income/franchise tax return due
@@ -90,7 +90,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-arkansas-2030-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300415
 DTEND;VALUE=DATE:20300416
 SUMMARY:Arkansas: State corporate income/franchise tax return due
@@ -106,7 +106,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-arkansas-2031-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310415
 DTEND;VALUE=DATE:20310416
 SUMMARY:Arkansas: State corporate income/franchise tax return due
@@ -122,7 +122,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-corp-arkansas-2032-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320415
 DTEND;VALUE=DATE:20320416
 SUMMARY:Arkansas: State corporate income/franchise tax return due
@@ -137,8 +137,136 @@ DESCRIPTION:Due April 15\; Act 629 of 2021 gives an additional one-month Ar
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:state-corp-arkansas-2025-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20251115
+DTEND;VALUE=DATE:20251116
+SUMMARY:Arkansas: State corporate income/franchise tax return extended due 
+ date
+DESCRIPTION:Extended due date\, via None. | Due April 15\; Act 629 of 2021 
+ gives an additional one-month Arkansas extension beyond the federal extende
+ d due date. | Authority: Direct fetch of Arkansas's own tax agency site/pub
+ lication this session | Source: https://www.dfa.arkansas.gov/office/taxes/i
+ ncome-tax-administration/corporation-income-tax/corporate-faqs/ | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-arkansas-2026-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Arkansas: State corporate income/franchise tax return extended due 
+ date
+DESCRIPTION:Extended due date\, via None. | Due April 15\; Act 629 of 2021 
+ gives an additional one-month Arkansas extension beyond the federal extende
+ d due date. | Authority: Direct fetch of Arkansas's own tax agency site/pub
+ lication this session | Source: https://www.dfa.arkansas.gov/office/taxes/i
+ ncome-tax-administration/corporation-income-tax/corporate-faqs/ | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-arkansas-2027-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20271115
+DTEND;VALUE=DATE:20271116
+SUMMARY:Arkansas: State corporate income/franchise tax return extended due 
+ date
+DESCRIPTION:Extended due date\, via None. | Due April 15\; Act 629 of 2021 
+ gives an additional one-month Arkansas extension beyond the federal extende
+ d due date. | Authority: Direct fetch of Arkansas's own tax agency site/pub
+ lication this session | Source: https://www.dfa.arkansas.gov/office/taxes/i
+ ncome-tax-administration/corporation-income-tax/corporate-faqs/ | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-arkansas-2028-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20281115
+DTEND;VALUE=DATE:20281116
+SUMMARY:Arkansas: State corporate income/franchise tax return extended due 
+ date
+DESCRIPTION:Extended due date\, via None. | Due April 15\; Act 629 of 2021 
+ gives an additional one-month Arkansas extension beyond the federal extende
+ d due date. | Authority: Direct fetch of Arkansas's own tax agency site/pub
+ lication this session | Source: https://www.dfa.arkansas.gov/office/taxes/i
+ ncome-tax-administration/corporation-income-tax/corporate-faqs/ | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-arkansas-2029-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20291115
+DTEND;VALUE=DATE:20291116
+SUMMARY:Arkansas: State corporate income/franchise tax return extended due 
+ date
+DESCRIPTION:Extended due date\, via None. | Due April 15\; Act 629 of 2021 
+ gives an additional one-month Arkansas extension beyond the federal extende
+ d due date. | Authority: Direct fetch of Arkansas's own tax agency site/pub
+ lication this session | Source: https://www.dfa.arkansas.gov/office/taxes/i
+ ncome-tax-administration/corporation-income-tax/corporate-faqs/ | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-arkansas-2030-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20301115
+DTEND;VALUE=DATE:20301116
+SUMMARY:Arkansas: State corporate income/franchise tax return extended due 
+ date
+DESCRIPTION:Extended due date\, via None. | Due April 15\; Act 629 of 2021 
+ gives an additional one-month Arkansas extension beyond the federal extende
+ d due date. | Authority: Direct fetch of Arkansas's own tax agency site/pub
+ lication this session | Source: https://www.dfa.arkansas.gov/office/taxes/i
+ ncome-tax-administration/corporation-income-tax/corporate-faqs/ | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-arkansas-2031-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20311115
+DTEND;VALUE=DATE:20311116
+SUMMARY:Arkansas: State corporate income/franchise tax return extended due 
+ date
+DESCRIPTION:Extended due date\, via None. | Due April 15\; Act 629 of 2021 
+ gives an additional one-month Arkansas extension beyond the federal extende
+ d due date. | Authority: Direct fetch of Arkansas's own tax agency site/pub
+ lication this session | Source: https://www.dfa.arkansas.gov/office/taxes/i
+ ncome-tax-administration/corporation-income-tax/corporate-faqs/ | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-corp-arkansas-2032-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20321115
+DTEND;VALUE=DATE:20321116
+SUMMARY:Arkansas: State corporate income/franchise tax return extended due 
+ date
+DESCRIPTION:Extended due date\, via None. | Due April 15\; Act 629 of 2021 
+ gives an additional one-month Arkansas extension beyond the federal extende
+ d due date. | Authority: Direct fetch of Arkansas's own tax agency site/pub
+ lication this session | Source: https://www.dfa.arkansas.gov/office/taxes/i
+ ncome-tax-administration/corporation-income-tax/corporate-faqs/ | This date
+  is computed from a recurrence rule and may not reflect a later-announced c
+ hange\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:state-est-arkansas-q1-2025-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250415
 DTEND;VALUE=DATE:20250416
 SUMMARY:Arkansas: State individual quarterly estimated tax payment due
@@ -154,7 +282,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-arkansas-q1-2026-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260416
 SUMMARY:Arkansas: State individual quarterly estimated tax payment due
@@ -170,7 +298,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-arkansas-q1-2027-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:Arkansas: State individual quarterly estimated tax payment due
@@ -186,7 +314,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-arkansas-q1-2028-04-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280417
 DTEND;VALUE=DATE:20280418
 SUMMARY:Arkansas: State individual quarterly estimated tax payment due
@@ -202,7 +330,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-arkansas-q1-2029-04-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290416
 DTEND;VALUE=DATE:20290417
 SUMMARY:Arkansas: State individual quarterly estimated tax payment due
@@ -218,7 +346,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-arkansas-q1-2030-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300415
 DTEND;VALUE=DATE:20300416
 SUMMARY:Arkansas: State individual quarterly estimated tax payment due
@@ -234,7 +362,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-arkansas-q1-2031-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310415
 DTEND;VALUE=DATE:20310416
 SUMMARY:Arkansas: State individual quarterly estimated tax payment due
@@ -250,7 +378,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-arkansas-q1-2032-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320415
 DTEND;VALUE=DATE:20320416
 SUMMARY:Arkansas: State individual quarterly estimated tax payment due
@@ -266,7 +394,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-arkansas-q2-2025-06-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250616
 DTEND;VALUE=DATE:20250617
 SUMMARY:Arkansas: State individual quarterly estimated tax payment due
@@ -282,7 +410,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-arkansas-q2-2026-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260615
 DTEND;VALUE=DATE:20260616
 SUMMARY:Arkansas: State individual quarterly estimated tax payment due
@@ -298,7 +426,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-arkansas-q2-2027-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270615
 DTEND;VALUE=DATE:20270616
 SUMMARY:Arkansas: State individual quarterly estimated tax payment due
@@ -314,7 +442,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-arkansas-q2-2028-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280615
 DTEND;VALUE=DATE:20280616
 SUMMARY:Arkansas: State individual quarterly estimated tax payment due
@@ -330,7 +458,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-arkansas-q2-2029-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290615
 DTEND;VALUE=DATE:20290616
 SUMMARY:Arkansas: State individual quarterly estimated tax payment due
@@ -346,7 +474,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-arkansas-q2-2030-06-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300617
 DTEND;VALUE=DATE:20300618
 SUMMARY:Arkansas: State individual quarterly estimated tax payment due
@@ -362,7 +490,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-arkansas-q2-2031-06-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310616
 DTEND;VALUE=DATE:20310617
 SUMMARY:Arkansas: State individual quarterly estimated tax payment due
@@ -378,7 +506,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-arkansas-q2-2032-06-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320615
 DTEND;VALUE=DATE:20320616
 SUMMARY:Arkansas: State individual quarterly estimated tax payment due
@@ -394,7 +522,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-arkansas-q3-2025-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250915
 DTEND;VALUE=DATE:20250916
 SUMMARY:Arkansas: State individual quarterly estimated tax payment due
@@ -410,7 +538,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-arkansas-q3-2026-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Arkansas: State individual quarterly estimated tax payment due
@@ -426,7 +554,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-arkansas-q3-2027-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270915
 DTEND;VALUE=DATE:20270916
 SUMMARY:Arkansas: State individual quarterly estimated tax payment due
@@ -442,7 +570,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-arkansas-q3-2028-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280915
 DTEND;VALUE=DATE:20280916
 SUMMARY:Arkansas: State individual quarterly estimated tax payment due
@@ -458,7 +586,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-arkansas-q3-2029-09-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290917
 DTEND;VALUE=DATE:20290918
 SUMMARY:Arkansas: State individual quarterly estimated tax payment due
@@ -474,7 +602,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-arkansas-q3-2030-09-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300916
 DTEND;VALUE=DATE:20300917
 SUMMARY:Arkansas: State individual quarterly estimated tax payment due
@@ -490,7 +618,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-arkansas-q3-2031-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310915
 DTEND;VALUE=DATE:20310916
 SUMMARY:Arkansas: State individual quarterly estimated tax payment due
@@ -506,7 +634,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-arkansas-q3-2032-09-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320915
 DTEND;VALUE=DATE:20320916
 SUMMARY:Arkansas: State individual quarterly estimated tax payment due
@@ -522,7 +650,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-arkansas-q4-2025-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250115
 DTEND;VALUE=DATE:20250116
 SUMMARY:Arkansas: State individual quarterly estimated tax payment due
@@ -538,7 +666,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-arkansas-q4-2026-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260115
 DTEND;VALUE=DATE:20260116
 SUMMARY:Arkansas: State individual quarterly estimated tax payment due
@@ -554,7 +682,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-arkansas-q4-2027-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Arkansas: State individual quarterly estimated tax payment due
@@ -570,7 +698,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-arkansas-q4-2028-01-18@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280118
 DTEND;VALUE=DATE:20280119
 SUMMARY:Arkansas: State individual quarterly estimated tax payment due
@@ -586,7 +714,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-arkansas-q4-2029-01-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290116
 DTEND;VALUE=DATE:20290117
 SUMMARY:Arkansas: State individual quarterly estimated tax payment due
@@ -602,7 +730,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-arkansas-q4-2030-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300115
 DTEND;VALUE=DATE:20300116
 SUMMARY:Arkansas: State individual quarterly estimated tax payment due
@@ -618,7 +746,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-arkansas-q4-2031-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310115
 DTEND;VALUE=DATE:20310116
 SUMMARY:Arkansas: State individual quarterly estimated tax payment due
@@ -634,7 +762,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-est-arkansas-q4-2032-01-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320115
 DTEND;VALUE=DATE:20320116
 SUMMARY:Arkansas: State individual quarterly estimated tax payment due
@@ -650,7 +778,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-ar-2025-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250415
 DTEND;VALUE=DATE:20250416
 SUMMARY:Arkansas: State individual income tax return due
@@ -669,7 +797,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-ar-2026-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260416
 SUMMARY:Arkansas: State individual income tax return due
@@ -688,7 +816,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-ar-2027-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:Arkansas: State individual income tax return due
@@ -707,7 +835,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-ar-2028-04-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280417
 DTEND;VALUE=DATE:20280418
 SUMMARY:Arkansas: State individual income tax return due
@@ -726,7 +854,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-ar-2029-04-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290416
 DTEND;VALUE=DATE:20290417
 SUMMARY:Arkansas: State individual income tax return due
@@ -745,7 +873,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-ar-2030-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300415
 DTEND;VALUE=DATE:20300416
 SUMMARY:Arkansas: State individual income tax return due
@@ -764,7 +892,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-ar-2031-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310415
 DTEND;VALUE=DATE:20310416
 SUMMARY:Arkansas: State individual income tax return due
@@ -783,7 +911,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-inc-ar-2032-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320415
 DTEND;VALUE=DATE:20320416
 SUMMARY:Arkansas: State individual income tax return due
@@ -801,8 +929,152 @@ DESCRIPTION:Conforms to the federal April 15 due date | State individual in
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:state-inc-ar-2025-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20251115
+DTEND;VALUE=DATE:20251116
+SUMMARY:Arkansas: State individual income tax return extended due date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. Arkansas automatically honors a federal extension\,
+  giving a state deadline of November 15\, one month after the federal Octob
+ er 15 extended date. | Authority: Direct fetch of https://www.dfa.arkansas.
+ gov/office/taxes/income-tax-administration/individual-income-tax/deadlines-
+ extensions/ this session | Source: https://www.dfa.arkansas.gov/office/taxe
+ s/income-tax-administration/individual-income-tax/deadlines-extensions/ | T
+ his date is computed from a recurrence rule and may not reflect a later-ann
+ ounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-ar-2026-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Arkansas: State individual income tax return extended due date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. Arkansas automatically honors a federal extension\,
+  giving a state deadline of November 15\, one month after the federal Octob
+ er 15 extended date. | Authority: Direct fetch of https://www.dfa.arkansas.
+ gov/office/taxes/income-tax-administration/individual-income-tax/deadlines-
+ extensions/ this session | Source: https://www.dfa.arkansas.gov/office/taxe
+ s/income-tax-administration/individual-income-tax/deadlines-extensions/ | T
+ his date is computed from a recurrence rule and may not reflect a later-ann
+ ounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-ar-2027-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20271115
+DTEND;VALUE=DATE:20271116
+SUMMARY:Arkansas: State individual income tax return extended due date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. Arkansas automatically honors a federal extension\,
+  giving a state deadline of November 15\, one month after the federal Octob
+ er 15 extended date. | Authority: Direct fetch of https://www.dfa.arkansas.
+ gov/office/taxes/income-tax-administration/individual-income-tax/deadlines-
+ extensions/ this session | Source: https://www.dfa.arkansas.gov/office/taxe
+ s/income-tax-administration/individual-income-tax/deadlines-extensions/ | T
+ his date is computed from a recurrence rule and may not reflect a later-ann
+ ounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-ar-2028-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20281115
+DTEND;VALUE=DATE:20281116
+SUMMARY:Arkansas: State individual income tax return extended due date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. Arkansas automatically honors a federal extension\,
+  giving a state deadline of November 15\, one month after the federal Octob
+ er 15 extended date. | Authority: Direct fetch of https://www.dfa.arkansas.
+ gov/office/taxes/income-tax-administration/individual-income-tax/deadlines-
+ extensions/ this session | Source: https://www.dfa.arkansas.gov/office/taxe
+ s/income-tax-administration/individual-income-tax/deadlines-extensions/ | T
+ his date is computed from a recurrence rule and may not reflect a later-ann
+ ounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-ar-2029-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20291115
+DTEND;VALUE=DATE:20291116
+SUMMARY:Arkansas: State individual income tax return extended due date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. Arkansas automatically honors a federal extension\,
+  giving a state deadline of November 15\, one month after the federal Octob
+ er 15 extended date. | Authority: Direct fetch of https://www.dfa.arkansas.
+ gov/office/taxes/income-tax-administration/individual-income-tax/deadlines-
+ extensions/ this session | Source: https://www.dfa.arkansas.gov/office/taxe
+ s/income-tax-administration/individual-income-tax/deadlines-extensions/ | T
+ his date is computed from a recurrence rule and may not reflect a later-ann
+ ounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-ar-2030-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20301115
+DTEND;VALUE=DATE:20301116
+SUMMARY:Arkansas: State individual income tax return extended due date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. Arkansas automatically honors a federal extension\,
+  giving a state deadline of November 15\, one month after the federal Octob
+ er 15 extended date. | Authority: Direct fetch of https://www.dfa.arkansas.
+ gov/office/taxes/income-tax-administration/individual-income-tax/deadlines-
+ extensions/ this session | Source: https://www.dfa.arkansas.gov/office/taxe
+ s/income-tax-administration/individual-income-tax/deadlines-extensions/ | T
+ his date is computed from a recurrence rule and may not reflect a later-ann
+ ounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-ar-2031-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20311115
+DTEND;VALUE=DATE:20311116
+SUMMARY:Arkansas: State individual income tax return extended due date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. Arkansas automatically honors a federal extension\,
+  giving a state deadline of November 15\, one month after the federal Octob
+ er 15 extended date. | Authority: Direct fetch of https://www.dfa.arkansas.
+ gov/office/taxes/income-tax-administration/individual-income-tax/deadlines-
+ extensions/ this session | Source: https://www.dfa.arkansas.gov/office/taxe
+ s/income-tax-administration/individual-income-tax/deadlines-extensions/ | T
+ his date is computed from a recurrence rule and may not reflect a later-ann
+ ounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-inc-ar-2032-11-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20321115
+DTEND;VALUE=DATE:20321116
+SUMMARY:Arkansas: State individual income tax return extended due date
+DESCRIPTION:Extended due date\, via None. | State individual income tax ret
+ urn due date\, confirmed directly against the state's own revenue/tax agenc
+ y website this session. Arkansas automatically honors a federal extension\,
+  giving a state deadline of November 15\, one month after the federal Octob
+ er 15 extended date. | Authority: Direct fetch of https://www.dfa.arkansas.
+ gov/office/taxes/income-tax-administration/individual-income-tax/deadlines-
+ extensions/ this session | Source: https://www.dfa.arkansas.gov/office/taxe
+ s/income-tax-administration/individual-income-tax/deadlines-extensions/ | T
+ his date is computed from a recurrence rule and may not reflect a later-ann
+ ounced change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:state-pte-arkansas-2025-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250415
 DTEND;VALUE=DATE:20250416
 SUMMARY:Arkansas: AR1050 due
@@ -829,7 +1101,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-arkansas-2026-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260416
 SUMMARY:Arkansas: AR1050 due
@@ -856,7 +1128,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-arkansas-2027-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:Arkansas: AR1050 due
@@ -883,7 +1155,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-arkansas-2028-04-17@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280417
 DTEND;VALUE=DATE:20280418
 SUMMARY:Arkansas: AR1050 due
@@ -910,7 +1182,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-arkansas-2029-04-16@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290416
 DTEND;VALUE=DATE:20290417
 SUMMARY:Arkansas: AR1050 due
@@ -937,7 +1209,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-arkansas-2030-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300415
 DTEND;VALUE=DATE:20300416
 SUMMARY:Arkansas: AR1050 due
@@ -964,7 +1236,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-arkansas-2031-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310415
 DTEND;VALUE=DATE:20310416
 SUMMARY:Arkansas: AR1050 due
@@ -991,7 +1263,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-pte-arkansas-2032-04-15@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320415
 DTEND;VALUE=DATE:20320416
 SUMMARY:Arkansas: AR1050 due
@@ -1017,8 +1289,216 @@ DESCRIPTION:Arkansas partnership return due the 15th day of the 4th month a
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:state-pte-arkansas-2025-05-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20250515
+DTEND;VALUE=DATE:20250516
+SUMMARY:Arkansas: AR1050 extended due date
+DESCRIPTION:Extended due date\, via Automatic one-month extension when fede
+ ral Form 7004 is attached (a separate state-specific extension via Form AR1
+ 055-PE may allow a different period\, not independently confirmed this sess
+ ion).. | Arkansas partnership return due the 15th day of the 4th month afte
+ r year-end (or the first business day after\, if that date falls on a weeke
+ nd/holiday). The one-month federal-extension-based extension is unusually s
+ hort relative to most states' 5-6 month patterns - flagged for the Client's
+  attention. Automatic one-month extension when federal Form 7004 is attache
+ d (a separate state-specific extension via Form AR1055-PE may allow a diffe
+ rent period\, not independently confirmed this session). | Authority: Arkan
+ sas Department of Finance and Administration\, direct fetch this session: "
+ The due date is April 15th or first (1st) business day after for calendar y
+ ear filers" and "If you request an extension of time to file your federal p
+ artnership tax return (with federal Form 7004) you can receive an additiona
+ l one month extension on your state return." | Source: https://www.dfa.arka
+ nsas.gov/wp-content/uploads/PartnershipTaxInstructions_2024_1.pdf | This da
+ te is computed from a recurrence rule and may not reflect a later-announced
+  change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-arkansas-2026-05-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:Arkansas: AR1050 extended due date
+DESCRIPTION:Extended due date\, via Automatic one-month extension when fede
+ ral Form 7004 is attached (a separate state-specific extension via Form AR1
+ 055-PE may allow a different period\, not independently confirmed this sess
+ ion).. | Arkansas partnership return due the 15th day of the 4th month afte
+ r year-end (or the first business day after\, if that date falls on a weeke
+ nd/holiday). The one-month federal-extension-based extension is unusually s
+ hort relative to most states' 5-6 month patterns - flagged for the Client's
+  attention. Automatic one-month extension when federal Form 7004 is attache
+ d (a separate state-specific extension via Form AR1055-PE may allow a diffe
+ rent period\, not independently confirmed this session). | Authority: Arkan
+ sas Department of Finance and Administration\, direct fetch this session: "
+ The due date is April 15th or first (1st) business day after for calendar y
+ ear filers" and "If you request an extension of time to file your federal p
+ artnership tax return (with federal Form 7004) you can receive an additiona
+ l one month extension on your state return." | Source: https://www.dfa.arka
+ nsas.gov/wp-content/uploads/PartnershipTaxInstructions_2024_1.pdf | This da
+ te is computed from a recurrence rule and may not reflect a later-announced
+  change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-arkansas-2027-05-17-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:Arkansas: AR1050 extended due date
+DESCRIPTION:Extended due date\, via Automatic one-month extension when fede
+ ral Form 7004 is attached (a separate state-specific extension via Form AR1
+ 055-PE may allow a different period\, not independently confirmed this sess
+ ion).. | Arkansas partnership return due the 15th day of the 4th month afte
+ r year-end (or the first business day after\, if that date falls on a weeke
+ nd/holiday). The one-month federal-extension-based extension is unusually s
+ hort relative to most states' 5-6 month patterns - flagged for the Client's
+  attention. Automatic one-month extension when federal Form 7004 is attache
+ d (a separate state-specific extension via Form AR1055-PE may allow a diffe
+ rent period\, not independently confirmed this session). | Authority: Arkan
+ sas Department of Finance and Administration\, direct fetch this session: "
+ The due date is April 15th or first (1st) business day after for calendar y
+ ear filers" and "If you request an extension of time to file your federal p
+ artnership tax return (with federal Form 7004) you can receive an additiona
+ l one month extension on your state return." | Source: https://www.dfa.arka
+ nsas.gov/wp-content/uploads/PartnershipTaxInstructions_2024_1.pdf | This da
+ te is computed from a recurrence rule and may not reflect a later-announced
+  change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-arkansas-2028-05-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20280515
+DTEND;VALUE=DATE:20280516
+SUMMARY:Arkansas: AR1050 extended due date
+DESCRIPTION:Extended due date\, via Automatic one-month extension when fede
+ ral Form 7004 is attached (a separate state-specific extension via Form AR1
+ 055-PE may allow a different period\, not independently confirmed this sess
+ ion).. | Arkansas partnership return due the 15th day of the 4th month afte
+ r year-end (or the first business day after\, if that date falls on a weeke
+ nd/holiday). The one-month federal-extension-based extension is unusually s
+ hort relative to most states' 5-6 month patterns - flagged for the Client's
+  attention. Automatic one-month extension when federal Form 7004 is attache
+ d (a separate state-specific extension via Form AR1055-PE may allow a diffe
+ rent period\, not independently confirmed this session). | Authority: Arkan
+ sas Department of Finance and Administration\, direct fetch this session: "
+ The due date is April 15th or first (1st) business day after for calendar y
+ ear filers" and "If you request an extension of time to file your federal p
+ artnership tax return (with federal Form 7004) you can receive an additiona
+ l one month extension on your state return." | Source: https://www.dfa.arka
+ nsas.gov/wp-content/uploads/PartnershipTaxInstructions_2024_1.pdf | This da
+ te is computed from a recurrence rule and may not reflect a later-announced
+  change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-arkansas-2029-05-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20290515
+DTEND;VALUE=DATE:20290516
+SUMMARY:Arkansas: AR1050 extended due date
+DESCRIPTION:Extended due date\, via Automatic one-month extension when fede
+ ral Form 7004 is attached (a separate state-specific extension via Form AR1
+ 055-PE may allow a different period\, not independently confirmed this sess
+ ion).. | Arkansas partnership return due the 15th day of the 4th month afte
+ r year-end (or the first business day after\, if that date falls on a weeke
+ nd/holiday). The one-month federal-extension-based extension is unusually s
+ hort relative to most states' 5-6 month patterns - flagged for the Client's
+  attention. Automatic one-month extension when federal Form 7004 is attache
+ d (a separate state-specific extension via Form AR1055-PE may allow a diffe
+ rent period\, not independently confirmed this session). | Authority: Arkan
+ sas Department of Finance and Administration\, direct fetch this session: "
+ The due date is April 15th or first (1st) business day after for calendar y
+ ear filers" and "If you request an extension of time to file your federal p
+ artnership tax return (with federal Form 7004) you can receive an additiona
+ l one month extension on your state return." | Source: https://www.dfa.arka
+ nsas.gov/wp-content/uploads/PartnershipTaxInstructions_2024_1.pdf | This da
+ te is computed from a recurrence rule and may not reflect a later-announced
+  change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-arkansas-2030-05-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20300515
+DTEND;VALUE=DATE:20300516
+SUMMARY:Arkansas: AR1050 extended due date
+DESCRIPTION:Extended due date\, via Automatic one-month extension when fede
+ ral Form 7004 is attached (a separate state-specific extension via Form AR1
+ 055-PE may allow a different period\, not independently confirmed this sess
+ ion).. | Arkansas partnership return due the 15th day of the 4th month afte
+ r year-end (or the first business day after\, if that date falls on a weeke
+ nd/holiday). The one-month federal-extension-based extension is unusually s
+ hort relative to most states' 5-6 month patterns - flagged for the Client's
+  attention. Automatic one-month extension when federal Form 7004 is attache
+ d (a separate state-specific extension via Form AR1055-PE may allow a diffe
+ rent period\, not independently confirmed this session). | Authority: Arkan
+ sas Department of Finance and Administration\, direct fetch this session: "
+ The due date is April 15th or first (1st) business day after for calendar y
+ ear filers" and "If you request an extension of time to file your federal p
+ artnership tax return (with federal Form 7004) you can receive an additiona
+ l one month extension on your state return." | Source: https://www.dfa.arka
+ nsas.gov/wp-content/uploads/PartnershipTaxInstructions_2024_1.pdf | This da
+ te is computed from a recurrence rule and may not reflect a later-announced
+  change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-arkansas-2031-05-15-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20310515
+DTEND;VALUE=DATE:20310516
+SUMMARY:Arkansas: AR1050 extended due date
+DESCRIPTION:Extended due date\, via Automatic one-month extension when fede
+ ral Form 7004 is attached (a separate state-specific extension via Form AR1
+ 055-PE may allow a different period\, not independently confirmed this sess
+ ion).. | Arkansas partnership return due the 15th day of the 4th month afte
+ r year-end (or the first business day after\, if that date falls on a weeke
+ nd/holiday). The one-month federal-extension-based extension is unusually s
+ hort relative to most states' 5-6 month patterns - flagged for the Client's
+  attention. Automatic one-month extension when federal Form 7004 is attache
+ d (a separate state-specific extension via Form AR1055-PE may allow a diffe
+ rent period\, not independently confirmed this session). | Authority: Arkan
+ sas Department of Finance and Administration\, direct fetch this session: "
+ The due date is April 15th or first (1st) business day after for calendar y
+ ear filers" and "If you request an extension of time to file your federal p
+ artnership tax return (with federal Form 7004) you can receive an additiona
+ l one month extension on your state return." | Source: https://www.dfa.arka
+ nsas.gov/wp-content/uploads/PartnershipTaxInstructions_2024_1.pdf | This da
+ te is computed from a recurrence rule and may not reflect a later-announced
+  change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:state-pte-arkansas-2032-05-17-ext@ustaxcalendar.com
+DTSTAMP:20260924T122623Z
+DTSTART;VALUE=DATE:20320517
+DTEND;VALUE=DATE:20320518
+SUMMARY:Arkansas: AR1050 extended due date
+DESCRIPTION:Extended due date\, via Automatic one-month extension when fede
+ ral Form 7004 is attached (a separate state-specific extension via Form AR1
+ 055-PE may allow a different period\, not independently confirmed this sess
+ ion).. | Arkansas partnership return due the 15th day of the 4th month afte
+ r year-end (or the first business day after\, if that date falls on a weeke
+ nd/holiday). The one-month federal-extension-based extension is unusually s
+ hort relative to most states' 5-6 month patterns - flagged for the Client's
+  attention. Automatic one-month extension when federal Form 7004 is attache
+ d (a separate state-specific extension via Form AR1055-PE may allow a diffe
+ rent period\, not independently confirmed this session). | Authority: Arkan
+ sas Department of Finance and Administration\, direct fetch this session: "
+ The due date is April 15th or first (1st) business day after for calendar y
+ ear filers" and "If you request an extension of time to file your federal p
+ artnership tax return (with federal Form 7004) you can receive an additiona
+ l one month extension on your state return." | Source: https://www.dfa.arka
+ nsas.gov/wp-content/uploads/PartnershipTaxInstructions_2024_1.pdf | This da
+ te is computed from a recurrence rule and may not reflect a later-announced
+  change\; confirm against the cited source before relying on it.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:state-sui-arkansas-q1-2025-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250430
 DTEND;VALUE=DATE:20250501
 SUMMARY:Arkansas: State unemployment insurance quarterly return due
@@ -1034,7 +1514,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-arkansas-q1-2026-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260501
 SUMMARY:Arkansas: State unemployment insurance quarterly return due
@@ -1050,7 +1530,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-arkansas-q1-2027-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270501
 SUMMARY:Arkansas: State unemployment insurance quarterly return due
@@ -1066,7 +1546,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-arkansas-q1-2028-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280430
 DTEND;VALUE=DATE:20280501
 SUMMARY:Arkansas: State unemployment insurance quarterly return due
@@ -1082,7 +1562,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-arkansas-q1-2029-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290430
 DTEND;VALUE=DATE:20290501
 SUMMARY:Arkansas: State unemployment insurance quarterly return due
@@ -1098,7 +1578,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-arkansas-q1-2030-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300430
 DTEND;VALUE=DATE:20300501
 SUMMARY:Arkansas: State unemployment insurance quarterly return due
@@ -1114,7 +1594,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-arkansas-q1-2031-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310430
 DTEND;VALUE=DATE:20310501
 SUMMARY:Arkansas: State unemployment insurance quarterly return due
@@ -1130,7 +1610,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-arkansas-q1-2032-04-30@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320430
 DTEND;VALUE=DATE:20320501
 SUMMARY:Arkansas: State unemployment insurance quarterly return due
@@ -1146,7 +1626,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-arkansas-q2-2025-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250731
 DTEND;VALUE=DATE:20250801
 SUMMARY:Arkansas: State unemployment insurance quarterly return due
@@ -1162,7 +1642,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-arkansas-q2-2026-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
 SUMMARY:Arkansas: State unemployment insurance quarterly return due
@@ -1178,7 +1658,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-arkansas-q2-2027-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270731
 DTEND;VALUE=DATE:20270801
 SUMMARY:Arkansas: State unemployment insurance quarterly return due
@@ -1194,7 +1674,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-arkansas-q2-2028-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280731
 DTEND;VALUE=DATE:20280801
 SUMMARY:Arkansas: State unemployment insurance quarterly return due
@@ -1210,7 +1690,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-arkansas-q2-2029-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290731
 DTEND;VALUE=DATE:20290801
 SUMMARY:Arkansas: State unemployment insurance quarterly return due
@@ -1226,7 +1706,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-arkansas-q2-2030-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300731
 DTEND;VALUE=DATE:20300801
 SUMMARY:Arkansas: State unemployment insurance quarterly return due
@@ -1242,7 +1722,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-arkansas-q2-2031-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310731
 DTEND;VALUE=DATE:20310801
 SUMMARY:Arkansas: State unemployment insurance quarterly return due
@@ -1258,7 +1738,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-arkansas-q2-2032-07-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320731
 DTEND;VALUE=DATE:20320801
 SUMMARY:Arkansas: State unemployment insurance quarterly return due
@@ -1274,7 +1754,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-arkansas-q3-2025-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20251031
 DTEND;VALUE=DATE:20251101
 SUMMARY:Arkansas: State unemployment insurance quarterly return due
@@ -1290,7 +1770,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-arkansas-q3-2026-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Arkansas: State unemployment insurance quarterly return due
@@ -1306,7 +1786,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-arkansas-q3-2027-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20271031
 DTEND;VALUE=DATE:20271101
 SUMMARY:Arkansas: State unemployment insurance quarterly return due
@@ -1322,7 +1802,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-arkansas-q3-2028-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20281031
 DTEND;VALUE=DATE:20281101
 SUMMARY:Arkansas: State unemployment insurance quarterly return due
@@ -1338,7 +1818,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-arkansas-q3-2029-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20291031
 DTEND;VALUE=DATE:20291101
 SUMMARY:Arkansas: State unemployment insurance quarterly return due
@@ -1354,7 +1834,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-arkansas-q3-2030-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20301031
 DTEND;VALUE=DATE:20301101
 SUMMARY:Arkansas: State unemployment insurance quarterly return due
@@ -1370,7 +1850,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-arkansas-q3-2031-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20311031
 DTEND;VALUE=DATE:20311101
 SUMMARY:Arkansas: State unemployment insurance quarterly return due
@@ -1386,7 +1866,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-arkansas-q3-2032-10-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20321031
 DTEND;VALUE=DATE:20321101
 SUMMARY:Arkansas: State unemployment insurance quarterly return due
@@ -1402,7 +1882,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-arkansas-q4-2025-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250131
 DTEND;VALUE=DATE:20250201
 SUMMARY:Arkansas: State unemployment insurance quarterly return due
@@ -1418,7 +1898,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-arkansas-q4-2026-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260131
 DTEND;VALUE=DATE:20260201
 SUMMARY:Arkansas: State unemployment insurance quarterly return due
@@ -1434,7 +1914,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-arkansas-q4-2027-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:Arkansas: State unemployment insurance quarterly return due
@@ -1450,7 +1930,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-arkansas-q4-2028-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280131
 DTEND;VALUE=DATE:20280201
 SUMMARY:Arkansas: State unemployment insurance quarterly return due
@@ -1466,7 +1946,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-arkansas-q4-2029-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290131
 DTEND;VALUE=DATE:20290201
 SUMMARY:Arkansas: State unemployment insurance quarterly return due
@@ -1482,7 +1962,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-arkansas-q4-2030-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300131
 DTEND;VALUE=DATE:20300201
 SUMMARY:Arkansas: State unemployment insurance quarterly return due
@@ -1498,7 +1978,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-arkansas-q4-2031-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310131
 DTEND;VALUE=DATE:20310201
 SUMMARY:Arkansas: State unemployment insurance quarterly return due
@@ -1514,7 +1994,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sui-arkansas-q4-2032-01-31@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320131
 DTEND;VALUE=DATE:20320201
 SUMMARY:Arkansas: State unemployment insurance quarterly return due
@@ -1530,7 +2010,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-arkansas-q1-2025-04-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250421
 DTEND;VALUE=DATE:20250422
 SUMMARY:Arkansas: State sales & use tax return due
@@ -1548,7 +2028,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-arkansas-q1-2026-04-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260421
 SUMMARY:Arkansas: State sales & use tax return due
@@ -1566,7 +2046,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-arkansas-q1-2027-04-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270421
 SUMMARY:Arkansas: State sales & use tax return due
@@ -1584,7 +2064,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-arkansas-q1-2028-04-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280420
 DTEND;VALUE=DATE:20280421
 SUMMARY:Arkansas: State sales & use tax return due
@@ -1602,7 +2082,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-arkansas-q1-2029-04-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290420
 DTEND;VALUE=DATE:20290421
 SUMMARY:Arkansas: State sales & use tax return due
@@ -1620,7 +2100,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-arkansas-q1-2030-04-22@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300422
 DTEND;VALUE=DATE:20300423
 SUMMARY:Arkansas: State sales & use tax return due
@@ -1638,7 +2118,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-arkansas-q1-2031-04-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310421
 DTEND;VALUE=DATE:20310422
 SUMMARY:Arkansas: State sales & use tax return due
@@ -1656,7 +2136,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-arkansas-q1-2032-04-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320420
 DTEND;VALUE=DATE:20320421
 SUMMARY:Arkansas: State sales & use tax return due
@@ -1674,7 +2154,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-arkansas-q2-2025-07-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250721
 DTEND;VALUE=DATE:20250722
 SUMMARY:Arkansas: State sales & use tax return due
@@ -1692,7 +2172,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-arkansas-q2-2026-07-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260720
 DTEND;VALUE=DATE:20260721
 SUMMARY:Arkansas: State sales & use tax return due
@@ -1710,7 +2190,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-arkansas-q2-2027-07-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270720
 DTEND;VALUE=DATE:20270721
 SUMMARY:Arkansas: State sales & use tax return due
@@ -1728,7 +2208,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-arkansas-q2-2028-07-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280720
 DTEND;VALUE=DATE:20280721
 SUMMARY:Arkansas: State sales & use tax return due
@@ -1746,7 +2226,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-arkansas-q2-2029-07-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290720
 DTEND;VALUE=DATE:20290721
 SUMMARY:Arkansas: State sales & use tax return due
@@ -1764,7 +2244,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-arkansas-q2-2030-07-22@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300722
 DTEND;VALUE=DATE:20300723
 SUMMARY:Arkansas: State sales & use tax return due
@@ -1782,7 +2262,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-arkansas-q2-2031-07-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310721
 DTEND;VALUE=DATE:20310722
 SUMMARY:Arkansas: State sales & use tax return due
@@ -1800,7 +2280,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-arkansas-q2-2032-07-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320720
 DTEND;VALUE=DATE:20320721
 SUMMARY:Arkansas: State sales & use tax return due
@@ -1818,7 +2298,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-arkansas-q3-2025-10-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20251020
 DTEND;VALUE=DATE:20251021
 SUMMARY:Arkansas: State sales & use tax return due
@@ -1836,7 +2316,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-arkansas-q3-2026-10-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Arkansas: State sales & use tax return due
@@ -1854,7 +2334,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-arkansas-q3-2027-10-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20271020
 DTEND;VALUE=DATE:20271021
 SUMMARY:Arkansas: State sales & use tax return due
@@ -1872,7 +2352,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-arkansas-q3-2028-10-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20281020
 DTEND;VALUE=DATE:20281021
 SUMMARY:Arkansas: State sales & use tax return due
@@ -1890,7 +2370,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-arkansas-q3-2029-10-22@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20291022
 DTEND;VALUE=DATE:20291023
 SUMMARY:Arkansas: State sales & use tax return due
@@ -1908,7 +2388,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-arkansas-q3-2030-10-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20301021
 DTEND;VALUE=DATE:20301022
 SUMMARY:Arkansas: State sales & use tax return due
@@ -1926,7 +2406,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-arkansas-q3-2031-10-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20311020
 DTEND;VALUE=DATE:20311021
 SUMMARY:Arkansas: State sales & use tax return due
@@ -1944,7 +2424,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-arkansas-q3-2032-10-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20321020
 DTEND;VALUE=DATE:20321021
 SUMMARY:Arkansas: State sales & use tax return due
@@ -1962,7 +2442,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-arkansas-q4-2025-01-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20250121
 DTEND;VALUE=DATE:20250122
 SUMMARY:Arkansas: State sales & use tax return due
@@ -1980,7 +2460,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-arkansas-q4-2026-01-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20260120
 DTEND;VALUE=DATE:20260121
 SUMMARY:Arkansas: State sales & use tax return due
@@ -1998,7 +2478,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-arkansas-q4-2027-01-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
 SUMMARY:Arkansas: State sales & use tax return due
@@ -2016,7 +2496,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-arkansas-q4-2028-01-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20280120
 DTEND;VALUE=DATE:20280121
 SUMMARY:Arkansas: State sales & use tax return due
@@ -2034,7 +2514,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-arkansas-q4-2029-01-22@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20290122
 DTEND;VALUE=DATE:20290123
 SUMMARY:Arkansas: State sales & use tax return due
@@ -2052,7 +2532,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-arkansas-q4-2030-01-22@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20300122
 DTEND;VALUE=DATE:20300123
 SUMMARY:Arkansas: State sales & use tax return due
@@ -2070,7 +2550,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-arkansas-q4-2031-01-21@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20310121
 DTEND;VALUE=DATE:20310122
 SUMMARY:Arkansas: State sales & use tax return due
@@ -2088,7 +2568,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:state-sales-arkansas-q4-2032-01-20@ustaxcalendar.com
-DTSTAMP:20260924T115707Z
+DTSTAMP:20260924T122623Z
 DTSTART;VALUE=DATE:20320120
 DTEND;VALUE=DATE:20320121
 SUMMARY:Arkansas: State sales & use tax return due

@@ -19,6 +19,12 @@
       "day": 15,
       "month_offset": 3,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
     }
   },
   {
@@ -57,6 +63,12 @@
       "type": "annual_offset",
       "day": 15,
       "month_offset": 3,
+      "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 16,
       "shift": true
     }
   },
@@ -102,6 +114,12 @@
       "day": 15,
       "month_offset": 4,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
     }
   },
   {
@@ -123,6 +141,12 @@
       "type": "annual_offset",
       "day": 15,
       "month_offset": 3,
+      "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
       "shift": true
     }
   },
@@ -146,6 +170,12 @@
       "day": 15,
       "month_offset": 4,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
     }
   },
   {
@@ -167,6 +197,12 @@
       "type": "annual_offset",
       "day": 15,
       "month_offset": 3,
+      "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
       "shift": true
     }
   },
@@ -190,6 +226,12 @@
       "day": 15,
       "month_offset": 3,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 11,
+      "day": 14,
+      "shift": false
     }
   },
   {
@@ -211,6 +253,12 @@
       "type": "annual_offset",
       "day": 15,
       "month_offset": 3,
+      "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
       "shift": true
     }
   },
@@ -234,6 +282,12 @@
       "day": 15,
       "month_offset": 4,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 15,
+      "shift": true
     }
   },
   {
@@ -256,6 +310,12 @@
       "day": 15,
       "month_offset": 4,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 15,
+      "shift": true
     }
   },
   {
@@ -277,6 +337,12 @@
       "type": "annual_offset",
       "day": 15,
       "month_offset": 3,
+      "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
       "shift": true
     }
   },
@@ -322,6 +388,12 @@
       "day": 15,
       "month_offset": 3,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
     }
   },
   {
@@ -344,6 +416,12 @@
       "day": 15,
       "month_offset": 3,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
     }
   },
   {
@@ -364,6 +442,12 @@
     "recurrence": {
       "type": "fixed_date",
       "month": 4,
+      "day": 1,
+      "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 10,
       "day": 1,
       "shift": true
     }
@@ -520,6 +604,12 @@
       "day": 15,
       "month_offset": 4,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 15,
+      "shift": true
     }
   },
   {
@@ -541,6 +631,12 @@
       "type": "annual_offset",
       "day": 15,
       "month_offset": 3,
+      "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
       "shift": true
     }
   },
@@ -564,6 +660,12 @@
       "day": 15,
       "month_offset": 3,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
     }
   },
   {
@@ -586,6 +688,12 @@
       "day": "last",
       "month_offset": 4,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 31,
+      "shift": false
     }
   },
   {
@@ -607,6 +715,12 @@
       "type": "annual_offset",
       "day": 15,
       "month_offset": 4,
+      "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 15,
       "shift": true
     }
   },
@@ -630,6 +744,12 @@
       "day": 15,
       "month_offset": 4,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 15,
+      "shift": true
     }
   },
   {
@@ -651,6 +771,12 @@
       "type": "annual_offset",
       "day": 15,
       "month_offset": 4,
+      "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 5,
+      "day": 15,
       "shift": true
     }
   },
@@ -674,6 +800,12 @@
       "day": 15,
       "month_offset": 5,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 11,
+      "day": 15,
+      "shift": false
     }
   },
   {
@@ -694,6 +826,12 @@
     "recurrence": {
       "type": "fixed_date",
       "month": 4,
+      "day": 14,
+      "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 10,
       "day": 14,
       "shift": true
     }
@@ -796,6 +934,12 @@
       "day": 15,
       "month_offset": 4,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
     }
   },
   {
@@ -817,6 +961,12 @@
       "type": "annual_offset",
       "day": 15,
       "month_offset": 4,
+      "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 15,
       "shift": true
     }
   },
@@ -862,6 +1012,12 @@
       "day": 15,
       "month_offset": 3,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
+      "shift": true
     }
   },
   {
@@ -883,6 +1039,12 @@
       "type": "annual_offset",
       "day": 15,
       "month_offset": 4,
+      "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
       "shift": true
     }
   },
@@ -906,6 +1068,12 @@
       "day": 15,
       "month_offset": 4,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 15,
+      "shift": true
     }
   },
   {
@@ -927,6 +1095,12 @@
       "type": "annual_offset",
       "day": 15,
       "month_offset": 3,
+      "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
       "shift": true
     }
   },
@@ -984,6 +1158,12 @@
       "day": 15,
       "month_offset": 3,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 15,
+      "shift": true
     }
   },
   {
@@ -1005,6 +1185,12 @@
       "type": "annual_offset",
       "day": 15,
       "month_offset": 3,
+      "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 9,
+      "day": 15,
       "shift": true
     }
   },
@@ -1045,6 +1231,12 @@
       "month": 4,
       "day": 15,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 15,
+      "shift": true
     }
   },
   {
@@ -1067,6 +1259,12 @@
       "day": 20,
       "month_offset": 4,
       "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 10,
+      "day": 20,
+      "shift": true
     }
   },
   {
@@ -1087,6 +1285,12 @@
     "recurrence": {
       "type": "fixed_date",
       "month": 4,
+      "day": 15,
+      "shift": true
+    },
+    "extended_recurrence": {
+      "type": "fixed_date",
+      "month": 10,
       "day": 15,
       "shift": true
     }
